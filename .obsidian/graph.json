@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "-path:Templates",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#concept",
+      "color": {
+        "a": 1,
+        "rgb": 14241648
+      }
+    },
+    {
+      "query": "path:\"Sources\"",
+      "color": {
+        "a": 1,
+        "rgb": 9080728
+      }
+    },
+    {
+      "query": "path:\"Exercise Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 15234107
+      }
+    },
+    {
+      "query": "path:\"Nutrition & Health\"",
+      "color": {
+        "a": 1,
+        "rgb": 3908956
+      }
+    },
+    {
+      "query": "path:\"Abortion & Reproduction\"",
+      "color": {
+        "a": 1,
+        "rgb": 9333720
+      }
+    },
+    {
+      "query": "path:\"Ethics & Society\"",
+      "color": {
+        "a": 1,
+        "rgb": 3903208
+      }
+    },
+    {
+      "query": "tag:#moc",
+      "color": {
+        "a": 1,
+        "rgb": 15254331
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.25883865621815627,
+  "close": true
+}
