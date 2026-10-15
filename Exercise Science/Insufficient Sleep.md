@@ -93,7 +93,6 @@ Observations of greater muscle damage in slow twitch fibers than fast twitch as 
 ## Practical considerations
 
 Training frequency is especially important when sleep is restricted. A faster rate of atrophy between workouts from reduced MPS and increased MPB means that it's very important to train muscles every 48 hours or 3 times a week.to make sure we still have net hypertrophy over the week.
-→ [[Training frequency and hypertrophy]]
 
 Lower workout volumes are also likely necessary because the reduced MPS and additional damage created by oxidative stress means it will take longer to recover from a given workout volume. So, I would opt for single sets 3 times per week.
 
@@ -108,4 +107,3 @@ Since motor unit recruitment is impaired at maximum efforts, it will be helpful 
 - [[Supraspinal CNS fatigue]] — sleep loss lowers recruitment by increasing supraspinal CNS fatigue
 - [[Increasing motor unit recruitment]] — less recruitment from poor sleep leaves the highest-threshold fibers unstimulated, so they atrophy
 - [[Glucocorticoids]] — glucocorticoids are the main route from sleep loss to atrophy and damage
-- [[Training frequency and hypertrophy]] — faster atrophy between workouts makes frequency more important (note the frequency evidence itself is thin)

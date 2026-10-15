@@ -57,10 +57,3 @@ An example of a nutritional deficiency that can have a major effect on IQ is iod
 > - Environmental variables like SES may themselves be partly genetic, so adjusting for them could over-correct.
 > - Adoption and Eyferth-style studies have small, selected samples (the note already flags this).
 > - Polygenic scores are built mostly on European samples and transfer poorly, which limits conclusions either way.
-
-## Connections
-**Builds on**
-- [[Evolution]] — the selection tests for IQ differences
-
-**Feeds into**
-- [[Vegan diets]] — iodine deficiency costs 10–15 IQ points, so vegans need iodized salt

@@ -12,7 +12,3 @@ This study has been cited to claim that reducing fiber intake improved symptoms 
 We also see fiber consistently reduce bowel transit time and improve symptoms of constipation.
 [de Vries 2016](https://pubmed.ncbi.nlm.nih.gov/26950143/)
 [van der Schoot 2022](https://pubmed.ncbi.nlm.nih.gov/35816465/)
-
-## Connections
-**Feeds into**
-- [[Satiation]] — fiber's role in fullness

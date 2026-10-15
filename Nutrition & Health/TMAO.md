@@ -15,7 +15,3 @@ The strongest research we have on the relationship between TMAO and heart diseas
 > [!question] Objections to prepare for
 > - Fish's other benefits (like omega-3s) could offset harm from TMAO, so fish doesn't clear TMAO.
 > - Mendelian randomization depends on assumptions (no pleiotropy, strong instruments) that can fail.
-
-## Connections
-**Feeds into**
-- [[Evolution]] — if red meat raises risk, it isn't through TMAO

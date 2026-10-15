@@ -24,7 +24,6 @@ having sex more often during the peri-implantation period was associated with ha
 Fertilization is a multi-hour process, so conception is not a "moment". We have sperm entry, pronuclear migration, and the actual fusion of the two pronuclei happen over many hours. PLK-1 is needed for that pronuclear fusion part, which shows there are discrete molecular gates before a single unified genome even exists.
 [Ma 2020](https://rupress.org/jcb/article/219/2/e202001048/133643/Membrane-fusion-drives-pronuclear-meeting-in-the)  
 [NCBI Gene: PLK1](https://www.ncbi.nlm.nih.gov/gene/5347)
-→ [[Definitions of Life]]
 
 ## Hydatidiform moles
 
@@ -40,7 +39,6 @@ Pregnancy itself can carry a large maternal risk. Gestational diabetes 2-9%, pre
 [Haram 2009](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2654858) (HELLP)  
 [Downes 2017](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5683164/) (abruption)  
 [Borders 2006](https://onlinelibrary.wiley.com/doi/abs/10.1016/j.jmwh.2005.10.014) (long-term problems)
-→ [[Pregnancy complications]]
 
 Multiple-gestation pregnancies increase maternal risk, with a dose-response from twins to triplets and quadruplets.
 [Luke 2008](https://pubmed.ncbi.nlm.nih.gov/18177828/)  
@@ -54,7 +52,3 @@ Multiple-gestation pregnancies increase maternal risk, with a dose-response from
 ## Connections
 **Builds on**
 - [[Menstrual cycle]] — the implantation window is the setting for the peri-implantation sex question
-- [[Emergency contraception]] — emergency contraception isn't an abortifacient
-- [[Definitions of Life]] — definitions of life are contested, and fertilization is a process, not a moment
-- [[Pregnancy complications]] — pregnancy and delivery carry real risks
-- [[Abortion Ethics]] — Thomson's argument stands even if life begins at conception

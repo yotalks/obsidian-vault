@@ -18,8 +18,3 @@ Trifonov clarifies that “self-reproduction with variations” requires changes
 
 Bich and Green argue that definitions of life can be useful without providing a universal boundary between living and nonliving things. “Operational definitions” identify features researchers can build, manipulate, or test, helping guide experiments and interpret results. Their value depends on their usefulness for research, and they should remain open to revision as evidence changes.
 [Bich 2017](https://doi.org/10.1007/s11229-017-1397-9)
-
-## Connections
-**Feeds into**
-- [[Pro-Life]] — no sharp line for when life begins
-- [[Abortion Ethics]] — what counts as a living being for moral status

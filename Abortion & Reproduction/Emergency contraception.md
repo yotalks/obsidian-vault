@@ -23,6 +23,3 @@ In a study recruiting 700 women, ulipristal significantly reduced pregnancies co
 ## Connections
 **Builds on**
 - [[Menstrual cycle]] — emergency pills work by delaying the LH surge and ovulation
-
-**Feeds into**
-- [[Pro-Life]] — acts before fertilization, so it doesn't conflict with conception-based views

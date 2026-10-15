@@ -11,7 +11,6 @@ up: "[[Exercise Science MOC]]"
 
 Recent data has shown carbohydrate mouth rinsing increases the number of reps to failure in trained lifters. No carbohydrates were actually consumed so it must be attributed to a reduction in [[Glossary#CNS|CNS]] fatigue mechanisms.
 [Decimoni 2018](https://journals.sagepub.com/doi/10.1177/1747954118755640)
-→ [[ATP does not deplete during exercise]]
 
 We see this observed with heavy load performance too. It is likely that the brain detects glucose in the mouth and reduces effort perception cause of it.
 [Yang 2024](https://pubmed.ncbi.nlm.nih.gov/38674938/)
@@ -27,6 +26,5 @@ Discomforting feelings producing a reduction in motor unit recruitment at maxima
 
 ## Connections
 **Builds on**
-- [[ATP does not deplete during exercise]] — ATP doesn't run out, so the limit is the brain's response, not energy supply
 - [[Supraspinal CNS fatigue]] — the rinse works by easing supraspinal CNS fatigue
 - [[Psychobiological model of fatigue]] — the 'Why does this happen?' section rests on this model

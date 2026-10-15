@@ -41,7 +41,6 @@ Relative muscular endurance is a much more interesting outcome to look at than a
 ## Which fatigue mechanisms can we get resistance from?
 
 Changes in fatigue resistance must happen from adaptations that affect fatigue mechanisms. These include [[Supraspinal CNS fatigue|supraspinal CNS fatigue]], spinal [[Glossary#CNS|CNS]] fatigue, [[Calcium ion-related fatigue|calcium ion-related fatigue]], and metabolite related fatigue.
-→ [[ATP does not deplete during exercise]]
 
 When muscular endurance training with very light loads is done, this causes an increase in the total magnitude of peripheral fatigue happening at muscular failure in a repetition strength test. The capacity to tolerate peripheral fatigue is indicative of the degree to which the brain is capable of withstanding discomforting sensations (which cause supraspinal CNS fatigue). Thus, when peripheral fatigue at muscular fatigue is increased, this tells us that supraspinal CNS fatigue resistance has developed. Whether spinal CNS fatigue can be changed over time is not known.
 [Zghal 2015](https://pubmed.ncbi.nlm.nih.gov/25681110/)
@@ -65,7 +64,6 @@ Data has also shown that training above the lactate threshold such that muscle f
 
 ## Connections
 **Builds on**
-- [[ATP does not deplete during exercise]] — since ATP stays constant, resistance has to come from adapting the fatigue mechanisms themselves
 - [[Supraspinal CNS fatigue]] — one of the adaptable fatigue mechanisms
 - [[Calcium ion-related fatigue]] — one of the four adaptable mechanisms
 - [[Repeated bout effect]] — the RBE is how resistance to calcium ion-related fatigue develops

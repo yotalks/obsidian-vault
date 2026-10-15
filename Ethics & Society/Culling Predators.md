@@ -39,8 +39,3 @@ With Yellowstone, the claims of negative effects on trophic cascade and herbivor
 > - Removing predators could still cause prey overpopulation, starvation and more total suffering.
 > - Predators aren't moral agents, so they aren't wrongdoers the way serial killers are.
 > - Ecosystems are hard to predict; intervening could cause harms nobody foresaw.
-
-## Connections
-**Builds on**
-- [[Vegan diets]] — animal rights extend human rights, including not being hunted
-- [[Sentience and the cortex]] — animal sentience doesn't require a human-like brain

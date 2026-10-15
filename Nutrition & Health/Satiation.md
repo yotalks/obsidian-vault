@@ -26,7 +26,6 @@ Moisture rich foods where the liquid proportion is suspended in a complex matrix
 
 Fiber is great for gastric distention and delaying gastric emptying.
 [Akhlaghi 2024](https://pubmed.ncbi.nlm.nih.gov/36193993/)
-→ [[Fiber]]
 
 Adding oat β-glucan to an equal calorie, equal volume drink delayed proximal gastric emptying.
 [Yu 2014](https://pubmed.ncbi.nlm.nih.gov/24901089/)
@@ -61,11 +60,3 @@ Increased meal viscosity slowed eating and gastric emptying and improved hunger 
 
 Whole food plant based diet induced more weight loss than whole food, animal based diet. Plant based likely had greater appetites as they consumed about 70 percent more grams of food total. The energy density was likely just not enough in plant foods to overcome greater appetite. Animal based had about 75 percent of calories from fat which is very calorie dense and likely outpaced their lower appetites. Fat is generally more satiating and sating than carbs, but also are very calorie dense.
 [NIH news release 2021](https://www.nih.gov/news-events/news-releases/nih-study-compares-low-fat-plant-based-diet-low-carb-animal-based-diet)
-
-## Connections
-**Builds on**
-- [[Fiber]] — fiber increases stomach distention and slows emptying
-
-**Feeds into**
-- [[GLP 1s]] — slowed gastric emptying is part of how these drugs reduce appetite
-- [[Vegan diets]] — plant-based diets drive more weight loss through lower energy density

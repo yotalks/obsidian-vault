@@ -41,8 +41,3 @@ Interstitial pregnancies implant in the portion of the fallopian tube passing th
 
 In this observational study, 99 of 229 initially asymptomatic patients with suspected ectopic pregnancy experienced spontaneous resolution during monitoring, while 130 eventually required surgery. Higher or rising [[Glossary#hCG|hCG]] levels were associated with needing surgery. The authors emphasize that falling hCG does not eliminate rupture risk, so expectant management requires careful patient selection and close follow-up.
 [Rodrigues 2012](https://doi.org/10.1007/s10397-012-0736-6)
-
-## Connections
-**Feeds into**
-- [[Pro-Life]] — the concrete risks of pregnancy and delivery
-- [[Abortion Ethics]] — how big a burden 'bodily support' actually is

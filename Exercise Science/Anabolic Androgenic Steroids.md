@@ -60,4 +60,3 @@ Rupture risk elevation applies to prescription [[Glossary#TRT|TRT]] as well as r
 
 **Feeds into**
 - [[Creatine Supplementation]] — a true growth stimulus works without training; creatine doesn't
-- [[Age and adaptations]] — the force-magnitude principle for tendon stiffness also applies to older people

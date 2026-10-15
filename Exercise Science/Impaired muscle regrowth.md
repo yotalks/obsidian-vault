@@ -37,8 +37,3 @@ Importantly, while this inflammatory response is needed for repairing the muscle
 
 Overreaching and overtraining has often been observed to happen with increased levels of oxidative stress, which is a key part that increase the inflammatory response after training. So it is possible that athletes are at a greater risk of experiencing an increase in muscle collagen content (and therefore a worse strength to weight ratio) when they do very high volume or very high frequency training blocks that are intended to produce overreaching.
 [Cheng 2020](https://www.semanticscholar.org/paper/Intramuscular-mechanisms-of-overtraining-Cheng-Jude/6a4e92aae5380d16244d9332541b07c975706809)
-
-## Connections
-**Feeds into**
-- [[Repeated bout effect]] — the inflammation that repairs damage also causes post-workout CNS fatigue
-- [[Age and recovery]] — older muscle tends toward the same collagen build-up after injury

@@ -14,7 +14,6 @@ Boonin-Vail argues that knowingly risking pregnancy through consensual sex does 
 
 Beckwith criticizes Boonin’s defense of abortion, arguing that a right to life rests on what kind of being someone is, rather than whether they have developed consciousness or desires. He also challenges the distinction between causing existence and causing dependency: because fetuses are dependent by nature, he argues that creating one makes parents responsible for its needs. On his view, parental obligations can arise without consent to parenthood.
 [Beckwith 2006](https://doi.org/10.1080/03605310600588723)
-→ [[Fetal sentience]]
 
 Lang argues that consensual sex need not imply consent to pregnancy for responsibility to arise. Voluntarily causing a fetus to exist in a dependent state may create a special obligation to support it, even if conception did not make it worse off than nonexistence. He concludes that Thomson’s violinist analogy does not defeat this responsibility objection, so the fetus’s moral status remains relevant to whether abortion is permissible.
 [Lang (JSTOR)](https://www.jstor.org/stable/24354976)
@@ -26,13 +25,3 @@ In his dissertation, Liebegott argues that the responsibility objection is circu
 > - The violinist is a stranger, but a fetus is the woman's own child, and parents have special duties to their children.
 > - Abortion usually kills the fetus directly rather than just withdrawing support (killing vs. letting die).
 > - Consenting to sex is consenting to its foreseeable consequences, including pregnancy.
-
-## Connections
-**Builds on**
-- [[Definitions of Life]] — what counts as a living being for moral status
-- [[Fetal sentience]] — Beckwith grounds the right to life in kind of being, not sentience, so the sentience evidence matters for his opponents
-- [[Pregnancy complications]] — the burden Thomson's argument is about
-- [[Abortion Pragmatics]] — the practical side of the debate
-
-**Feeds into**
-- [[Pro-Life]] — the bodily-autonomy framework the rebuttals rely on

@@ -20,7 +20,6 @@ Post workout fatigue come from muscle damage, excitation-contraction coupling fa
 
 Post-workout CNS fatigue is caused by the inflammatory response to muscle damage. Therefore, this tells us either that the amount of muscle damage experienced by untrained and trained individuals is similar, or that the inflammatory response per unit of muscle damage that is experienced after a strength training workout is greater in trained individuals than in untrained individuals. This question can be answer because researchers have shown that the structural damage is greater in untrained individuals than in trained individuals after a strength training workout.
 [Gibala 1995](https://pubmed.ncbi.nlm.nih.gov/7759443/)
-→ [[Impaired muscle regrowth]]
 
 Aligned with this, rodent studies have shown that reductions in the amount of muscle damage after a workout are reduced in tandem with the repeated bout effect.
 [SCIRP rodent study](https://www.scirp.org/journal/paperinformation?paperid=106270)
@@ -82,7 +81,6 @@ Data has also shown that [[Glossary#ECCF|ECCF]] doesn't reduce very much over a 
 **Builds on**
 - [[Supraspinal CNS fatigue]] — rules supraspinal fatigue out as a contributor to the RBE
 - [[Calcium ion-related fatigue]] — the RBE is explained by less calcium ion accumulation
-- [[Impaired muscle regrowth]] — post-workout CNS fatigue comes from the same inflammatory response to damage
 - [[Sarcomerogenesis]] — sarcomerogenesis could reduce fiber stretch and calcium entry
 
 **Feeds into**

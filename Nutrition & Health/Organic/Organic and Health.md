@@ -77,8 +77,3 @@ Organic farming uses more copper sulfate per hectare than conventional.
 > - Combining cancer estimates from two cohorts with different designs and exposure definitions may not be valid.
 > - Lower pesticide residues on organic produce might still matter for some groups, even below safety limits.
 > - The E. coli and Fusarium findings may be dated or context-specific.
-
-## Connections
-**Builds on**
-- [[Evolution]] — the case against assuming natural or traditional food is healthier
-- [[Organic on the environment]] — the health half of the same case

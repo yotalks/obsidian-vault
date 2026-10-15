@@ -13,7 +13,6 @@ Detraining refers to the loss of adaptations after the cessation of a strength t
 
 After a standard strength training program (8-12 weeks), neural adaptations (coordination and increases in ability to recruit high threshold motor units), it takes 6-12 months or even longer to lose those adaptations.
 [[Kubo 2010]]
-→ [[Improvements in coordination traits]]
 
 We see that tendon stiffness adaptations are lost in 2 months
 [Shima 2002](https://pubmed.ncbi.nlm.nih.gov/11990741/)
@@ -49,7 +48,6 @@ Sarcomerogenesis requires even less weekly stimulus to maintain. Maintenance of 
 ## Connections
 **Builds on**
 - [[Detraining sarcomerogenesis]] — sarcomeres disappear fastest because they depend on regular stretch
-- [[Improvements in coordination traits]] — neural adaptations are the slowest to fade
 
 **Feeds into**
 - [[Age and adaptations]] — the 3-sets-a-week maintenance finding is used to argue older muscle isn't less sensitive

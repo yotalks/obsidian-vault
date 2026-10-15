@@ -62,10 +62,8 @@ The only cases of vitamin A toxicity in the literature involved the consumption 
 Vegans can supplement with calcium to reach the RDA without any issue.
 
 Creatine is not necessary (though can of course be supplemented like bodybuilders do).
-→ [[Creatine Supplementation]]
 
 Iodine can be achieved with iodized salt
-→ [[Black White IQ gap]]
 
 Vitamin D can be achieved with the sun or supplemented.
 
@@ -92,13 +90,3 @@ Without the standard mean difference, it would be clearly significant.
 > - Lower taurine, carnosine or EPA/DHA levels might matter even without a defined deficiency cutoff.
 > - Relying on supplements and fortified foods is a weakness where access or adherence is poor.
 > - High dropout may show the diet is hard to sustain, whatever the stated reasons.
-
-## Connections
-**Builds on**
-- [[Satiation]] — why whole-food plant-based diets lose more weight
-- [[Creatine Supplementation]] — creatine isn't needed in the diet; its main effects are rep strength and water
-- [[Black White IQ gap]] — iodine deficiency is serious, so iodized salt matters
-- [[Organic is not vegan]] — a vegan reason to avoid organic
-
-**Feeds into**
-- [[Culling Predators]] — the same animal-rights premise

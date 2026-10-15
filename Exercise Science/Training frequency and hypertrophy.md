@@ -35,8 +35,3 @@ Study on untrained elderly comparing 2 and 3 times frequency found no difference
 
 Study on trained adults comparing 2 and 3 times frequency found no differences.
 [Lasevicius 2019](https://pubmed.ncbi.nlm.nih.gov/31531139/)
-
-## Connections
-**Feeds into**
-- [[Age and recovery]] — frequency research underpins the advice to spread volume out for older lifters
-- [[Insufficient Sleep]] — frequency research informs training when sleep is short

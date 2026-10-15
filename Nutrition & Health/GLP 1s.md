@@ -248,7 +248,3 @@ A new pre-print on grey market peptides found that peptide samples in general te
 The extent to which the samples both came back as pure and had stated amounts was only modest.
 They found endotoxins aren't generally concnering.
 [Preprint 2026: grey-market peptides](https://web.archive.org/web/20260428233315/https://www.preprints.org/manuscript/202604.1748)
-
-## Connections
-**Builds on**
-- [[Satiation]] — the physiology of fullness the drugs act on

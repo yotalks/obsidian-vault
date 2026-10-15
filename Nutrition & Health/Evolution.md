@@ -44,7 +44,6 @@ We can therefore infer that ancestral foods are likely to have both a positive s
 So when you equalize the advantages of a novel and ancestral food, the inherent disadvantages of antagonistic pleiotropy would have us favoring the novel food over the ancestral food for long term health. So we can infer a priori that a diet that maximizes benefits and minimizes risks for the most amount of people will likely be a diet that has some level of unnatural novel foods. This is not to say every novel food is superior to every ancestral food nor saying all ancestral foods are bad, but it's a heuristic.
 
 Some may bring up that some ancestral foods like red meat seem to increase risk of many diseases, while others like fruit seem to decrease risk of many diseases. Both are antagonistically pleiotropic but it's likely that the pathways influenced by foods like fruit are less impactful than foods like meat.
-→ [[TMAO]]
 
 The healthfulness of foods at the end of the day is relative to other substitutions, replacing meat with fruit reduces risk, but that doesn't mean fruit has no long term harms or risks. If we truly want to maximize thriving potential of foods, we should make our own novel foods and artificially manipulating natural foods, and we have evidence this helps like for example Golden rice.
 
@@ -56,8 +55,3 @@ The healthfulness of foods at the end of the day is relative to other substituti
 ## Connections
 **Builds on**
 - [[Antagonistic pleiotropy]] — the mechanism the whole argument rests on
-- [[TMAO]] — red meat's risk can't be pinned on TMAO, which isn't causal
-
-**Feeds into**
-- [[Organic and Health]] — undercuts the 'natural is healthier' assumption behind buying organic
-- [[Black White IQ gap]] — how natural selection works

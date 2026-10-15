@@ -47,6 +47,3 @@ Even though the data doesn't find creatine increases maximum strength, it is sti
 - [[Muscle swelling]] — creatine's size increase is swelling, and swelling doesn't build muscle
 - [[Anabolic Androgenic Steroids]] — unlike steroids, creatine doesn't preserve muscle during immobilization, so it isn't a direct growth signal
 - [[Internal moment arm]] — the one way creatine might nudge max strength
-
-**Feeds into**
-- [[Vegan diets]] — creatine's effects are modest, so not getting it from food is no loss

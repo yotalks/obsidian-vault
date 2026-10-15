@@ -31,7 +31,6 @@ In animal models with maximal levels of muscle activation through means of elect
 
 The capacity of muscle fibers to transmit forces laterally is the key mechanism that prevents them from being overstretched and damaged during eccentric contractions. Older muscle lacks dystrophin, which is an essential component of the costameres that allows for lateral force transmission to happen. Because of this, it tends to have fibrosis in response to severe injury to the muscle fibers, which is increased collagen content.
 [Ramaswamy 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3060596/)
-→ [[Impaired muscle regrowth]]
 
 ## Old people cannot always train the exact same as young people
 
@@ -41,14 +40,9 @@ The ability to recover from each workout is a key factor for a successful streng
 When frequency is reduced for the same volume, the old subjects are able to recover and make progress with strength gains and hypertrophy. We also have other studies have the same positive effects with lowering frequency for same volume. So it's not necessarily to just adjust training frequency but to take into account both the volume and frequency.
 [Rader 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC9206483/)
 [Rader 2018](https://pubmed.ncbi.nlm.nih.gov/29438735/)
-→ [[Training frequency and hypertrophy]]
 
 In practice, older people should train with lower workout volumes (ideally single sets per exercise), training with heavier loads (4-6 rep range for example), leaving a couple reps in reserve, minimizing the intensity and duration of the eccentric phase, and picking exercises that are hardest in either the contracted or mid position (as long as muscle has good leverage there still).
 
 ## Connections
-**Builds on**
-- [[Impaired muscle regrowth]] — fibrosis after severe injury is the same collagen build-up
-- [[Training frequency and hypertrophy]] — lowering frequency at the same volume lets older lifters recover
-
 **Feeds into**
 - [[Age and adaptations]] — slower recovery is the main explanation for older people's slower growth

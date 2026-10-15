@@ -32,4 +32,3 @@ Shewmon and colleagues described four children aged 5–17 with total or near-to
 ## Connections
 **Feeds into**
 - [[Fetal sentience]] — whether a cortex is needed sets how early fetal sentience is possible
-- [[Culling Predators]] — evidence that fish and other animals may be sentient without a mammalian cortex

@@ -34,4 +34,3 @@ We see that the number of sarcomeres in a muscle fiber is rapidly lost in animal
 
 **Feeds into**
 - [[Detraining adaptations speed]] — explains why sarcomeres are the fastest adaptation to disappear
-- [[Age and adaptations]] — the stretch mechanism behind older people's slower fascicle growth

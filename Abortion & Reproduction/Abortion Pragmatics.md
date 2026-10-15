@@ -26,7 +26,3 @@ Levine and Staiger’s Eastern European analysis found that moderate restriction
 > - Restrictions may shift abortions across state lines or to self-managed abortion rather than preventing them.
 > - Most of these studies are observational; do they isolate a causal effect?
 > - Even if restrictions raise births, that doesn't settle whether they're justified.
-
-## Connections
-**Feeds into**
-- [[Abortion Ethics]] — whether restrictions work is separate from whether abortion is wrong

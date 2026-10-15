@@ -43,7 +43,6 @@ Data shows that eccentric contractions create higher level of effort for same am
 
 ## Connections
 **Feeds into**
-- [[Detraining adaptations speed]] — coordination gains are why neural adaptations last 6–12 months
 - [[Increasing motor unit recruitment]] — you need coordination before recruitment can rise
 - [[Increasing speed]] — speed gains from coordination require fast practice
 - [[Techniques to improve coordination]] — what the techniques are trying to improve

@@ -28,6 +28,3 @@ Birch and Browning argue for proportionate welfare precautions when credible neu
 ## Connections
 **Builds on**
 - [[Sentience and the cortex]] — if awareness doesn't need a mature cortex, earlier fetal pain can't be ruled out
-
-**Feeds into**
-- [[Abortion Ethics]] — sentience evidence matters for views that tie moral status to consciousness

@@ -55,6 +55,3 @@ Per acre is a bad metric to compare because organic farming is inherently ineffi
 ## Connections
 **Builds on**
 - [[Organic is not vegan]] — ignoring extra manure demand is one of the GHG accounting fallacies
-
-**Feeds into**
-- [[Organic and Health]] — the environmental half of the case against organic

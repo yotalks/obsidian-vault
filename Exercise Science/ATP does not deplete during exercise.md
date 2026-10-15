@@ -25,6 +25,3 @@ ATP levels not changing during exercise is able to happen because fatigue mechan
 ## Connections
 **Feeds into**
 - [[Creatine Supplementation]] — rules out the idea that creatine works by topping up ATP
-- [[Carbohydrate mouth rinsing]] — explains why a rinse with no carbs swallowed can still change performance
-- [[Fatigue resistance]] — means fatigue resistance must come from adapting fatigue mechanisms, not from storing more energy
-- [[Psychobiological model of fatigue]] — fits the idea that performance is limited by the brain rather than energy

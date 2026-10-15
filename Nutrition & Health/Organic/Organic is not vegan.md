@@ -56,5 +56,4 @@ Therefore, the daily difference in demand  shows that an organic diet compared o
 
 ## Connections
 **Feeds into**
-- [[Vegan diets]] — buying organic sends money to animal agriculture through manure
 - [[Organic on the environment]] — manure demand belongs in organic's emissions accounting
