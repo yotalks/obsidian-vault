@@ -100,3 +100,36 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### DNL
 **DNL** — De novo lipogenesis: the liver making new fat from carbohydrate.
+
+### LDL
+**LDL** — Low-density lipoprotein (LDL-C: the cholesterol it carries) — the lipoprotein that causes atherosclerosis.
+
+### HDL
+**HDL** — High-density lipoprotein (HDL-C: the cholesterol it carries).
+
+### CVD
+**CVD** — Cardiovascular disease.
+
+### CHD
+**CHD** — Coronary heart disease.
+
+### SFA
+**SFA** — Saturated fatty acids (saturated fat).
+
+### PUFA
+**PUFA** — Polyunsaturated fatty acids (omega-6 and omega-3 fats).
+
+### LA
+**LA** — Linoleic acid, the main omega-6 polyunsaturated fat.
+
+### HTN
+**HTN** — Hypertension (high blood pressure).
+
+### DM
+**DM** — Diabetes mellitus.
+
+### ESRD
+**ESRD** — End-stage renal disease (kidney failure).
+
+### DC
+**DC** — Dietary cholesterol.

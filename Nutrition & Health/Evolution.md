@@ -35,6 +35,7 @@ Human DNA tends to degrade over time when it doesn't need to, which biologically
 ## Implications for diet
 
 Perhaps adaptations to sodium and saturated fat consumption, like regulated changes in blood pressure or lipoprotein secretion from the liver, may help carry people to reproductive age without problem, but those adaptations may increase risk of poor long term health outcomes if exposed to too long. This is why natural or evolutionary diets are actually good for long term health in modern humans. These adaptations to diet are likely to be antagonistically pleiotropic.
+→ [[Saturated fat]]
 
 Without empirical data to inform our attitudes for relative health value of novel foods, the health value of those foods are unknown and due to principle of indifference, we have no reason to believe it's good or bad for us. But if evidence can be shown both an ancestral food exposure and a novel one have same reproductive thriving potential, then we can infer the novel food is to be favor. This is because novel foods aren't in domain of foods that have potential to be antagonistic pleiotropic as we did not evolve consuming them, so the novel food is to be favored over the ancestral one here.
 ![[Novel vs ancestral food health value.png]]
@@ -50,3 +51,4 @@ The healthfulness of foods at the end of the day is relative to other substituti
 ## Connections
 **Builds on**
 - [[Antagonistic pleiotropy]] — the mechanism the whole argument rests on
+- [[Saturated fat]] — the argument's example assumes saturated fat harms long-term health

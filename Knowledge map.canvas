@@ -268,7 +268,7 @@
    "x": 0,
    "y": 1360,
    "width": 840,
-   "height": 380
+   "height": 510
   },
   {
    "id": "Antagonistic pleiotropy",
@@ -281,11 +281,21 @@
    "color": "4"
   },
   {
+   "id": "Saturated fat",
+   "type": "file",
+   "file": "Nutrition & Health/Saturated fat.md",
+   "x": 60,
+   "y": 1550,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Organic is not vegan",
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 1550,
+   "y": 1680,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -301,11 +311,21 @@
    "color": "4"
   },
   {
+   "id": "Chocolate",
+   "type": "file",
+   "file": "Nutrition & Health/Chocolate.md",
+   "x": 480,
+   "y": 1550,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Organic on the environment",
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic on the environment.md",
    "x": 480,
-   "y": 1550,
+   "y": 1680,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -316,7 +336,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 1940,
+   "y": 2070,
    "width": 1260,
    "height": 510
   },
@@ -325,7 +345,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 2000,
+   "y": 2130,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -335,7 +355,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 2130,
+   "y": 2260,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -345,7 +365,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 2260,
+   "y": 2390,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -355,7 +375,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 2000,
+   "y": 2130,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -365,7 +385,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 2130,
+   "y": 2260,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -375,7 +395,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 2260,
+   "y": 2390,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -385,7 +405,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 2130,
+   "y": 2260,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -396,7 +416,7 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 2650,
+   "y": 2780,
    "width": 840,
    "height": 640
   },
@@ -405,7 +425,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 2905,
+   "y": 3035,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -415,7 +435,7 @@
    "type": "file",
    "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
-   "y": 2710,
+   "y": 2840,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -425,7 +445,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
-   "y": 2840,
+   "y": 2970,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -435,7 +455,7 @@
    "type": "file",
    "file": "Animal Ethics/Rewilding.md",
    "x": 480,
-   "y": 2970,
+   "y": 3100,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -445,7 +465,7 @@
    "type": "file",
    "file": "Animal Ethics/Vegan Bivalves.md",
    "x": 480,
-   "y": 3100,
+   "y": 3230,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -913,6 +933,24 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "when sentience begins"
+  },
+  {
+   "id": "e52",
+   "fromNode": "Saturated fat",
+   "fromSide": "right",
+   "toNode": "Chocolate",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the exception"
+  },
+  {
+   "id": "e53",
+   "fromNode": "Saturated fat",
+   "fromSide": "right",
+   "toNode": "Evolution",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "long-term harm"
   }
  ]
 }

@@ -18,6 +18,12 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Lipogenic Fructose]] — fructose, liver fat, and what actually drives NAFLD
 - [[Antagonistic pleiotropy]] → [[Evolution]] — why novel foods can beat ancestral ones long-term
 
+## Heart health
+- [[Saturated fat]] — replacing it with polyunsaturated fat cuts heart disease
+- [[Chocolate]] — the saturated fat that doesn't raise LDL
+- [[Dietary cholesterol]] — a dose response that flattens out, but still a risk
+- [[Sodium]] — a U-shaped curve; usual intakes are fine for healthy people
+
 ## Organic food
 - [[Organic and Health]]
 - [[Organic on the environment]]
