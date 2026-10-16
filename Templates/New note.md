@@ -12,9 +12,6 @@ up:
 > [!note] My take
 > 
 
-> [!question] Objections to prepare for
-> - 
-
 ## Connections
 **Builds on**
 - %% a note whose finding this one relies on, and how %%
