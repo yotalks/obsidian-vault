@@ -94,3 +94,9 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### SMD
 **SMD** — Standardized mean difference, an effect size used in meta-analysis.
+
+### NAFLD
+**NAFLD** — Non-alcoholic fatty liver disease: excess fat in the liver not caused by alcohol (now also called MASLD). See [[Lipogenic Fructose]].
+
+### DNL
+**DNL** — De novo lipogenesis: the liver making new fat from carbohydrate.

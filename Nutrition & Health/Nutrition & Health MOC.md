@@ -15,6 +15,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Diet & disease
 - [[TMAO]]
+- [[Lipogenic Fructose]] — fructose, liver fat, and what actually drives NAFLD
 - [[Antagonistic pleiotropy]] → [[Evolution]] — why novel foods can beat ancestral ones long-term
 
 ## Organic food
