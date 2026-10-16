@@ -133,3 +133,12 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### DC
 **DC** — Dietary cholesterol.
+
+### ApoB
+**ApoB** — Apolipoprotein B, one per atherogenic particle (LDL, VLDL, Lp(a)) — the best single lipid predictor of heart disease risk.
+
+### HbA1c
+**HbA1c** — Glycated hemoglobin, a measure of average blood sugar over roughly 3 months.
+
+### SCFA
+**SCFA** — Short-chain fatty acids (such as butyrate) made when gut bacteria ferment fiber.
