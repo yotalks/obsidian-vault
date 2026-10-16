@@ -79,12 +79,6 @@ If we found a civilization of humans who were sustaining themselves on human mea
 **"The trait that makes the difference is that animals are tasty, but humans aren't"**
 If it turned out that human meat was just as tasty as animal meat, would it be ok to farm, kill, and eat humans?
 
-> [!question] Objections to prepare for
-> - It isn't one trait but a cluster of them (intelligence, language, moral agency together); can a cluster do work no single trait can?
-> - Humans who lack a trait still belong to a kind whose normal members have it (Beckwith's 'kind of being' view in [[Abortion Ethics]]); does moral status come from your kind rather than your individual traits?
-> - Some people bite the bullet and accept the conclusion for the hypothetical human; is the argument persuasive against someone consistent but callous?
-> - Relational views ground duties in relationships and communities, not traits; does trait-equalization even engage them?
-
 ## Connections
 **Feeds into**
 - [[Culling Predators]] — the premise that animals share humans' right not to be hunted and killed
