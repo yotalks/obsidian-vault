@@ -55,5 +55,8 @@ Therefore, the daily difference in demand  shows that an organic diet compared o
 > - Synthetic nitrogen fertilizer has its own environmental costs.
 
 ## Connections
+**Builds on**
+- [[Animal Rights]] — the dollar figures only matter if funding animal exploitation is wrong
+
 **Feeds into**
 - [[Organic on the environment]] — manure demand belongs in organic's emissions accounting

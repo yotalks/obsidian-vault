@@ -10,7 +10,7 @@ up: "[[Ethics & Society MOC]]"
 
 > [!note] My take
 > I think humans have the right to not be exposed to situations where they're hunted and killed for food, and I think it's fine to use lethal force to save the lives of the hunted (serial killers for example), all else equal, I see animal rights as a logical extension of human rights, so I believe they have this right too.
-> → [[Vegan diets]]
+> → [[Animal Rights]]
 
 Say xenomorphs evolved to prey on humans in a natural predator-prey cycle by eating them alive, say you see the xenomorph and you know it will go on to kill more humans and you have the ability to kill it, I would be in favor of doing so.
 
@@ -39,3 +39,7 @@ With Yellowstone, the claims of negative effects on trophic cascade and herbivor
 > - Removing predators could still cause prey overpopulation, starvation and more total suffering.
 > - Predators aren't moral agents, so they aren't wrongdoers the way serial killers are.
 > - Ecosystems are hard to predict; intervening could cause harms nobody foresaw.
+
+## Connections
+**Builds on**
+- [[Animal Rights]] — the case for protecting prey starts from animal rights extending human rights
