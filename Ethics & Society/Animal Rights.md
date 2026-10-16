@@ -83,3 +83,4 @@ If it turned out that human meat was just as tasty as animal meat, would it be o
 **Feeds into**
 - [[Culling Predators]] — the premise that animals share humans' right not to be hunted and killed
 - [[Organic is not vegan]] — why sending money to animal agriculture is a cost at all
+- [[Animal Procreation as Rape]] — the same comparison with humans who lack a trait, applied to whether animal sex is rape

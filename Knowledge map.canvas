@@ -378,14 +378,14 @@
    "x": 0,
    "y": 2650,
    "width": 840,
-   "height": 250
+   "height": 380
   },
   {
    "id": "Animal Rights",
    "type": "file",
    "file": "Ethics & Society/Animal Rights.md",
    "x": 60,
-   "y": 2710,
+   "y": 2775,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -396,6 +396,16 @@
    "file": "Ethics & Society/Culling Predators.md",
    "x": 480,
    "y": 2710,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Animal Procreation as Rape",
+   "type": "file",
+   "file": "Ethics & Society/Animal Procreation as Rape.md",
+   "x": 480,
+   "y": 2840,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -818,6 +828,15 @@
    "toSide": "top",
    "toEnd": "arrow",
    "label": "why funding animal ag matters"
+  },
+  {
+   "id": "e47",
+   "fromNode": "Animal Rights",
+   "fromSide": "right",
+   "toNode": "Animal Procreation as Rape",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "humans who can't consent"
   }
  ]
 }
