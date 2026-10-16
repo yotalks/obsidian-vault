@@ -317,7 +317,7 @@
    "color": "6",
    "x": 0,
    "y": 1940,
-   "width": 840,
+   "width": 1260,
    "height": 510
   },
   {
@@ -325,7 +325,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 2065,
+   "y": 2000,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -335,7 +335,17 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 2195,
+   "y": 2130,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "Abortion Ethics",
+   "type": "file",
+   "file": "Abortion & Reproduction/Abortion Ethics.md",
+   "x": 60,
+   "y": 2260,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -371,44 +381,74 @@
    "color": "6"
   },
   {
-   "id": "g-Ethics & Society",
+   "id": "Abortion position",
+   "type": "file",
+   "file": "Abortion & Reproduction/Abortion position.md",
+   "x": 900,
+   "y": 2130,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "g-Animal Ethics",
    "type": "group",
-   "label": "Ethics & Society",
-   "color": "5",
+   "label": "Animal Ethics",
+   "color": "3",
    "x": 0,
    "y": 2650,
    "width": 840,
-   "height": 380
+   "height": 640
   },
   {
    "id": "Animal Rights",
    "type": "file",
-   "file": "Ethics & Society/Animal Rights.md",
+   "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 2775,
+   "y": 2905,
    "width": 300,
    "height": 90,
-   "color": "5"
+   "color": "3"
   },
   {
    "id": "Culling Predators",
    "type": "file",
-   "file": "Ethics & Society/Culling Predators.md",
+   "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
    "y": 2710,
    "width": 300,
    "height": 90,
-   "color": "5"
+   "color": "3"
   },
   {
    "id": "Animal Procreation as Rape",
    "type": "file",
-   "file": "Ethics & Society/Animal Procreation as Rape.md",
+   "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
    "y": 2840,
    "width": 300,
    "height": 90,
-   "color": "5"
+   "color": "3"
+  },
+  {
+   "id": "Rewilding",
+   "type": "file",
+   "file": "Animal Ethics/Rewilding.md",
+   "x": 480,
+   "y": 2970,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Vegan Bivalves",
+   "type": "file",
+   "file": "Animal Ethics/Vegan Bivalves.md",
+   "x": 480,
+   "y": 3100,
+   "width": 300,
+   "height": 90,
+   "color": "3"
   }
  ],
  "edges": [
@@ -837,6 +877,42 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "humans who can't consent"
+  },
+  {
+   "id": "e48",
+   "fromNode": "Animal Rights",
+   "fromSide": "right",
+   "toNode": "Rewilding",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "right not to be bred into the wild"
+  },
+  {
+   "id": "e49",
+   "fromNode": "Animal Rights",
+   "fromSide": "right",
+   "toNode": "Vegan Bivalves",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "no brain, no rights"
+  },
+  {
+   "id": "e50",
+   "fromNode": "Abortion Ethics",
+   "fromSide": "right",
+   "toNode": "Abortion position",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "violinist analogy"
+  },
+  {
+   "id": "e51",
+   "fromNode": "Fetal sentience",
+   "fromSide": "right",
+   "toNode": "Abortion position",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "when sentience begins"
   }
  ]
 }

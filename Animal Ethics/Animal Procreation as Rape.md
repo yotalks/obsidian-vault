@@ -1,7 +1,7 @@
 ---
 tags:
   - ethics/animals
-up: "[[Ethics & Society MOC]]"
+up: "[[Animal Ethics MOC]]"
 ---
 > [!summary] Bottom line
 > Whether animal sex is rape depends on a theory of rape. If informed consent is only required when at least one party is capable of it, sex between beings who can't consent but intend to breed needn't be rape. Some animals have sex voluntarily, so not all animal sex is rape, though there's no strict criterion for telling which is.

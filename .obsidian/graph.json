@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 15254331
       }
+    },
+    {
+      "query": "path:\"Animal Ethics\"",
+      "color": {
+        "a": 1,
+        "rgb": 14262843
+      }
+    },
+    {
+      "query": "path:\"Philosophy & Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 5223359
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25883865621815627,
+  "scale": 0.258838656218156,
   "close": true
 }

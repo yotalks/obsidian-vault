@@ -4,10 +4,10 @@ tags:
 aliases:
   - Name the trait
   - NTT
-up: "[[Ethics & Society MOC]]"
+up: "[[Animal Ethics MOC]]"
 ---
 > [!summary] Bottom line
-> Animals deserve rights like humans' (adjusted for their traits) unless someone can name a trait that justifies treating them differently. Every trait commonly offered (species, intelligence, language, soul, culture, law, taste) fails, because some humans lack it too, or it would license treating humans the same way.
+> Animals deserve rights like humans' (adjusted for their traits) unless someone can name a trait that justifies treating them differently. Every trait commonly offered (species, intelligence, language, soul, culture, law, taste) fails, because some humans lack it too, or it would license treating humans the same way. Other definitions of veganism — the Vegan Society's animal-kingdom rule, or banning all animal exploitation — lead to absurd results.
 
 ## The argument
 
@@ -79,8 +79,16 @@ If we found a civilization of humans who were sustaining themselves on human mea
 **"The trait that makes the difference is that animals are tasty, but humans aren't"**
 If it turned out that human meat was just as tasty as animal meat, would it be ok to farm, kill, and eat humans?
 
+## Other definitions of veganism
+
+The vegan society uses a definition for veganism that leads to insane positions, they say exploiting a being is wrong as long as that being belongs to the animal kingdom. Therefore, if a being, even if sentient, isn't in the animal kingdom, it would be vegan, this would include things like Santa's elves and Groot.
+
+Another common stance is that no animal exploitation is permissible. If one holds this view, many foods become non-vegan like apples as we exploit the natural behavior of bees to pollinate apple trees.
+
 ## Connections
 **Feeds into**
 - [[Culling Predators]] — the premise that animals share humans' right not to be hunted and killed
 - [[Organic is not vegan]] — why sending money to animal agriculture is a cost at all
 - [[Animal Procreation as Rape]] — the same comparison with humans who lack a trait, applied to whether animal sex is rape
+- [[Rewilding]] — the trait-adjusted extension of human rights applied to being bred into the wild
+- [[Vegan Bivalves]] — the same extension, run in reverse: humans without brains lack rights, so brainless animals do too

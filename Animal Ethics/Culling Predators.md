@@ -1,7 +1,7 @@
 ---
 tags:
   - ethics/animals
-up: "[[Ethics & Society MOC]]"
+up: "[[Animal Ethics MOC]]"
 ---
 > [!summary] Bottom line
 > If animals have a right not to be hunted, killing predators to protect prey can be justified, and claims that removing predators would collapse ecosystems (like the Yellowstone wolves story) are overstated.

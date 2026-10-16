@@ -20,3 +20,7 @@ Lang argues that consensual sex need not imply consent to pregnancy for responsi
 
 In his dissertation, Liebegott argues that the responsibility objection is circular: establishing responsibility for a fetus’s needs does not by itself establish that continuing pregnancy is the only permissible response. His argument treats eliminating a need as one way of meeting it, so rejecting abortion on this basis requires an independent argument that abortion is wrong. He also challenges arguments based on human nature, valuable futures, and giving fetuses the benefit of the doubt. Nuts guy
 [Liebegott dissertation](https://docs.lib.purdue.edu/dissertations/AAI3444693/)
+
+## Connections
+**Feeds into**
+- [[Abortion position]] — the violinist analogy, applied to pregnancies from rape

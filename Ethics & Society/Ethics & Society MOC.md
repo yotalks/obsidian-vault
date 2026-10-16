@@ -3,12 +3,15 @@ tags:
   - moc
 up: "[[Home]]"
 ---
-Other ethics and social science topics.
+Other ethics, social and political topics. Animal ethics has its own hub: [[Animal Ethics MOC]].
 
-## Animal ethics
-- [[Animal Rights]] — name the trait: why animal rights extend trait-adjusted human rights
-- [[Culling Predators]] — builds on it: protecting prey from predators
-- [[Animal Procreation as Rape]] — builds on it: whether animal sex can be rape
+## Ethics
+- [[Anti Natalism]] — anti-natalism's own logic implies pragmatic natalism
 
-## Race and IQ
+## Society
+- [[Trans Identity]] — defining man and woman by weighted gamete-associated traits
 - [[Black White IQ gap]]
+
+## Politics and law
+- [[Israeli Pagers]] — why the pagers weren't booby traps under IHL definitions
+- [[Luigi Mangione]] — a domestic terrorist under the FBI definition
