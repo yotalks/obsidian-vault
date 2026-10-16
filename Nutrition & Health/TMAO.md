@@ -11,7 +11,3 @@ Researchers fed participants dozens of different foods and measured how much TMA
 
 The strongest research we have on the relationship between TMAO and heart disease risk with the Mendelian randomization data, there is no causal link between TMAO in the blood and heart disease risk.
 [Jia 2019](https://diabetes.diabetesjournals.org/content/68/9/1747)
-
-> [!question] Objections to prepare for
-> - Fish's other benefits (like omega-3s) could offset harm from TMAO, so fish doesn't clear TMAO.
-> - Mendelian randomization depends on assumptions (no pleiotropy, strong instruments) that can fail.

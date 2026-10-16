@@ -21,8 +21,3 @@ Texas’s SB8 abortion restriction was associated with an estimated 9,799 additi
 
 Levine and Staiger’s Eastern European analysis found that moderate restrictions were associated with approximately 25% fewer abortions and 10% fewer pregnancies, with little change in births. Severe restrictions were associated with 9–17% higher birth rates, although this finding lost statistical significance when country-specific trends were included. Fewer abortions therefore did not always translate into more births.
 [Levine 2004](https://doi.org/10.1086/380475)
-
-> [!question] Objections to prepare for
-> - Restrictions may shift abortions across state lines or to self-managed abortion rather than preventing them.
-> - Most of these studies are observational; do they isolate a causal effect?
-> - Even if restrictions raise births, that doesn't settle whether they're justified.

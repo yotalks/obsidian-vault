@@ -85,8 +85,3 @@ Without the standard mean difference, it would be clearly significant.
 
 > [!note] My take
 > If good data came out that vegans would be better off with higher levels of taurine, then I would recommend supplementation.
-
-> [!question] Objections to prepare for
-> - Lower taurine, carnosine or EPA/DHA levels might matter even without a defined deficiency cutoff.
-> - Relying on supplements and fortified foods is a weakness where access or adherence is poor.
-> - High dropout may show the diet is hard to sustain, whatever the stated reasons.

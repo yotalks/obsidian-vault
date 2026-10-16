@@ -72,8 +72,3 @@ When you combine the data of the two largest studies done on the topic, you find
 
 Organic farming uses more copper sulfate per hectare than conventional.
 [Kuhne 2017](https://www.researchgate.net/publication/321974582_The_Use_of_Copper_Pesticides_in_Germany_and_the_Search_for_Minimization_and_Replacement_Strategies)
-
-> [!question] Objections to prepare for
-> - Combining cancer estimates from two cohorts with different designs and exposure definitions may not be valid.
-> - Lower pesticide residues on organic produce might still matter for some groups, even below safety limits.
-> - The E. coli and Fusarium findings may be dated or context-specific.

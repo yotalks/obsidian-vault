@@ -35,11 +35,6 @@ The idea that predators control herbivore populations  to a substantial degree i
 With Yellowstone, the claims of negative effects on trophic cascade and herbivores are highly exaggerated to the point the original authors had to denounce them. The fact that people are still citing Yellowstone wolves as evidence of the ecological importance of predators is wild, very little of it was true.
 [AccuWeather: Yellowstone wolves](https://www.accuweather.com/en/weather-news/scientists-debunk-myth-that-yellowstone-wolves-changed-entire-ecosystem-flow-of-rivers/349988)
 
-> [!question] Objections to prepare for
-> - Removing predators could still cause prey overpopulation, starvation and more total suffering.
-> - Predators aren't moral agents, so they aren't wrongdoers the way serial killers are.
-> - Ecosystems are hard to predict; intervening could cause harms nobody foresaw.
-
 ## Connections
 **Builds on**
 - [[Animal Rights]] — the case for protecting prey starts from animal rights extending human rights

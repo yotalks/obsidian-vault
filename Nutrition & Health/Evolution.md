@@ -47,11 +47,6 @@ Some may bring up that some ancestral foods like red meat seem to increase risk 
 
 The healthfulness of foods at the end of the day is relative to other substitutions, replacing meat with fruit reduces risk, but that doesn't mean fruit has no long term harms or risks. If we truly want to maximize thriving potential of foods, we should make our own novel foods and artificially manipulating natural foods, and we have evidence this helps like for example Golden rice.
 
-> [!question] Objections to prepare for
-> - Many novel foods (trans fats, some additives) turned out harmful; why favor novelty a priori?
-> - 'Ancestral diet' isn't one thing; ancestral diets varied widely.
-> - Antagonistic pleiotropy is about genes; is the step from genes to whole foods justified?
-
 ## Connections
 **Builds on**
 - [[Antagonistic pleiotropy]] — the mechanism the whole argument rests on

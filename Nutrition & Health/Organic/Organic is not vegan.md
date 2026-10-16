@@ -49,11 +49,6 @@ Therefore, the daily difference in demand  shows that an organic diet compared o
 
 [[Organic and Health]]
 
-> [!question] Objections to prepare for
-> - Organic farms can build fertility with green manure, compost or legumes instead of animal manure.
-> - Manure is a by-product; buying it may barely change how many animals are raised.
-> - Synthetic nitrogen fertilizer has its own environmental costs.
-
 ## Connections
 **Builds on**
 - [[Animal Rights]] — the dollar figures only matter if funding animal exploitation is wrong

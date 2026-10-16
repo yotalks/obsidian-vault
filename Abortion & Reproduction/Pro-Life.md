@@ -44,11 +44,6 @@ Multiple-gestation pregnancies increase maternal risk, with a dose-response from
 [Luke 2008](https://pubmed.ncbi.nlm.nih.gov/18177828/)  
 [Wen 2004](https://pubmed.ncbi.nlm.nih.gov/15295375/)
 
-> [!question] Objections to prepare for
-> - Conception being a process doesn't stop the embryo from being a human organism once it's complete.
-> - Embryo loss from peri-implantation sex is unintended, unlike abortion (double effect).
-> - Moles and failed fertilizations are exceptions that don't change the status of normal embryos.
-
 ## Connections
 **Builds on**
 - [[Menstrual cycle]] — the implantation window is the setting for the peri-implantation sex question
