@@ -4,7 +4,7 @@ tags:
 up: "[[Animal Ethics MOC]]"
 ---
 > [!summary] Bottom line
-> If animals have a right not to be hunted, killing predators to protect prey can be justified, and claims that removing predators would collapse ecosystems (like the Yellowstone wolves story) are overstated.
+> If animals have a right not to be hunted, killing predators to protect prey can be justified, and claims that removing predators would collapse ecosystems (like the Yellowstone wolves story) are overstated. And vegans who defend predation face a problem: by a standard definition of predation, animal agriculture counts too.
 
 ## The argument
 
@@ -15,6 +15,10 @@ up: "[[Animal Ethics MOC]]"
 Say xenomorphs evolved to prey on humans in a natural predator-prey cycle by eating them alive, say you see the xenomorph and you know it will go on to kill more humans and you have the ability to kill it, I would be in favor of doing so.
 
 To extend to reasons of self-defense, say it wasn't going to kill you specifically, but other humans that you don't know or care about necessarily.
+
+## If predation is fine, so is animal agriculture
+
+Some vegans suggest that killing odd order predators is wrong because predation is ok, however, if animal agriculture also counts as predation, it's entailed animal agriculture is permissible. Predation is if something involves an animal regularly capturing, killing, or subduing, and consuming, to the captor's benefit, another animal. Animal agriculture involves humans regularly consuming, to the captor's benefit, livestock, so it would be predation.
 
 ## Ecological objections
 
