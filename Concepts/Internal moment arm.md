@@ -11,3 +11,4 @@ The perpendicular distance from a muscle's line of pull to the joint's center of
 - [[Sticking points in powerlifting]] — long external and shrinking internal moment arms create sticking regions
 - [[Creatine Supplementation]] — a swollen muscle bulges further from the bone, lengthening its moment arm
 - [[Running Economy]] — hypertrophy lengthens moment arms, so running needs less activation
+- [[Squat patterns]] — explains why bar position and knee travel change which muscles do the work

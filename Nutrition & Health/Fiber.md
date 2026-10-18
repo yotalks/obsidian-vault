@@ -57,4 +57,4 @@ A meta-analysis of RCTs tried to quantify the effect of fiber on energy balance 
 
 ## Overall
 
-All in all, fiber may reduce inflammation, increase intestinal motility and stool frequency, reducing constipation, improve blood lipids, improve glycemic control, and aid in weight loss.
+All in all, fiber may reduce inflammation, increase intestinal motility and stool frequency, reducing constipation, improve blood lipids, improve glycemic control, and aid in weight loss and reduces risk of CVD and CHD.

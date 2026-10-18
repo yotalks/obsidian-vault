@@ -195,7 +195,7 @@
    "type": "file",
    "file": "Exercise Science/Fatigue resistance.md",
    "x": 1320,
-   "y": 255,
+   "y": 190,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -205,7 +205,7 @@
    "type": "file",
    "file": "Exercise Science/Detraining adaptations speed.md",
    "x": 1320,
-   "y": 385,
+   "y": 320,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -215,7 +215,17 @@
    "type": "file",
    "file": "Exercise Science/Insufficient Sleep.md",
    "x": 1320,
-   "y": 515,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Squat patterns",
+   "type": "file",
+   "file": "Exercise Science/Squat patterns.md",
+   "x": 1320,
+   "y": 580,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -225,7 +235,7 @@
    "type": "file",
    "file": "Exercise Science/Increasing speed.md",
    "x": 1320,
-   "y": 645,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -235,7 +245,7 @@
    "type": "file",
    "file": "Exercise Science/Sticking points in powerlifting.md",
    "x": 1320,
-   "y": 775,
+   "y": 840,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -951,6 +961,24 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "long-term harm"
+  },
+  {
+   "id": "e54",
+   "fromNode": "Internal moment arm",
+   "fromSide": "right",
+   "toNode": "Squat patterns",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "moment arms shift the work"
+  },
+  {
+   "id": "e55",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Squat patterns",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "stability frees recruitment"
   }
  ]
 }

@@ -35,4 +35,4 @@ Strength training physiology, laid out in the order the ideas build on each othe
 ## 6. Skill, speed and leverage
 - [[Improvements in coordination traits]] → [[Techniques to improve coordination]]
 - [[Increasing speed]] — coordination, recruitment and fiber speed together
-- [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]]
+- [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]], [[Squat patterns]]

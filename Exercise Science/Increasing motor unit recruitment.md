@@ -68,3 +68,4 @@ We can likely increase our ability to recruit motor units by maximizing the leve
 - [[Insufficient Sleep]] — lower recruitment means high-threshold fibers go untrained
 - [[Increasing speed]] — recruiting high-threshold units raises average fiber speed
 - [[Sticking points in powerlifting]] — joint angle-specific recruitment is a tool for sticking points
+- [[Squat patterns]] — why being stable matters: it lets you reach full recruitment of the target muscle
