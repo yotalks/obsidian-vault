@@ -278,14 +278,14 @@
    "x": 0,
    "y": 1360,
    "width": 840,
-   "height": 510
+   "height": 640
   },
   {
    "id": "Antagonistic pleiotropy",
    "type": "file",
    "file": "Concepts/Antagonistic pleiotropy.md",
    "x": 60,
-   "y": 1420,
+   "y": 1485,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -295,7 +295,7 @@
    "type": "file",
    "file": "Nutrition & Health/Saturated fat.md",
    "x": 60,
-   "y": 1550,
+   "y": 1615,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -305,7 +305,7 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 1680,
+   "y": 1745,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -331,11 +331,21 @@
    "color": "4"
   },
   {
+   "id": "Seed oils",
+   "type": "file",
+   "file": "Nutrition & Health/Seed oils.md",
+   "x": 480,
+   "y": 1680,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Organic on the environment",
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic on the environment.md",
    "x": 480,
-   "y": 1680,
+   "y": 1810,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -346,7 +356,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 2070,
+   "y": 2200,
    "width": 1260,
    "height": 510
   },
@@ -355,7 +365,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 2130,
+   "y": 2260,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -365,7 +375,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 2260,
+   "y": 2390,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -375,7 +385,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 2390,
+   "y": 2520,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -385,7 +395,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 2130,
+   "y": 2260,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -395,7 +405,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 2260,
+   "y": 2390,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -405,7 +415,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 2390,
+   "y": 2520,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -415,7 +425,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 2260,
+   "y": 2390,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -426,16 +436,26 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 2780,
+   "y": 2910,
    "width": 840,
-   "height": 640
+   "height": 770
   },
   {
    "id": "Animal Rights",
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 3035,
+   "y": 3165,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Colonizing nature",
+   "type": "file",
+   "file": "Animal Ethics/Colonizing nature.md",
+   "x": 60,
+   "y": 3295,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -445,7 +465,7 @@
    "type": "file",
    "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
-   "y": 2840,
+   "y": 2970,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -455,7 +475,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
-   "y": 2970,
+   "y": 3100,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -465,7 +485,7 @@
    "type": "file",
    "file": "Animal Ethics/Rewilding.md",
    "x": 480,
-   "y": 3100,
+   "y": 3230,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -475,7 +495,17 @@
    "type": "file",
    "file": "Animal Ethics/Vegan Bivalves.md",
    "x": 480,
-   "y": 3230,
+   "y": 3360,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Crop deaths",
+   "type": "file",
+   "file": "Animal Ethics/Crop deaths.md",
+   "x": 480,
+   "y": 3490,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -979,6 +1009,24 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "stability frees recruitment"
+  },
+  {
+   "id": "e56",
+   "fromNode": "Saturated fat",
+   "fromSide": "right",
+   "toNode": "Seed oils",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "contradicts the hypothesis"
+  },
+  {
+   "id": "e57",
+   "fromNode": "Colonizing nature",
+   "fromSide": "right",
+   "toNode": "Crop deaths",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "wild lives aren't worth preserving"
   }
  ]
 }

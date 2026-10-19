@@ -142,3 +142,6 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### SCFA
 **SCFA** — Short-chain fatty acids (such as butyrate) made when gut bacteria ferment fiber.
+
+### MUFA
+**MUFA** — Monounsaturated fatty acids, such as oleic acid in olive oil.

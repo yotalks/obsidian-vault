@@ -21,6 +21,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 ## Heart health
 - [[Saturated fat]] — replacing it with polyunsaturated fat cuts heart disease
 - [[Chocolate]] — the saturated fat that doesn't raise LDL
+- [[Seed oils]] — LDL oxidation is real but small; antioxidants and overall diet matter more
 - [[Dietary cholesterol]] — a dose response that flattens out, but still a risk
 - [[Sodium]] — a U-shaped curve; usual intakes are fine for healthy people
 

@@ -45,3 +45,4 @@ Meta analysis of prospective cohort studies found a significant association betw
 **Feeds into**
 - [[Chocolate]] — the rule chocolate is an exception to
 - [[Evolution]] — evidence that saturated fat harms long-term heart health, the example Evolution's argument relies on
+- [[Seed oils]] — the evidence the oxidation hypothesis would contradict: replacing saturated fat with PUFA lowers heart disease

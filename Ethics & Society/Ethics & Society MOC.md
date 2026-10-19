@@ -11,6 +11,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 ## Society
 - [[Trans Identity]] — defining man and woman by weighted gamete-associated traits
 - [[Black White IQ gap]]
+- [[Slurs]] — how slurs stop being harmful, and why 'retard' is different
 
 ## Politics and law
 - [[Israeli Pagers]] — why the pagers weren't booby traps under IHL definitions
