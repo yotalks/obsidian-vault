@@ -153,3 +153,15 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### oxPL
 **oxPL** — Oxidized phospholipids, often measured with the E06 antibody and reported per ApoB (oxPL/ApoB).
+
+### TFA
+**TFA** — Trans fatty acids (trans fat), mostly from partially hydrogenated oils.
+
+### AA
+**AA** — Arachidonic acid, an omega-6 fat the body makes from linoleic acid.
+
+### AMI
+**AMI** — Acute myocardial infarction (heart attack).
+
+### MR
+**MR** — Mendelian randomization: using gene variants that shift an exposure to estimate its causal effect.
