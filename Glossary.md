@@ -145,3 +145,9 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### MUFA
 **MUFA** — Monounsaturated fatty acids, such as oleic acid in olive oil.
+
+### oxLDL
+**oxLDL** — Oxidized LDL, measured in blood with antibody assays such as Mercodia 4E6.
+
+### oxPL
+**oxPL** — Oxidized phospholipids, often measured with the E06 antibody and reported per ApoB (oxPL/ApoB).
