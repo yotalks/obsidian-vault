@@ -277,15 +277,25 @@
    "color": "4",
    "x": 0,
    "y": 1360,
-   "width": 840,
-   "height": 640
+   "width": 1260,
+   "height": 900
   },
   {
    "id": "Antagonistic pleiotropy",
    "type": "file",
    "file": "Concepts/Antagonistic pleiotropy.md",
    "x": 60,
-   "y": 1485,
+   "y": 1550,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "LDL and heart disease",
+   "type": "file",
+   "file": "Concepts/LDL and heart disease.md",
+   "x": 60,
+   "y": 1680,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -295,7 +305,7 @@
    "type": "file",
    "file": "Nutrition & Health/Saturated fat.md",
    "x": 60,
-   "y": 1615,
+   "y": 1810,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -305,7 +315,7 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 1745,
+   "y": 1940,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -321,11 +331,31 @@
    "color": "4"
   },
   {
+   "id": "Dietary cholesterol",
+   "type": "file",
+   "file": "Nutrition & Health/Dietary cholesterol.md",
+   "x": 480,
+   "y": 1550,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Fiber",
+   "type": "file",
+   "file": "Nutrition & Health/Fiber.md",
+   "x": 480,
+   "y": 1680,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Chocolate",
    "type": "file",
    "file": "Nutrition & Health/Chocolate.md",
    "x": 480,
-   "y": 1550,
+   "y": 1810,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -335,7 +365,7 @@
    "type": "file",
    "file": "Nutrition & Health/Seed oils.md",
    "x": 480,
-   "y": 1680,
+   "y": 1940,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -345,7 +375,17 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic on the environment.md",
    "x": 480,
-   "y": 1810,
+   "y": 2070,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Satiation",
+   "type": "file",
+   "file": "Nutrition & Health/Satiation.md",
+   "x": 900,
+   "y": 1745,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -356,7 +396,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 2200,
+   "y": 2460,
    "width": 1260,
    "height": 510
   },
@@ -365,7 +405,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 2260,
+   "y": 2520,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -375,7 +415,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 2390,
+   "y": 2650,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -385,7 +425,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 2520,
+   "y": 2780,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -395,7 +435,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 2260,
+   "y": 2520,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -405,7 +445,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 2390,
+   "y": 2650,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -415,7 +455,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 2520,
+   "y": 2780,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -425,7 +465,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 2390,
+   "y": 2650,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -436,8 +476,8 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 2910,
-   "width": 840,
+   "y": 3170,
+   "width": 1260,
    "height": 770
   },
   {
@@ -445,27 +485,17 @@
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 3165,
+   "y": 3425,
    "width": 300,
    "height": 90,
    "color": "3"
   },
   {
-   "id": "Colonizing nature",
+   "id": "Wild animal suffering",
    "type": "file",
-   "file": "Animal Ethics/Colonizing nature.md",
+   "file": "Concepts/Wild animal suffering.md",
    "x": 60,
-   "y": 3295,
-   "width": 300,
-   "height": 90,
-   "color": "3"
-  },
-  {
-   "id": "Culling Predators",
-   "type": "file",
-   "file": "Animal Ethics/Culling Predators.md",
-   "x": 480,
-   "y": 2970,
+   "y": 3555,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -474,16 +504,6 @@
    "id": "Animal Procreation as Rape",
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
-   "x": 480,
-   "y": 3100,
-   "width": 300,
-   "height": 90,
-   "color": "3"
-  },
-  {
-   "id": "Rewilding",
-   "type": "file",
-   "file": "Animal Ethics/Rewilding.md",
    "x": 480,
    "y": 3230,
    "width": 300,
@@ -501,10 +521,40 @@
    "color": "3"
   },
   {
+   "id": "Culling Predators",
+   "type": "file",
+   "file": "Animal Ethics/Culling Predators.md",
+   "x": 480,
+   "y": 3490,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Rewilding",
+   "type": "file",
+   "file": "Animal Ethics/Rewilding.md",
+   "x": 480,
+   "y": 3620,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Colonizing nature",
+   "type": "file",
+   "file": "Animal Ethics/Colonizing nature.md",
+   "x": 480,
+   "y": 3750,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
    "id": "Crop deaths",
    "type": "file",
    "file": "Animal Ethics/Crop deaths.md",
-   "x": 480,
+   "x": 900,
    "y": 3490,
    "width": 300,
    "height": 90,
@@ -1027,6 +1077,78 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "wild lives aren't worth preserving"
+  },
+  {
+   "id": "e58",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Dietary cholesterol",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "LDL drives the risk"
+  },
+  {
+   "id": "e59",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Chocolate",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "LDL is the marker"
+  },
+  {
+   "id": "e60",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Fiber",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "ApoB/LDL drive risk"
+  },
+  {
+   "id": "e61",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Seed oils",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "LDL, not oxLDL, tracks risk"
+  },
+  {
+   "id": "e62",
+   "fromNode": "Fiber",
+   "fromSide": "right",
+   "toNode": "Satiation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "fiber slows emptying"
+  },
+  {
+   "id": "e63",
+   "fromNode": "Wild animal suffering",
+   "fromSide": "right",
+   "toNode": "Culling Predators",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "nature is a torture system"
+  },
+  {
+   "id": "e64",
+   "fromNode": "Wild animal suffering",
+   "fromSide": "right",
+   "toNode": "Rewilding",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the wild is brutal"
+  },
+  {
+   "id": "e65",
+   "fromNode": "Wild animal suffering",
+   "fromSide": "right",
+   "toNode": "Colonizing nature",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "why displace nature"
   }
  ]
 }

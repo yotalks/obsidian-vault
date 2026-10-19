@@ -9,6 +9,7 @@ Animal rights and what follows from them.
 - [[Animal Rights]] — name the trait: animal rights extend trait-adjusted human rights
 
 ## Wild animal suffering
+- [[Wild animal suffering]] — the premise these notes share
 - [[Culling Predators]] — killing predators to protect prey
 - [[Rewilding]] — animals' right not to be bred into the wild
 - [[Colonizing nature]] — non-violently displacing nature

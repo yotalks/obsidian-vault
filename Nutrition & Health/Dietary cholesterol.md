@@ -23,3 +23,8 @@ This graph as you can see, again, show no significant difference going from arou
 ## Why it still raises heart disease risk
 
 Since LDL causally associates with heart disease in a linear and proportional manner and all exposures that durably increase LDL over time produce likewise increases in heart disease risk and dietary cholesterol is one of those exposures, it seems that dietary cholesterol increases risk for heart disease.
+→ [[LDL and heart disease]]
+
+## Connections
+**Builds on**
+- [[LDL and heart disease]] — dietary cholesterol raises risk because it raises LDL, and LDL causes heart disease

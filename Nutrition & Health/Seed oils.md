@@ -97,6 +97,7 @@ This study has found oxidized LDL are less likely to be retained within the arte
 
 While we have seen seed oil consumption does appear to have an independent impact on LDL oxidation (though tiny in comparison to antioxidants), it's also true that oxLDL isn't a robust risk factor for [[Glossary#CHD|CHD]]. This study saw the association doesn't survive adjustment for traditional risk factors like [[Glossary#ApoB|ApoB]] or [[Glossary#HDL|HDL-C]]. This means after accounting for those, risk is more tracking those factors and not likely tracking oxLDL at all. This suggests the hypothetical detriment of increased LDL oxidation aren't significant enough to offset the LDL lowering benefits of a high PUFA diet.
 [Wu 2006](https://pubmed.ncbi.nlm.nih.gov/16949489/)
+→ [[LDL and heart disease]]
 
 ## Is the 4E6 oxLDL assay valid?
 
@@ -135,3 +136,4 @@ This regression analysis of the Scottish Heart Health Extended Cohort found a st
 ## Connections
 **Builds on**
 - [[Saturated fat]] — if oxidized linoleic acid drove heart disease, swapping saturated fat for PUFA should raise risk, but trials show it lowers it
+- [[LDL and heart disease]] — once ApoB is accounted for, oxidized LDL adds little, so seed oils' LDL-lowering wins out

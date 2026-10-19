@@ -5,7 +5,7 @@ tags:
 up: "[[Glossary]]"
 ---
 > [!summary] Bottom line
-> The addition of sarcomeres in series, which lengthens muscle fibers and fascicles. It is stimulated by passive mechanical tension when sarcomeres are stretched past a threshold (e.g., eccentric or long-length training), and it is lost quickly — within about two weeks — when that stimulus stops.
+> Sarcomerogenesis is the addition of sarcomeres in series, which lengthens muscle fibers. It's driven by passive tension from stretched sarcomeres (sarcomere length, not muscle length), can happen within days in animals, and also occurs in humans with eccentric training. It's separate from hypertrophy: it needs its own protein synthesis and satellite cells, can happen while fibers atrophy, and is lost within about two weeks once the stimulus stops.
 
 ## Animal models
 

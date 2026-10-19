@@ -4,7 +4,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> More fiber means lower heart disease risk, with benefits continuing past 60 g/day. Fiber improves constipation and stool frequency, lowers LDL-C and ApoB (more so for viscous fibers like oat β-glucan), improves blood sugar control, and may modestly aid weight loss; gut bacteria also turn it into short-chain fatty acids that may reduce inflammation. The study claiming zero fiber cures constipation used a narrow population and didn't measure intake.
+> More fiber means lower heart disease risk, with benefits continuing past 60 g/day. Fiber improves constipation and stool frequency, lowers LDL-C and ApoB (more so for viscous fibers like oat β-glucan), improves blood sugar control, and slows stomach emptying, which keeps you full, may modestly aid weight loss; gut bacteria also turn it into short-chain fatty acids that may reduce inflammation. The study claiming zero fiber cures constipation used a narrow population and didn't measure intake.
 
 ## Heart disease
 
@@ -36,6 +36,7 @@ The cholesterol lowering effects of fiber are also well-known. Increasing fiber 
 
 ApoB is the most powerful predictor for lipid mediated CVD risk.
 [Ference 2019](https://pubmed.ncbi.nlm.nih.gov/30694319/)
+→ [[LDL and heart disease]]
 
 It's also suggested that the degree that fiber improves blood lipid parameters is a function of its viscosity. Fiber types that produce higher viscosity gels in the gut tend to improve blood lipids more than fiber types that produce lower viscosity gels in the gut. There is one group of fiber subtypes unique to oats that have been studied a ton called β-glucans. RCTs looking at the relationship between that and blood lipids consistently show favorable effects.
 [Whitehead 2014](https://pubmed.ncbi.nlm.nih.gov/25411276/)
@@ -46,6 +47,17 @@ All in all, these help explain the benefits of fiber for CVD risk reduction.
 
 Fiber also seems to benefit glycemic regulation in both diabetic and non diabetic people. Both [[Glossary#HbA1c|HbA1C]] and fasting blood glucose was significantly lowered with increasing fiber intakes. There was significant heterogeneity between the included studies investigating the effects of fiber on those outcomes but it was discovered by authors it was due to differences in population age and follow-up time.
 [Silva 2013](https://pubmed.ncbi.nlm.nih.gov/24180564/)
+
+## Fullness and gastric emptying
+
+Fiber is great for gastric distention and delaying gastric emptying.
+[Akhlaghi 2024](https://pubmed.ncbi.nlm.nih.gov/36193993/)
+
+Adding oat β-glucan to an equal calorie, equal volume drink delayed proximal gastric emptying.
+[Yu 2014](https://pubmed.ncbi.nlm.nih.gov/24901089/)
+
+Removing fiber shortened total emptying time from approximately 232 minutes to 186 minutes and hunger returned sooner.
+[Benini 1995](https://pmc.ncbi.nlm.nih.gov/articles/PMC1382616/?page=3)
 
 ## Weight loss
 
@@ -58,3 +70,10 @@ A meta-analysis of RCTs tried to quantify the effect of fiber on energy balance 
 ## Overall
 
 All in all, fiber may reduce inflammation, increase intestinal motility and stool frequency, reducing constipation, improve blood lipids, improve glycemic control, and aid in weight loss and reduces risk of CVD and CHD.
+
+## Connections
+**Builds on**
+- [[LDL and heart disease]] — fiber's cholesterol effects matter because ApoB-carrying particles cause heart disease
+
+**Feeds into**
+- [[Satiation]] — fiber's effect on stomach emptying, which is part of why fibrous foods are filling

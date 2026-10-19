@@ -31,6 +31,7 @@ Even if it were, it's not clear why the same case can't be made towards humans.
 To extend to ecological concerns, say shooting the xenomorph would lead to humans overpopulating and there's ecological harm because of that, I mean humans are the species that cause the most environmental harm, maybe it'll lead to less resources and humans will suffer more, do we let the xenomorph eat the human alive or do we shoot it?
 
 Even if it couldn't, it wouldn't result in no predator killing, at best only predator killing up until some threshold such that there won't be a trophic collapse. Like let's not forget we are comparing to the perpetual torture system we see in nature.
+→ [[Wild animal suffering]]
 
 Killing predators would not entail the ecosystem being destroyed, despite many people asserting it, it's just a faith based belief. Sure, things like overpopulation can be an issue, but that doesn't mean mass destruction.
 
@@ -42,3 +43,4 @@ With Yellowstone, the claims of negative effects on trophic cascade and herbivor
 ## Connections
 **Builds on**
 - [[Animal Rights]] — the case for protecting prey starts from animal rights extending human rights
+- [[Wild animal suffering]] — killing predators is weighed against the suffering predation causes in nature

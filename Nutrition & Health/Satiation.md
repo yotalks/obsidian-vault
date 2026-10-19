@@ -24,14 +24,7 @@ At equal calories, fresh mango produced some better appetite responses vs. dried
 Moisture rich foods where the liquid proportion is suspended in a complex matrix, like the cellular structures and fiber networks are better for gastric distention and gastric emptying.
 [Aguilera 2019](https://pubmed.ncbi.nlm.nih.gov/30040431/)
 
-Fiber is great for gastric distention and delaying gastric emptying.
-[Akhlaghi 2024](https://pubmed.ncbi.nlm.nih.gov/36193993/)
-
-Adding oat β-glucan to an equal calorie, equal volume drink delayed proximal gastric emptying.
-[Yu 2014](https://pubmed.ncbi.nlm.nih.gov/24901089/)
-
-Removing fiber shortened total emptying time from approximately 232 minutes to 186 minutes and hunger returned sooner.
-[Benini 1995](https://pmc.ncbi.nlm.nih.gov/articles/PMC1382616/?page=3)
+Fiber's effect on stomach emptying and fullness: [[Fiber#Fullness and gastric emptying]]
 
 ## Protein
 
@@ -60,3 +53,7 @@ Increased meal viscosity slowed eating and gastric emptying and improved hunger 
 
 Whole food plant based diet induced more weight loss than whole food, animal based diet. Plant based likely had greater appetites as they consumed about 70 percent more grams of food total. The energy density was likely just not enough in plant foods to overcome greater appetite. Animal based had about 75 percent of calories from fat which is very calorie dense and likely outpaced their lower appetites. Fat is generally more satiating and sating than carbs, but also are very calorie dense.
 [NIH news release 2021](https://www.nih.gov/news-events/news-releases/nih-study-compares-low-fat-plant-based-diet-low-carb-animal-based-diet)
+
+## Connections
+**Builds on**
+- [[Fiber]] — fibrous foods are filling partly because fiber slows stomach emptying

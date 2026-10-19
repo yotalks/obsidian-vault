@@ -14,6 +14,8 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 - [[Glucocorticoids]]
 - [[Antagonistic pleiotropy]]
 - [[Internal moment arm]]
+- [[LDL and heart disease]]
+- [[Wild animal suffering]]
 
 ## Abbreviations
 

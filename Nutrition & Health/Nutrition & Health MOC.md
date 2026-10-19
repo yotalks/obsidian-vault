@@ -19,6 +19,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Antagonistic pleiotropy]] → [[Evolution]] — why novel foods can beat ancestral ones long-term
 
 ## Heart health
+- [[LDL and heart disease]] — the premise the heart-health notes rest on
 - [[Saturated fat]] — replacing it with polyunsaturated fat cuts heart disease
 - [[Chocolate]] — the saturated fat that doesn't raise LDL
 - [[Seed oils]] — LDL oxidation is real but small; antioxidants and overall diet matter more

@@ -10,6 +10,7 @@ up: "[[Nutrition & Health MOC]]"
 Chocolate, despite being higher in saturated fat, doesn't seem to increase [[Glossary#LDL|LDL]]. In fact, they seem to lower LDL in humans.
 [Tokede 2011](https://pubmed.ncbi.nlm.nih.gov/21559039/)
 → [[Saturated fat]]
+→ [[LDL and heart disease]]
 
 ## Cocoa solids
 
@@ -40,3 +41,4 @@ All in all, cocoa itself seems to lower LDL via polyphenols and fiber and not ra
 ## Connections
 **Builds on**
 - [[Saturated fat]] — saturated fat normally raises heart disease risk, which is what makes chocolate's neutral effect on LDL notable
+- [[LDL and heart disease]] — chocolate is judged by its effect on LDL because LDL is what drives heart disease
