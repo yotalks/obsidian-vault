@@ -22,7 +22,9 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[LDL and heart disease]] — the premise the heart-health notes rest on
 - [[Saturated fat]] — replacing it with polyunsaturated fat cuts heart disease
 - [[Chocolate]] — the saturated fat that doesn't raise LDL
-- [[Seed oils]] — LDL oxidation is real but small; antioxidants and overall diet matter more
+- [[Seed oils]] — LDL oxidation is real but small; no good evidence for cancer harm
+- [[Omega 6 3 ratio]] — no known optimal ratio; omega-3 supplements don't help primary prevention
+- [[Plant based diet CVD reversal]] — prevents progression and events, but doesn't reverse disease
 - [[Dietary cholesterol]] — a dose response that flattens out, but still a risk
 - [[Sodium]] — a U-shaped curve; usual intakes are fine for healthy people
 

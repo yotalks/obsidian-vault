@@ -165,3 +165,12 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### MR
 **MR** — Mendelian randomization: using gene variants that shift an exposure to estimate its causal effect.
+
+### BCC
+**BCC** — Basal cell carcinoma, the most common skin cancer.
+
+### SCC
+**SCC** — Squamous cell carcinoma of the skin.
+
+### EPA
+**EPA** — Eicosapentaenoic acid, an omega-3 fat found in fish and algae.
