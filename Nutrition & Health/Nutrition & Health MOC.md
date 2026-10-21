@@ -20,6 +20,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Heart health
 - [[LDL and heart disease]] — the premise the heart-health notes rest on
+- [[HDL]] — its protective link disappears in genetic studies; risk tracks ApoB
 - [[Saturated fat]] — replacing it with polyunsaturated fat cuts heart disease
 - [[Chocolate]] — the saturated fat that doesn't raise LDL
 - [[Seed oils]] — LDL oxidation is real but small; no good evidence for cancer harm

@@ -107,7 +107,7 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 **LDL** — Low-density lipoprotein (LDL-C: the cholesterol it carries) — the lipoprotein that causes atherosclerosis.
 
 ### HDL
-**HDL** — High-density lipoprotein (HDL-C: the cholesterol it carries).
+**HDL** — High-density lipoprotein (HDL-C: the cholesterol it carries). See [[HDL]].
 
 ### CVD
 **CVD** — Cardiovascular disease.
