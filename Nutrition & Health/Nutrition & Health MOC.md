@@ -29,6 +29,9 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Dietary cholesterol]] — a dose response that flattens out, but still a risk
 - [[Sodium]] — a U-shaped curve; usual intakes are fine for healthy people
 
+## Ultra-processed food
+- [[Ultra-processed food and additives]] — checking the MAHA report's claims on seed oils, dyes, BHT, parabens and sweeteners
+
 ## Organic food
 - [[Organic and Health]]
 - [[Organic on the environment]]

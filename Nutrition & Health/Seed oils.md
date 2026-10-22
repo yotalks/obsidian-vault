@@ -285,3 +285,6 @@ Seed oils don't seem to make you fat, and even if they did, it doesn't seem thei
 **Builds on**
 - [[Saturated fat]] — if oxidized linoleic acid drove heart disease, swapping saturated fat for PUFA should raise risk, but trials show it lowers it
 - [[LDL and heart disease]] — once ApoB is accounted for, oxidized LDL adds little, so seed oils' LDL-lowering wins out
+
+**Feeds into**
+- [[Ultra-processed food and additives]] — the answer to the report's claim that seed oils are harmful

@@ -20,6 +20,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Artifactual chronic disease trends]] — autism, ADHD and celiac rises that are mostly diagnostic; childhood cancer
 - [[Childhood chronic disease drivers]] — the report's four drivers; its medication claims checked
 - [[Corporate capture of health research]] — industry influence, including on red meat research
+- [[Ultra-processed food and additives]] — the report's food and additive claims (in Nutrition & Health)
 
 ## Politics and law
 - [[Israeli Pagers]] — why the pagers weren't booby traps under IHL definitions
