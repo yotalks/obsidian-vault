@@ -4,7 +4,7 @@ tags:
 up: "[[Ethics & Society MOC]]"
 ---
 > [!summary] Bottom line
-> The MAHA report argues that the food, chemical and pharmaceutical industries have captured health research and regulation through funding, lobbying and a revolving door. Industry influence is real, but it also points somewhere RFK Jr. is unlikely to welcome: in red meat trials, every study favorable to red meat was industry-linked, while every independent study found red meat neutral or harmful for heart health.
+> The MAHA report argues that the food, chemical and pharmaceutical industries have captured health research and regulation through funding, lobbying and a revolving door. Industry influence is real, but it also points somewhere RFK Jr. is unlikely to welcome: in red meat trials, every study favorable to red meat was industry-linked, while every independent study found red meat neutral or harmful for heart health. More broadly, industry-funded nutrition studies are several times more likely than independent ones to reach conclusions favorable to the sponsor.
 
 ## The report's claims
 
@@ -13,6 +13,14 @@ These are the report's claims, not yet checked:
 - **Chemical industry:** it spent about $77 million on federal lobbying in 2024, 60% of its lobbyists previously held federal posts, and more than 10,000 chemicals on the EPA's inventory are designated confidential.
 - **Pharmaceutical industry:** it spent $4.7 billion on federal lobbying from 1999 to 2018, more than any other industry. Nine of the last 10 FDA commissioners and about 70% of the agency's medical reviewers went on to work for the industry. Over 80% of clinical departments at US medical schools receive pharmaceutical funding, half the cost of continuing medical education is industry-funded, and from 2010 to 2022 industry gave $6 billion to over 20,000 patient advocacy organizations.
 - **Food system consolidation:** farmers get a small share of food spending. In 2023 only 16 cents of every food dollar went to farmers, with 84 cents going to manufacturers, marketers and distributors, and a few corporations control much of food production, processing, distribution and retail.
+
+## Industry funding and nutrition findings
+
+Industry-funded nutrition research tends to favor the sponsor. In studies of soft drinks, juice and milk, none of the fully industry-funded intervention studies reached unfavorable conclusions, compared with 37% of those without industry funding; industry-funded articles were about 7.6 times as likely to reach a favorable conclusion.
+[Lesser 2007](https://pubmed.ncbi.nlm.nih.gov/17214504/)
+
+In 10 leading nutrition journals in 2018, 13% of research articles involved the food industry, most often processed food manufacturers. Of these, 56% reported findings favorable to the industry's interests, compared with 10% of articles without industry involvement.
+[Sacks 2020](https://pubmed.ncbi.nlm.nih.gov/33326431/)
 
 ## Red meat research
 

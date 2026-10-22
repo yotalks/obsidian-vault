@@ -32,6 +32,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Ultra-processed food
 - [[Ultra-processed food and additives]] — checking the MAHA report's claims on seed oils, dyes, BHT, parabens and sweeteners
+- [[Dietary Guidelines for Americans]] — a guideline-compliant menu can be 91% ultra-processed
 
 ## Organic food
 - [[Organic and Health]]
