@@ -16,6 +16,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 ## Health policy
 - [[US life expectancy]] — Americans live ~3.5 years less than peers, mostly from overdoses, firearms, car accidents and heart disease
 - [[US healthcare spending]] — the US spends more mainly because it's richer
+- [[Childhood chronic disease]] — fact-checking the MAHA report: 37.5%, not over 40%, but the rise is real
 
 ## Politics and law
 - [[Israeli Pagers]] — why the pagers weren't booby traps under IHL definitions
