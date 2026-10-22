@@ -49,8 +49,13 @@ Some of these increases are mostly real and others are mostly artifacts:
 [Edigin 2022](https://pubmed.ncbi.nlm.nih.gov/34252469/)
 - Food allergies: mostly real, partly artifactual.
 - Celiac disease: mostly artifactual.
+→ [[Artifactual chronic disease trends]]
 
 ## The US compared with peer nations
 
 Chronic, non-communicable diseases are the leading cause of death worldwide and make up 8 of the 10 top causes of death in the US. They're shaped by medical and non-medical factors, like access to healthcare, physical inactivity, poor nutrition, tobacco and alcohol. See also [[US life expectancy]].
 [Peterson-KFF: How has the burden of chronic diseases in the U.S. and peer nations changed over time?](https://www.healthsystemtracker.org/chart-collection/how-has-the-burden-of-chronic-diseases-in-the-u-s-and-peer-nations-changed-over-time/)
+
+## Connections
+**Builds on**
+- [[Artifactual chronic disease trends]] — which increases are artifacts rests on the diagnostic-change evidence for autism, ADHD and celiac disease

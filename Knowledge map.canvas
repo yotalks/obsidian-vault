@@ -578,7 +578,7 @@
    "x": 0,
    "y": 4010,
    "width": 840,
-   "height": 250
+   "height": 380
   },
   {
    "id": "US life expectancy",
@@ -591,11 +591,31 @@
    "color": "5"
   },
   {
+   "id": "Artifactual chronic disease trends",
+   "type": "file",
+   "file": "Ethics & Society/Artifactual chronic disease trends.md",
+   "x": 60,
+   "y": 4200,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
    "id": "US healthcare spending",
    "type": "file",
    "file": "Ethics & Society/US healthcare spending.md",
    "x": 480,
    "y": 4070,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Childhood chronic disease",
+   "type": "file",
+   "file": "Ethics & Society/Childhood chronic disease.md",
+   "x": 480,
+   "y": 4200,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1216,6 +1236,15 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "the gap isn't about care"
+  },
+  {
+   "id": "e69",
+   "fromNode": "Artifactual chronic disease trends",
+   "fromSide": "right",
+   "toNode": "Childhood chronic disease",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "some rises are diagnostic"
   }
  ]
 }
