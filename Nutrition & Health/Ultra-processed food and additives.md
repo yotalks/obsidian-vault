@@ -5,7 +5,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> The MAHA report blames ultra-processed foods and their additives for children's chronic disease, but many of its specific claims are weak. The omega-6/omega-3 "imbalance" worry isn't backed by outcome trials. The food-dye effect it cites is about a tenth of the ADHD gap and disappears in high-quality studies of FDA-approved dyes. BHT's rodent tumor effects came at 10–200 times human intake. And aspartame shows little to no effect on glucose or insulin in controlled human studies. Titanium dioxide is the exception: Europe's food safety authority no longer considers it safe as an additive.
+> The MAHA report blames ultra-processed foods and their additives for children's chronic disease, but many of its specific claims are weak. The omega-6/omega-3 "imbalance" worry isn't backed by outcome trials. The food-dye effect it cites is about a tenth of the ADHD gap and disappears in high-quality studies of FDA-approved dyes. BHT's rodent tumor effects came at 10–200 times human intake. And aspartame shows little to no effect on glucose or insulin in controlled human studies. Titanium dioxide is the exception: Europe's food safety authority no longer considers it safe as an additive. And European infant formula isn't safer than US formula: it's nutritionally similar, and importing it adds real risks.
 
 ## The report's claims
 
@@ -73,6 +73,27 @@ In controlled human intervention studies, aspartame had little to no effect on b
 [Boxall 2025](https://pubmed.ncbi.nlm.nih.gov/40381807/)
 
 IARC's categories are broad. Group 2B ("possibly carcinogenic") also includes aloe vera extract and traditional pickled vegetables, and Group 2A ("probably carcinogenic") includes red meat, very hot drinks above 65 °C, and androgenic (anabolic) steroids.
+
+## Infant formula
+
+The report says some American parents have turned to European formula brands, because of supply concerns and questions about the number and types of additives in US formulas.
+
+US infant formula is one of the most tightly regulated foods in the country: the FDA dictates its nutrients and vitamins and sets strict rules for production, packaging and labeling. Importing European formula is technically illegal, and it costs far more (about $1.70 per 6-ounce bottle for one popular brand, versus about 45¢ for top US picks).
+
+A study of popular European brands found they generally meet most FDA nutrition guidelines, but importing them raises safety concerns: instructions may be in Dutch or German, they're mixed at a different scoop-to-water ratio (one scoop per ounce instead of per 2 ounces) so parents can prepare them wrong, there's no way to know whether they were kept at safe temperatures in transit, the FDA doesn't inspect them, and EU recalls are hard to track.
+
+The real differences are small:
+- The EU bans some added sugars like corn syrup in standard milk-based formula and requires at least 30% of carbohydrates to come from lactose, but many US formulas meet that standard too.
+- US formulas often contain more iron, which the American Academy of Pediatrics recommends to prevent iron deficiency. The EU requires much more of the omega-3 DHA, but research doesn't clearly show benefits from those higher amounts.
+- Many US formulas include extra ingredients like lutein, taurine, nucleotides and L-carnitine. These are found in breast milk, though not all have been shown to help when added to formula.
+- Europe offers whole-milk and goat's-milk formulas, but infants allergic to cow's milk will likely react to goat's milk too.
+
+Experts don't think the theoretical advantages of European formula are worth the risks and cost.
+[Wirecutter 2021](https://www.nytimes.com/wirecutter/blog/us-parents-european-baby-formula/)
+
+## Additive combinations
+
+The report's claim: additives are eaten in complex combinations whose cumulative and synergistic effects may amplify harm, and safety testing often ignores these interactions, particularly in children. Evidence?
 
 ## Connections
 **Builds on**
