@@ -24,7 +24,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[HDL]] — its protective link disappears in genetic studies; risk tracks ApoB
 - [[Saturated fat]] — replacing it with polyunsaturated fat cuts heart disease
 - [[Chocolate]] — the saturated fat that doesn't raise LDL
-- [[Seed oils]] — LDL oxidation is real but small; no good evidence for cancer harm
+- [[Seed oils]] — LDL oxidation is real but small; no good evidence for cancer harm; linked to lower diabetes risk
 - [[Omega 6 3 ratio]] — no known optimal ratio; omega-3 supplements don't help primary prevention
 - [[Plant based diet CVD reversal]] — prevents progression and events, but doesn't reverse disease
 - [[Dietary cholesterol]] — a dose response that flattens out, but still a risk
