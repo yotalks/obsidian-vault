@@ -29,6 +29,9 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Low-carb diets]] — the report's low-carb claims (in Nutrition & Health)
 - [[Dietary Guidelines for Americans]] — the report's dietary guidelines claims (in Nutrition & Health)
 
+## History
+- [[Auschwitz gas chambers]] — cyanide residues in the gas chambers, and how many bodies the crematoria could burn
+
 ## Politics and law
 - [[Israeli Pagers]] — why the pagers weren't booby traps under IHL definitions
 - [[Luigi Mangione]] — a domestic terrorist under the FBI definition
