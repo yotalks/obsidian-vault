@@ -9,6 +9,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Satiation]]
 - [[Fiber]]
 - [[GLP 1s]]
+- [[Low-carb diets]] — modest, mostly short-term edge over low-fat; no better for insulin resistance
 
 ## Vegan diets
 - [[Vegan diets]]

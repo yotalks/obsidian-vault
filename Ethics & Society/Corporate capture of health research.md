@@ -12,6 +12,7 @@ These are the report's claims, not yet checked:
 - **Food industry:** it funds most nutrition research. A BMJ analysis found industry spent over $60 billion on drug, biotechnology and device research in nutrition science, compared with about $1.5 billion of government nutrition research, and NIH nutrition funding is only 4–5% of its budget. An analysis found 95% of the 2020 Dietary Guidelines Advisory Committee had financial ties to food or pharmaceutical companies.
 - **Chemical industry:** it spent about $77 million on federal lobbying in 2024, 60% of its lobbyists previously held federal posts, and more than 10,000 chemicals on the EPA's inventory are designated confidential.
 - **Pharmaceutical industry:** it spent $4.7 billion on federal lobbying from 1999 to 2018, more than any other industry. Nine of the last 10 FDA commissioners and about 70% of the agency's medical reviewers went on to work for the industry. Over 80% of clinical departments at US medical schools receive pharmaceutical funding, half the cost of continuing medical education is industry-funded, and from 2010 to 2022 industry gave $6 billion to over 20,000 patient advocacy organizations.
+- **Food system consolidation:** farmers get a small share of food spending. In 2023 only 16 cents of every food dollar went to farmers, with 84 cents going to manufacturers, marketers and distributors, and a few corporations control much of food production, processing, distribution and retail.
 
 ## Red meat research
 

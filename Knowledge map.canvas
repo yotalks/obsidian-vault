@@ -278,14 +278,14 @@
    "x": 0,
    "y": 1360,
    "width": 1680,
-   "height": 770
+   "height": 900
   },
   {
    "id": "Antagonistic pleiotropy",
    "type": "file",
    "file": "Concepts/Antagonistic pleiotropy.md",
    "x": 60,
-   "y": 1485,
+   "y": 1550,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -295,7 +295,7 @@
    "type": "file",
    "file": "Concepts/LDL and heart disease.md",
    "x": 60,
-   "y": 1615,
+   "y": 1680,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -305,7 +305,7 @@
    "type": "file",
    "file": "Nutrition & Health/Omega 6 3 ratio.md",
    "x": 60,
-   "y": 1745,
+   "y": 1810,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -315,7 +315,7 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 1875,
+   "y": 1940,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -351,11 +351,21 @@
    "color": "4"
   },
   {
+   "id": "Low-carb diets",
+   "type": "file",
+   "file": "Nutrition & Health/Low-carb diets.md",
+   "x": 480,
+   "y": 1810,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Fiber",
    "type": "file",
    "file": "Nutrition & Health/Fiber.md",
    "x": 480,
-   "y": 1810,
+   "y": 1940,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -365,7 +375,7 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic on the environment.md",
    "x": 480,
-   "y": 1940,
+   "y": 2070,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -375,7 +385,7 @@
    "type": "file",
    "file": "Nutrition & Health/Evolution.md",
    "x": 900,
-   "y": 1485,
+   "y": 1550,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -385,7 +395,7 @@
    "type": "file",
    "file": "Nutrition & Health/Chocolate.md",
    "x": 900,
-   "y": 1615,
+   "y": 1680,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -395,7 +405,7 @@
    "type": "file",
    "file": "Nutrition & Health/Seed oils.md",
    "x": 900,
-   "y": 1745,
+   "y": 1810,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -405,7 +415,7 @@
    "type": "file",
    "file": "Nutrition & Health/Satiation.md",
    "x": 900,
-   "y": 1875,
+   "y": 1940,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -415,7 +425,7 @@
    "type": "file",
    "file": "Nutrition & Health/Ultra-processed food and additives.md",
    "x": 1320,
-   "y": 1680,
+   "y": 1745,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -426,7 +436,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 2330,
+   "y": 2460,
    "width": 1260,
    "height": 510
   },
@@ -435,7 +445,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 2390,
+   "y": 2520,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -445,7 +455,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 2520,
+   "y": 2650,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -455,7 +465,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 2650,
+   "y": 2780,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -465,7 +475,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 2390,
+   "y": 2520,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -475,7 +485,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 2520,
+   "y": 2650,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -485,7 +495,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 2650,
+   "y": 2780,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -495,7 +505,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 2520,
+   "y": 2650,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -506,7 +516,7 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 3040,
+   "y": 3170,
    "width": 1260,
    "height": 770
   },
@@ -515,7 +525,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 3295,
+   "y": 3425,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -525,7 +535,7 @@
    "type": "file",
    "file": "Concepts/Wild animal suffering.md",
    "x": 60,
-   "y": 3425,
+   "y": 3555,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -535,7 +545,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
-   "y": 3100,
+   "y": 3230,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -545,7 +555,7 @@
    "type": "file",
    "file": "Animal Ethics/Vegan Bivalves.md",
    "x": 480,
-   "y": 3230,
+   "y": 3360,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -555,7 +565,7 @@
    "type": "file",
    "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
-   "y": 3360,
+   "y": 3490,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -565,7 +575,7 @@
    "type": "file",
    "file": "Animal Ethics/Rewilding.md",
    "x": 480,
-   "y": 3490,
+   "y": 3620,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -575,7 +585,7 @@
    "type": "file",
    "file": "Animal Ethics/Colonizing nature.md",
    "x": 480,
-   "y": 3620,
+   "y": 3750,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -585,7 +595,7 @@
    "type": "file",
    "file": "Animal Ethics/Crop deaths.md",
    "x": 900,
-   "y": 3360,
+   "y": 3490,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -596,7 +606,7 @@
    "label": "Ethics & Society",
    "color": "5",
    "x": 0,
-   "y": 4010,
+   "y": 4140,
    "width": 840,
    "height": 380
   },
@@ -605,7 +615,7 @@
    "type": "file",
    "file": "Ethics & Society/US life expectancy.md",
    "x": 60,
-   "y": 4070,
+   "y": 4200,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -615,7 +625,7 @@
    "type": "file",
    "file": "Ethics & Society/Artifactual chronic disease trends.md",
    "x": 60,
-   "y": 4200,
+   "y": 4330,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -625,7 +635,7 @@
    "type": "file",
    "file": "Ethics & Society/US healthcare spending.md",
    "x": 480,
-   "y": 4070,
+   "y": 4200,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -635,7 +645,7 @@
    "type": "file",
    "file": "Ethics & Society/Childhood chronic disease.md",
    "x": 480,
-   "y": 4200,
+   "y": 4330,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1283,6 +1293,15 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "no known optimal ratio"
+  },
+  {
+   "id": "e72",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Low-carb diets",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "rising LDL is a cost"
   }
  ]
 }
