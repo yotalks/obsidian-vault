@@ -8,7 +8,7 @@ aliases:
 up: "[[Ethics & Society MOC]]"
 ---
 > [!summary] Bottom line
-> Chemical tests of the Auschwitz gas chamber ruins, including tests by people trying to disprove the gassings, find more cyanide there than in comparison rooms. The Kraków forensic institute found cyanide in all five crematoria and none in living quarters. Delousing chambers have far more because killing lice takes much higher concentrations for much longer than killing people. And the crematoria alone could have burned roughly 0.9–1.1 million bodies, before counting open-air burning pits.
+> Chemical tests of the Auschwitz gas chamber ruins, including tests by people trying to disprove the gassings, find more cyanide there than in comparison rooms. The Kraków forensic institute found cyanide in all five crematoria and none in living quarters. Delousing chambers have far more because killing lice takes much higher concentrations for much longer than killing people. The crematoria alone could have burned roughly 0.9–1.1 million bodies, before counting open-air burning pits, and a body's fat and protein release several times the energy needed to boil off its water.
 
 ## Cyanide residues
 
@@ -26,10 +26,12 @@ Comparing gas chamber samples with samples from rooms that weren't gas chambers 
 | Mattogno | 1.24 (2) | 0 (2) | |
 
 - **Leuchter:** gas chamber samples averaged slightly higher, but the difference wasn't significant (p ≈ 0.7). 15 of 24 gas chamber samples and 7 of 12 others were below detection. Treating those as half the detection limit instead of zero doesn't change this.
-- **Rudolf:** gas chamber samples averaged over 5 times higher (p = 0.015 with a standard t-test). With only 3 gas chamber samples and very unequal spread, a test that doesn't assume equal variances gives p ≈ 0.2, so it's suggestive rather than conclusive.
+- **Rudolf:** gas chamber samples averaged over 5 times higher (p = 0.015 with a standard t-test). With only 3 gas chamber samples and very unequal spread, a test that doesn't assume equal variances gives p ≈ 0.2, so it's suggestive rather than conclusive. Rudolf was a Holocaust denier, so his own data pointing this way is notable. His gas chamber samples 1–3 came from the ceiling concrete and plaster of Crematorium II's Morgue 1 (the gas chamber). Sample 4 came from the plaster of the chimney wing's garbage incinerator, physically separated from the gas chamber. Rudolf himself called it only interesting as a control sample, and in *The Chemistry of Auschwitz* defined a control as a place never alleged to have been a gas chamber for people or clothes, so it counts as a control here.
 - **Markiewicz:** the Institute of Forensic Research in Kraków used a method that excludes iron cyanides like Prussian blue, so its numbers aren't comparable with the others. Cyanide was detectable in 29 of 36 gas chamber samples and in none of the 8 samples from living quarters, which were likely fumigated only once, during the 1942 typhus epidemic, before the Birkenau crematoria existed.
 [Markiewicz 1994](https://phdn.org/archives/holocaust-history.org/auschwitz/chemistry/iffr/report.shtml)
 [Wikipedia: Rudolf Report](https://en.wikipedia.org/wiki/Rudolf_Report)
+
+Comparing only the ranges of each group, as some summary tables do, hides this. Gas chamber and comparison samples both run from about 0 to single digits, but most comparison samples are 0 or near it, and the averages differ.
 
 ## Cremation capacity
 
@@ -48,3 +50,11 @@ Days in use subtract assumed downtime of 500 days for Crematorium I and 250 days
 
 Of about 1.1 million people murdered at Auschwitz, around 960,000 were Jews. The crematoria weren't the only method: during the 1944 deportation of Hungarian Jews, bodies were also burned in open-air pits.
 [Wikipedia: Auschwitz concentration camp](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp)
+
+## Can bodies fuel their own burning?
+
+A rough energy balance for a 70 kg man who is 60% water, 20% fat and 17% protein:
+- **Energy needed** to heat 42 kg of water from 18 °C to 100 °C and boil it off: 42 × 82 × 4.184 + 42 × 2,260 ≈ 109,000 kJ.
+- **Energy released** by burning 14 kg of fat (at 7,700 kcal/kg) and 11.9 kg of protein (at 3,422 kcal/kg): ≈ 621,000 kJ.
+
+That's about 5.7 times the energy needed, so as long as a crematorium captures at least about 18% of the heat, one body releases enough energy to dry out another, and a steady stream of bodies can partly sustain itself. The fat and protein values used are food energy figures, which are lower than the full heat of combustion, so this is conservative on that side. But it depends on body fat: for a leaner body with 10% fat and 68% water, the break-even efficiency rises to about 22–31%. It also ignores the energy needed to heat the rest of the body and the oven, which the coke fuel covered.
