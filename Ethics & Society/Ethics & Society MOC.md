@@ -9,7 +9,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Anti Natalism]] — anti-natalism's own logic implies pragmatic natalism
 
 ## Society
-- [[Trans Identity]] — defining man and woman by weighted gamete-associated traits
+- [[Trans Identity]] — defining man and woman by weighted gamete-associated traits; being trans isn't a mental illness
 - [[Black White IQ gap]]
 - [[Slurs]] — how slurs stop being harmful, and why 'retard' is different
 
