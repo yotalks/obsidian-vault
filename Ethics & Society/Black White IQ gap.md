@@ -51,4 +51,4 @@ Lewontin's seed/garden thought experiment takes a genetically varied seed, split
 ## Iodine
 
 An example of a nutritional deficiency that can have a major effect on IQ is iodine. Just this one deficiency can cause a 10-15 IQ point difference as it's critical in brain development. The world's greatest single cause of preventable brain damage and mental retardation.
-[Delange 2001](https://pmj.bmj.com/content/77/906/217)
+[Delange 2001](https://pubmed.ncbi.nlm.nih.gov/11264481/)

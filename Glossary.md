@@ -174,3 +174,15 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### EPA
 **EPA** — Eicosapentaenoic acid, an omega-3 fat found in fish and algae.
+
+### 2-AG
+**2-AG** — 2-arachidonoylglycerol, an endocannabinoid made from arachidonic acid that stimulates appetite through CB1.
+
+### CB1
+**CB1** — Cannabinoid receptor type 1, the receptor behind cannabis-induced appetite.
+
+### EE
+**EE** — Energy expenditure (calories burned).
+
+### RMR
+**RMR** — Resting metabolic rate.
