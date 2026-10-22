@@ -186,3 +186,9 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### RMR
 **RMR** — Resting metabolic rate.
+
+### OR
+**OR** — Odds ratio: the odds of an outcome in one group divided by the odds in another. The only measure a case-control study can give; approximates the RR for rare outcomes.
+
+### RR
+**RR** — Relative risk (risk ratio): the risk of an outcome in one group divided by the risk in another. See [[Observational study designs]].

@@ -15,6 +15,7 @@ Start here.
 - [[Animal Ethics MOC]] — animal rights, wild animal suffering, where veganism draws lines
 - [[Ethics & Society MOC]] — anti-natalism, trans identity, race and IQ, health policy, politics
 - [[Philosophy & Science MOC]] — fine tuning, flat Earth
+- [[Research Methods MOC]] — study designs, biostatistics, reading research
 
 ## Studies cited in several notes
 - [[Ansdell 2020]]

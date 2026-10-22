@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 5223359
       }
+    },
+    {
+      "query": "path:\"Research Methods\"",
+      "color": {
+        "a": 1,
+        "rgb": 8031456
+      }
     }
   ],
   "collapse-display": true,
