@@ -569,6 +569,36 @@
    "width": 300,
    "height": 90,
    "color": "3"
+  },
+  {
+   "id": "g-Ethics & Society",
+   "type": "group",
+   "label": "Ethics & Society",
+   "color": "5",
+   "x": 0,
+   "y": 4010,
+   "width": 840,
+   "height": 250
+  },
+  {
+   "id": "US life expectancy",
+   "type": "file",
+   "file": "Ethics & Society/US life expectancy.md",
+   "x": 60,
+   "y": 4070,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "US healthcare spending",
+   "type": "file",
+   "file": "Ethics & Society/US healthcare spending.md",
+   "x": 480,
+   "y": 4070,
+   "width": 300,
+   "height": 90,
+   "color": "5"
   }
  ],
  "edges": [
@@ -1177,6 +1207,15 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "risk tracks ApoB"
+  },
+  {
+   "id": "e68",
+   "fromNode": "US life expectancy",
+   "fromSide": "right",
+   "toNode": "US healthcare spending",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the gap isn't about care"
   }
  ]
 }

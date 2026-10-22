@@ -13,7 +13,7 @@ Start here.
 - [[Nutrition & Health MOC]] — appetite, GLP-1s, vegan diets, organic food
 - [[Abortion & Reproduction MOC]] — ethics, policy, sentience, reproductive biology
 - [[Animal Ethics MOC]] — animal rights, wild animal suffering, where veganism draws lines
-- [[Ethics & Society MOC]] — anti-natalism, trans identity, race and IQ, politics
+- [[Ethics & Society MOC]] — anti-natalism, trans identity, race and IQ, health policy, politics
 - [[Philosophy & Science MOC]] — fine tuning, flat Earth
 
 ## Studies cited in several notes
