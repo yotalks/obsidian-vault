@@ -607,15 +607,15 @@
    "color": "5",
    "x": 0,
    "y": 4140,
-   "width": 840,
-   "height": 510
+   "width": 1260,
+   "height": 640
   },
   {
    "id": "US life expectancy",
    "type": "file",
    "file": "Ethics & Society/US life expectancy.md",
    "x": 60,
-   "y": 4200,
+   "y": 4265,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -625,17 +625,17 @@
    "type": "file",
    "file": "Ethics & Society/Artifactual chronic disease trends.md",
    "x": 60,
-   "y": 4330,
+   "y": 4395,
    "width": 300,
    "height": 90,
    "color": "5"
   },
   {
-   "id": "Gender-affirming care outcomes",
+   "id": "Gender dysphoria in the DSM-5",
    "type": "file",
-   "file": "Ethics & Society/Gender-affirming care outcomes.md",
+   "file": "Ethics & Society/Gender dysphoria in the DSM-5.md",
    "x": 60,
-   "y": 4460,
+   "y": 4525,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -661,11 +661,31 @@
    "color": "5"
   },
   {
+   "id": "Gender-affirming care outcomes",
+   "type": "file",
+   "file": "Ethics & Society/Gender-affirming care outcomes.md",
+   "x": 480,
+   "y": 4460,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Trans Identity",
+   "type": "file",
+   "file": "Ethics & Society/Trans Identity.md",
+   "x": 480,
+   "y": 4590,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
    "id": "Medicare and gender reassignment surgery",
    "type": "file",
    "file": "Ethics & Society/Medicare and gender reassignment surgery.md",
-   "x": 480,
-   "y": 4460,
+   "x": 900,
+   "y": 4395,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1331,6 +1351,24 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "the newer evidence"
+  },
+  {
+   "id": "e74",
+   "fromNode": "Gender dysphoria in the DSM-5",
+   "fromSide": "right",
+   "toNode": "Trans Identity",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "diagnosis requires distress"
+  },
+  {
+   "id": "e75",
+   "fromNode": "Gender dysphoria in the DSM-5",
+   "fromSide": "right",
+   "toNode": "Gender-affirming care outcomes",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "persistence tracks severity"
   }
  ]
 }

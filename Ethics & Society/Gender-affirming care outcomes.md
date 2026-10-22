@@ -39,6 +39,7 @@ In the first 70 Dutch adolescents given puberty blockers, behavioral and emotion
 
 That everyone continued doesn't show blockers lock in a trans identity. Blockers are typically prescribed for severe dysphoria, and the intensity of childhood dysphoria predicts whether it persists, so comparisons need to adjust for how severe the dysphoria was.
 [Steensma 2013](https://pubmed.ncbi.nlm.nih.gov/23702447/)
+→ [[Gender dysphoria in the DSM-5]]
 
 The UK's Gender Identity Development Service cited estimates that 2–27% of young children with gender dysphoria persist after puberty, and reported outcomes for its first 44 young adolescents on blockers.
 [Carmichael 2016](https://web.archive.org/web/20191208040029/http://wpath2016.conferencespot.org/62620-wpathv2-1.3138789/t001-1.3140111/f009a-1.3140266/0706-000523-1.3140268)
@@ -62,5 +63,8 @@ Randomized trials with null findings got similar citations, attention and views 
 [Murray 2019](https://pubmed.ncbi.nlm.nih.gov/31087013/)
 
 ## Connections
+**Builds on**
+- [[Gender dysphoria in the DSM-5]] — the DSM-5 also reports persistence of 2–30% in natal boys and 12–50% in natal girls, modestly correlated with severity
+
 **Feeds into**
 - [[Medicare and gender reassignment surgery]] — the newer evidence that the 2016 Medicare memo predates

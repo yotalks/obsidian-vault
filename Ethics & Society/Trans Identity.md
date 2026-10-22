@@ -19,3 +19,8 @@ Nothing in that definition requires distress or impairment, so being trans can't
 - **P1:** If transgenderism is a mental illness, then it's not logically possible for a transgender person to not have a mental illness. (P ⇒ ¬Q)
 - **P2:** It's logically possible for a transgender person to not have a mental illness. (Q)
 - **C:** So transgenderism is not a mental illness. (∴ ¬P)
+→ [[Gender dysphoria in the DSM-5]]
+
+## Connections
+**Builds on**
+- [[Gender dysphoria in the DSM-5]] — the DSM-5 diagnosis requires clinically significant distress or impairment, so a trans person without it has no diagnosis
