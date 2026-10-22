@@ -19,6 +19,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Childhood chronic disease]] — fact-checking the MAHA report: 37.5%, not over 40%, but the rise is real
 - [[Artifactual chronic disease trends]] — autism, ADHD and celiac rises that are mostly diagnostic; childhood cancer
 - [[Childhood chronic disease drivers]] — the report's four drivers; its medication claims checked
+- [[Corporate capture of health research]] — industry influence, including on red meat research
 
 ## Politics and law
 - [[Israeli Pagers]] — why the pagers weren't booby traps under IHL definitions
