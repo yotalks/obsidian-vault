@@ -34,6 +34,9 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Ultra-processed food and additives]] — checking the MAHA report's claims on seed oils, dyes, BHT, parabens and sweeteners
 - [[Dietary Guidelines for Americans]] — a guideline-compliant menu can be 91% ultra-processed
 
+## Infectious disease
+- [[COVID and erectile dysfunction]] — a plausible causal link, backed by animal data; human data are still observational
+
 ## Organic food
 - [[Organic and Health]]
 - [[Organic on the environment]]
