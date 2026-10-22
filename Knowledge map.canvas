@@ -1,144 +1,1336 @@
 {
-	"nodes":[
-		{"id":"g-Exercise Science","type":"group","label":"Exercise Science","color":"2","x":0,"y":0,"width":2100,"height":1160},
-		{"id":"ATP does not deplete during exercise","type":"file","file":"Exercise Science/ATP does not deplete during exercise.md","x":60,"y":60,"width":300,"height":90,"color":"2"},
-		{"id":"Psychobiological model of fatigue","type":"file","file":"Concepts/Psychobiological model of fatigue.md","x":60,"y":190,"width":300,"height":90,"color":"2"},
-		{"id":"Calcium ion-related fatigue","type":"file","file":"Concepts/Calcium ion-related fatigue.md","x":60,"y":320,"width":300,"height":90,"color":"2"},
-		{"id":"Mechanical tension","type":"file","file":"Concepts/Mechanical tension.md","x":60,"y":450,"width":300,"height":90,"color":"2"},
-		{"id":"Glucocorticoids","type":"file","file":"Concepts/Glucocorticoids.md","x":60,"y":580,"width":300,"height":90,"color":"2"},
-		{"id":"Internal moment arm","type":"file","file":"Concepts/Internal moment arm.md","x":60,"y":710,"width":300,"height":90,"color":"2"},
-		{"id":"Age and recovery","type":"file","file":"Exercise Science/Age and recovery.md","x":60,"y":840,"width":300,"height":90,"color":"2"},
-		{"id":"Improvements in coordination traits","type":"file","file":"Exercise Science/Improvements in coordination traits.md","x":60,"y":970,"width":300,"height":90,"color":"2"},
-		{"id":"Supraspinal CNS fatigue","type":"file","file":"Concepts/Supraspinal CNS fatigue.md","x":480,"y":190,"width":300,"height":90,"color":"2"},
-		{"id":"Muscle swelling","type":"file","file":"Exercise Science/Muscle swelling.md","x":480,"y":320,"width":300,"height":90,"color":"2"},
-		{"id":"Sarcomerogenesis","type":"file","file":"Concepts/Sarcomerogenesis.md","x":480,"y":450,"width":300,"height":90,"color":"2"},
-		{"id":"Anabolic Androgenic Steroids","type":"file","file":"Exercise Science/Anabolic Androgenic Steroids.md","x":480,"y":580,"width":300,"height":90,"color":"2"},
-		{"id":"Running Economy","type":"file","file":"Exercise Science/Running Economy.md","x":480,"y":710,"width":300,"height":90,"color":"2"},
-		{"id":"Techniques to improve coordination","type":"file","file":"Exercise Science/Techniques to improve coordination.md","x":480,"y":840,"width":300,"height":90,"color":"2"},
-		{"id":"Carbohydrate mouth rinsing","type":"file","file":"Exercise Science/Carbohydrate mouth rinsing.md","x":900,"y":320,"width":300,"height":90,"color":"2"},
-		{"id":"Repeated bout effect","type":"file","file":"Exercise Science/Repeated bout effect.md","x":900,"y":450,"width":300,"height":90,"color":"2"},
-		{"id":"Detraining sarcomerogenesis","type":"file","file":"Exercise Science/Detraining sarcomerogenesis.md","x":900,"y":580,"width":300,"height":90,"color":"2"},
-		{"id":"Increasing motor unit recruitment","type":"file","file":"Exercise Science/Increasing motor unit recruitment.md","x":900,"y":710,"width":300,"height":90,"color":"2"},
-		{"id":"Fatigue resistance","type":"file","file":"Exercise Science/Fatigue resistance.md","x":1320,"y":190,"width":300,"height":90,"color":"2"},
-		{"id":"Detraining adaptations speed","type":"file","file":"Exercise Science/Detraining adaptations speed.md","x":1320,"y":320,"width":300,"height":90,"color":"2"},
-		{"id":"Insufficient Sleep","type":"file","file":"Exercise Science/Insufficient Sleep.md","x":1320,"y":450,"width":300,"height":90,"color":"2"},
-		{"id":"Squat patterns","type":"file","file":"Exercise Science/Squat patterns.md","x":1320,"y":580,"width":300,"height":90,"color":"2"},
-		{"id":"Increasing speed","type":"file","file":"Exercise Science/Increasing speed.md","x":1320,"y":710,"width":300,"height":90,"color":"2"},
-		{"id":"Sticking points in powerlifting","type":"file","file":"Exercise Science/Sticking points in powerlifting.md","x":1320,"y":840,"width":300,"height":90,"color":"2"},
-		{"id":"Creatine Supplementation","type":"file","file":"Exercise Science/Creatine Supplementation.md","x":1740,"y":450,"width":300,"height":90,"color":"2"},
-		{"id":"Age and adaptations","type":"file","file":"Exercise Science/Age and adaptations.md","x":1740,"y":580,"width":300,"height":90,"color":"2"},
-		{"id":"g-Nutrition & Health","type":"group","label":"Nutrition & Health","color":"4","x":0,"y":1360,"width":1680,"height":900},
-		{"id":"Antagonistic pleiotropy","type":"file","file":"Concepts/Antagonistic pleiotropy.md","x":60,"y":1550,"width":300,"height":90,"color":"4"},
-		{"id":"LDL and heart disease","type":"file","file":"Concepts/LDL and heart disease.md","x":60,"y":1680,"width":300,"height":90,"color":"4"},
-		{"id":"Omega 6 3 ratio","type":"file","file":"Nutrition & Health/Omega 6 3 ratio.md","x":60,"y":1810,"width":300,"height":90,"color":"4"},
-		{"id":"Organic is not vegan","type":"file","file":"Nutrition & Health/Organic/Organic is not vegan.md","x":60,"y":1940,"width":300,"height":90,"color":"4"},
-		{"id":"HDL","type":"file","file":"Nutrition & Health/HDL.md","x":480,"y":1420,"width":300,"height":90,"color":"4"},
-		{"id":"Saturated fat","type":"file","file":"Nutrition & Health/Saturated fat.md","x":480,"y":1550,"width":300,"height":90,"color":"4"},
-		{"id":"Dietary cholesterol","type":"file","file":"Nutrition & Health/Dietary cholesterol.md","x":480,"y":1680,"width":300,"height":90,"color":"4"},
-		{"id":"Low-carb diets","type":"file","file":"Nutrition & Health/Low-carb diets.md","x":480,"y":1810,"width":300,"height":90,"color":"4"},
-		{"id":"Fiber","type":"file","file":"Nutrition & Health/Fiber.md","x":480,"y":1940,"width":300,"height":90,"color":"4"},
-		{"id":"Organic on the environment","type":"file","file":"Nutrition & Health/Organic/Organic on the environment.md","x":480,"y":2070,"width":300,"height":90,"color":"4"},
-		{"id":"Evolution","type":"file","file":"Nutrition & Health/Evolution.md","x":900,"y":1550,"width":300,"height":90,"color":"4"},
-		{"id":"Chocolate","type":"file","file":"Nutrition & Health/Chocolate.md","x":900,"y":1680,"width":300,"height":90,"color":"4"},
-		{"id":"Seed oils","type":"file","file":"Nutrition & Health/Seed oils.md","x":900,"y":1810,"width":300,"height":90,"color":"4"},
-		{"id":"Satiation","type":"file","file":"Nutrition & Health/Satiation.md","x":900,"y":1940,"width":300,"height":90,"color":"4"},
-		{"id":"Ultra-processed food and additives","type":"file","file":"Nutrition & Health/Ultra-processed food and additives.md","x":1320,"y":1745,"width":300,"height":90,"color":"4"},
-		{"id":"g-Abortion & Reproduction","type":"group","label":"Abortion & Reproduction","color":"6","x":0,"y":2460,"width":1260,"height":510},
-		{"id":"Menstrual cycle","type":"file","file":"Abortion & Reproduction/Menstrual cycle.md","x":60,"y":2520,"width":300,"height":90,"color":"6"},
-		{"id":"Sentience and the cortex","type":"file","file":"Abortion & Reproduction/Sentience and the cortex.md","x":60,"y":2650,"width":300,"height":90,"color":"6"},
-		{"id":"Abortion Ethics","type":"file","file":"Abortion & Reproduction/Abortion Ethics.md","x":60,"y":2780,"width":300,"height":90,"color":"6"},
-		{"id":"Emergency contraception","type":"file","file":"Abortion & Reproduction/Emergency contraception.md","x":480,"y":2520,"width":300,"height":90,"color":"6"},
-		{"id":"Pro-Life","type":"file","file":"Abortion & Reproduction/Pro-Life.md","x":480,"y":2650,"width":300,"height":90,"color":"6"},
-		{"id":"Fetal sentience","type":"file","file":"Abortion & Reproduction/Fetal sentience.md","x":480,"y":2780,"width":300,"height":90,"color":"6"},
-		{"id":"Abortion position","type":"file","file":"Abortion & Reproduction/Abortion position.md","x":900,"y":2650,"width":300,"height":90,"color":"6"},
-		{"id":"g-Animal Ethics","type":"group","label":"Animal Ethics","color":"3","x":0,"y":3170,"width":1260,"height":770},
-		{"id":"Animal Rights","type":"file","file":"Animal Ethics/Animal Rights.md","x":60,"y":3425,"width":300,"height":90,"color":"3"},
-		{"id":"Wild animal suffering","type":"file","file":"Concepts/Wild animal suffering.md","x":60,"y":3555,"width":300,"height":90,"color":"3"},
-		{"id":"Animal Procreation as Rape","type":"file","file":"Animal Ethics/Animal Procreation as Rape.md","x":480,"y":3230,"width":300,"height":90,"color":"3"},
-		{"id":"Vegan Bivalves","type":"file","file":"Animal Ethics/Vegan Bivalves.md","x":480,"y":3360,"width":300,"height":90,"color":"3"},
-		{"id":"Culling Predators","type":"file","file":"Animal Ethics/Culling Predators.md","x":480,"y":3490,"width":300,"height":90,"color":"3"},
-		{"id":"Rewilding","type":"file","file":"Animal Ethics/Rewilding.md","x":480,"y":3620,"width":300,"height":90,"color":"3"},
-		{"id":"Colonizing nature","type":"file","file":"Animal Ethics/Colonizing nature.md","x":480,"y":3750,"width":300,"height":90,"color":"3"},
-		{"id":"Crop deaths","type":"file","file":"Animal Ethics/Crop deaths.md","x":900,"y":3490,"width":300,"height":90,"color":"3"},
-		{"id":"g-Ethics & Society","type":"group","label":"Ethics & Society","color":"5","x":0,"y":4140,"width":840,"height":380},
-		{"id":"US life expectancy","type":"file","file":"Ethics & Society/US life expectancy.md","x":60,"y":4200,"width":300,"height":90,"color":"5"},
-		{"id":"Artifactual chronic disease trends","type":"file","file":"Ethics & Society/Artifactual chronic disease trends.md","x":60,"y":4330,"width":300,"height":90,"color":"5"},
-		{"id":"US healthcare spending","type":"file","file":"Ethics & Society/US healthcare spending.md","x":480,"y":4200,"width":300,"height":90,"color":"5"},
-		{"id":"Childhood chronic disease","type":"file","file":"Ethics & Society/Childhood chronic disease.md","x":480,"y":4330,"width":300,"height":90,"color":"5"}
-	],
-	"edges":[
-		{"id":"e0","fromNode":"ATP does not deplete during exercise","fromSide":"right","toNode":"Creatine Supplementation","toSide":"left","toEnd":"arrow","label":"rules out ATP supply"},
-		{"id":"e1","fromNode":"Psychobiological model of fatigue","fromSide":"right","toNode":"Supraspinal CNS fatigue","toSide":"left","toEnd":"arrow","label":"explains"},
-		{"id":"e2","fromNode":"Supraspinal CNS fatigue","fromSide":"right","toNode":"Carbohydrate mouth rinsing","toSide":"left","toEnd":"arrow","label":"mechanism"},
-		{"id":"e3","fromNode":"Psychobiological model of fatigue","fromSide":"right","toNode":"Carbohydrate mouth rinsing","toSide":"left","toEnd":"arrow"},
-		{"id":"e4","fromNode":"Supraspinal CNS fatigue","fromSide":"right","toNode":"Insufficient Sleep","toSide":"left","toEnd":"arrow","label":"sleep loss raises it"},
-		{"id":"e5","fromNode":"Supraspinal CNS fatigue","fromSide":"right","toNode":"Increasing motor unit recruitment","toSide":"left","toEnd":"arrow","label":"caps recruitment"},
-		{"id":"e6","fromNode":"Supraspinal CNS fatigue","fromSide":"right","toNode":"Fatigue resistance","toSide":"left","toEnd":"arrow"},
-		{"id":"e7","fromNode":"Supraspinal CNS fatigue","fromSide":"right","toNode":"Repeated bout effect","toSide":"left","toEnd":"arrow","label":"doesn't drop"},
-		{"id":"e8","fromNode":"Calcium ion-related fatigue","fromSide":"right","toNode":"Repeated bout effect","toSide":"left","toEnd":"arrow","label":"RBE reduces it"},
-		{"id":"e9","fromNode":"Calcium ion-related fatigue","fromSide":"right","toNode":"Fatigue resistance","toSide":"left","toEnd":"arrow"},
-		{"id":"e10","fromNode":"Calcium ion-related fatigue","fromSide":"right","toNode":"Muscle swelling","toSide":"left","toEnd":"arrow","label":"swelling triggers it"},
-		{"id":"e11","fromNode":"Calcium ion-related fatigue","fromSide":"right","toNode":"Increasing speed","toSide":"left","toEnd":"arrow","label":"drives slow fiber shifts"},
-		{"id":"e12","fromNode":"Repeated bout effect","fromSide":"right","toNode":"Fatigue resistance","toSide":"left","toEnd":"arrow","label":"is a form of"},
-		{"id":"e13","fromNode":"Repeated bout effect","fromSide":"right","toNode":"Age and adaptations","toSide":"left","toEnd":"arrow","label":"smaller RBE in older people"},
-		{"id":"e14","fromNode":"Fatigue resistance","fromSide":"right","toNode":"Creatine Supplementation","toSide":"left","toEnd":"arrow","label":"how creatine works"},
-		{"id":"e15","fromNode":"Mechanical tension","fromSide":"right","toNode":"Muscle swelling","toSide":"left","toEnd":"arrow","label":"swelling ≠ tension"},
-		{"id":"e16","fromNode":"Muscle swelling","fromSide":"right","toNode":"Creatine Supplementation","toSide":"left","toEnd":"arrow","label":"creatine's size gain is swelling"},
-		{"id":"e17","fromNode":"Mechanical tension","fromSide":"right","toNode":"Anabolic Androgenic Steroids","toSide":"left","toEnd":"arrow","label":"independent inputs"},
-		{"id":"e18","fromNode":"Anabolic Androgenic Steroids","fromSide":"right","toNode":"Creatine Supplementation","toSide":"left","toEnd":"arrow","label":"contrast"},
-		{"id":"e19","fromNode":"Mechanical tension","fromSide":"right","toNode":"Increasing motor unit recruitment","toSide":"left","toEnd":"arrow","label":"tension needs recruitment"},
-		{"id":"e20","fromNode":"Increasing motor unit recruitment","fromSide":"right","toNode":"Insufficient Sleep","toSide":"left","toEnd":"arrow","label":"sleep loss lowers it"},
-		{"id":"e21","fromNode":"Mechanical tension","fromSide":"right","toNode":"Age and adaptations","toSide":"left","toEnd":"arrow","label":"older fibers still respond"},
-		{"id":"e22","fromNode":"Glucocorticoids","fromSide":"right","toNode":"Insufficient Sleep","toSide":"left","toEnd":"arrow","label":"mechanism of atrophy"},
-		{"id":"e23","fromNode":"Glucocorticoids","fromSide":"right","toNode":"Anabolic Androgenic Steroids","toSide":"left","toEnd":"arrow","label":"steroids block it"},
-		{"id":"e24","fromNode":"Age and recovery","fromSide":"right","toNode":"Age and adaptations","toSide":"left","toEnd":"arrow","label":"slow recovery → slower growth"},
-		{"id":"e25","fromNode":"Mechanical tension","fromSide":"right","toNode":"Sarcomerogenesis","toSide":"left","toEnd":"arrow","label":"passive tension"},
-		{"id":"e26","fromNode":"Sarcomerogenesis","fromSide":"right","toNode":"Detraining sarcomerogenesis","toSide":"left","toEnd":"arrow"},
-		{"id":"e27","fromNode":"Detraining sarcomerogenesis","fromSide":"right","toNode":"Detraining adaptations speed","toSide":"left","toEnd":"arrow","label":"lost in ~2 weeks"},
-		{"id":"e28","fromNode":"Sarcomerogenesis","fromSide":"right","toNode":"Repeated bout effect","toSide":"left","toEnd":"arrow","label":"may cause the RBE"},
-		{"id":"e29","fromNode":"Detraining adaptations speed","fromSide":"right","toNode":"Age and adaptations","toSide":"left","toEnd":"arrow","label":"maintenance dose"},
-		{"id":"e30","fromNode":"Improvements in coordination traits","fromSide":"right","toNode":"Increasing motor unit recruitment","toSide":"left","toEnd":"arrow","label":"coordination first"},
-		{"id":"e31","fromNode":"Improvements in coordination traits","fromSide":"right","toNode":"Increasing speed","toSide":"left","toEnd":"arrow","label":"velocity-specific"},
-		{"id":"e32","fromNode":"Improvements in coordination traits","fromSide":"right","toNode":"Techniques to improve coordination","toSide":"left","toEnd":"arrow"},
-		{"id":"e33","fromNode":"Techniques to improve coordination","fromSide":"right","toNode":"Sticking points in powerlifting","toSide":"left","toEnd":"arrow","label":"technique practice"},
-		{"id":"e34","fromNode":"Techniques to improve coordination","fromSide":"right","toNode":"Increasing speed","toSide":"left","toEnd":"arrow"},
-		{"id":"e35","fromNode":"Increasing motor unit recruitment","fromSide":"right","toNode":"Increasing speed","toSide":"left","toEnd":"arrow","label":"recruits fast fibers"},
-		{"id":"e36","fromNode":"Increasing motor unit recruitment","fromSide":"right","toNode":"Sticking points in powerlifting","toSide":"left","toEnd":"arrow","label":"angle-specific recruitment"},
-		{"id":"e37","fromNode":"Internal moment arm","fromSide":"right","toNode":"Sticking points in powerlifting","toSide":"left","toEnd":"arrow","label":"why sticking regions exist"},
-		{"id":"e38","fromNode":"Internal moment arm","fromSide":"right","toNode":"Creatine Supplementation","toSide":"left","toEnd":"arrow","label":"small strength boost"},
-		{"id":"e39","fromNode":"Internal moment arm","fromSide":"right","toNode":"Running Economy","toSide":"left","toEnd":"arrow","label":"less activation needed"},
-		{"id":"e40","fromNode":"Antagonistic pleiotropy","fromSide":"right","toNode":"Evolution","toSide":"left","toEnd":"arrow","label":"core premise"},
-		{"id":"e41","fromNode":"Organic is not vegan","fromSide":"right","toNode":"Organic on the environment","toSide":"left","toEnd":"arrow","label":"manure demand"},
-		{"id":"e42","fromNode":"Menstrual cycle","fromSide":"right","toNode":"Emergency contraception","toSide":"left","toEnd":"arrow","label":"LH surge"},
-		{"id":"e43","fromNode":"Menstrual cycle","fromSide":"right","toNode":"Pro-Life","toSide":"left","toEnd":"arrow","label":"peri-implantation window"},
-		{"id":"e44","fromNode":"Sentience and the cortex","fromSide":"right","toNode":"Fetal sentience","toSide":"left","toEnd":"arrow","label":"is a cortex needed?"},
-		{"id":"e45","fromNode":"Animal Rights","fromSide":"right","toNode":"Culling Predators","toSide":"left","toEnd":"arrow","label":"animals' right not to be hunted"},
-		{"id":"e46","fromNode":"Animal Rights","fromSide":"bottom","toNode":"Organic is not vegan","toSide":"top","toEnd":"arrow","label":"why funding animal ag matters"},
-		{"id":"e47","fromNode":"Animal Rights","fromSide":"right","toNode":"Animal Procreation as Rape","toSide":"left","toEnd":"arrow","label":"humans who can't consent"},
-		{"id":"e48","fromNode":"Animal Rights","fromSide":"right","toNode":"Rewilding","toSide":"left","toEnd":"arrow","label":"right not to be bred into the wild"},
-		{"id":"e49","fromNode":"Animal Rights","fromSide":"right","toNode":"Vegan Bivalves","toSide":"left","toEnd":"arrow","label":"no brain, no rights"},
-		{"id":"e50","fromNode":"Abortion Ethics","fromSide":"right","toNode":"Abortion position","toSide":"left","toEnd":"arrow","label":"violinist analogy"},
-		{"id":"e51","fromNode":"Fetal sentience","fromSide":"right","toNode":"Abortion position","toSide":"left","toEnd":"arrow","label":"when sentience begins"},
-		{"id":"e52","fromNode":"Saturated fat","fromSide":"right","toNode":"Chocolate","toSide":"left","toEnd":"arrow","label":"the exception"},
-		{"id":"e53","fromNode":"Saturated fat","fromSide":"right","toNode":"Evolution","toSide":"left","toEnd":"arrow","label":"long-term harm"},
-		{"id":"e54","fromNode":"Internal moment arm","fromSide":"right","toNode":"Squat patterns","toSide":"left","toEnd":"arrow","label":"moment arms shift the work"},
-		{"id":"e55","fromNode":"Increasing motor unit recruitment","fromSide":"right","toNode":"Squat patterns","toSide":"left","toEnd":"arrow","label":"stability frees recruitment"},
-		{"id":"e56","fromNode":"Saturated fat","fromSide":"right","toNode":"Seed oils","toSide":"left","toEnd":"arrow","label":"contradicts the hypothesis"},
-		{"id":"e57","fromNode":"Colonizing nature","fromSide":"right","toNode":"Crop deaths","toSide":"left","toEnd":"arrow","label":"wild lives aren't worth preserving"},
-		{"id":"e58","fromNode":"LDL and heart disease","fromSide":"right","toNode":"Dietary cholesterol","toSide":"left","toEnd":"arrow","label":"LDL drives the risk"},
-		{"id":"e59","fromNode":"LDL and heart disease","fromSide":"right","toNode":"Chocolate","toSide":"left","toEnd":"arrow","label":"LDL is the marker"},
-		{"id":"e60","fromNode":"LDL and heart disease","fromSide":"right","toNode":"Fiber","toSide":"left","toEnd":"arrow","label":"ApoB/LDL drive risk"},
-		{"id":"e61","fromNode":"LDL and heart disease","fromSide":"right","toNode":"Seed oils","toSide":"left","toEnd":"arrow","label":"LDL, not oxLDL, tracks risk"},
-		{"id":"e62","fromNode":"Fiber","fromSide":"right","toNode":"Satiation","toSide":"left","toEnd":"arrow","label":"fiber slows emptying"},
-		{"id":"e63","fromNode":"Wild animal suffering","fromSide":"right","toNode":"Culling Predators","toSide":"left","toEnd":"arrow","label":"nature is a torture system"},
-		{"id":"e64","fromNode":"Wild animal suffering","fromSide":"right","toNode":"Rewilding","toSide":"left","toEnd":"arrow","label":"the wild is brutal"},
-		{"id":"e65","fromNode":"Wild animal suffering","fromSide":"right","toNode":"Colonizing nature","toSide":"left","toEnd":"arrow","label":"why displace nature"},
-		{"id":"e66","fromNode":"LDL and heart disease","fromSide":"right","toNode":"Saturated fat","toSide":"left","toEnd":"arrow","label":"cholesterol carries the effect"},
-		{"id":"e67","fromNode":"LDL and heart disease","fromSide":"right","toNode":"HDL","toSide":"left","toEnd":"arrow","label":"risk tracks ApoB"},
-		{"id":"e68","fromNode":"US life expectancy","fromSide":"right","toNode":"US healthcare spending","toSide":"left","toEnd":"arrow","label":"the gap isn't about care"},
-		{"id":"e69","fromNode":"Artifactual chronic disease trends","fromSide":"right","toNode":"Childhood chronic disease","toSide":"left","toEnd":"arrow","label":"some rises are diagnostic"},
-		{"id":"e70","fromNode":"Seed oils","fromSide":"right","toNode":"Ultra-processed food and additives","toSide":"left","toEnd":"arrow","label":"seed oils aren't the problem"},
-		{"id":"e71","fromNode":"Omega 6 3 ratio","fromSide":"right","toNode":"Ultra-processed food and additives","toSide":"left","toEnd":"arrow","label":"no known optimal ratio"},
-		{"id":"e72","fromNode":"LDL and heart disease","fromSide":"right","toNode":"Low-carb diets","toSide":"left","toEnd":"arrow","label":"rising LDL is a cost"}
-	]
+ "nodes": [
+  {
+   "id": "g-Exercise Science",
+   "type": "group",
+   "label": "Exercise Science",
+   "color": "2",
+   "x": 0,
+   "y": 0,
+   "width": 2100,
+   "height": 1160
+  },
+  {
+   "id": "ATP does not deplete during exercise",
+   "type": "file",
+   "file": "Exercise Science/ATP does not deplete during exercise.md",
+   "x": 60,
+   "y": 60,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Psychobiological model of fatigue",
+   "type": "file",
+   "file": "Concepts/Psychobiological model of fatigue.md",
+   "x": 60,
+   "y": 190,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Calcium ion-related fatigue",
+   "type": "file",
+   "file": "Concepts/Calcium ion-related fatigue.md",
+   "x": 60,
+   "y": 320,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Mechanical tension",
+   "type": "file",
+   "file": "Concepts/Mechanical tension.md",
+   "x": 60,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Glucocorticoids",
+   "type": "file",
+   "file": "Concepts/Glucocorticoids.md",
+   "x": 60,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Internal moment arm",
+   "type": "file",
+   "file": "Concepts/Internal moment arm.md",
+   "x": 60,
+   "y": 710,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Age and recovery",
+   "type": "file",
+   "file": "Exercise Science/Age and recovery.md",
+   "x": 60,
+   "y": 840,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Improvements in coordination traits",
+   "type": "file",
+   "file": "Exercise Science/Improvements in coordination traits.md",
+   "x": 60,
+   "y": 970,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Supraspinal CNS fatigue",
+   "type": "file",
+   "file": "Concepts/Supraspinal CNS fatigue.md",
+   "x": 480,
+   "y": 190,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Muscle swelling",
+   "type": "file",
+   "file": "Exercise Science/Muscle swelling.md",
+   "x": 480,
+   "y": 320,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Sarcomerogenesis",
+   "type": "file",
+   "file": "Concepts/Sarcomerogenesis.md",
+   "x": 480,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Anabolic Androgenic Steroids",
+   "type": "file",
+   "file": "Exercise Science/Anabolic Androgenic Steroids.md",
+   "x": 480,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Running Economy",
+   "type": "file",
+   "file": "Exercise Science/Running Economy.md",
+   "x": 480,
+   "y": 710,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Techniques to improve coordination",
+   "type": "file",
+   "file": "Exercise Science/Techniques to improve coordination.md",
+   "x": 480,
+   "y": 840,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Carbohydrate mouth rinsing",
+   "type": "file",
+   "file": "Exercise Science/Carbohydrate mouth rinsing.md",
+   "x": 900,
+   "y": 320,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Repeated bout effect",
+   "type": "file",
+   "file": "Exercise Science/Repeated bout effect.md",
+   "x": 900,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Detraining sarcomerogenesis",
+   "type": "file",
+   "file": "Exercise Science/Detraining sarcomerogenesis.md",
+   "x": 900,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Increasing motor unit recruitment",
+   "type": "file",
+   "file": "Exercise Science/Increasing motor unit recruitment.md",
+   "x": 900,
+   "y": 710,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Fatigue resistance",
+   "type": "file",
+   "file": "Exercise Science/Fatigue resistance.md",
+   "x": 1320,
+   "y": 190,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Detraining adaptations speed",
+   "type": "file",
+   "file": "Exercise Science/Detraining adaptations speed.md",
+   "x": 1320,
+   "y": 320,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Insufficient Sleep",
+   "type": "file",
+   "file": "Exercise Science/Insufficient Sleep.md",
+   "x": 1320,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Squat patterns",
+   "type": "file",
+   "file": "Exercise Science/Squat patterns.md",
+   "x": 1320,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Increasing speed",
+   "type": "file",
+   "file": "Exercise Science/Increasing speed.md",
+   "x": 1320,
+   "y": 710,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Sticking points in powerlifting",
+   "type": "file",
+   "file": "Exercise Science/Sticking points in powerlifting.md",
+   "x": 1320,
+   "y": 840,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Creatine Supplementation",
+   "type": "file",
+   "file": "Exercise Science/Creatine Supplementation.md",
+   "x": 1740,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Age and adaptations",
+   "type": "file",
+   "file": "Exercise Science/Age and adaptations.md",
+   "x": 1740,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "g-Nutrition & Health",
+   "type": "group",
+   "label": "Nutrition & Health",
+   "color": "4",
+   "x": 0,
+   "y": 1360,
+   "width": 1680,
+   "height": 900
+  },
+  {
+   "id": "Antagonistic pleiotropy",
+   "type": "file",
+   "file": "Concepts/Antagonistic pleiotropy.md",
+   "x": 60,
+   "y": 1550,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "LDL and heart disease",
+   "type": "file",
+   "file": "Concepts/LDL and heart disease.md",
+   "x": 60,
+   "y": 1680,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Omega 6 3 ratio",
+   "type": "file",
+   "file": "Nutrition & Health/Omega 6 3 ratio.md",
+   "x": 60,
+   "y": 1810,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Organic is not vegan",
+   "type": "file",
+   "file": "Nutrition & Health/Organic/Organic is not vegan.md",
+   "x": 60,
+   "y": 1940,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "HDL",
+   "type": "file",
+   "file": "Nutrition & Health/HDL.md",
+   "x": 480,
+   "y": 1420,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Saturated fat",
+   "type": "file",
+   "file": "Nutrition & Health/Saturated fat.md",
+   "x": 480,
+   "y": 1550,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Dietary cholesterol",
+   "type": "file",
+   "file": "Nutrition & Health/Dietary cholesterol.md",
+   "x": 480,
+   "y": 1680,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Low-carb diets",
+   "type": "file",
+   "file": "Nutrition & Health/Low-carb diets.md",
+   "x": 480,
+   "y": 1810,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Fiber",
+   "type": "file",
+   "file": "Nutrition & Health/Fiber.md",
+   "x": 480,
+   "y": 1940,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Organic on the environment",
+   "type": "file",
+   "file": "Nutrition & Health/Organic/Organic on the environment.md",
+   "x": 480,
+   "y": 2070,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Evolution",
+   "type": "file",
+   "file": "Nutrition & Health/Evolution.md",
+   "x": 900,
+   "y": 1550,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Chocolate",
+   "type": "file",
+   "file": "Nutrition & Health/Chocolate.md",
+   "x": 900,
+   "y": 1680,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Seed oils",
+   "type": "file",
+   "file": "Nutrition & Health/Seed oils.md",
+   "x": 900,
+   "y": 1810,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Satiation",
+   "type": "file",
+   "file": "Nutrition & Health/Satiation.md",
+   "x": 900,
+   "y": 1940,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Ultra-processed food and additives",
+   "type": "file",
+   "file": "Nutrition & Health/Ultra-processed food and additives.md",
+   "x": 1320,
+   "y": 1745,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "g-Abortion & Reproduction",
+   "type": "group",
+   "label": "Abortion & Reproduction",
+   "color": "6",
+   "x": 0,
+   "y": 2460,
+   "width": 1260,
+   "height": 510
+  },
+  {
+   "id": "Menstrual cycle",
+   "type": "file",
+   "file": "Abortion & Reproduction/Menstrual cycle.md",
+   "x": 60,
+   "y": 2520,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "Sentience and the cortex",
+   "type": "file",
+   "file": "Abortion & Reproduction/Sentience and the cortex.md",
+   "x": 60,
+   "y": 2650,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "Abortion Ethics",
+   "type": "file",
+   "file": "Abortion & Reproduction/Abortion Ethics.md",
+   "x": 60,
+   "y": 2780,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "Emergency contraception",
+   "type": "file",
+   "file": "Abortion & Reproduction/Emergency contraception.md",
+   "x": 480,
+   "y": 2520,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "Pro-Life",
+   "type": "file",
+   "file": "Abortion & Reproduction/Pro-Life.md",
+   "x": 480,
+   "y": 2650,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "Fetal sentience",
+   "type": "file",
+   "file": "Abortion & Reproduction/Fetal sentience.md",
+   "x": 480,
+   "y": 2780,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "Abortion position",
+   "type": "file",
+   "file": "Abortion & Reproduction/Abortion position.md",
+   "x": 900,
+   "y": 2650,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "g-Animal Ethics",
+   "type": "group",
+   "label": "Animal Ethics",
+   "color": "3",
+   "x": 0,
+   "y": 3170,
+   "width": 1260,
+   "height": 770
+  },
+  {
+   "id": "Animal Rights",
+   "type": "file",
+   "file": "Animal Ethics/Animal Rights.md",
+   "x": 60,
+   "y": 3425,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Wild animal suffering",
+   "type": "file",
+   "file": "Concepts/Wild animal suffering.md",
+   "x": 60,
+   "y": 3555,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Animal Procreation as Rape",
+   "type": "file",
+   "file": "Animal Ethics/Animal Procreation as Rape.md",
+   "x": 480,
+   "y": 3230,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Vegan Bivalves",
+   "type": "file",
+   "file": "Animal Ethics/Vegan Bivalves.md",
+   "x": 480,
+   "y": 3360,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Culling Predators",
+   "type": "file",
+   "file": "Animal Ethics/Culling Predators.md",
+   "x": 480,
+   "y": 3490,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Rewilding",
+   "type": "file",
+   "file": "Animal Ethics/Rewilding.md",
+   "x": 480,
+   "y": 3620,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Colonizing nature",
+   "type": "file",
+   "file": "Animal Ethics/Colonizing nature.md",
+   "x": 480,
+   "y": 3750,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Crop deaths",
+   "type": "file",
+   "file": "Animal Ethics/Crop deaths.md",
+   "x": 900,
+   "y": 3490,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "g-Ethics & Society",
+   "type": "group",
+   "label": "Ethics & Society",
+   "color": "5",
+   "x": 0,
+   "y": 4140,
+   "width": 840,
+   "height": 510
+  },
+  {
+   "id": "US life expectancy",
+   "type": "file",
+   "file": "Ethics & Society/US life expectancy.md",
+   "x": 60,
+   "y": 4200,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Artifactual chronic disease trends",
+   "type": "file",
+   "file": "Ethics & Society/Artifactual chronic disease trends.md",
+   "x": 60,
+   "y": 4330,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Gender-affirming care outcomes",
+   "type": "file",
+   "file": "Ethics & Society/Gender-affirming care outcomes.md",
+   "x": 60,
+   "y": 4460,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "US healthcare spending",
+   "type": "file",
+   "file": "Ethics & Society/US healthcare spending.md",
+   "x": 480,
+   "y": 4200,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Childhood chronic disease",
+   "type": "file",
+   "file": "Ethics & Society/Childhood chronic disease.md",
+   "x": 480,
+   "y": 4330,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Medicare and gender reassignment surgery",
+   "type": "file",
+   "file": "Ethics & Society/Medicare and gender reassignment surgery.md",
+   "x": 480,
+   "y": 4460,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "ATP does not deplete during exercise",
+   "fromSide": "right",
+   "toNode": "Creatine Supplementation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "rules out ATP supply"
+  },
+  {
+   "id": "e1",
+   "fromNode": "Psychobiological model of fatigue",
+   "fromSide": "right",
+   "toNode": "Supraspinal CNS fatigue",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "explains"
+  },
+  {
+   "id": "e2",
+   "fromNode": "Supraspinal CNS fatigue",
+   "fromSide": "right",
+   "toNode": "Carbohydrate mouth rinsing",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "mechanism"
+  },
+  {
+   "id": "e3",
+   "fromNode": "Psychobiological model of fatigue",
+   "fromSide": "right",
+   "toNode": "Carbohydrate mouth rinsing",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e4",
+   "fromNode": "Supraspinal CNS fatigue",
+   "fromSide": "right",
+   "toNode": "Insufficient Sleep",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "sleep loss raises it"
+  },
+  {
+   "id": "e5",
+   "fromNode": "Supraspinal CNS fatigue",
+   "fromSide": "right",
+   "toNode": "Increasing motor unit recruitment",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "caps recruitment"
+  },
+  {
+   "id": "e6",
+   "fromNode": "Supraspinal CNS fatigue",
+   "fromSide": "right",
+   "toNode": "Fatigue resistance",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e7",
+   "fromNode": "Supraspinal CNS fatigue",
+   "fromSide": "right",
+   "toNode": "Repeated bout effect",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "doesn't drop"
+  },
+  {
+   "id": "e8",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Repeated bout effect",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "RBE reduces it"
+  },
+  {
+   "id": "e9",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Fatigue resistance",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e10",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Muscle swelling",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "swelling triggers it"
+  },
+  {
+   "id": "e11",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Increasing speed",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "drives slow fiber shifts"
+  },
+  {
+   "id": "e12",
+   "fromNode": "Repeated bout effect",
+   "fromSide": "right",
+   "toNode": "Fatigue resistance",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "is a form of"
+  },
+  {
+   "id": "e13",
+   "fromNode": "Repeated bout effect",
+   "fromSide": "right",
+   "toNode": "Age and adaptations",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "smaller RBE in older people"
+  },
+  {
+   "id": "e14",
+   "fromNode": "Fatigue resistance",
+   "fromSide": "right",
+   "toNode": "Creatine Supplementation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "how creatine works"
+  },
+  {
+   "id": "e15",
+   "fromNode": "Mechanical tension",
+   "fromSide": "right",
+   "toNode": "Muscle swelling",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "swelling ≠ tension"
+  },
+  {
+   "id": "e16",
+   "fromNode": "Muscle swelling",
+   "fromSide": "right",
+   "toNode": "Creatine Supplementation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "creatine's size gain is swelling"
+  },
+  {
+   "id": "e17",
+   "fromNode": "Mechanical tension",
+   "fromSide": "right",
+   "toNode": "Anabolic Androgenic Steroids",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "independent inputs"
+  },
+  {
+   "id": "e18",
+   "fromNode": "Anabolic Androgenic Steroids",
+   "fromSide": "right",
+   "toNode": "Creatine Supplementation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "contrast"
+  },
+  {
+   "id": "e19",
+   "fromNode": "Mechanical tension",
+   "fromSide": "right",
+   "toNode": "Increasing motor unit recruitment",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "tension needs recruitment"
+  },
+  {
+   "id": "e20",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Insufficient Sleep",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "sleep loss lowers it"
+  },
+  {
+   "id": "e21",
+   "fromNode": "Mechanical tension",
+   "fromSide": "right",
+   "toNode": "Age and adaptations",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "older fibers still respond"
+  },
+  {
+   "id": "e22",
+   "fromNode": "Glucocorticoids",
+   "fromSide": "right",
+   "toNode": "Insufficient Sleep",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "mechanism of atrophy"
+  },
+  {
+   "id": "e23",
+   "fromNode": "Glucocorticoids",
+   "fromSide": "right",
+   "toNode": "Anabolic Androgenic Steroids",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "steroids block it"
+  },
+  {
+   "id": "e24",
+   "fromNode": "Age and recovery",
+   "fromSide": "right",
+   "toNode": "Age and adaptations",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "slow recovery → slower growth"
+  },
+  {
+   "id": "e25",
+   "fromNode": "Mechanical tension",
+   "fromSide": "right",
+   "toNode": "Sarcomerogenesis",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "passive tension"
+  },
+  {
+   "id": "e26",
+   "fromNode": "Sarcomerogenesis",
+   "fromSide": "right",
+   "toNode": "Detraining sarcomerogenesis",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e27",
+   "fromNode": "Detraining sarcomerogenesis",
+   "fromSide": "right",
+   "toNode": "Detraining adaptations speed",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "lost in ~2 weeks"
+  },
+  {
+   "id": "e28",
+   "fromNode": "Sarcomerogenesis",
+   "fromSide": "right",
+   "toNode": "Repeated bout effect",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "may cause the RBE"
+  },
+  {
+   "id": "e29",
+   "fromNode": "Detraining adaptations speed",
+   "fromSide": "right",
+   "toNode": "Age and adaptations",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "maintenance dose"
+  },
+  {
+   "id": "e30",
+   "fromNode": "Improvements in coordination traits",
+   "fromSide": "right",
+   "toNode": "Increasing motor unit recruitment",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "coordination first"
+  },
+  {
+   "id": "e31",
+   "fromNode": "Improvements in coordination traits",
+   "fromSide": "right",
+   "toNode": "Increasing speed",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "velocity-specific"
+  },
+  {
+   "id": "e32",
+   "fromNode": "Improvements in coordination traits",
+   "fromSide": "right",
+   "toNode": "Techniques to improve coordination",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e33",
+   "fromNode": "Techniques to improve coordination",
+   "fromSide": "right",
+   "toNode": "Sticking points in powerlifting",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "technique practice"
+  },
+  {
+   "id": "e34",
+   "fromNode": "Techniques to improve coordination",
+   "fromSide": "right",
+   "toNode": "Increasing speed",
+   "toSide": "left",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e35",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Increasing speed",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "recruits fast fibers"
+  },
+  {
+   "id": "e36",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Sticking points in powerlifting",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "angle-specific recruitment"
+  },
+  {
+   "id": "e37",
+   "fromNode": "Internal moment arm",
+   "fromSide": "right",
+   "toNode": "Sticking points in powerlifting",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "why sticking regions exist"
+  },
+  {
+   "id": "e38",
+   "fromNode": "Internal moment arm",
+   "fromSide": "right",
+   "toNode": "Creatine Supplementation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "small strength boost"
+  },
+  {
+   "id": "e39",
+   "fromNode": "Internal moment arm",
+   "fromSide": "right",
+   "toNode": "Running Economy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "less activation needed"
+  },
+  {
+   "id": "e40",
+   "fromNode": "Antagonistic pleiotropy",
+   "fromSide": "right",
+   "toNode": "Evolution",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "core premise"
+  },
+  {
+   "id": "e41",
+   "fromNode": "Organic is not vegan",
+   "fromSide": "right",
+   "toNode": "Organic on the environment",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "manure demand"
+  },
+  {
+   "id": "e42",
+   "fromNode": "Menstrual cycle",
+   "fromSide": "right",
+   "toNode": "Emergency contraception",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "LH surge"
+  },
+  {
+   "id": "e43",
+   "fromNode": "Menstrual cycle",
+   "fromSide": "right",
+   "toNode": "Pro-Life",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "peri-implantation window"
+  },
+  {
+   "id": "e44",
+   "fromNode": "Sentience and the cortex",
+   "fromSide": "right",
+   "toNode": "Fetal sentience",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "is a cortex needed?"
+  },
+  {
+   "id": "e45",
+   "fromNode": "Animal Rights",
+   "fromSide": "right",
+   "toNode": "Culling Predators",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "animals' right not to be hunted"
+  },
+  {
+   "id": "e46",
+   "fromNode": "Animal Rights",
+   "fromSide": "bottom",
+   "toNode": "Organic is not vegan",
+   "toSide": "top",
+   "toEnd": "arrow",
+   "label": "why funding animal ag matters"
+  },
+  {
+   "id": "e47",
+   "fromNode": "Animal Rights",
+   "fromSide": "right",
+   "toNode": "Animal Procreation as Rape",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "humans who can't consent"
+  },
+  {
+   "id": "e48",
+   "fromNode": "Animal Rights",
+   "fromSide": "right",
+   "toNode": "Rewilding",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "right not to be bred into the wild"
+  },
+  {
+   "id": "e49",
+   "fromNode": "Animal Rights",
+   "fromSide": "right",
+   "toNode": "Vegan Bivalves",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "no brain, no rights"
+  },
+  {
+   "id": "e50",
+   "fromNode": "Abortion Ethics",
+   "fromSide": "right",
+   "toNode": "Abortion position",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "violinist analogy"
+  },
+  {
+   "id": "e51",
+   "fromNode": "Fetal sentience",
+   "fromSide": "right",
+   "toNode": "Abortion position",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "when sentience begins"
+  },
+  {
+   "id": "e52",
+   "fromNode": "Saturated fat",
+   "fromSide": "right",
+   "toNode": "Chocolate",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the exception"
+  },
+  {
+   "id": "e53",
+   "fromNode": "Saturated fat",
+   "fromSide": "right",
+   "toNode": "Evolution",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "long-term harm"
+  },
+  {
+   "id": "e54",
+   "fromNode": "Internal moment arm",
+   "fromSide": "right",
+   "toNode": "Squat patterns",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "moment arms shift the work"
+  },
+  {
+   "id": "e55",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Squat patterns",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "stability frees recruitment"
+  },
+  {
+   "id": "e56",
+   "fromNode": "Saturated fat",
+   "fromSide": "right",
+   "toNode": "Seed oils",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "contradicts the hypothesis"
+  },
+  {
+   "id": "e57",
+   "fromNode": "Colonizing nature",
+   "fromSide": "right",
+   "toNode": "Crop deaths",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "wild lives aren't worth preserving"
+  },
+  {
+   "id": "e58",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Dietary cholesterol",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "LDL drives the risk"
+  },
+  {
+   "id": "e59",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Chocolate",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "LDL is the marker"
+  },
+  {
+   "id": "e60",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Fiber",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "ApoB/LDL drive risk"
+  },
+  {
+   "id": "e61",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Seed oils",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "LDL, not oxLDL, tracks risk"
+  },
+  {
+   "id": "e62",
+   "fromNode": "Fiber",
+   "fromSide": "right",
+   "toNode": "Satiation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "fiber slows emptying"
+  },
+  {
+   "id": "e63",
+   "fromNode": "Wild animal suffering",
+   "fromSide": "right",
+   "toNode": "Culling Predators",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "nature is a torture system"
+  },
+  {
+   "id": "e64",
+   "fromNode": "Wild animal suffering",
+   "fromSide": "right",
+   "toNode": "Rewilding",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the wild is brutal"
+  },
+  {
+   "id": "e65",
+   "fromNode": "Wild animal suffering",
+   "fromSide": "right",
+   "toNode": "Colonizing nature",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "why displace nature"
+  },
+  {
+   "id": "e66",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Saturated fat",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "cholesterol carries the effect"
+  },
+  {
+   "id": "e67",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "HDL",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "risk tracks ApoB"
+  },
+  {
+   "id": "e68",
+   "fromNode": "US life expectancy",
+   "fromSide": "right",
+   "toNode": "US healthcare spending",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the gap isn't about care"
+  },
+  {
+   "id": "e69",
+   "fromNode": "Artifactual chronic disease trends",
+   "fromSide": "right",
+   "toNode": "Childhood chronic disease",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "some rises are diagnostic"
+  },
+  {
+   "id": "e70",
+   "fromNode": "Seed oils",
+   "fromSide": "right",
+   "toNode": "Ultra-processed food and additives",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "seed oils aren't the problem"
+  },
+  {
+   "id": "e71",
+   "fromNode": "Omega 6 3 ratio",
+   "fromSide": "right",
+   "toNode": "Ultra-processed food and additives",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "no known optimal ratio"
+  },
+  {
+   "id": "e72",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Low-carb diets",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "rising LDL is a cost"
+  },
+  {
+   "id": "e73",
+   "fromNode": "Gender-affirming care outcomes",
+   "fromSide": "right",
+   "toNode": "Medicare and gender reassignment surgery",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the newer evidence"
+  }
+ ]
 }

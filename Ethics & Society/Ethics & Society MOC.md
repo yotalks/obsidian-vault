@@ -21,6 +21,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Childhood chronic disease drivers]] — the report's four drivers; its medication claims checked
 - [[Corporate capture of health research]] — industry influence, including on red meat research
 - [[Medicare and gender reassignment surgery]] — no national policy in 2016, not a ban; coverage is case by case
+- [[Gender-affirming care outcomes]] — newer surgery and puberty blocker evidence, and its limits
 - [[Ultra-processed food and additives]] — the report's food and additive claims (in Nutrition & Health)
 - [[Low-carb diets]] — the report's low-carb claims (in Nutrition & Health)
 - [[Dietary Guidelines for Americans]] — the report's dietary guidelines claims (in Nutrition & Health)

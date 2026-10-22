@@ -6,6 +6,7 @@ up: "[[Ethics & Society MOC]]"
 ---
 > [!summary] Bottom line
 > In 2016 Medicare chose not to set a national policy on gender reassignment surgery because it judged the evidence inconclusive for the Medicare population. That isn't a ban: regional contractors decide coverage case by case. The memo is from 2016, and more robust data has been published since then.
+> → [[Gender-affirming care outcomes]]
 
 ## The decision
 
@@ -20,3 +21,7 @@ Of 33 eligible studies, results were mixed and overall quality was low: most wer
 - The four best-designed studies of quality of life before and after surgery found no clinically significant change.
 - In Swedish national data, about 2–3% of patients requested reversal or a change of legal status.
 - A Swedish cohort of people who had surgery found higher mortality (mostly from suicide) and 2.8 times the rate of psychiatric hospitalization compared with matched controls. But the study wasn't designed to test the effect of surgery itself, since it had no comparison group of people with gender dysphoria who didn't have surgery.
+
+## Connections
+**Builds on**
+- [[Gender-affirming care outcomes]] — the more robust data published since 2016
