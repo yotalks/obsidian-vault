@@ -15,6 +15,14 @@ up: "[[Ethics & Society MOC]]"
 Both the homicidal gas chambers and the delousing chambers used Zyklon B (hydrogen cyanide). The delousing chambers have much more cyanide residue, often visible as blue staining (Prussian blue). That's expected: killing lice needs far higher concentrations for far longer than killing people, and nothing shows the gas chambers' conditions would have produced Prussian blue. Some tests, like Leuchter's, also ground whole chunks of brick even though cyanide only penetrates about 10 micrometers, diluting the samples by unknown amounts.
 [Wikipedia: Leuchter report](https://en.wikipedia.org/wiki/Leuchter_report)
 
+How much more it takes to kill lice:
+- **Lice:** in 1916 fumigation tests, gas from 10 ounces of potassium cyanide per 1,000 cubic feet for 1 hour still left some body lice alive, and took 2 hours to kill them all. If all of it converted to HCN, that's about 4.2 g of HCN per m³, or roughly 3,700 ppm, for 2 hours.
+[Creel 1916](https://www.jstor.org/stable/4573707)
+- **Humans:** the average fatal concentration is estimated at 546 ppm for 10 minutes, and 180–270 ppm has been fatal within minutes.
+[NRC 2002](https://www.ncbi.nlm.nih.gov/books/NBK207601/)
+
+So lice need about 7 times the concentration, held for 12 times as long, or roughly 80 times the total exposure.
+
 Comparing gas chamber samples with samples from rooms that weren't gas chambers or delousing chambers, in mg of cyanide per kg:
 
 | Study | Gas chambers | Other rooms | Delousing chambers |
