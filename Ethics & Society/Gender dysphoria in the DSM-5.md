@@ -33,6 +33,10 @@ The diagnosis isn't meant for gender nonconformity alone, like tomboyish girls o
 
 Among adults, 0.005–0.014% of natal males and 0.002–0.003% of natal females have it, based on specialty clinics, so these are likely underestimates. Referred children are mostly natal boys (2:1 to 4.5:1), adolescents are close to even, and adults lean natal male (1:1 to 6.1:1), though Japan and Poland lean natal female.
 
+For comparison, a meta-regression of 12 US population surveys from 2007–2015 estimated that about 390 per 100,000 adults (0.39%, almost 1 million people) identified as transgender in 2016, and the proportion rose with each survey year. That counts self-identified transgender people, not diagnosed gender dysphoria, so the two figures measure different things.
+![[US transgender population by survey year (Meerwijk 2017).jpg]]
+[Meerwijk 2017](https://pubmed.ncbi.nlm.nih.gov/28075632/)
+
 ## Development and course
 
 In clinic-referred children, cross-gender behavior usually starts between ages 2 and 4, and anatomic dysphoria becomes more common approaching puberty.
@@ -44,6 +48,10 @@ There are two broad paths:
 - **Late onset** starts around puberty or later, and parents are often surprised. Late-onset natal males are often attracted to women, may have a history of cross-dressing with sexual arousal, and seek care later. They may fluctuate more in their dysphoria and be more ambivalent about and less satisfied after surgery. Late-onset natal females are usually attracted to men and identify as gay men after transition.
 
 Most people with a disorder of sex development don't develop gender dysphoria, even with gender-atypical behavior, so gender-atypical behavior alone shouldn't be read as a sign of dysphoria.
+
+## Changes from the DSM-IV
+
+The DSM-5 replaced the DSM-IV's (1994) gender identity disorder. The DSM-IV diagnosis required a strong and persistent cross-gender identification (not just wanting the cultural advantages of the other sex), persistent discomfort with one's assigned sex or its gender role, no physical intersex condition, and clinically significant distress or impairment. The DSM-5 instead centers on a marked incongruence between experienced and assigned gender, uses "gender" rather than "sex", allows alternative gender identities beyond the binary, and lets people with disorders of sex development be diagnosed.
 
 ## Risk factors
 

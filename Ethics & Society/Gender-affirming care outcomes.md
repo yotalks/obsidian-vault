@@ -9,10 +9,23 @@ up: "[[Ethics & Society MOC]]"
 
 ## Surgery and mental health
 
-The 2016 Medicare memo didn't include a 2013 study on trans suicidality, and higher-quality research has come out since (see [[Medicare and gender reassignment surgery]]).
+Good studies of whether transition helps need three things:
+- A control group.
+- Controls who are trans people who want the treatment but haven't had it. Trans people who don't want it may already have had their dysphoria eased by earlier care, so we wouldn't expect more treatment to help them.
+- Past-year outcomes, not lifetime ones, because lifetime suicide attempts include the years before transition.
+
+Two often-cited studies fall short of these:
+- A Swedish cohort of all 324 people who had sex reassignment in 1973–2003 found higher mortality (2.8 times), suicide (19.1 times), suicide attempts and psychiatric hospitalization than the general population. But the controls were the general population, not trans people who wanted reassignment and didn't get it.
+[Dhejne 2011](https://pubmed.ncbi.nlm.nih.gov/21364939/)
+- 41% of trans and gender non-conforming respondents to a US national survey reported a lifetime suicide attempt, compared with 4.6% of the US population. But lifetime attempts include attempts before transition.
+[Haas 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-GNC-Suicide-Attempts-Jan-2014.pdf)
+
+The 2016 Medicare memo didn't include a 2013 Ontario study (433 trans people) that meets these criteria. Among people who had medically transitioned, 23% had past-year suicidal ideation and 1% attempted suicide, compared with 55% and 27% among people who planned to transition but hadn't started. Strong parental support was also linked to less ideation (19% vs 44%) and fewer attempts (2% vs 15%).
+![[Suicidality by transition status (Bauer 2013).jpg]]
 [Bauer 2013](https://doi.org/10.7202/1017478ar)
 
-In the 2015 US Transgender Survey (27,715 respondents), people who'd had gender-affirming surgery at least 2 years earlier had lower [[Glossary#OR|odds]] of past-month severe psychological distress (0.58), past-year smoking (0.65) and past-year suicidal ideation (0.56) than people who wanted surgery but hadn't had it, after adjusting for demographics and other gender-affirming care. It's a cross-sectional survey of people reached through community outreach, not a random sample.
+In the 2015 US Transgender Survey (27,715 respondents), people who'd had gender-affirming surgery at least 2 years earlier had lower [[Glossary#OR|odds]] of past-month severe psychological distress (0.58), past-year smoking (0.65) and past-year suicidal ideation (0.56) than people who wanted surgery but hadn't had it, after adjusting for demographics and other gender-affirming care. There was a dose response: compared with people who'd had none of the surgeries they wanted, those who'd had all of them had lower odds of distress (0.47), ideation (0.44) and suicide attempts (0.44) than those who'd had only some (0.70, 0.72 and 0.70). It's a cross-sectional survey of people reached through community outreach, not a random sample.
+![[Mental health with and without surgery (Almazan 2021).jpg]]
 [Almazan 2021](https://pubmed.ncbi.nlm.nih.gov/33909023/)
 
 A Swedish total-population study originally reported that more time since surgery was linked to less mental health treatment. After letters questioned its methods, the authors reanalyzed the data comparing people with gender incongruence who'd had surgery with those who hadn't, and found no advantage of surgery for mood or anxiety care visits, prescriptions, or hospitalization after suicide attempts. The journal said the original conclusion was too strong.

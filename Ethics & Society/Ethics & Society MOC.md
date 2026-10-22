@@ -12,6 +12,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Trans Identity]] — defining man and woman by weighted gamete-associated traits; being trans isn't a mental illness
 - [[Gender dysphoria in the DSM-5]] — the diagnosis requires distress; persistence, onset types and differential diagnosis
 - [[Pronoun usage]] — about 2 in 5 in English-speaking countries use a trans person's lived-gender pronoun
+- [[Gender identity development]] — milestones by age, and the David Reimer case
 - [[Black White IQ gap]]
 - [[Slurs]] — how slurs stop being harmful, and why 'retard' is different
 
