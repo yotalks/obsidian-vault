@@ -10,14 +10,17 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Fiber]]
 - [[GLP 1s]]
 - [[Low-carb diets]] — modest, mostly short-term edge over low-fat; no better for insulin resistance
+- [[Intermittent fasting]] — no better for weight loss, and may cost more lean mass
 
 ## Vegan diets
-- [[Vegan diets]]
+- [[Vegan diets]] — covering nutrient gaps; plant toxin claims don't hold up
+- [[Impossible Beef]] — likely healthier than beef, though high in saturated fat
 
 ## Diet & disease
 - [[TMAO]]
 - [[Lipogenic Fructose]] — fructose, liver fat, and what actually drives NAFLD
 - [[Antagonistic pleiotropy]] → [[Evolution]] — why novel foods can beat ancestral ones long-term
+- [[Hunter-gatherer diets]] — the Hadza didn't eat mostly meat
 
 ## Heart health
 - [[LDL and heart disease]] — the premise the heart-health notes rest on
@@ -33,6 +36,14 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 ## Ultra-processed food
 - [[Ultra-processed food and additives]] — checking the MAHA report's claims on seed oils, dyes, BHT, parabens and sweeteners
 - [[Dietary Guidelines for Americans]] — a guideline-compliant menu can be 91% ultra-processed
+
+## Animal farming
+- [[Cattle production in the USA]] — grain-finished cattle spend most of their lives on grass
+- [[Grass fed beef]] — not healthier, and grass-finishing all US beef would need far more land
+- [[Polyface Farm]] — its pigs eat bought-in corn and soy
+
+## Other health
+- [[Saunas]] — regular use temporarily impairs sperm
 
 ## Infectious disease
 - [[COVID and erectile dysfunction]] — a plausible causal link, backed by animal data; human data are still observational

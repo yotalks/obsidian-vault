@@ -16,3 +16,4 @@ LDL particles — more precisely, all ApoB-carrying particles — cause atherosc
 - [[Saturated fat]] — why the benefit of cutting saturated fat runs through total cholesterol
 - [[HDL]] — why risk follows ApoB rather than HDL
 - [[Low-carb diets]] — why the LDL rise on very-low-carb and high-saturated-fat diets counts against them
+- [[Impossible Beef]] — why the Impossible Burger's coconut oil counts against it

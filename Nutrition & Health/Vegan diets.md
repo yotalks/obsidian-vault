@@ -4,7 +4,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> The '84% quit' claim misreads the study, and vegans can cover nutrient gaps: B12, calcium, iodine and vitamin D through supplements or fortification, vitamin A from carotenoids, and no demonstrated harm from lower taurine, carnosine or omega-3 levels.
+> The '84% quit' claim misreads the study, and vegans can cover nutrient gaps: B12, calcium, iodine and vitamin D through supplements or fortification, vitamin A from carotenoids, and no demonstrated harm from lower taurine, carnosine, carnitine or omega-3 levels. Choline and vitamin K2 are available from plant foods, and vitamin K1 comes almost only from plants. Claims that plant toxins harm the thyroid, androgens or gut, or that our CYP450 enzymes evolved to fight plants, aren't supported, and vegan diets don't hurt endurance or strength.
 
 ## Adherence
 
@@ -32,7 +32,6 @@ When we try to correct vitamin A deficiency with dietary carotenoids in humans, 
 [van Jaarsveld 2005](https://pubmed.ncbi.nlm.nih.gov/15883432/)
 [Ribaya-Mercado 2007](https://pubmed.ncbi.nlm.nih.gov/17413103/)
 [de Pee 1998](https://pubmed.ncbi.nlm.nih.gov/9808223/)
-[Tang 1999](https://pubmed.ncbi.nlm.nih.gov/10584052/)
 [Tang 1999](https://pubmed.ncbi.nlm.nih.gov/10584052/)
 [Tang 2005](https://pubmed.ncbi.nlm.nih.gov/16210712/)
 
@@ -71,17 +70,128 @@ With taurine, we have data that shows in 12 strict vegan males who had maintaine
 [Rana 1986](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/taurine-concentrations-in-the-diet-plasma-urine-and-breast-milk-of-vegans-compared-with-omnivores/57EF109C7DCF9067E72C751B6F6D8874)
 [Laidlaw 1988](https://ajcn.nutrition.org/article/S0002-9165(23)16501-4/abstract)
 
-Heme iron, even though not essential, can be achieved with impossible burgers.
+One limitation of the Rana paper is that they centrifuged the blood samples at 1,500g for 15 minutes, which leaves a small amount of platelets behind, and platelets have high taurine levels inside them. It's likely not a lot, since 20 minutes at 1,500g removes 95% of platelets from platelet-rich plasma, but it's possible this shifts the absolute taurine levels.
+[Chandler 2013](https://pubmed.ncbi.nlm.nih.gov/23249614/)
+
+This limitation applies to both omnivore and vegan samples, but it does change the scale of the comparison, so to meta-analytically pool these two studies we need the standardized mean difference rather than the mean difference. Pooled that way, the two studies barely miss statistical significance (P = 0.06).
+![[Vegan taurine meta-analysis SMD.png]]
+With the plain mean difference, it would be clearly significant (P = 0.004).
+![[Vegan taurine meta-analysis MD.png]]
+
+Heme iron, even though not essential, can be gotten from plant-based meats like the [[Impossible Beef|Impossible Burger]].
 
 EPA/DHA can be found in seaweed, algae, algae oil, and converted from ALA. The differences between circulating omega-3s, EPA, and DHA between vegans, vegetarians, and omnivores are mixed. Some find large differences, while some find it's similar. Though this study had low sample sizes of vegans and the measurement of blood omega-3 levels had an even lower vegan sample size. Even then, lower levels don't necessarily mean deficiency so there's no basis to say there would be worse health outcomes.
 [Welch 2010](https://academic.oup.com/ajcn/article/92/5/1040/4597496)
 [Sarter 2015](https://www.sciencedirect.com/science/article/pii/S0261561414000764)
-One limitation of the Rana paper is that they centrifuged the blood samples for 1,500g for 15 minutes which leaves a small amount of platelets behind, which have high taurine levels intracellularly. It's likely not a lot as there's data that 20 minutes at 1,500g removes 95% of platelets in platelet rich plasma, but it's possible this limitation can shift the absolute taurine levels. 
-[Chandler 2013](https://pubmed.ncbi.nlm.nih.gov/23249614/)
-This limitation applies to both omnivore and vegan samples, but it does change the scale of the comparison so in order to meta analytically summate these two studies, we would need to use the standard mean differences rather than the mean difference. A meta analytic summation of these two studies barely misses statistical significance P=0.06
-![[Vegan taurine meta-analysis SMD.png]]
-Without the standard mean difference, it would be clearly significant.
-![[Vegan taurine meta-analysis MD.png]]
+
+### Vitamin K2
+
+It's claimed vitamin K2 is only found in animal foods. That isn't true: it's found in high amounts in natto, a fermented soy food, and eating natto raises circulating K2 (MK-7). It's also found in smaller amounts in sauerkraut.
+[Tsukamoto 2000](https://pubmed.ncbi.nlm.nih.gov/10874601/)
+
+Vitamin K2 comes in several forms with different chain lengths. MK-4 and MK-7 are the most talked about, but there are longer ones like MK-8 and MK-9. Natto has MK-7 and a variety of longer forms, but no MK-4.
+
+Humans can make MK-4 from vitamin K1, which is found in plants. This happens either directly in certain tissues, or by converting K1 to K3 (menadione) and then attaching a side chain (prenylation) with the enzyme UBIAD1.
+[Nakagawa 2010](https://pubmed.ncbi.nlm.nih.gov/20953171/)
+
+Variation in how well people convert it isn't a major concern. The most extreme known reductions come from the UBIAD1 mutations p.N102S, p.D112N, p.G177E and p.G177R, which lowered MK-4 synthesis from K3 by 22%, 6%, 30% and 39% respectively. These mutations cause Schnyder corneal dystrophy, but the disease isn't thought to be due to MK-4 deficiency, and MK-4 supplements have never been shown to slow or improve it.
+[Nickerson 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444929/)
+
+Dietary MK-4 is poorly absorbed and may need high doses to absorb meaningful amounts. One study used 2.2 µmol doses, about 978 µg: roughly 10 times the recommended intake of total vitamin K, about 8 times what the average person eats, and over 5 times average intake including supplements.
+[NIH ODS: Vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/)
+Other studies gave around 1 mg of MK-4 dissolved in corn oil and found the same issue.
+[Schurgers 2002](https://pubmed.ncbi.nlm.nih.gov/11960685/)
+[Uematsu 1996](https://www.sciencedirect.com/science/article/pii/S0022354915501494)
+[Gijsbers 1996](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/effect-of-food-composition-on-vitamin-k-absorption-in-human-volunteers/3B69CB36F4D91F24889A49BF03D9E6B9)
+
+At doses closer to what food provides, MK-4 doesn't show up in the blood at all. A single 420 µg dose was undetectable in serum at every time point, and 60 µg a day for a week didn't raise serum MK-4, while the same doses of MK-7 were well absorbed.
+[Sato 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3502319/)
+
+This is consistent with dose-response data on osteocalcin carboxylation. MK-4 only lowered undercarboxylated osteocalcin at 600 µg a day or more, and only raised carboxylated osteocalcin at 900 µg a day or more.
+[Nakamura 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4155127/)
+
+So people on a carnivore diet not only get no vitamin K1, they also can't rely on MK-4 and have to depend on MK-7, MK-8, MK-9 and other longer forms. Vitamin K1 is an example of a nutrient found readily in plants but only in trace amounts in animal foods.
+
+### Choline
+
+Choline does occur in plants. Plant sources include tofu, soy nuts, soy milk, cruciferous vegetables, cooked dried beans, quinoa, peanuts and peanut butter, and vegans can get all the choline they need on a well-planned diet.
+[VeganHealth: Choline](https://veganhealth.org/choline/#menu)
+
+### Carnitine and anserine
+
+It's true carnitine isn't found in plants, but in a trial, omnivores who switched to a vegetarian diet didn't have reduced muscle carnitine levels.
+[Blancquaert 2018](https://pubmed.ncbi.nlm.nih.gov/29569535/)
+Three months is likely enough to detect a difference.
+[Reuter 2012](https://link.springer.com/article/10.1007/BF03261931)
+Carnitine homeostasis is suggested to occur at 1–2 µmol/kg/day,
+[Evans 2003](https://link.springer.com/article/10.2165/00003088-200342110-00002)
+which basically every vegan adult in this study reached, the shortest time on a vegan diet being 0.3 years.
+[Lombard 1989](https://pubmed.ncbi.nlm.nih.gov/2756917/)
+
+It's also true plants don't have anserine, but muscle anserine is determined by beta-alanine status, and omnivores who switch to a vegetarian diet don't get reduced beta-alanine levels.
+[Blancquaert 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009790/)
+[Blancquaert 2018](https://pubmed.ncbi.nlm.nih.gov/29569535/)
+
+## Plant toxins and antinutrients
+
+### Most plants aren't edible
+
+The idea that most plants aren't edible is irrelevant to whether a person should eat a plant-based or an animal-based diet. Most plants being inedible and a plant-based diet being healthier than an animal-based one are compatible propositions; both can be true at once.
+
+There are about 390,900 known vascular plant species, about 369,400 of them flowering plants (angiosperms).
+[Botany One 2017](https://botany.one/2017/06/state-of-world-plants/)
+According to the FAO, about 4% of known plant species are edible.
+[FAO](https://www.fao.org/4/x0171e/x0171e03.htm)
+
+None of this matters, though, because the advice is to eat edible plant species, not inedible ones.
+
+### Cytochrome P450
+
+Some argue that the cytochrome P450 (CYP450) system shows plants are evolving to kill us, and that we evolved CYP450 enzymes to protect ourselves from plant toxins. For one, this is mechanistic speculation, which matters little when we have outcome data.
+
+The theory also doesn't hold up against the genetic data. Even in the data showing contraction of CYP450 genes in carnivores, the proposed explanation is retaining retinol and arachidonic acid levels, not that they no longer need to metabolize plant toxins.
+[Kim 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5090899/#MOESM3)
+
+Across 73 vertebrates, the number of CYP2D genes wasn't related to diet (herbivore, omnivore or carnivore).
+[Feng 2018](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.4568)
+
+In birds, differences in selection on CYP2D genes were linked to habitat and migratory behavior rather than diet, which was linked only to other CYP2 subfamilies.
+[Almeida 2016](https://academic.oup.com/gbe/article/8/4/1115/2574007)
+
+### Thyroid
+
+It's also claimed plants damage the thyroid, but vegans don't have a higher risk of thyroid disorders. In the Adventist Health Study-2, vegan diets tended toward lower risk of hypothyroidism (odds ratio 0.78 for new cases, not significant), though lacto-ovo vegetarians had slightly higher prevalence (1.09).
+[Tonstad 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3847753/)
+
+### Androgens
+
+It's also claimed plants lower androgens, but vegan men don't have reduced androgens. They had higher total testosterone, offset by higher sex hormone binding globulin, and no difference in free testosterone.
+[Allen 2000](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2374537/pdf/83-6691152a.pdf)
+
+### Diarrhea and IBS
+
+It's claimed plants cause diarrhea. There isn't much data on this in vegans, but several cross-sectional studies looked at irritable bowel syndrome (IBS) in vegetarians.
+[Khayyatzadeh 2016](https://pubmed.ncbi.nlm.nih.gov/27324285/)
+[Ghoshal 2017](https://pubmed.ncbi.nlm.nih.gov/27262283/)
+[Buscail 2017](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0183039)
+
+Pooling them gives null results with both the random-effects model (odds ratio 2.41, 95% CI 0.57–10.07) and the fixed-effects model (0.90, 0.70–1.14). The studies disagree a lot (I² = 89%): two found more IBS in vegetarians, and the largest found less.
+![[Vegetarian diet and IBS meta-analysis (random effects).png]]
+![[Vegetarian diet and IBS meta-analysis (fixed effects).png]]
+
+The evidence doesn't support the claim that plants cause diarrhea.
+
+### Sulforaphane
+
+Sulforaphane is found in cruciferous vegetables like broccoli and cabbage and is claimed to be harmful. Interventional trials in humans found it safe.
+[Shapiro 2006](https://pubmed.ncbi.nlm.nih.gov/16965241/)
+[Cornblatt 2007](https://pubmed.ncbi.nlm.nih.gov/17347138/)
+[Alumkal 2015](https://pubmed.ncbi.nlm.nih.gov/25431127/)
+
+## Performance
+
+Vegan diets aren't detrimental to endurance and muscle strength.
+[Boutros 2020](https://www.nature.com/articles/s41430-020-0639-y)
 
 > [!note] My take
 > If good data came out that vegans would be better off with higher levels of taurine, then I would recommend supplementation.

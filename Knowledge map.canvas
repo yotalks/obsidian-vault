@@ -278,14 +278,14 @@
    "x": 0,
    "y": 1360,
    "width": 1680,
-   "height": 900
+   "height": 1160
   },
   {
    "id": "Antagonistic pleiotropy",
    "type": "file",
    "file": "Concepts/Antagonistic pleiotropy.md",
    "x": 60,
-   "y": 1550,
+   "y": 1615,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -295,7 +295,7 @@
    "type": "file",
    "file": "Concepts/LDL and heart disease.md",
    "x": 60,
-   "y": 1680,
+   "y": 1745,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -305,7 +305,7 @@
    "type": "file",
    "file": "Nutrition & Health/Omega 6 3 ratio.md",
    "x": 60,
-   "y": 1810,
+   "y": 1875,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -315,7 +315,17 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 1940,
+   "y": 2005,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Cattle production in the USA",
+   "type": "file",
+   "file": "Nutrition & Health/Cattle production in the USA.md",
+   "x": 60,
+   "y": 2135,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -371,11 +381,31 @@
    "color": "4"
   },
   {
+   "id": "Impossible Beef",
+   "type": "file",
+   "file": "Nutrition & Health/Impossible Beef.md",
+   "x": 480,
+   "y": 2070,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Organic on the environment",
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic on the environment.md",
    "x": 480,
-   "y": 2070,
+   "y": 2200,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Grass fed beef",
+   "type": "file",
+   "file": "Nutrition & Health/Grass fed beef.md",
+   "x": 480,
+   "y": 2330,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -385,7 +415,7 @@
    "type": "file",
    "file": "Nutrition & Health/Evolution.md",
    "x": 900,
-   "y": 1550,
+   "y": 1680,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -395,7 +425,7 @@
    "type": "file",
    "file": "Nutrition & Health/Chocolate.md",
    "x": 900,
-   "y": 1680,
+   "y": 1810,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -405,7 +435,7 @@
    "type": "file",
    "file": "Nutrition & Health/Seed oils.md",
    "x": 900,
-   "y": 1810,
+   "y": 1940,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -415,7 +445,17 @@
    "type": "file",
    "file": "Nutrition & Health/Satiation.md",
    "x": 900,
-   "y": 1940,
+   "y": 2070,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Hunter-gatherer diets",
+   "type": "file",
+   "file": "Nutrition & Health/Hunter-gatherer diets.md",
+   "x": 1320,
+   "y": 1810,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -425,7 +465,7 @@
    "type": "file",
    "file": "Nutrition & Health/Ultra-processed food and additives.md",
    "x": 1320,
-   "y": 1745,
+   "y": 1940,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -436,7 +476,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 2460,
+   "y": 2720,
    "width": 1260,
    "height": 510
   },
@@ -445,7 +485,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 2520,
+   "y": 2780,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -455,7 +495,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 2650,
+   "y": 2910,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -465,7 +505,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 2780,
+   "y": 3040,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -475,7 +515,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 2520,
+   "y": 2780,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -485,7 +525,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 2650,
+   "y": 2910,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -495,7 +535,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 2780,
+   "y": 3040,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -505,7 +545,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 2650,
+   "y": 2910,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -516,7 +556,7 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 3170,
+   "y": 3430,
    "width": 1260,
    "height": 770
   },
@@ -525,7 +565,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 3425,
+   "y": 3685,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -535,7 +575,7 @@
    "type": "file",
    "file": "Concepts/Wild animal suffering.md",
    "x": 60,
-   "y": 3555,
+   "y": 3815,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -545,7 +585,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
-   "y": 3230,
+   "y": 3490,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -555,7 +595,7 @@
    "type": "file",
    "file": "Animal Ethics/Vegan Bivalves.md",
    "x": 480,
-   "y": 3360,
+   "y": 3620,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -565,7 +605,7 @@
    "type": "file",
    "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
-   "y": 3490,
+   "y": 3750,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -575,7 +615,7 @@
    "type": "file",
    "file": "Animal Ethics/Rewilding.md",
    "x": 480,
-   "y": 3620,
+   "y": 3880,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -585,7 +625,7 @@
    "type": "file",
    "file": "Animal Ethics/Colonizing nature.md",
    "x": 480,
-   "y": 3750,
+   "y": 4010,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -595,7 +635,7 @@
    "type": "file",
    "file": "Animal Ethics/Crop deaths.md",
    "x": 900,
-   "y": 3490,
+   "y": 3750,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -606,7 +646,7 @@
    "label": "Ethics & Society",
    "color": "5",
    "x": 0,
-   "y": 4140,
+   "y": 4400,
    "width": 1260,
    "height": 640
   },
@@ -615,7 +655,7 @@
    "type": "file",
    "file": "Ethics & Society/US life expectancy.md",
    "x": 60,
-   "y": 4265,
+   "y": 4525,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -625,7 +665,7 @@
    "type": "file",
    "file": "Ethics & Society/Artifactual chronic disease trends.md",
    "x": 60,
-   "y": 4395,
+   "y": 4655,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -635,7 +675,7 @@
    "type": "file",
    "file": "Ethics & Society/Gender dysphoria in the DSM-5.md",
    "x": 60,
-   "y": 4525,
+   "y": 4785,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -645,7 +685,7 @@
    "type": "file",
    "file": "Ethics & Society/US healthcare spending.md",
    "x": 480,
-   "y": 4200,
+   "y": 4460,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -655,7 +695,7 @@
    "type": "file",
    "file": "Ethics & Society/Childhood chronic disease.md",
    "x": 480,
-   "y": 4330,
+   "y": 4590,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -665,7 +705,7 @@
    "type": "file",
    "file": "Ethics & Society/Gender-affirming care outcomes.md",
    "x": 480,
-   "y": 4460,
+   "y": 4720,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -675,7 +715,7 @@
    "type": "file",
    "file": "Ethics & Society/Trans Identity.md",
    "x": 480,
-   "y": 4590,
+   "y": 4850,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -685,7 +725,7 @@
    "type": "file",
    "file": "Ethics & Society/Medicare and gender reassignment surgery.md",
    "x": 900,
-   "y": 4395,
+   "y": 4655,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1369,6 +1409,33 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "persistence tracks severity"
+  },
+  {
+   "id": "e76",
+   "fromNode": "Cattle production in the USA",
+   "fromSide": "right",
+   "toNode": "Grass fed beef",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "time on grass"
+  },
+  {
+   "id": "e77",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Impossible Beef",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "saturated fat is a cost"
+  },
+  {
+   "id": "e78",
+   "fromNode": "Evolution",
+   "fromSide": "right",
+   "toNode": "Hunter-gatherer diets",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "ancestral isn't optimal"
   }
  ]
 }

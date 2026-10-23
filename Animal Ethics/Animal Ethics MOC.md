@@ -19,6 +19,9 @@ Animal rights and what follows from them.
 - [[Animal Procreation as Rape]] — whether animal sex can be rape
 - [[Crop deaths]] — no evidence cropland kills more animals than wildland
 
+## Farming practices
+- [[Foie gras production]] — force-fed birds show aversion to the feeding
+
 ## Consumer impact
 - [[Animal agriculture subsidies]] — buying less isn't offset by the government buying more
 

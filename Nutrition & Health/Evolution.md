@@ -52,3 +52,6 @@ The healthfulness of foods at the end of the day is relative to other substituti
 **Builds on**
 - [[Antagonistic pleiotropy]] — the mechanism the whole argument rests on
 - [[Saturated fat]] — the argument's example assumes saturated fat harms long-term health
+
+**Feeds into**
+- [[Hunter-gatherer diets]] — why what hunter-gatherers ate doesn't settle what's healthiest
