@@ -15,6 +15,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 ## Vegan diets
 - [[Vegan diets]] — covering nutrient gaps; plant toxin claims don't hold up
 - [[Impossible Beef]] — likely healthier than beef, though high in saturated fat
+- [[Plant toxins and antinutrients]] — CYP450, thyroid, androgen, IBS and sulforaphane claims don't hold up
 
 ## Diet & disease
 - [[TMAO]]
@@ -27,7 +28,11 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[HDL]] — its protective link disappears in genetic studies; risk tracks ApoB
 - [[Saturated fat]] — replacing it with polyunsaturated fat cuts heart disease
 - [[Chocolate]] — the saturated fat that doesn't raise LDL
-- [[Seed oils]] — LDL oxidation is real but small; no good evidence for cancer harm; linked to lower diabetes risk
+- [[Seed oils]] — harm claims rest on mechanisms, not outcomes
+  - [[Seed oils and LDL oxidation]] — real but small, and oxidized LDL doesn't track risk
+  - [[Seed oils and cancer]] — trials, cohorts and MR are null or protective
+  - [[Seed oils and obesity]] — no appetite effect in humans; PUFA raises energy expenditure
+  - [[Seed oils and diabetes]] — linked to lower diabetes risk
 - [[Omega 6 3 ratio]] — no known optimal ratio; omega-3 supplements don't help primary prevention
 - [[Plant based diet CVD reversal]] — prevents progression and events, but doesn't reverse disease
 - [[Dietary cholesterol]] — a dose response that flattens out, but still a risk
@@ -38,9 +43,9 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Dietary Guidelines for Americans]] — a guideline-compliant menu can be 91% ultra-processed
 
 ## Animal farming
-- [[Cattle production in the USA]] — grain-finished cattle spend most of their lives on grass
-- [[Grass fed beef]] — not healthier, and grass-finishing all US beef would need far more land
+- [[Grass fed beef]] — not healthier, needs far more land, and has a bigger carbon footprint
 - [[Polyface Farm]] — its pigs eat bought-in corn and soy
+- [[Livestock and climate change]] — about a fifth of warming to 2010; vegan diets emit 40% of heavy meat eaters'
 
 ## Other health
 - [[Saunas]] — regular use temporarily impairs sperm

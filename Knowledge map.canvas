@@ -311,11 +311,21 @@
    "color": "4"
   },
   {
+   "id": "Seed oils",
+   "type": "file",
+   "file": "Nutrition & Health/Seed oils.md",
+   "x": 60,
+   "y": 1875,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Omega 6 3 ratio",
    "type": "file",
    "file": "Nutrition & Health/Omega 6 3 ratio.md",
    "x": 60,
-   "y": 1875,
+   "y": 2005,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -324,16 +334,6 @@
    "id": "Organic is not vegan",
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic is not vegan.md",
-   "x": 60,
-   "y": 2005,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Cattle production in the USA",
-   "type": "file",
-   "file": "Nutrition & Health/Cattle production in the USA.md",
    "x": 60,
    "y": 2135,
    "width": 300,
@@ -401,9 +401,9 @@
    "color": "4"
   },
   {
-   "id": "Organic on the environment",
+   "id": "Ultra-processed food and additives",
    "type": "file",
-   "file": "Nutrition & Health/Organic/Organic on the environment.md",
+   "file": "Nutrition & Health/Ultra-processed food and additives.md",
    "x": 480,
    "y": 2200,
    "width": 300,
@@ -411,9 +411,9 @@
    "color": "4"
   },
   {
-   "id": "Grass fed beef",
+   "id": "Organic on the environment",
    "type": "file",
-   "file": "Nutrition & Health/Grass fed beef.md",
+   "file": "Nutrition & Health/Organic/Organic on the environment.md",
    "x": 480,
    "y": 2330,
    "width": 300,
@@ -441,9 +441,9 @@
    "color": "4"
   },
   {
-   "id": "Seed oils",
+   "id": "Seed oils and LDL oxidation",
    "type": "file",
-   "file": "Nutrition & Health/Seed oils.md",
+   "file": "Nutrition & Health/Seed oils and LDL oxidation.md",
    "x": 900,
    "y": 1940,
    "width": 300,
@@ -465,17 +465,7 @@
    "type": "file",
    "file": "Nutrition & Health/Hunter-gatherer diets.md",
    "x": 1320,
-   "y": 1810,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Ultra-processed food and additives",
-   "type": "file",
-   "file": "Nutrition & Health/Ultra-processed food and additives.md",
-   "x": 1320,
-   "y": 1940,
+   "y": 1875,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1244,7 +1234,7 @@
    "id": "e56",
    "fromNode": "Saturated fat",
    "fromSide": "right",
-   "toNode": "Seed oils",
+   "toNode": "Seed oils and LDL oxidation",
    "toSide": "left",
    "toEnd": "arrow",
    "label": "contradicts the hypothesis"
@@ -1289,7 +1279,7 @@
    "id": "e61",
    "fromNode": "LDL and heart disease",
    "fromSide": "right",
-   "toNode": "Seed oils",
+   "toNode": "Seed oils and LDL oxidation",
    "toSide": "left",
    "toEnd": "arrow",
    "label": "LDL, not oxLDL, tracks risk"
@@ -1422,15 +1412,6 @@
   },
   {
    "id": "e76",
-   "fromNode": "Cattle production in the USA",
-   "fromSide": "right",
-   "toNode": "Grass fed beef",
-   "toSide": "left",
-   "toEnd": "arrow",
-   "label": "time on grass"
-  },
-  {
-   "id": "e77",
    "fromNode": "LDL and heart disease",
    "fromSide": "right",
    "toNode": "Impossible Beef",
@@ -1439,7 +1420,7 @@
    "label": "saturated fat is a cost"
   },
   {
-   "id": "e78",
+   "id": "e77",
    "fromNode": "Evolution",
    "fromSide": "right",
    "toNode": "Hunter-gatherer diets",
@@ -1448,7 +1429,7 @@
    "label": "ancestral isn't optimal"
   },
   {
-   "id": "e79",
+   "id": "e78",
    "fromNode": "Increasing motor unit recruitment",
    "fromSide": "right",
    "toNode": "Individual differences in muscle growth",
@@ -1457,7 +1438,7 @@
    "label": "only recruited fibers grow"
   },
   {
-   "id": "e80",
+   "id": "e79",
    "fromNode": "Individual differences in muscle growth",
    "fromSide": "right",
    "toNode": "Anabolic Androgenic Steroids",
