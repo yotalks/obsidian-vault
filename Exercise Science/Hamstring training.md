@@ -34,7 +34,7 @@ This has its best leverage for knee flexion with the hip flexed and the feet tur
 The hamstrings' hip extension moment arm increases up to about 35° of hip flexion and then decreases.
 [Németh 1985](https://pubmed.ncbi.nlm.nih.gov/3988782/)
 
-The 45° back extension (Roman chair) activated the biceps femoris more than both the Romanian deadlift and the seated back extension machine, especially in the upper part of the movement.
+The 45° back extension (Roman chair) activated the biceps femoris more than both the stiff-legged deadlift (SLDL; the paper labels it a Romanian deadlift, but describes starting upright with slightly bent knees and lowering the torso to parallel) and the seated back extension machine, especially in the upper part of the movement.
 [Andersen 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8057707/)
 
 ## Biceps femoris short head
