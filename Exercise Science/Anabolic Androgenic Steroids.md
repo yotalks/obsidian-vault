@@ -16,6 +16,9 @@ up: "[[Exercise Science MOC]]"
 AAS increase muscle size dose-dependently, and the increase is fiber hypertrophy starting as low as 50 mg per week.
 [Sinha-Hikim 2002](https://pubmed.ncbi.nlm.nih.gov/12067856/)
 
+Steroids may also let fibers grow past the size limit that oxidative capacity normally sets, and add new fibers through hyperplasia. Pushing past that limit may raise the risk of rhabdomyolysis.
+→ [[Individual differences in muscle growth]]
+
 The two stimuli are additive, not overlapping. Trained subjects on AAS hypertrophy more than untrained subjects on AAS, so training adds on top rather than being substituted for.
 [Bhasin 1996](https://pubmed.ncbi.nlm.nih.gov/8637535/)
 
@@ -57,6 +60,7 @@ Rupture risk elevation applies to prescription [[Glossary#TRT|TRT]] as well as r
 **Builds on**
 - [[Mechanical tension]] — tension and androgens are separate growth signals
 - [[Glucocorticoids]] — steroids let users diet harder because they oppose glucocorticoids
+- [[Individual differences in muscle growth]] — fiber size is normally capped by oxidative capacity, which steroids may push past
 
 **Feeds into**
 - [[Creatine Supplementation]] — a true growth stimulus works without training; creatine doesn't

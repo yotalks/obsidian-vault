@@ -19,6 +19,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 ## 3. What makes muscle grow
 - [[Mechanical tension]] — the growth stimulus
 - [[Increasing motor unit recruitment]] — fibers must be recruited to feel tension
+- [[Individual differences in muscle growth]] — starting point and fiber type set how fast you grow
 - [[Muscle swelling]] — the pump doesn't add tension
 - [[Anabolic Androgenic Steroids]] — a separate growth signal (and a tendon problem)
 - [[Sarcomerogenesis]] — growing longer, from passive tension

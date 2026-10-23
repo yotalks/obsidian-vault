@@ -7,7 +7,7 @@
    "color": "2",
    "x": 0,
    "y": 0,
-   "width": 2100,
+   "width": 2520,
    "height": 1160
   },
   {
@@ -95,7 +95,7 @@
    "type": "file",
    "file": "Concepts/Supraspinal CNS fatigue.md",
    "x": 480,
-   "y": 190,
+   "y": 255,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -105,7 +105,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle swelling.md",
    "x": 480,
-   "y": 320,
+   "y": 385,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -115,17 +115,7 @@
    "type": "file",
    "file": "Concepts/Sarcomerogenesis.md",
    "x": 480,
-   "y": 450,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Anabolic Androgenic Steroids",
-   "type": "file",
-   "file": "Exercise Science/Anabolic Androgenic Steroids.md",
-   "x": 480,
-   "y": 580,
+   "y": 515,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -135,7 +125,7 @@
    "type": "file",
    "file": "Exercise Science/Running Economy.md",
    "x": 480,
-   "y": 710,
+   "y": 645,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -145,7 +135,7 @@
    "type": "file",
    "file": "Exercise Science/Techniques to improve coordination.md",
    "x": 480,
-   "y": 840,
+   "y": 775,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -195,7 +185,7 @@
    "type": "file",
    "file": "Exercise Science/Fatigue resistance.md",
    "x": 1320,
-   "y": 190,
+   "y": 125,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -205,7 +195,7 @@
    "type": "file",
    "file": "Exercise Science/Detraining adaptations speed.md",
    "x": 1320,
-   "y": 320,
+   "y": 255,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -215,17 +205,17 @@
    "type": "file",
    "file": "Exercise Science/Insufficient Sleep.md",
    "x": 1320,
-   "y": 450,
+   "y": 385,
    "width": 300,
    "height": 90,
    "color": "2"
   },
   {
-   "id": "Squat patterns",
+   "id": "Individual differences in muscle growth",
    "type": "file",
-   "file": "Exercise Science/Squat patterns.md",
+   "file": "Exercise Science/Individual differences in muscle growth.md",
    "x": 1320,
-   "y": 580,
+   "y": 515,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -235,7 +225,7 @@
    "type": "file",
    "file": "Exercise Science/Increasing speed.md",
    "x": 1320,
-   "y": 710,
+   "y": 645,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -245,7 +235,17 @@
    "type": "file",
    "file": "Exercise Science/Sticking points in powerlifting.md",
    "x": 1320,
-   "y": 840,
+   "y": 775,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Squat patterns",
+   "type": "file",
+   "file": "Exercise Science/Squat patterns.md",
+   "x": 1320,
+   "y": 905,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -254,8 +254,8 @@
    "id": "Creatine Supplementation",
    "type": "file",
    "file": "Exercise Science/Creatine Supplementation.md",
-   "x": 1740,
-   "y": 450,
+   "x": 2160,
+   "y": 515,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -264,6 +264,16 @@
    "id": "Age and adaptations",
    "type": "file",
    "file": "Exercise Science/Age and adaptations.md",
+   "x": 1740,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Anabolic Androgenic Steroids",
+   "type": "file",
+   "file": "Exercise Science/Anabolic Androgenic Steroids.md",
    "x": 1740,
    "y": 580,
    "width": 300,
@@ -1436,6 +1446,24 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "ancestral isn't optimal"
+  },
+  {
+   "id": "e79",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Individual differences in muscle growth",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "only recruited fibers grow"
+  },
+  {
+   "id": "e80",
+   "fromNode": "Individual differences in muscle growth",
+   "fromSide": "right",
+   "toNode": "Anabolic Androgenic Steroids",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the size limit"
   }
  ]
 }

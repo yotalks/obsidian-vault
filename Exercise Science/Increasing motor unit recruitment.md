@@ -69,3 +69,4 @@ We can likely increase our ability to recruit motor units by maximizing the leve
 - [[Increasing speed]] — recruiting high-threshold units raises average fiber speed
 - [[Sticking points in powerlifting]] — joint angle-specific recruitment is a tool for sticking points
 - [[Squat patterns]] — why being stable matters: it lets you reach full recruitment of the target muscle
+- [[Individual differences in muscle growth]] — why prior activity that already grew the early high-threshold fibers slows later growth
