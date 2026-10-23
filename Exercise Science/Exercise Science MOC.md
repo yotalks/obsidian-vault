@@ -25,7 +25,10 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Anabolic Androgenic Steroids]] — a separate growth signal (and a tendon problem)
 - [[Sarcomerogenesis]] — growing longer, from passive tension
 
-## 4. What gets in the way
+## 4. Connective tissue
+- [[Tendon adaptation]] — tendons stiffen with heavy loads, barely grow
+
+## 5. What gets in the way
 - [[Insufficient Sleep]] — through [[Glucocorticoids]], lower recruitment and coordination
 - [[Impaired muscle regrowth]] — inactivity and excess damage leave collagen behind
 - [[Post-workout cooling]] — faster recovery, but less muscle growth
@@ -33,17 +36,17 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Exercise isn't a stressor]] — planned, voluntary workouts don't add to stress load
 - [[Age and recovery]] → [[Age and adaptations]] — slower recovery, slower gains
 
-## 5. Keeping what you built
+## 6. Keeping what you built
 - [[Detraining sarcomerogenesis]] → [[Detraining adaptations speed]] — what's lost first, and the maintenance dose
 - [[Training frequency and hypertrophy]] — what the frequency research does (and doesn't) show
 
-## 6. Skill, speed and leverage
+## 7. Skill, speed and leverage
 - [[Improvements in coordination traits]] → [[Techniques to improve coordination]]
 - [[Increasing speed]] — coordination, recruitment and fiber speed together
 - [[Proximal-to-distal sequence]] → [[Vertical jump height]], [[Sprint speed]], [[Throwing speed]] — the joint's place in the chain decides whether to train it for strength or speed
 - [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]], [[Squat patterns]]
 
-## 7. Training each muscle
+## 8. Training each muscle
 Train each muscle region where its leverage peaks: [[Internal moment arm]] → [[Neuromechanical matching]] →
 - [[Latissimus dorsi training]] — rows for the upper lats, wide-grip pulldowns for the lower
 - [[Pectoralis major training]] — slight-incline narrow presses for the upper pec, wide presses and flys for the rest

@@ -46,6 +46,7 @@ There isn't much data on increases in tendon stiffness between old and young peo
 
 We also see that older people are similarly dependent on load for getting increases in tendon stiffness, with only moderately-heavy or heavy loads being able to make this adaptation.
 [Grosset 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4082599/)
+→ [[Tendon adaptation]]
 
 ## Connections
 **Builds on**
@@ -53,3 +54,4 @@ We also see that older people are similarly dependent on load for getting increa
 - [[Mechanical tension]] — older fibers aren't less sensitive to tension
 - [[Age and recovery]] — slower recovery is the main explanation for older people's slower growth
 - [[Detraining adaptations speed]] — older people maintain muscle on the same small dose as young people
+- [[Tendon adaptation]] — tendon stiffening depends on heavy or moderately heavy loads, and that holds in older adults too

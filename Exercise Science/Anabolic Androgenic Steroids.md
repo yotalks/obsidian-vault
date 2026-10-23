@@ -35,13 +35,7 @@ Severe caloric restriction and persistent sleep loss both raise systemic [[Gluco
 
 Tendons and ligaments fail to adapt properly to the training stimulus under AAS, so collagen strength lags while muscle force output climbs. 
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
-
-Tendon stiffness increases in response to strength training, and the stimulus is force magnitude. This is why heavy (1-5RM) and moderately-heavy (6-10RM) loads make tendons stiffer while light loads don't.
-[Malliaras 2013](https://pubmed.ncbi.nlm.nih.gov/23773532/)
-[Tsitsilonis 2014](https://pubmed.ncbi.nlm.nih.gov/24796826/)
-
-Tendons and ligaments are damaged by strain (lengthening), not by the force they transmit. Stiffer tendon lengthens less under a given load, so stiffness adaptations are directly protective against rupture. Presumably the same logic holds for ligaments,
-[Provenzano 2002](https://pubmed.ncbi.nlm.nih.gov/11744679/)
+→ [[Tendon adaptation]]
 
 Muscle and connective tissue get stronger by different mechanisms. Muscle adds myofibrillar protein. Tendon and ligament stiffen by reorganizing architecture and shifting collagen types, which requires breakdown as well as synthesis.
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
@@ -61,6 +55,7 @@ Rupture risk elevation applies to prescription [[Glossary#TRT|TRT]] as well as r
 - [[Mechanical tension]] — tension and androgens are separate growth signals
 - [[Glucocorticoids]] — steroids let users diet harder because they oppose glucocorticoids
 - [[Individual differences in muscle growth]] — fiber size is normally capped by oxidative capacity, which steroids may push past
+- [[Tendon adaptation]] — tendons stiffen only with heavy loads, and stiffness protects against rupture, which steroids interfere with
 
 **Feeds into**
 - [[Creatine Supplementation]] — a true growth stimulus works without training; creatine doesn't

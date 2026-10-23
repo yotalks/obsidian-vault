@@ -15,7 +15,7 @@
    "type": "file",
    "file": "Exercise Science/ATP does not deplete during exercise.md",
    "x": 60,
-   "y": 255,
+   "y": 190,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -25,7 +25,7 @@
    "type": "file",
    "file": "Concepts/Psychobiological model of fatigue.md",
    "x": 60,
-   "y": 385,
+   "y": 320,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -35,7 +35,7 @@
    "type": "file",
    "file": "Concepts/Calcium ion-related fatigue.md",
    "x": 60,
-   "y": 515,
+   "y": 450,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -45,7 +45,7 @@
    "type": "file",
    "file": "Concepts/Mechanical tension.md",
    "x": 60,
-   "y": 645,
+   "y": 580,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -55,7 +55,7 @@
    "type": "file",
    "file": "Concepts/Glucocorticoids.md",
    "x": 60,
-   "y": 775,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -65,7 +65,7 @@
    "type": "file",
    "file": "Concepts/Internal moment arm.md",
    "x": 60,
-   "y": 905,
+   "y": 840,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -75,7 +75,7 @@
    "type": "file",
    "file": "Exercise Science/Age and recovery.md",
    "x": 60,
-   "y": 1035,
+   "y": 970,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -85,7 +85,7 @@
    "type": "file",
    "file": "Exercise Science/Improvements in coordination traits.md",
    "x": 60,
-   "y": 1165,
+   "y": 1100,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -95,7 +95,17 @@
    "type": "file",
    "file": "Concepts/Proximal-to-distal sequence.md",
    "x": 60,
-   "y": 1295,
+   "y": 1230,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Tendon adaptation",
+   "type": "file",
+   "file": "Exercise Science/Tendon adaptation.md",
+   "x": 60,
+   "y": 1360,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -1749,6 +1759,24 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "strength at the legs, speed at the arm"
+  },
+  {
+   "id": "e96",
+   "fromNode": "Tendon adaptation",
+   "fromSide": "right",
+   "toNode": "Anabolic Androgenic Steroids",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "tendons need breakdown to adapt"
+  },
+  {
+   "id": "e97",
+   "fromNode": "Tendon adaptation",
+   "fromSide": "right",
+   "toNode": "Age and adaptations",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "load-dependent at any age"
   }
  ]
 }
