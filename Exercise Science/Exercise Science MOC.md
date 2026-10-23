@@ -37,3 +37,14 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Improvements in coordination traits]] → [[Techniques to improve coordination]]
 - [[Increasing speed]] — coordination, recruitment and fiber speed together
 - [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]], [[Squat patterns]]
+
+## 7. Training each muscle
+Train each muscle region where its leverage peaks: [[Internal moment arm]] → [[Neuromechanical matching]] →
+- [[Latissimus dorsi training]] — rows for the upper lats, wide-grip pulldowns for the lower
+- [[Pectoralis major training]] — slight-incline narrow presses for the upper pec, wide presses and flys for the rest
+- [[Deltoid training]] — overhead presses, lateral raises, rear delt flys
+- [[Triceps training]] — pushdowns for the long head, close-grip lockouts and overhead extensions for the others
+- [[Elbow flexor training]] — straighter-elbow curls for biceps and brachialis, pronated curls for brachioradialis
+- [[Gluteus maximus training]] — seated abduction for the upper glutes, bridges for the lower
+- [[Hamstring training]] — seated curls and 45° back extensions, lying curls for the short head
+- [[Quadriceps training]] — squats for the vasti, knee extensions and hip flexion for the rectus femoris

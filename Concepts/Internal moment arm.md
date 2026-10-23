@@ -12,3 +12,4 @@ The perpendicular distance from a muscle's line of pull to the joint's center of
 - [[Creatine Supplementation]] — a swollen muscle bulges further from the bone, lengthening its moment arm
 - [[Running Economy]] — hypertrophy lengthens moment arms, so running needs less activation
 - [[Squat patterns]] — explains why bar position and knee travel change which muscles do the work
+- [[Neuromechanical matching]] — mechanical advantage is the internal moment arm, which decides which motor units get neural drive
