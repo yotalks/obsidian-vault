@@ -10,3 +10,4 @@ Stress hormones, mainly cortisol, released in response to stressors such as slee
 **Feeds into**
 - [[Insufficient Sleep]] — sleep loss raises glucocorticoids
 - [[Anabolic Androgenic Steroids]] — steroids counteract glucocorticoids
+- [[Post-workout cooling]] — why cooling raises protein breakdown and preferentially cuts fast twitch growth

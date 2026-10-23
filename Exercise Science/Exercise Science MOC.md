@@ -19,6 +19,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 ## 3. What makes muscle grow
 - [[Mechanical tension]] — the growth stimulus
 - [[Increasing motor unit recruitment]] — fibers must be recruited to feel tension
+- [[EMG for exercise selection]] — EMG shows where growth happens, not how much
 - [[Individual differences in muscle growth]] — starting point and fiber type set how fast you grow
 - [[Muscle swelling]] — the pump doesn't add tension
 - [[Anabolic Androgenic Steroids]] — a separate growth signal (and a tendon problem)
@@ -27,6 +28,9 @@ Strength training physiology, laid out in the order the ideas build on each othe
 ## 4. What gets in the way
 - [[Insufficient Sleep]] — through [[Glucocorticoids]], lower recruitment and coordination
 - [[Impaired muscle regrowth]] — inactivity and excess damage leave collagen behind
+- [[Post-workout cooling]] — faster recovery, but less muscle growth
+- [[Overuse injuries]] — mechanical fatigue explains strains and bone damage, not tendon or fibrosis
+- [[Exercise isn't a stressor]] — planned, voluntary workouts don't add to stress load
 - [[Age and recovery]] → [[Age and adaptations]] — slower recovery, slower gains
 
 ## 5. Keeping what you built
@@ -36,6 +40,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 ## 6. Skill, speed and leverage
 - [[Improvements in coordination traits]] → [[Techniques to improve coordination]]
 - [[Increasing speed]] — coordination, recruitment and fiber speed together
+- [[Proximal-to-distal sequence]] → [[Vertical jump height]], [[Sprint speed]], [[Throwing speed]] — the joint's place in the chain decides whether to train it for strength or speed
 - [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]], [[Squat patterns]]
 
 ## 7. Training each muscle
