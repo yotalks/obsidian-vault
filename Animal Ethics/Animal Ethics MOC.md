@@ -19,5 +19,8 @@ Animal rights and what follows from them.
 - [[Animal Procreation as Rape]] — whether animal sex can be rape
 - [[Crop deaths]] — no evidence cropland kills more animals than wildland
 
+## Consumer impact
+- [[Animal agriculture subsidies]] — buying less isn't offset by the government buying more
+
 ## Activism
 - [[Vandalizing zoos]] — why vandalism can harm the animals inside
