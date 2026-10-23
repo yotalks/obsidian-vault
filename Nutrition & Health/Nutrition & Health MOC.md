@@ -50,6 +50,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Other health
 - [[Saunas]] — regular use temporarily impairs sperm
+- [[Minoxidil]] — prevents miniaturization by working downstream of DHT, not by blocking it
 
 ## Infectious disease
 - [[COVID and erectile dysfunction]] — a plausible causal link, backed by animal data; human data are still observational
