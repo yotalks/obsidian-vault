@@ -18,6 +18,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Plant toxins and antinutrients]] — CYP450, thyroid, androgen, IBS and sulforaphane claims don't hold up
 
 ## Diet & disease
+- [[Red meat]] — processed meat is consistently linked to higher mortality; unprocessed red meat less consistently
 - [[TMAO]]
 - [[Lipogenic Fructose]] — fructose, liver fat, and what actually drives NAFLD
 - [[Antagonistic pleiotropy]] → [[Evolution]] — why novel foods can beat ancestral ones long-term
