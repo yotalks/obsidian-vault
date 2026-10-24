@@ -40,6 +40,7 @@ It's also claimed plants damage the thyroid, but vegans don't have a higher risk
 
 It's also claimed plants lower androgens, but vegan men don't have reduced androgens. They had higher total testosterone, offset by higher sex hormone binding globulin, and no difference in free testosterone.
 [Allen 2000](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2374537/pdf/83-6691152a.pdf)
+→ [[Soy]]
 
 ## Diarrhea and IBS
 
@@ -60,3 +61,7 @@ Sulforaphane is found in cruciferous vegetables like broccoli and cabbage and is
 [Shapiro 2006](https://pubmed.ncbi.nlm.nih.gov/16965241/)
 [Cornblatt 2007](https://pubmed.ncbi.nlm.nih.gov/17347138/)
 [Alumkal 2015](https://pubmed.ncbi.nlm.nih.gov/25431127/)
+
+## Connections
+**Builds on**
+- [[Soy]] — clinical trials of soy, the main source of phytoestrogens, find no effect on men's testosterone or estrogen

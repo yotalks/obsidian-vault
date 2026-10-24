@@ -26,3 +26,4 @@ In 52 donor-oocyte cycles, pregnancies occurred following embryo transfers on cy
 **Feeds into**
 - [[Emergency contraception]] — the LH surge that emergency contraception delays
 - [[Pro-Life]] — the implantation window the peri-implantation question is about
+- [[Soy]] — the hormones and cycle length soy's effects in women are measured against

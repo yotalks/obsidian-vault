@@ -95,7 +95,7 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 **SES** — Socioeconomic status.
 
 ### SMD
-**SMD** — Standardized mean difference, an effect size used in meta-analysis.
+**SMD** — Standardized mean difference, an effect size used in meta-analysis. See [[Mean difference vs standardized mean difference]].
 
 ### NAFLD
 **NAFLD** — Non-alcoholic fatty liver disease: excess fat in the liver not caused by alcohol (now also called MASLD). See [[Lipogenic Fructose]].

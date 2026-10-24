@@ -71,6 +71,7 @@ Sweeteners altering gut bacteria and causing glucose intolerance has mostly been
 
 In controlled human intervention studies, aspartame had little to no effect on blood glucose or insulin, short or long term (though the certainty of evidence is very low).
 [Boxall 2025](https://pubmed.ncbi.nlm.nih.gov/40381807/)
+→ [[Artificial sweeteners]]
 
 IARC's categories are broad. Group 2B ("possibly carcinogenic") also includes aloe vera extract and traditional pickled vegetables, and Group 2A ("probably carcinogenic") includes red meat, very hot drinks above 65 °C, and androgenic (anabolic) steroids.
 
@@ -99,3 +100,4 @@ The report's claim: additives are eaten in complex combinations whose cumulative
 **Builds on**
 - [[Seed oils]] — the report's seed oil worries (vitamin E, inflammation) are answered in Seed oils
 - [[Omega 6 3 ratio]] — nobody knows the optimal omega-6/omega-3 ratio, and omega-3 supplements don't help primary prevention
+- [[Artificial sweeteners]] — cohorts and trials find sweeteners aren't linked to diabetes or heart disease and don't change glucose, insulin or weight

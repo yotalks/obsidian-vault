@@ -27,6 +27,8 @@ Boston University's public health learning modules give a good overview of resea
 
 [Andrel 2009: Meta-analysis, a brief introduction](https://pubmed.ncbi.nlm.nih.gov/20443922/)
 
+See also [[Mean difference vs standardized mean difference]].
+
 ## Books
 
 [Rothman: Epidemiology, An Introduction](https://www.amazon.com/dp/0199754551)

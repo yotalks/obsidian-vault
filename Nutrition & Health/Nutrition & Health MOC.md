@@ -16,6 +16,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Vegan diets]] — covering nutrient gaps; plant toxin claims don't hold up
 - [[Impossible Beef]] — likely healthier than beef, though high in saturated fat
 - [[Plant toxins and antinutrients]] — CYP450, thyroid, androgen, IBS and sulforaphane claims don't hold up
+- [[Soy]] — no effect on men's hormones; linked to lower prostate, lung and GI cancer
 
 ## Diet & disease
 - [[Red meat]] — processed meat is consistently linked to higher mortality; unprocessed red meat less consistently
@@ -41,6 +42,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Ultra-processed food
 - [[Ultra-processed food and additives]] — checking the MAHA report's claims on seed oils, dyes, BHT, parabens and sweeteners
+- [[Artificial sweeteners]] — not linked to diabetes or heart disease; no metabolic effects in trials
 - [[Dietary Guidelines for Americans]] — a guideline-compliant menu can be 91% ultra-processed
 
 ## Animal farming
