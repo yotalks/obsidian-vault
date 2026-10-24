@@ -5,7 +5,7 @@ tags:
 up: "[[Exercise Science MOC]]"
 ---
 > [!summary] Bottom line
-> Creatine raises repetition strength through fatigue resistance, and its size gains are mostly water swelling rather than new muscle. It isn't a direct growth signal and can't work by adding ATP. It also speeds strength recovery after damaging workouts, but if that's through an anti-inflammatory effect, it could blunt adaptations.
+> Creatine raises repetition strength through fatigue resistance, and its size gains are mostly water swelling rather than new muscle. It isn't a direct growth signal and can't work by adding ATP. It also speeds strength recovery after damaging workouts, but if that's through an anti-inflammatory effect, it could blunt adaptations. There's no need to cycle it, and it may improve memory in vegetarians.
 
 ## Creatine's affect on size are trivial and it does not stimulate hypertrophy directly.
 Creatine's effect on muscle size are trivial and likely don't reach statistical significance when taken along with a resistance training program. The effect it had was much greater during short term programs vs. long term which can be explained by it having a one-time muscle size increase effect through muscle swelling, so creatine would have the same increase in absolute muscle size in both short term and long term training programs.
@@ -57,6 +57,22 @@ Faster strength recovery and less swelling suggest creatine reduces secondary mu
 - **An anti-inflammatory effect:** there's limited evidence creatine reduces inflammation directly. In cultured endothelial cells it reduced neutrophil adhesion and adhesion molecules, and in another study it reduced post-exercise fatigue through an anti-inflammatory action. This would probably be negative for adaptations, since inflammation drives essential repair.
 [Nomura 2003](https://pmc.ncbi.nlm.nih.gov/articles/PMC1573908/)
 [Yokota 2023](https://www.mdpi.com/1661-3821/3/2/19)
+
+## No need to cycle it
+
+About 95% of the body's creatine is in skeletal muscle. We get roughly 1 g a day from an omnivorous diet and make roughly another 1 g a day, mainly in the liver and kidneys, which matches the amount broken down into creatinine each day. Supplementing creatine does reduce the body's own production, but normal rates return once supplementation stops.
+[Persky 2001](https://pubmed.ncbi.nlm.nih.gov/11356982/)
+
+So there's no need to cycle creatine to avoid suppressing your own production. As one review puts it, "Levels return to normal after a brief period of time when supplementation ceases."
+[Cooper 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/)
+
+## Cognition
+
+There's some evidence creatine improves memory and cognitive performance, mainly in vegetarians, who get little creatine from their diet:
+- In 128 young women, 20 g a day for 5 days improved memory in vegetarians but not in meat eaters, and made reaction times more consistent in both.
+[Benton 2011](https://pubmed.ncbi.nlm.nih.gov/21118604/)
+- In 45 young vegetarian adults, 5 g a day for 6 weeks improved working memory and intelligence test scores compared with placebo.
+[Rae 2003](https://pubmed.ncbi.nlm.nih.gov/14561278/)
 
 ## Connections
 **Builds on**
