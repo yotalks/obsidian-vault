@@ -14,6 +14,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Vegan diets
 - [[Vegan diets]] — covering nutrient gaps; plant toxin claims don't hold up
+- [[Vegetarian diets and mortality]] — less heart disease and cancer; lower all-cause mortality is inconsistent
 - [[Impossible Beef]] — likely healthier than beef, though high in saturated fat
 - [[Plant toxins and antinutrients]] — CYP450, thyroid, androgen, IBS and sulforaphane claims don't hold up
 - [[Soy]] — no effect on men's hormones; linked to lower prostate, lung and GI cancer
