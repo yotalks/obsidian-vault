@@ -54,3 +54,4 @@ Sarcomerogenesis appears to be more dependent upon the presence of satellite cel
 **Feeds into**
 - [[Detraining sarcomerogenesis]] — how sarcomeres are added — and lost
 - [[Repeated bout effect]] — more sarcomeres in series means less stretch per sarcomere, which may cause the RBE
+- [[Neuromechanical matching]] — sarcomere number sets where the length-tension plateau sits in the joint's range

@@ -29,6 +29,9 @@ Across 37 trials, low-carb diets caused weight loss and lowered diastolic blood 
 [Fechner 2020](https://pubmed.ncbi.nlm.nih.gov/32252374/)
 → [[LDL and heart disease]]
 
+In 30 healthy, normal-weight young adults, 3 weeks of eating under 20 g of carbohydrate a day raised LDL-C from 2.2 to 3.1 mmol/L, 44% more than in controls on their usual diet. ApoB rose too, and individual increases ranged from 5% to 107%. Weight, triglycerides and CRP didn't change.
+[Retterstøl 2018](https://pubmed.ncbi.nlm.nih.gov/30408717/)
+
 ## Connections
 **Builds on**
 - [[LDL and heart disease]] — the LDL rise on very-low-carb diets matters because LDL causes heart disease

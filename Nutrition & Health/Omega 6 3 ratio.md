@@ -9,3 +9,4 @@ Nobody knows the optimal omega 6/3 ratio. When looking at primary prevention of 
 ## Connections
 **Feeds into**
 - [[Ultra-processed food and additives]] — the answer to the report's omega-6/omega-3 ratio claim
+- [[Omega-3 supplementation]] — what the largest meta-analysis of omega-3 supplement trials found

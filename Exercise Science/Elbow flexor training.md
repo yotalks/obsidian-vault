@@ -68,3 +68,6 @@ The brachioradialis has better leverage than the biceps and brachialis for elbow
 **Builds on**
 - [[Neuromechanical matching]] — neural drive favors the muscle with the best leverage, so each muscle's peak leverage picks its best exercise
 - [[Hamstring training]] — with the hip extended the single-joint short head grew more, a pattern the biceps and brachialis may share with shoulder position
+
+**Feeds into**
+- [[Muscle size and leverage]] — delayed brachialis swelling after eccentrics is one way a muscle gets bigger without growing

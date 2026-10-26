@@ -47,3 +47,6 @@ Replacing wild animals for humans may actually be a moral good, thus justifying 
 ## Connections
 **Builds on**
 - [[Colonizing nature]] — replacing wild animals with farmland may be a moral good if wild existence is bad, as Colonizing nature argues
+
+**Feeds into**
+- [[Dairy]] — counting animal deaths per calorie also shows milk costs more cattle lives than beef

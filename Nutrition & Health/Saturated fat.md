@@ -9,6 +9,12 @@ up: "[[Nutrition & Health MOC]]"
 
 There are many systematic reviews and meta analyses including RCTs or prospective cohort studies or both that show saturated fat intake is linked with negative health outcomes particularly with respect to morbidities like [[Glossary#CVD|CVD]] events, or mortality like CVD deaths.
 
+## Effect on blood cholesterol
+
+In a meta-analysis of 395 metabolic ward experiments, where everything participants ate was controlled, replacing 10% of calories from saturated fat with complex carbohydrates lowered LDL-C by 0.36 mmol/L (14 mg/dL). Replacing another 5% of calories from carbohydrate with polyunsaturated fat lowered it a further 0.11 mmol/L, while monounsaturated fat had no significant effect. In a typical British diet, replacing 60% of saturated fat with other fats and cutting dietary cholesterol by 60% would lower total cholesterol by about 0.8 mmol/L (10–15%), four fifths of it LDL.
+[Clarke 1997](https://pubmed.ncbi.nlm.nih.gov/9006469/)
+→ [[LDL and heart disease]]
+
 ## Replacing saturated fat with polyunsaturated fat
 
 During a 4-10 year follow up, 5249 coronary events and 2155 coronary deaths occurred among 344,696 people. For a 5% lower energy intake from [[Glossary#SFA|SFAs]] and a concomitant higher energy intake from [[Glossary#PUFA|PUFAs]], there was a significant inverse association between PUFAs and risk of coronary events.

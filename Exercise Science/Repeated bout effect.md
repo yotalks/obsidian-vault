@@ -86,3 +86,4 @@ Data has also shown that [[Glossary#ECCF|ECCF]] doesn't reduce very much over a 
 **Feeds into**
 - [[Fatigue resistance]] — the RBE is how resistance to calcium ion-related fatigue develops
 - [[Age and adaptations]] — older lifters get a smaller RBE, so damage and fatigue pile up
+- [[Swelling in hypertrophy studies]] — repeated bouts cut damage and swelling, which affects size measurements

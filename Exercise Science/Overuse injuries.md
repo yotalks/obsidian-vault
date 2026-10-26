@@ -35,3 +35,6 @@ And a muscle stretched just short of rupture tore at only 63% of its normal peak
 ## Connections
 **Builds on**
 - [[Calcium ion-related fatigue]] — fibrosis comes from incomplete recovery from calcium-driven post-workout fatigue and inflammation, not mechanical fatigue
+
+**Feeds into**
+- [[Muscle strain injuries]] — how small lengthening injuries could build up until a muscle tears within its normal range

@@ -19,9 +19,11 @@ Strength training physiology, laid out in the order the ideas build on each othe
 ## 3. What makes muscle grow
 - [[Mechanical tension]] — the growth stimulus
 - [[Increasing motor unit recruitment]] — fibers must be recruited to feel tension
+- [[Flexing and co-contraction training]] — maximal flexing builds a little muscle with no equipment
 - [[EMG for exercise selection]] — EMG shows where growth happens, not how much
 - [[Individual differences in muscle growth]] — starting point and fiber type set how fast you grow
 - [[Muscle swelling]] — the pump doesn't add tension
+- [[Swelling in hypertrophy studies]] — post-workout swelling looks like growth and may inflate high-volume results
 - [[Anabolic Androgenic Steroids]] — a separate growth signal (and a tendon problem)
 - [[Sarcomerogenesis]] — growing longer, from passive tension
 
@@ -33,6 +35,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Impaired muscle regrowth]] — inactivity and excess damage leave collagen behind
 - [[Post-workout cooling]] — faster recovery, but less muscle growth
 - [[Overuse injuries]] — mechanical fatigue explains strains and bone damage, not tendon or fibrosis
+- [[Muscle strain injuries]] — muscles tear at a set length and small strains lower it; manageable volume, warm-ups and rest help avoid them
 - [[Exercise isn't a stressor]] — planned, voluntary workouts don't add to stress load
 - [[Age and recovery]] → [[Age and adaptations]] — slower recovery, slower gains
 
@@ -45,6 +48,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Increasing speed]] — coordination, recruitment and fiber speed together
 - [[Proximal-to-distal sequence]] → [[Vertical jump height]], [[Sprint speed]], [[Throwing speed]] — the joint's place in the chain decides whether to train it for strength or speed
 - [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]], [[Squat patterns]]
+- [[Muscle size and leverage]] — a wider muscle has longer leverage, whether from growth, swelling, creatine or glycogen
 
 ## 8. Training each muscle
 Train each muscle region where its leverage peaks: [[Internal moment arm]] → [[Neuromechanical matching]] →

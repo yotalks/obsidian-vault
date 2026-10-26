@@ -47,3 +47,4 @@ We see that the number of sarcomeres in a muscle fiber is rapidly lost in animal
 
 **Feeds into**
 - [[Detraining adaptations speed]] — explains why sarcomeres are the fastest adaptation to disappear
+- [[Neuromechanical matching]] — training at a joint angle moves the length-tension plateau there, so it ends up where leverage is best

@@ -37,3 +37,7 @@ Among 88,803 women followed for 20 years, those with the highest red meat intake
 ## Trials
 
 Most clinical trials of red meat and heart health are funded by the red meat industry, and industry-linked trials reach more favorable conclusions; see [[Corporate capture of health research#Red meat research|Corporate capture of health research]].
+
+In a meta-analysis of 36 trials (1,803 people), red meat didn't change LDL-C compared with all other diets combined, but the comparison diet mattered. Compared with legumes, soy and nuts, red meat lowered LDL-C 0.20 mmol/L (8 mg/dL) less. Compared with fish, red meat lowered LDL-C more, and compared with refined carbohydrates it lowered triglycerides more.
+[Guasch-Ferré 2019](https://pubmed.ncbi.nlm.nih.gov/30958719/)
+→ [[Cholesterol-lowering foods]]

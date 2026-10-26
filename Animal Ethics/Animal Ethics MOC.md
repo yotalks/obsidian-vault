@@ -21,6 +21,7 @@ Animal rights and what follows from them.
 
 ## Farming practices
 - [[Foie gras production]] — force-fed birds show aversion to the feeding
+- [[Dairy#Animal welfare|Dairy]] — milk causes more suffering and cattle deaths per calorie than meat
 
 ## Consumer impact
 - [[Animal agriculture subsidies]] — buying less isn't offset by the government buying more

@@ -21,6 +21,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Diet & disease
 - [[Red meat]] — processed meat is consistently linked to higher mortality; unprocessed red meat less consistently
+- [[Dairy]] — slightly higher prostate cancer risk, iron deficiency in toddlers, no diabetes or weight benefit
 - [[TMAO]]
 - [[Lipogenic Fructose]] — fructose, liver fat, and what actually drives NAFLD
 - [[Antagonistic pleiotropy]] → [[Evolution]] — why novel foods can beat ancestral ones long-term
@@ -39,8 +40,10 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
   - [[Seed oils and fatty liver]] — PUFA lowers liver fat compared with saturated fat
   - [[Seed oils, arthritis and lupus]] — no harm in trials; MR points to lower risk
 - [[Omega 6 3 ratio]] — no known optimal ratio; omega-3 supplements don't help primary prevention
+- [[Omega-3 supplementation]] — small drops in heart attacks and CVD death; mixed results in pregnancy
 - [[Plant based diet CVD reversal]] — prevents progression and events, but doesn't reverse disease
 - [[Dietary cholesterol]] — a dose response that flattens out, but still a risk
+- [[Cholesterol-lowering foods]] — nuts, avocados, oats and plant protein lower LDL
 - [[Sodium]] — a U-shaped curve; usual intakes are fine for healthy people
 
 ## Ultra-processed food

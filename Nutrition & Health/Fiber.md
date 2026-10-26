@@ -77,3 +77,4 @@ All in all, fiber may reduce inflammation, increase intestinal motility and stoo
 
 **Feeds into**
 - [[Satiation]] — fiber's effect on stomach emptying, which is part of why fibrous foods are filling
+- [[Cholesterol-lowering foods]] — oats as one of the foods that lower LDL

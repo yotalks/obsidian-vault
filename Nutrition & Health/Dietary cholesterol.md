@@ -20,6 +20,17 @@ This graph as you can see, again, show no significant difference going from arou
 ![[Dietary cholesterol LDL-C meta-regression.png]]
 [Vincent 2019](https://www.ncbi.nlm.nih.gov/pubmed/30596814)
 
+## Egg trials
+
+In the same metabolic ward meta-analysis as above, avoiding 200 mg a day of dietary cholesterol lowered LDL-C by 0.10 mmol/L (4 mg/dL).
+[Clarke 1997](https://pubmed.ncbi.nlm.nih.gov/9006469/)
+
+In 49 healthy adults (average LDL-C 125 mg/dL), 2 eggs a day for 6 weeks didn't change total or LDL cholesterol or blood vessel function, while oats lowered LDL-C to 117 mg/dL.
+[Katz 2005](https://pubmed.ncbi.nlm.nih.gov/15721501/)
+
+In another trial, 2 eggs a day with meals for 3 weeks raised plasma cholesterol 11% through higher LDL-C and lowered HDL-C 11%. It also made plasma and LDL 34–42% more prone to oxidation.
+[Levy 1996](https://pubmed.ncbi.nlm.nih.gov/9001684/)
+
 ## Why it still raises heart disease risk
 
 Since LDL causally associates with heart disease in a linear and proportional manner and all exposures that durably increase LDL over time produce likewise increases in heart disease risk and dietary cholesterol is one of those exposures, it seems that dietary cholesterol increases risk for heart disease.

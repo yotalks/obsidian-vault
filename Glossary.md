@@ -58,6 +58,18 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 ### MT
 **MT** — Mechanical tension. See [[Mechanical tension]].
 
+### CMC
+**CMC** — Central motor command — the neural drive the nervous system sends to muscles. See [[Neuromechanical matching]].
+
+### LTR
+**LTR** — Length-tension relationship — how much force a muscle fiber can produce at each length. Force peaks on the plateau, where actin and myosin overlap best. See [[Neuromechanical matching]].
+
+### NMM
+**NMM** — Neuromechanical matching — neural drive goes to the motor units with the best leverage. See [[Neuromechanical matching]].
+
+### ROM
+**ROM** — Range of motion.
+
 ### MUR
 **MUR** — Motor unit recruitment. See [[Increasing motor unit recruitment]].
 

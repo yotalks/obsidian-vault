@@ -7,7 +7,7 @@
    "color": "2",
    "x": 0,
    "y": 0,
-   "width": 2520,
+   "width": 2940,
    "height": 1550
   },
   {
@@ -115,7 +115,7 @@
    "type": "file",
    "file": "Concepts/Supraspinal CNS fatigue.md",
    "x": 480,
-   "y": 60,
+   "y": 125,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -125,7 +125,7 @@
    "type": "file",
    "file": "Exercise Science/Overuse injuries.md",
    "x": 480,
-   "y": 190,
+   "y": 255,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -135,7 +135,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle swelling.md",
    "x": 480,
-   "y": 320,
+   "y": 385,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -145,7 +145,7 @@
    "type": "file",
    "file": "Concepts/Sarcomerogenesis.md",
    "x": 480,
-   "y": 450,
+   "y": 515,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -155,7 +155,7 @@
    "type": "file",
    "file": "Exercise Science/Post-workout cooling.md",
    "x": 480,
-   "y": 580,
+   "y": 645,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -165,17 +165,7 @@
    "type": "file",
    "file": "Exercise Science/Running Economy.md",
    "x": 480,
-   "y": 710,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Neuromechanical matching",
-   "type": "file",
-   "file": "Concepts/Neuromechanical matching.md",
-   "x": 480,
-   "y": 840,
+   "y": 775,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -185,7 +175,7 @@
    "type": "file",
    "file": "Exercise Science/Techniques to improve coordination.md",
    "x": 480,
-   "y": 970,
+   "y": 905,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -195,7 +185,7 @@
    "type": "file",
    "file": "Exercise Science/Vertical jump height.md",
    "x": 480,
-   "y": 1100,
+   "y": 1035,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -205,7 +195,7 @@
    "type": "file",
    "file": "Exercise Science/Sprint speed.md",
    "x": 480,
-   "y": 1230,
+   "y": 1165,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -215,7 +205,7 @@
    "type": "file",
    "file": "Exercise Science/Throwing speed.md",
    "x": 480,
-   "y": 1360,
+   "y": 1295,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -225,7 +215,17 @@
    "type": "file",
    "file": "Exercise Science/Carbohydrate mouth rinsing.md",
    "x": 900,
-   "y": 60,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Muscle strain injuries",
+   "type": "file",
+   "file": "Exercise Science/Muscle strain injuries.md",
+   "x": 900,
+   "y": 580,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -235,7 +235,7 @@
    "type": "file",
    "file": "Exercise Science/Repeated bout effect.md",
    "x": 900,
-   "y": 190,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -245,7 +245,7 @@
    "type": "file",
    "file": "Exercise Science/Detraining sarcomerogenesis.md",
    "x": 900,
-   "y": 320,
+   "y": 840,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -255,77 +255,7 @@
    "type": "file",
    "file": "Exercise Science/Increasing motor unit recruitment.md",
    "x": 900,
-   "y": 450,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Latissimus dorsi training",
-   "type": "file",
-   "file": "Exercise Science/Latissimus dorsi training.md",
-   "x": 900,
-   "y": 580,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Pectoralis major training",
-   "type": "file",
-   "file": "Exercise Science/Pectoralis major training.md",
-   "x": 900,
-   "y": 710,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Deltoid training",
-   "type": "file",
-   "file": "Exercise Science/Deltoid training.md",
-   "x": 900,
-   "y": 840,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Triceps training",
-   "type": "file",
-   "file": "Exercise Science/Triceps training.md",
-   "x": 900,
    "y": 970,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Gluteus maximus training",
-   "type": "file",
-   "file": "Exercise Science/Gluteus maximus training.md",
-   "x": 900,
-   "y": 1100,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Hamstring training",
-   "type": "file",
-   "file": "Exercise Science/Hamstring training.md",
-   "x": 900,
-   "y": 1230,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Quadriceps training",
-   "type": "file",
-   "file": "Exercise Science/Quadriceps training.md",
-   "x": 900,
-   "y": 1360,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -335,17 +265,17 @@
    "type": "file",
    "file": "Exercise Science/Fatigue resistance.md",
    "x": 1320,
-   "y": 190,
+   "y": 60,
    "width": 300,
    "height": 90,
    "color": "2"
   },
   {
-   "id": "Detraining adaptations speed",
+   "id": "Swelling in hypertrophy studies",
    "type": "file",
-   "file": "Exercise Science/Detraining adaptations speed.md",
+   "file": "Exercise Science/Swelling in hypertrophy studies.md",
    "x": 1320,
-   "y": 320,
+   "y": 190,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -355,7 +285,37 @@
    "type": "file",
    "file": "Exercise Science/Insufficient Sleep.md",
    "x": 1320,
+   "y": 320,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Detraining adaptations speed",
+   "type": "file",
+   "file": "Exercise Science/Detraining adaptations speed.md",
+   "x": 1320,
    "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Flexing and co-contraction training",
+   "type": "file",
+   "file": "Exercise Science/Flexing and co-contraction training.md",
+   "x": 1320,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Neuromechanical matching",
+   "type": "file",
+   "file": "Concepts/Neuromechanical matching.md",
+   "x": 1320,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -365,7 +325,7 @@
    "type": "file",
    "file": "Exercise Science/Individual differences in muscle growth.md",
    "x": 1320,
-   "y": 580,
+   "y": 840,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -375,7 +335,7 @@
    "type": "file",
    "file": "Exercise Science/EMG for exercise selection.md",
    "x": 1320,
-   "y": 710,
+   "y": 970,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -385,7 +345,7 @@
    "type": "file",
    "file": "Exercise Science/Squat patterns.md",
    "x": 1320,
-   "y": 840,
+   "y": 1100,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -395,7 +355,7 @@
    "type": "file",
    "file": "Exercise Science/Increasing speed.md",
    "x": 1320,
-   "y": 970,
+   "y": 1230,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -405,17 +365,7 @@
    "type": "file",
    "file": "Exercise Science/Sticking points in powerlifting.md",
    "x": 1320,
-   "y": 1100,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Elbow flexor training",
-   "type": "file",
-   "file": "Exercise Science/Elbow flexor training.md",
-   "x": 1320,
-   "y": 1230,
+   "y": 1360,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -425,7 +375,27 @@
    "type": "file",
    "file": "Exercise Science/Creatine Supplementation.md",
    "x": 2160,
-   "y": 710,
+   "y": 645,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Elbow flexor training",
+   "type": "file",
+   "file": "Exercise Science/Elbow flexor training.md",
+   "x": 2160,
+   "y": 775,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Training frequency and hypertrophy",
+   "type": "file",
+   "file": "Exercise Science/Training frequency and hypertrophy.md",
+   "x": 1740,
+   "y": 60,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -435,17 +405,77 @@
    "type": "file",
    "file": "Exercise Science/Age and adaptations.md",
    "x": 1740,
+   "y": 190,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Latissimus dorsi training",
+   "type": "file",
+   "file": "Exercise Science/Latissimus dorsi training.md",
+   "x": 1740,
+   "y": 320,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Pectoralis major training",
+   "type": "file",
+   "file": "Exercise Science/Pectoralis major training.md",
+   "x": 1740,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Deltoid training",
+   "type": "file",
+   "file": "Exercise Science/Deltoid training.md",
+   "x": 1740,
    "y": 580,
    "width": 300,
    "height": 90,
    "color": "2"
   },
   {
-   "id": "Trapezius training",
+   "id": "Triceps training",
    "type": "file",
-   "file": "Exercise Science/Trapezius training.md",
+   "file": "Exercise Science/Triceps training.md",
    "x": 1740,
    "y": 710,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Gluteus maximus training",
+   "type": "file",
+   "file": "Exercise Science/Gluteus maximus training.md",
+   "x": 1740,
+   "y": 840,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Hamstring training",
+   "type": "file",
+   "file": "Exercise Science/Hamstring training.md",
+   "x": 1740,
+   "y": 970,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Quadriceps training",
+   "type": "file",
+   "file": "Exercise Science/Quadriceps training.md",
+   "x": 1740,
+   "y": 1100,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -455,7 +485,27 @@
    "type": "file",
    "file": "Exercise Science/Anabolic Androgenic Steroids.md",
    "x": 1740,
-   "y": 840,
+   "y": 1230,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Trapezius training",
+   "type": "file",
+   "file": "Exercise Science/Trapezius training.md",
+   "x": 1740,
+   "y": 1360,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Muscle size and leverage",
+   "type": "file",
+   "file": "Exercise Science/Muscle size and leverage.md",
+   "x": 2580,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -468,7 +518,7 @@
    "x": 0,
    "y": 1750,
    "width": 1680,
-   "height": 1420
+   "height": 1550
   },
   {
    "id": "Antagonistic pleiotropy",
@@ -551,6 +601,16 @@
    "color": "4"
   },
   {
+   "id": "Dairy",
+   "type": "file",
+   "file": "Nutrition & Health/Dairy.md",
+   "x": 60,
+   "y": 2980,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "HDL",
    "type": "file",
    "file": "Nutrition & Health/HDL.md",
@@ -611,11 +671,21 @@
    "color": "4"
   },
   {
+   "id": "Omega-3 supplementation",
+   "type": "file",
+   "file": "Nutrition & Health/Omega-3 supplementation.md",
+   "x": 480,
+   "y": 2590,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Ultra-processed food and additives",
    "type": "file",
    "file": "Nutrition & Health/Ultra-processed food and additives.md",
    "x": 480,
-   "y": 2590,
+   "y": 2720,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -625,7 +695,7 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic on the environment.md",
    "x": 480,
-   "y": 2720,
+   "y": 2850,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -635,7 +705,7 @@
    "type": "file",
    "file": "Nutrition & Health/Plant toxins and antinutrients.md",
    "x": 480,
-   "y": 2850,
+   "y": 2980,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -645,7 +715,7 @@
    "type": "file",
    "file": "Nutrition & Health/Plant based diet CVD reversal.md",
    "x": 480,
-   "y": 2980,
+   "y": 3110,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -681,11 +751,21 @@
    "color": "4"
   },
   {
+   "id": "Cholesterol-lowering foods",
+   "type": "file",
+   "file": "Nutrition & Health/Cholesterol-lowering foods.md",
+   "x": 900,
+   "y": 2590,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Satiation",
    "type": "file",
    "file": "Nutrition & Health/Satiation.md",
    "x": 900,
-   "y": 2590,
+   "y": 2720,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -695,7 +775,7 @@
    "type": "file",
    "file": "Nutrition & Health/Hunter-gatherer diets.md",
    "x": 1320,
-   "y": 2395,
+   "y": 2460,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -706,7 +786,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 3370,
+   "y": 3500,
    "width": 1260,
    "height": 510
   },
@@ -715,7 +795,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 3430,
+   "y": 3560,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -725,7 +805,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 3560,
+   "y": 3690,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -735,7 +815,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 3690,
+   "y": 3820,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -745,7 +825,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 3430,
+   "y": 3560,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -755,7 +835,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 3560,
+   "y": 3690,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -765,7 +845,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 3690,
+   "y": 3820,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -775,7 +855,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 3560,
+   "y": 3690,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -786,7 +866,7 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 4080,
+   "y": 4210,
    "width": 1260,
    "height": 770
   },
@@ -795,7 +875,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 4335,
+   "y": 4465,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -805,7 +885,7 @@
    "type": "file",
    "file": "Concepts/Wild animal suffering.md",
    "x": 60,
-   "y": 4465,
+   "y": 4595,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -815,7 +895,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
-   "y": 4140,
+   "y": 4270,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -825,7 +905,7 @@
    "type": "file",
    "file": "Animal Ethics/Vegan Bivalves.md",
    "x": 480,
-   "y": 4270,
+   "y": 4400,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -835,7 +915,7 @@
    "type": "file",
    "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
-   "y": 4400,
+   "y": 4530,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -845,7 +925,7 @@
    "type": "file",
    "file": "Animal Ethics/Rewilding.md",
    "x": 480,
-   "y": 4530,
+   "y": 4660,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -855,7 +935,7 @@
    "type": "file",
    "file": "Animal Ethics/Colonizing nature.md",
    "x": 480,
-   "y": 4660,
+   "y": 4790,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -865,7 +945,7 @@
    "type": "file",
    "file": "Animal Ethics/Crop deaths.md",
    "x": 900,
-   "y": 4400,
+   "y": 4530,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -876,7 +956,7 @@
    "label": "Ethics & Society",
    "color": "5",
    "x": 0,
-   "y": 5050,
+   "y": 5180,
    "width": 1260,
    "height": 640
   },
@@ -885,7 +965,7 @@
    "type": "file",
    "file": "Ethics & Society/US life expectancy.md",
    "x": 60,
-   "y": 5175,
+   "y": 5305,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -895,7 +975,7 @@
    "type": "file",
    "file": "Ethics & Society/Artifactual chronic disease trends.md",
    "x": 60,
-   "y": 5305,
+   "y": 5435,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -905,7 +985,7 @@
    "type": "file",
    "file": "Ethics & Society/Gender dysphoria in the DSM-5.md",
    "x": 60,
-   "y": 5435,
+   "y": 5565,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -915,7 +995,7 @@
    "type": "file",
    "file": "Ethics & Society/US healthcare spending.md",
    "x": 480,
-   "y": 5110,
+   "y": 5240,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -925,7 +1005,7 @@
    "type": "file",
    "file": "Ethics & Society/Childhood chronic disease.md",
    "x": 480,
-   "y": 5240,
+   "y": 5370,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -935,7 +1015,7 @@
    "type": "file",
    "file": "Ethics & Society/Gender-affirming care outcomes.md",
    "x": 480,
-   "y": 5370,
+   "y": 5500,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -945,7 +1025,7 @@
    "type": "file",
    "file": "Ethics & Society/Trans Identity.md",
    "x": 480,
-   "y": 5500,
+   "y": 5630,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -955,7 +1035,7 @@
    "type": "file",
    "file": "Ethics & Society/Medicare and gender reassignment surgery.md",
    "x": 900,
-   "y": 5305,
+   "y": 5435,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1891,6 +1971,150 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "two-joint muscles shift work"
+  },
+  {
+   "id": "e104",
+   "fromNode": "Sarcomerogenesis",
+   "fromSide": "right",
+   "toNode": "Neuromechanical matching",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "sarcomeres set the plateau"
+  },
+  {
+   "id": "e105",
+   "fromNode": "Detraining sarcomerogenesis",
+   "fromSide": "right",
+   "toNode": "Neuromechanical matching",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the plateau follows training"
+  },
+  {
+   "id": "e106",
+   "fromNode": "Internal moment arm",
+   "fromSide": "right",
+   "toNode": "Muscle size and leverage",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "width lengthens leverage"
+  },
+  {
+   "id": "e107",
+   "fromNode": "Muscle swelling",
+   "fromSide": "right",
+   "toNode": "Muscle size and leverage",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the pump widens the muscle"
+  },
+  {
+   "id": "e108",
+   "fromNode": "Creatine Supplementation",
+   "fromSide": "right",
+   "toNode": "Muscle size and leverage",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "creatine swells muscle"
+  },
+  {
+   "id": "e109",
+   "fromNode": "Elbow flexor training",
+   "fromSide": "right",
+   "toNode": "Muscle size and leverage",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "delayed swelling"
+  },
+  {
+   "id": "e110",
+   "fromNode": "Overuse injuries",
+   "fromSide": "right",
+   "toNode": "Muscle strain injuries",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "mechanical fatigue"
+  },
+  {
+   "id": "e111",
+   "fromNode": "Omega 6 3 ratio",
+   "fromSide": "right",
+   "toNode": "Omega-3 supplementation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "supplement trials"
+  },
+  {
+   "id": "e112",
+   "fromNode": "Crop deaths",
+   "fromSide": "bottom",
+   "toNode": "Dairy",
+   "toSide": "top",
+   "toEnd": "arrow",
+   "label": "deaths per calorie"
+  },
+  {
+   "id": "e113",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Cholesterol-lowering foods",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "LDL is the marker"
+  },
+  {
+   "id": "e114",
+   "fromNode": "Fiber",
+   "fromSide": "right",
+   "toNode": "Cholesterol-lowering foods",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "oats"
+  },
+  {
+   "id": "e115",
+   "fromNode": "Muscle swelling",
+   "fromSide": "right",
+   "toNode": "Swelling in hypertrophy studies",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "pump vs damage swelling"
+  },
+  {
+   "id": "e116",
+   "fromNode": "Repeated bout effect",
+   "fromSide": "right",
+   "toNode": "Swelling in hypertrophy studies",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "less damage, less swelling"
+  },
+  {
+   "id": "e117",
+   "fromNode": "Swelling in hypertrophy studies",
+   "fromSide": "right",
+   "toNode": "Training frequency and hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "size vs strength"
+  },
+  {
+   "id": "e118",
+   "fromNode": "Mechanical tension",
+   "fromSide": "right",
+   "toNode": "Flexing and co-contraction training",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "isometric tension"
+  },
+  {
+   "id": "e119",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Flexing and co-contraction training",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "activation is the limit"
   }
  ]
 }

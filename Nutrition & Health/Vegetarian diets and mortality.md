@@ -17,9 +17,12 @@ In the Adventist Health Study 2 (73,308 Seventh-day Adventists, about 6 years of
 | Vs nonvegetarians | Men | Women | Both |
 |---|---|---|---|
 | Vegans | 0.72 (0.56–0.92) | 0.97 (0.78–1.20) | 0.85 (0.73–1.01) |
+| Lacto-ovo vegetarians | 0.86 (0.74–1.01) | 0.94 (0.83–1.07) | 0.91 (0.82–1.00) |
+| Pesco-vegetarians | 0.73 (0.57–0.93) | 0.88 (0.72–1.07) | 0.81 (0.69–0.94) |
+| Semi-vegetarians | 0.93 (0.68–1.26) | 0.92 (0.70–1.22) | 0.92 (0.75–1.13) |
 | All vegetarians | 0.82 (0.72–0.94) | 0.93 (0.82–1.05) | 0.88 (0.80–0.97) |
 
-So vegan men had significantly lower mortality, but vegan women, and vegans overall, didn't differ significantly from nonvegetarians.
+So vegan men had significantly lower mortality, but vegan women, and vegans overall, didn't differ significantly from nonvegetarians. Lacto-ovo vegetarians were borderline lower with men and women combined (upper limit 1.00), but not in men or women separately. Pesco-vegetarians had the lowest mortality of any group.
 [Orlich 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4191896/)
 
 In a pooled UK cohort (60,310 people, including EPIC-Oxford), all-cause mortality before age 90 didn't differ between vegetarians and regular meat eaters (HR 1.02, 95% CI 0.94–1.10), and vegans didn't differ significantly either. Many of the meat eaters were friends and relatives of the vegetarians, and earlier EPIC-Oxford work found the cohort's overall death rate was only half that of the UK as a whole, so the meat eaters here aren't typical. The authors suggest UK vegetarians may also be motivated less by health than Adventist vegetarians are.

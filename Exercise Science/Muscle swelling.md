@@ -22,3 +22,5 @@ Muscle swelling has shown to actually reduce mechanical tension. This appears to
 
 **Feeds into**
 - [[Creatine Supplementation]] — shows creatine's size gains are water, not new muscle
+- [[Muscle size and leverage]] — the pump widens a muscle, which may briefly lengthen its moment arm
+- [[Swelling in hypertrophy studies]] — the delayed swelling from muscle damage, which can be mistaken for growth

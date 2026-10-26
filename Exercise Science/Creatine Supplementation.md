@@ -82,3 +82,6 @@ There's some evidence creatine improves memory and cognitive performance, mainly
 - [[Anabolic Androgenic Steroids]] — unlike steroids, creatine doesn't preserve muscle during immobilization, so it isn't a direct growth signal
 - [[Internal moment arm]] — the one way creatine might nudge max strength
 - [[Calcium ion-related fatigue]] — post-workout fatigue comes from calcium ion-related mechanisms, not acidosis, so creatine's buffering shouldn't touch it
+
+**Feeds into**
+- [[Muscle size and leverage]] — creatine's swelling is the one size gain without fatigue, so its leverage gain could add strength
