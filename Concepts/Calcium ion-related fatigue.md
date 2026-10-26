@@ -14,3 +14,4 @@ Peripheral fatigue caused by calcium ions accumulating inside muscle fibers. It 
 - [[Increasing speed]] — the same calcium build-up shifts fibers toward slower types
 - [[Creatine Supplementation]] — why creatine's intra-workout buffering shouldn't affect post-workout fatigue
 - [[Overuse injuries]] — the post-workout fatigue mechanisms whose incomplete recovery can cause fibrosis
+- [[Training volume]] — later sets start with more calcium built up, so damage may climb with each set

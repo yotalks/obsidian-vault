@@ -20,6 +20,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Mechanical tension]] — the growth stimulus
 - [[Increasing motor unit recruitment]] — fibers must be recruited to feel tension
 - [[Flexing and co-contraction training]] — maximal flexing builds a little muscle with no equipment
+- [[Training volume]] — steep diminishing returns per set, and damage may cap the useful number
 - [[EMG for exercise selection]] — EMG shows where growth happens, not how much
 - [[Individual differences in muscle growth]] — starting point and fiber type set how fast you grow
 - [[Muscle swelling]] — the pump doesn't add tension

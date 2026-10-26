@@ -30,6 +30,7 @@ Maximal eccentrics at short muscle lengths caused smaller losses of strength and
 ## How this could bias hypertrophy studies
 
 Studies of training variables usually compare groups training for several weeks and measure muscle size before and after, often within a few days of the final workout. A group doing more damaging training, such as more sets or a larger range of motion, would carry more swelling at that measurement. Because the swelling can be as large as a whole program's growth, even a small difference in swelling between groups could make the more damaging program look much better for hypertrophy.
+→ [[Training volume]]
 
 ## Checking against strength
 
@@ -43,6 +44,7 @@ In a meta-regression of 67 studies (2,058 people), more weekly sets increased bo
 **Builds on**
 - [[Muscle swelling]] — the pump during a workout, which is a different kind of swelling
 - [[Repeated bout effect]] — a previous bout cuts later damage and swelling
+- [[Training volume]] — more sets mean more damage, and so more swelling that can look like growth
 
 **Feeds into**
 - [[Training frequency and hypertrophy]] — what frequency research shows, read with swelling in mind

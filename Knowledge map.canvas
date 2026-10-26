@@ -271,21 +271,11 @@
    "color": "2"
   },
   {
-   "id": "Swelling in hypertrophy studies",
-   "type": "file",
-   "file": "Exercise Science/Swelling in hypertrophy studies.md",
-   "x": 1320,
-   "y": 190,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
    "id": "Insufficient Sleep",
    "type": "file",
    "file": "Exercise Science/Insufficient Sleep.md",
    "x": 1320,
-   "y": 320,
+   "y": 190,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -294,6 +284,16 @@
    "id": "Detraining adaptations speed",
    "type": "file",
    "file": "Exercise Science/Detraining adaptations speed.md",
+   "x": 1320,
+   "y": 320,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Training volume",
+   "type": "file",
+   "file": "Exercise Science/Training volume.md",
    "x": 1320,
    "y": 450,
    "width": 300,
@@ -371,11 +371,21 @@
    "color": "2"
   },
   {
+   "id": "Training frequency and hypertrophy",
+   "type": "file",
+   "file": "Exercise Science/Training frequency and hypertrophy.md",
+   "x": 2160,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
    "id": "Creatine Supplementation",
    "type": "file",
    "file": "Exercise Science/Creatine Supplementation.md",
    "x": 2160,
-   "y": 645,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -385,15 +395,15 @@
    "type": "file",
    "file": "Exercise Science/Elbow flexor training.md",
    "x": 2160,
-   "y": 775,
+   "y": 840,
    "width": 300,
    "height": 90,
    "color": "2"
   },
   {
-   "id": "Training frequency and hypertrophy",
+   "id": "Swelling in hypertrophy studies",
    "type": "file",
-   "file": "Exercise Science/Training frequency and hypertrophy.md",
+   "file": "Exercise Science/Swelling in hypertrophy studies.md",
    "x": 1740,
    "y": 60,
    "width": 300,
@@ -2115,6 +2125,51 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "activation is the limit"
+  },
+  {
+   "id": "e120",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Training volume",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "damage builds across sets"
+  },
+  {
+   "id": "e121",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Training volume",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "quality over quantity"
+  },
+  {
+   "id": "e122",
+   "fromNode": "Training volume",
+   "fromSide": "right",
+   "toNode": "Swelling in hypertrophy studies",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "volume and swelling"
+  },
+  {
+   "id": "e123",
+   "fromNode": "Training volume",
+   "fromSide": "right",
+   "toNode": "Training frequency and hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "spread the sets"
+  },
+  {
+   "id": "e124",
+   "fromNode": "Detraining adaptations speed",
+   "fromSide": "right",
+   "toNode": "Training frequency and hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "maintenance dose"
   }
  ]
 }

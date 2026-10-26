@@ -51,3 +51,4 @@ Sarcomerogenesis requires even less weekly stimulus to maintain. Maintenance of 
 
 **Feeds into**
 - [[Age and adaptations]] — the 3-sets-a-week maintenance finding is used to argue older muscle isn't less sensitive
+- [[Training frequency and hypertrophy]] — maintenance data set how fast gains are lost between workouts

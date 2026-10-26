@@ -72,3 +72,4 @@ We can likely increase our ability to recruit motor units by maximizing the leve
 - [[Individual differences in muscle growth]] — why prior activity that already grew the early high-threshold fibers slows later growth
 - [[EMG for exercise selection]] — why EMG, as a measure of recruitment, can show which muscle or exercise has the most growth potential
 - [[Flexing and co-contraction training]] — how much activation maximal co-contraction reaches
+- [[Training volume]] — raising recruitment makes each set count more than adding sets
