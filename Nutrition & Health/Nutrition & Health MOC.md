@@ -36,6 +36,8 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
   - [[Seed oils and cancer]] — trials, cohorts and MR are null or protective
   - [[Seed oils and obesity]] — no appetite effect in humans; PUFA raises energy expenditure
   - [[Seed oils and diabetes]] — linked to lower diabetes risk
+  - [[Seed oils and fatty liver]] — PUFA lowers liver fat compared with saturated fat
+  - [[Seed oils, arthritis and lupus]] — no harm in trials; MR points to lower risk
 - [[Omega 6 3 ratio]] — no known optimal ratio; omega-3 supplements don't help primary prevention
 - [[Plant based diet CVD reversal]] — prevents progression and events, but doesn't reverse disease
 - [[Dietary cholesterol]] — a dose response that flattens out, but still a risk

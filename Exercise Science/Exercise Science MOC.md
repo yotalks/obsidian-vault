@@ -51,6 +51,7 @@ Train each muscle region where its leverage peaks: [[Internal moment arm]] → [
 - [[Latissimus dorsi training]] — rows for the upper lats, wide-grip pulldowns for the lower
 - [[Pectoralis major training]] — slight-incline narrow presses for the upper pec, wide presses and flys for the rest
 - [[Deltoid training]] — overhead presses, lateral raises, rear delt flys
+- [[Trapezius training]] — presses and pulls for the upper traps, shrugs for the middle and lower (anatomy and EMG only)
 - [[Triceps training]] — pushdowns for the long head, close-grip lockouts and overhead extensions for the others
 - [[Elbow flexor training]] — straighter-elbow curls for biceps and brachialis, pronated curls for brachioradialis
 - [[Gluteus maximus training]] — seated abduction for the upper glutes, bridges for the lower

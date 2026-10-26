@@ -5,7 +5,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> Claims that seed oils cause disease rest on mechanistic and ecological research, not human outcomes. Linoleic acid makes LDL slightly easier to oxidize in lab tests, but antioxidants and overall diet matter far more, and oxidized LDL doesn't predict heart disease once ApoB is accounted for. On actual outcomes, replacing saturated fat with seed oils lowers heart disease (see Saturated fat). The cancer concern comes from a post-hoc analysis of one trial (LAVAT), where the excess disappears among people who stuck to the diet and tracks smoking; across trials the effect is null, and tissue linoleic acid and Mendelian randomization point to lower cancer and skin cancer risk. Seed oils also don't drive obesity: the 2-AG appetite mechanism works in mice but not in humans, appetite trials are a wash, LAVAT subjects' weight didn't change while their tissue linoleic acid tripled, and PUFA raises energy expenditure and fat burning more than saturated fat does. For type 2 diabetes, higher linoleic acid is linked to better insulin sensitivity and lower risk in cohorts, and trials show no harm to blood sugar.
+> Claims that seed oils cause disease rest on mechanistic and ecological research, not human outcomes. Linoleic acid makes LDL slightly easier to oxidize in lab tests, but antioxidants and overall diet matter far more, and oxidized LDL doesn't predict heart disease once ApoB is accounted for. On actual outcomes, replacing saturated fat with seed oils lowers heart disease (see Saturated fat). The cancer concern comes from a post-hoc analysis of one trial (LAVAT), where the excess disappears among people who stuck to the diet and tracks smoking; across trials the effect is null, and tissue linoleic acid and Mendelian randomization point to lower cancer and skin cancer risk. Seed oils also don't drive obesity: the 2-AG appetite mechanism works in mice but not in humans, appetite trials are a wash, LAVAT subjects' weight didn't change while their tissue linoleic acid tripled, and PUFA raises energy expenditure and fat burning more than saturated fat does. For type 2 diabetes, higher linoleic acid is linked to better insulin sensitivity and lower risk in cohorts, and trials show no harm to blood sugar. For fatty liver, replacing saturated fat with PUFA lowers liver fat. Seed oils aren't linked to worse rheumatoid arthritis or lupus either.
 
 ## Mechanisms aren't outcomes
 
@@ -25,6 +25,8 @@ The outcome evidence (the saturated fat threshold, cohorts, the Cochrane trials,
 - [[Seed oils and cancer]] — the LAVAT excess was post-hoc and tracked smoking; trials, cohorts and MR are null or protective
 - [[Seed oils and obesity]] — the 2-AG appetite mechanism doesn't hold in humans, and PUFA raises energy expenditure
 - [[Seed oils and diabetes]] — higher linoleic acid is linked to better insulin sensitivity and lower diabetes risk
+- [[Seed oils and fatty liver]] — the infant liver damage comes from soy phytosterols, and PUFA lowers liver fat compared with saturated fat
+- [[Seed oils, arthritis and lupus]] — the omega-6 to omega-3 ratio's link to RA pain tracks low omega-3, and MR points to lower risk
 
 ## Connections
 **Feeds into**

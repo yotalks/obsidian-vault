@@ -44,3 +44,6 @@ The short head only crosses the knee, and has its best leverage for knee flexion
 ## Connections
 **Builds on**
 - [[Neuromechanical matching]] — neural drive favors the muscle with the best leverage, so each muscle's peak leverage picks its best exercise
+
+**Feeds into**
+- [[Elbow flexor training]] — the parallel pattern for the biceps: shortening a two-joint muscle at one joint shifts growth to the single-joint muscle

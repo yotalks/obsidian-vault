@@ -38,3 +38,6 @@ The shape of the EMG-force relationship depends on the muscle: it was roughly li
 ## Connections
 **Builds on**
 - [[Increasing motor unit recruitment]] — only recruited fibers grow, so the number of fibers an exercise activates sets its growth potential
+
+**Feeds into**
+- [[Trapezius training]] — with no leverage data for the trapezius, exercise choice rests on which exercises activate each region most
