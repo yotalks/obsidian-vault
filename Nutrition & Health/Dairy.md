@@ -7,7 +7,7 @@ aliases:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> In cohort studies, more dairy is linked to slightly higher prostate cancer risk, apparently not because of its calcium or fat. In young children, drinking a lot of cow's milk is linked to iron deficiency, and infants given cow's milk instead of follow-on formula had nearly 4 times the risk of iron deficiency anemia. Genetic data show milk doesn't lower the risk of diabetes or obesity. An ethics analysis argues milk causes more animal suffering and more cattle deaths per calorie than beef.
+> In cohort studies, more dairy is linked to slightly higher prostate cancer risk, apparently not because of its calcium or fat. In young children, drinking a lot of cow's milk is linked to iron deficiency, and infants given cow's milk instead of follow-on formula had nearly 4 times the risk of iron deficiency anemia. Genetic data show milk doesn't lower the risk of diabetes or obesity. Cheese made with vegetable oil instead of milk fat lowers LDL cholesterol. An ethics analysis argues milk causes more animal suffering and more cattle deaths per calorie than beef.
 
 ## Prostate cancer
 
@@ -36,6 +36,15 @@ A review explains why. Cow's milk has little iron, and what it has is poorly abs
 
 In 97,811 Danes, drinking any milk wasn't linked to lower type 2 diabetes risk (HR 1.10, 95% CI 0.98–1.24) and was linked to slightly more overweight (OR 1.06). Using [[Glossary#MR|Mendelian randomization]], people with the lactase persistence gene drank more milk (a median of 5 vs 3 glasses a week) but had no lower diabetes risk ([[Glossary#OR|OR]] 0.96, 0.86–1.08) and slightly more overweight (OR 1.06, 1.00–1.12).
 [Bergholdt 2015](https://pubmed.ncbi.nlm.nih.gov/26156736/)
+
+## Cheese and LDL
+
+[[Glossary#SFA|SFA]] rich cheese doesn't seem to increase LDL-C but [[Glossary#PUFA|PUFA]] enriched cheeses lowers LDL-C. The ratio of PUFA to SFA still affects LDL-C, even with cheese.
+[Davis 1993](https://pubmed.ncbi.nlm.nih.gov/8363165/)
+[Karvonen 2002](https://pubmed.ncbi.nlm.nih.gov/12428175/)
+→ [[LDL and heart disease]]
+
+The rapeseed oil cheese trial was sponsored by the companies that made the cheese.
 
 ## Animal welfare
 

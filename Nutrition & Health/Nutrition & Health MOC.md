@@ -39,6 +39,8 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
   - [[Seed oils and diabetes]] — linked to lower diabetes risk
   - [[Seed oils and fatty liver]] — PUFA lowers liver fat compared with saturated fat
   - [[Seed oils, arthritis and lupus]] — no harm in trials; MR points to lower risk
+  - [[Seed oils and macular degeneration]] — ecological claim; cohorts null, MR points to lower risk
+  - [[Seed oils and cognitive decline]] — no link to dementia; vegetable fat linked to lower risk
 - [[Omega 6 3 ratio]] — no known optimal ratio; omega-3 supplements don't help primary prevention
 - [[Omega-3 supplementation]] — small drops in heart attacks and CVD death; mixed results in pregnancy
 - [[Plant based diet CVD reversal]] — prevents progression and events, but doesn't reverse disease
@@ -62,6 +64,8 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Infectious disease
 - [[COVID and erectile dysfunction]] — a plausible causal link, backed by animal data; human data are still observational
+- [[Vaccine safety]] — ingredient, overload and autism fears don't hold up; real risks are rare
+- [[HPV vaccine]] — prevents precancer and cancer; saline-placebo data show no extra systemic or autoimmune harm
 
 ## Organic food
 - [[Organic and Health]]

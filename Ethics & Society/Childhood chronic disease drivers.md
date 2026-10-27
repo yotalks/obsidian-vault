@@ -6,6 +6,11 @@ up: "[[Ethics & Society MOC]]"
 > [!summary] Bottom line
 > The MAHA report blames rising childhood chronic disease on four drivers: ultra-processed food, chemicals, screens and over-medication. Its medication claims don't hold up well. The ADHD trial it leans on showed medication helped for two years. Its own antibiotic source says 29% of childhood prescriptions are unnecessary, not over 35%. And links between early antibiotics and later chronic disease mostly shrink or vanish once you account for the infections being treated.
 
+## The rise in childhood chronic conditions
+
+In 1960, 1.8% of US children had a health condition severe enough to interfere with daily activities. By 2010 it was over 8%. Most of the rise came from four common conditions: asthma, obesity, mental health conditions and neurodevelopmental disorders like ADHD and autism, which rose sharply in the 1980s and 1990s. Obesity and asthma may have levelled off since 2000, while ADHD and autism diagnoses keep rising mainly through better awareness and screening. The authors point to genetic susceptibility interacting with environmental exposures, changes in children's social environments, diet, physical activity and screen time, and wider screening that picks up milder cases. Poverty has become increasingly linked to chronic conditions since the 1990s.
+[Perrin 2014](https://doi.org/10.1377/hlthaff.2014.0832)
+
 ## The report's four drivers
 
 The report says rising childhood chronic disease is driven by:
