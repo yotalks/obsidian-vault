@@ -528,14 +528,14 @@
    "x": 0,
    "y": 1750,
    "width": 1680,
-   "height": 1680
+   "height": 1810
   },
   {
    "id": "Antagonistic pleiotropy",
    "type": "file",
    "file": "Concepts/Antagonistic pleiotropy.md",
    "x": 60,
-   "y": 1940,
+   "y": 2005,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -545,7 +545,7 @@
    "type": "file",
    "file": "Concepts/LDL and heart disease.md",
    "x": 60,
-   "y": 2070,
+   "y": 2135,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -555,7 +555,7 @@
    "type": "file",
    "file": "Nutrition & Health/Seed oils.md",
    "x": 60,
-   "y": 2200,
+   "y": 2265,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -565,7 +565,7 @@
    "type": "file",
    "file": "Nutrition & Health/Omega 6 3 ratio.md",
    "x": 60,
-   "y": 2330,
+   "y": 2395,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -575,7 +575,7 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 2460,
+   "y": 2525,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -585,7 +585,7 @@
    "type": "file",
    "file": "Nutrition & Health/Soy.md",
    "x": 60,
-   "y": 2590,
+   "y": 2655,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -595,7 +595,7 @@
    "type": "file",
    "file": "Nutrition & Health/Artificial sweeteners.md",
    "x": 60,
-   "y": 2720,
+   "y": 2785,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -605,7 +605,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vegetarian diets and mortality.md",
    "x": 60,
-   "y": 2850,
+   "y": 2915,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -615,7 +615,7 @@
    "type": "file",
    "file": "Nutrition & Health/Dairy.md",
    "x": 60,
-   "y": 2980,
+   "y": 3045,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -625,7 +625,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vaccine safety.md",
    "x": 60,
-   "y": 3110,
+   "y": 3175,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -751,6 +751,16 @@
    "color": "4"
   },
   {
+   "id": "COVID-19 vaccine trials",
+   "type": "file",
+   "file": "Nutrition & Health/COVID-19 vaccine trials.md",
+   "x": 480,
+   "y": 3370,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Evolution",
    "type": "file",
    "file": "Nutrition & Health/Evolution.md",
@@ -801,11 +811,21 @@
    "color": "4"
   },
   {
+   "id": "Vaccine spike protein",
+   "type": "file",
+   "file": "Nutrition & Health/Vaccine spike protein.md",
+   "x": 900,
+   "y": 2915,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Hunter-gatherer diets",
    "type": "file",
    "file": "Nutrition & Health/Hunter-gatherer diets.md",
    "x": 1320,
-   "y": 2525,
+   "y": 2590,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -816,7 +836,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 3630,
+   "y": 3760,
    "width": 1260,
    "height": 510
   },
@@ -825,7 +845,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 3690,
+   "y": 3820,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -835,7 +855,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 3820,
+   "y": 3950,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -845,7 +865,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 3950,
+   "y": 4080,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -855,7 +875,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 3690,
+   "y": 3820,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -865,7 +885,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 3820,
+   "y": 3950,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -875,7 +895,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 3950,
+   "y": 4080,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -885,7 +905,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 3820,
+   "y": 3950,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -896,7 +916,7 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 4340,
+   "y": 4470,
    "width": 1260,
    "height": 770
   },
@@ -905,7 +925,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 4595,
+   "y": 4725,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -915,7 +935,7 @@
    "type": "file",
    "file": "Concepts/Wild animal suffering.md",
    "x": 60,
-   "y": 4725,
+   "y": 4855,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -925,7 +945,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
-   "y": 4400,
+   "y": 4530,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -935,7 +955,7 @@
    "type": "file",
    "file": "Animal Ethics/Vegan Bivalves.md",
    "x": 480,
-   "y": 4530,
+   "y": 4660,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -945,7 +965,7 @@
    "type": "file",
    "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
-   "y": 4660,
+   "y": 4790,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -955,7 +975,7 @@
    "type": "file",
    "file": "Animal Ethics/Rewilding.md",
    "x": 480,
-   "y": 4790,
+   "y": 4920,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -965,7 +985,7 @@
    "type": "file",
    "file": "Animal Ethics/Colonizing nature.md",
    "x": 480,
-   "y": 4920,
+   "y": 5050,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -975,7 +995,7 @@
    "type": "file",
    "file": "Animal Ethics/Crop deaths.md",
    "x": 900,
-   "y": 4660,
+   "y": 4790,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -986,7 +1006,7 @@
    "label": "Ethics & Society",
    "color": "5",
    "x": 0,
-   "y": 5310,
+   "y": 5440,
    "width": 1260,
    "height": 640
   },
@@ -995,7 +1015,7 @@
    "type": "file",
    "file": "Ethics & Society/US life expectancy.md",
    "x": 60,
-   "y": 5435,
+   "y": 5565,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1005,7 +1025,7 @@
    "type": "file",
    "file": "Ethics & Society/Artifactual chronic disease trends.md",
    "x": 60,
-   "y": 5565,
+   "y": 5695,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1015,7 +1035,7 @@
    "type": "file",
    "file": "Ethics & Society/Gender dysphoria in the DSM-5.md",
    "x": 60,
-   "y": 5695,
+   "y": 5825,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1025,7 +1045,7 @@
    "type": "file",
    "file": "Ethics & Society/US healthcare spending.md",
    "x": 480,
-   "y": 5370,
+   "y": 5500,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1035,7 +1055,7 @@
    "type": "file",
    "file": "Ethics & Society/Childhood chronic disease.md",
    "x": 480,
-   "y": 5500,
+   "y": 5630,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1045,7 +1065,7 @@
    "type": "file",
    "file": "Ethics & Society/Gender-affirming care outcomes.md",
    "x": 480,
-   "y": 5630,
+   "y": 5760,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1055,7 +1075,7 @@
    "type": "file",
    "file": "Ethics & Society/Trans Identity.md",
    "x": 480,
-   "y": 5760,
+   "y": 5890,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1065,7 +1085,7 @@
    "type": "file",
    "file": "Ethics & Society/Medicare and gender reassignment surgery.md",
    "x": 900,
-   "y": 5565,
+   "y": 5695,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -2199,6 +2219,24 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "one vaccine in detail"
+  },
+  {
+   "id": "e126",
+   "fromNode": "Vaccine safety",
+   "fromSide": "right",
+   "toNode": "COVID-19 vaccine trials",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "trial evidence"
+  },
+  {
+   "id": "e127",
+   "fromNode": "COVID-19 vaccine trials",
+   "fromSide": "right",
+   "toNode": "Vaccine spike protein",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "outcomes over mechanisms"
   }
  ]
 }

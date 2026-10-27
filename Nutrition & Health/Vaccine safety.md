@@ -68,3 +68,4 @@ In more than 500,000 Danish children, autism wasn't linked to MMR vaccination, t
 ## Connections
 **Feeds into**
 - [[HPV vaccine]] — the HPV vaccine's trial safety data, including a saline placebo
+- [[COVID-19 vaccine trials]] — the randomized trials behind the COVID-19 vaccines

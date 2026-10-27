@@ -66,6 +66,8 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[COVID and erectile dysfunction]] — a plausible causal link, backed by animal data; human data are still observational
 - [[Vaccine safety]] — ingredient, overload and autism fears don't hold up; real risks are rare
 - [[HPV vaccine]] — prevents precancer and cancer; saline-placebo data show no extra systemic or autoimmune harm
+- [[COVID-19 vaccine trials]] — Pfizer 95%, Moderna 93%, AstraZeneca 67–70%, J&J 56% against symptomatic COVID-19; Delta cut protection against infection, not severe disease
+- [[Vaccine spike protein]] — vaccine spike is shape-locked, anchored near the injection site and barely reaches the blood
 
 ## Organic food
 - [[Organic and Health]]
