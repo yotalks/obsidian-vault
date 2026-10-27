@@ -41,6 +41,8 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
   - [[Seed oils, arthritis and lupus]] — no harm in trials; MR points to lower risk
   - [[Seed oils and macular degeneration]] — ecological claim; cohorts null, MR points to lower risk
   - [[Seed oils and cognitive decline]] — no link to dementia; vegetable fat linked to lower risk
+  - [[Seed oils and inflammation]] — no effect on CRP in diet trials
+  - [[Seed oils and lipid peroxidation]] — no worse oxidative stress markers in diet trials
 - [[Omega 6 3 ratio]] — no known optimal ratio; omega-3 supplements don't help primary prevention
 - [[Omega-3 supplementation]] — small drops in heart attacks and CVD death; mixed results in pregnancy
 - [[Plant based diet CVD reversal]] — prevents progression and events, but doesn't reverse disease
@@ -57,10 +59,12 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Grass fed beef]] — not healthier, needs far more land, and has a bigger carbon footprint
 - [[Polyface Farm]] — its pigs eat bought-in corn and soy
 - [[Livestock and climate change]] — about a fifth of warming to 2010; vegan diets emit 40% of heavy meat eaters'
+- [[Lab-grown meat]] — real meat without slaughter; serum-free, approved in Singapore and the US
 
 ## Other health
 - [[Saunas]] — regular use temporarily impairs sperm
 - [[Minoxidil]] — prevents miniaturization by working downstream of DHT, not by blocking it
+- [[ADHD and mortality]] — higher death rates from all causes; medication linked to lower mortality
 
 ## Infectious disease
 - [[COVID and erectile dysfunction]] — a plausible causal link, backed by animal data; human data are still observational

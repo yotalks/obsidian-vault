@@ -27,4 +27,5 @@ Animal rights and what follows from them.
 - [[Animal agriculture subsidies]] — buying less isn't offset by the government buying more
 
 ## Activism
+- [[Lab-grown meat]] — making animal agriculture obsolete may do more than persuasion
 - [[Vandalizing zoos]] — why vandalism can harm the animals inside

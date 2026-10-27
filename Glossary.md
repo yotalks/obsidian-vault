@@ -175,6 +175,12 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 ### AMI
 **AMI** — Acute myocardial infarction (heart attack).
 
+### ASCVD
+**ASCVD** — Atherosclerotic cardiovascular disease: heart attack, stroke and other disease caused by plaque in the arteries. See [[LDL and heart disease]].
+
+### CRP
+**CRP** — C-reactive protein, a blood marker of inflammation; hs-CRP is the high-sensitivity test used for cardiovascular risk.
+
 ### MR
 **MR** — Mendelian randomization: using gene variants that shift an exposure to estimate its causal effect.
 
@@ -204,3 +210,12 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### RR
 **RR** — Relative risk (risk ratio): the risk of an outcome in one group divided by the risk in another. See [[Observational study designs]].
+
+### Anisogamy
+**Anisogamy** — When an organism's gametes differ in size. In two-sexed species the small gamete (sperm) defines males and the large gamete (egg) defines females. See [[Biological sex]].
+
+### Isogamy
+**Isogamy** — When all of an organism's gametes are the same size, so there are no males or females. The ancestral state before anisogamy evolved.
+
+### HR
+**HR** — Hazard ratio: the rate of an event over time in one group divided by the rate in another. An HR of 1.71 means a 71% higher rate.

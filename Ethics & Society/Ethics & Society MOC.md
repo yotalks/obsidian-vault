@@ -9,6 +9,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Anti Natalism]] — anti-natalism's own logic implies pragmatic natalism
 
 ## Society
+- [[Biological sex]] — sex is defined by gamete size; two sexes, but not binary, since hermaphrodites are both
 - [[Trans Identity]] — defining man and woman by weighted gamete-associated traits; being trans isn't a mental illness
 - [[Gender dysphoria in the DSM-5]] — the diagnosis requires distress; persistence, onset types and differential diagnosis
 - [[Pronoun usage]] — about 2 in 5 in English-speaking countries use a trans person's lived-gender pronoun

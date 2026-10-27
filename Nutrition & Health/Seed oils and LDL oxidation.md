@@ -20,6 +20,7 @@ We have comprehensively looked at the effects of altering fatty acid composition
 ![[LDL oxidation lag time by dietary fat.png]]
 Diets higher in [[Glossary#MUFA|MUFA]] might actually increase lag time to LDL oxidation more than either SFA rich and PUFA rich diets. It would appear as though this effect could be explained due to the fact that MUFA might be better than SFA at replacing LA in LDL particles.
 [Mata 1996](https://pubmed.ncbi.nlm.nih.gov/8911273/)
+→ [[Seed oils and lipid peroxidation]]
 
 When comparing LDL that were enriched with PUFA to LDL that were enriched with MUFA, this study found a stepwise reduction in LDL lag time to oxidation with increasing PUFA, specifically LA. These results similarly show MUFA increases the lag time to LDL oxidation more than SFA or PUFA.
 [Kratz 2002](https://pubmed.ncbi.nlm.nih.gov/11840183/)
@@ -129,3 +130,4 @@ This regression analysis of the Scottish Heart Health Extended Cohort found a st
 **Builds on**
 - [[Saturated fat]] — if oxidized linoleic acid drove heart disease, swapping saturated fat for PUFA should raise risk, but trials show it lowers it
 - [[LDL and heart disease]] — once ApoB is accounted for, oxidized LDL adds little, so seed oils' LDL-lowering wins out
+- [[Seed oils and lipid peroxidation]] — in diet trials, PUFA-rich diets didn't worsen general markers of lipid peroxidation either

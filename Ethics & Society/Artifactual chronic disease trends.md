@@ -40,6 +40,7 @@ DSM-5 loosened the ADHD criteria compared with DSM-IV: adults (17 and older) nee
 ![[ADHD criteria DSM-IV vs DSM-5.jpg]]
 Broader criteria are part of why ADHD prevalence has risen, alongside greater awareness, particularly in women and minorities.
 [Abdelnour 2022](https://pubmed.ncbi.nlm.nih.gov/36337990/)
+→ [[ADHD and mortality]]
 
 ## Developmental disabilities
 
@@ -66,5 +67,8 @@ In Olmsted County, Minnesota, celiac incidence rose from 11.1 to 17.3 per 100,00
 [Ludvigsson 2013](https://pubmed.ncbi.nlm.nih.gov/23511460/)
 
 ## Connections
+**Builds on**
+- [[ADHD and mortality]] — ADHD is linked to higher mortality, and medication to lower mortality, so who gets diagnosed has real stakes
+
 **Feeds into**
 - [[Childhood chronic disease]] — the evidence that some of the report's rising conditions, like celiac disease, are mostly diagnostic artifacts

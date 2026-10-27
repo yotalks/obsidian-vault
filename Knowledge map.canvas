@@ -528,14 +528,14 @@
    "x": 0,
    "y": 1750,
    "width": 1680,
-   "height": 1810
+   "height": 1940
   },
   {
    "id": "Antagonistic pleiotropy",
    "type": "file",
    "file": "Concepts/Antagonistic pleiotropy.md",
    "x": 60,
-   "y": 2005,
+   "y": 1940,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -545,7 +545,7 @@
    "type": "file",
    "file": "Concepts/LDL and heart disease.md",
    "x": 60,
-   "y": 2135,
+   "y": 2070,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -555,7 +555,7 @@
    "type": "file",
    "file": "Nutrition & Health/Seed oils.md",
    "x": 60,
-   "y": 2265,
+   "y": 2200,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -565,7 +565,7 @@
    "type": "file",
    "file": "Nutrition & Health/Omega 6 3 ratio.md",
    "x": 60,
-   "y": 2395,
+   "y": 2330,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -575,7 +575,7 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 2525,
+   "y": 2460,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -585,7 +585,7 @@
    "type": "file",
    "file": "Nutrition & Health/Soy.md",
    "x": 60,
-   "y": 2655,
+   "y": 2590,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -595,7 +595,7 @@
    "type": "file",
    "file": "Nutrition & Health/Artificial sweeteners.md",
    "x": 60,
-   "y": 2785,
+   "y": 2720,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -605,7 +605,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vegetarian diets and mortality.md",
    "x": 60,
-   "y": 2915,
+   "y": 2850,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -615,7 +615,7 @@
    "type": "file",
    "file": "Nutrition & Health/Dairy.md",
    "x": 60,
-   "y": 3045,
+   "y": 2980,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -625,7 +625,27 @@
    "type": "file",
    "file": "Nutrition & Health/Vaccine safety.md",
    "x": 60,
-   "y": 3175,
+   "y": 3110,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Seed oils and lipid peroxidation",
+   "type": "file",
+   "file": "Nutrition & Health/Seed oils and lipid peroxidation.md",
+   "x": 60,
+   "y": 3240,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "ADHD and mortality",
+   "type": "file",
+   "file": "Nutrition & Health/ADHD and mortality.md",
+   "x": 60,
+   "y": 3370,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -691,11 +711,21 @@
    "color": "4"
   },
   {
+   "id": "Seed oils and inflammation",
+   "type": "file",
+   "file": "Nutrition & Health/Seed oils and inflammation.md",
+   "x": 480,
+   "y": 2590,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Omega-3 supplementation",
    "type": "file",
    "file": "Nutrition & Health/Omega-3 supplementation.md",
    "x": 480,
-   "y": 2590,
+   "y": 2720,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -705,7 +735,7 @@
    "type": "file",
    "file": "Nutrition & Health/Ultra-processed food and additives.md",
    "x": 480,
-   "y": 2720,
+   "y": 2850,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -715,7 +745,7 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic on the environment.md",
    "x": 480,
-   "y": 2850,
+   "y": 2980,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -725,7 +755,7 @@
    "type": "file",
    "file": "Nutrition & Health/Plant toxins and antinutrients.md",
    "x": 480,
-   "y": 2980,
+   "y": 3110,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -735,7 +765,7 @@
    "type": "file",
    "file": "Nutrition & Health/Plant based diet CVD reversal.md",
    "x": 480,
-   "y": 3110,
+   "y": 3240,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -745,7 +775,7 @@
    "type": "file",
    "file": "Nutrition & Health/HPV vaccine.md",
    "x": 480,
-   "y": 3240,
+   "y": 3370,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -755,7 +785,7 @@
    "type": "file",
    "file": "Nutrition & Health/COVID-19 vaccine trials.md",
    "x": 480,
-   "y": 3370,
+   "y": 3500,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -765,7 +795,7 @@
    "type": "file",
    "file": "Nutrition & Health/Evolution.md",
    "x": 900,
-   "y": 2265,
+   "y": 2330,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -775,17 +805,7 @@
    "type": "file",
    "file": "Nutrition & Health/Chocolate.md",
    "x": 900,
-   "y": 2395,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Seed oils and LDL oxidation",
-   "type": "file",
-   "file": "Nutrition & Health/Seed oils and LDL oxidation.md",
-   "x": 900,
-   "y": 2525,
+   "y": 2460,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -795,7 +815,7 @@
    "type": "file",
    "file": "Nutrition & Health/Cholesterol-lowering foods.md",
    "x": 900,
-   "y": 2655,
+   "y": 2590,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -805,7 +825,17 @@
    "type": "file",
    "file": "Nutrition & Health/Satiation.md",
    "x": 900,
-   "y": 2785,
+   "y": 2720,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Seed oils and LDL oxidation",
+   "type": "file",
+   "file": "Nutrition & Health/Seed oils and LDL oxidation.md",
+   "x": 900,
+   "y": 2850,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -815,7 +845,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vaccine spike protein.md",
    "x": 900,
-   "y": 2915,
+   "y": 2980,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -825,7 +855,7 @@
    "type": "file",
    "file": "Nutrition & Health/Hunter-gatherer diets.md",
    "x": 1320,
-   "y": 2590,
+   "y": 2655,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -836,7 +866,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 3760,
+   "y": 3890,
    "width": 1260,
    "height": 510
   },
@@ -845,7 +875,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 3820,
+   "y": 3950,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -855,7 +885,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 3950,
+   "y": 4080,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -865,7 +895,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 4080,
+   "y": 4210,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -875,7 +905,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 3820,
+   "y": 3950,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -885,7 +915,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 3950,
+   "y": 4080,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -895,7 +925,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 4080,
+   "y": 4210,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -905,7 +935,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 3950,
+   "y": 4080,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -916,7 +946,7 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 4470,
+   "y": 4600,
    "width": 1260,
    "height": 770
   },
@@ -925,7 +955,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 4725,
+   "y": 4855,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -935,7 +965,7 @@
    "type": "file",
    "file": "Concepts/Wild animal suffering.md",
    "x": 60,
-   "y": 4855,
+   "y": 4985,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -945,7 +975,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
-   "y": 4530,
+   "y": 4660,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -955,7 +985,7 @@
    "type": "file",
    "file": "Animal Ethics/Vegan Bivalves.md",
    "x": 480,
-   "y": 4660,
+   "y": 4790,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -965,7 +995,7 @@
    "type": "file",
    "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
-   "y": 4790,
+   "y": 4920,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -975,7 +1005,7 @@
    "type": "file",
    "file": "Animal Ethics/Rewilding.md",
    "x": 480,
-   "y": 4920,
+   "y": 5050,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -985,7 +1015,7 @@
    "type": "file",
    "file": "Animal Ethics/Colonizing nature.md",
    "x": 480,
-   "y": 5050,
+   "y": 5180,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -995,7 +1025,7 @@
    "type": "file",
    "file": "Animal Ethics/Crop deaths.md",
    "x": 900,
-   "y": 4790,
+   "y": 4920,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1006,7 +1036,7 @@
    "label": "Ethics & Society",
    "color": "5",
    "x": 0,
-   "y": 5440,
+   "y": 5570,
    "width": 1260,
    "height": 640
   },
@@ -1015,7 +1045,7 @@
    "type": "file",
    "file": "Ethics & Society/US life expectancy.md",
    "x": 60,
-   "y": 5565,
+   "y": 5630,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1025,7 +1055,7 @@
    "type": "file",
    "file": "Ethics & Society/Artifactual chronic disease trends.md",
    "x": 60,
-   "y": 5695,
+   "y": 5760,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1035,7 +1065,17 @@
    "type": "file",
    "file": "Ethics & Society/Gender dysphoria in the DSM-5.md",
    "x": 60,
-   "y": 5825,
+   "y": 5890,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Biological sex",
+   "type": "file",
+   "file": "Ethics & Society/Biological sex.md",
+   "x": 60,
+   "y": 6020,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1045,7 +1085,7 @@
    "type": "file",
    "file": "Ethics & Society/US healthcare spending.md",
    "x": 480,
-   "y": 5500,
+   "y": 5630,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1055,7 +1095,7 @@
    "type": "file",
    "file": "Ethics & Society/Childhood chronic disease.md",
    "x": 480,
-   "y": 5630,
+   "y": 5760,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1065,7 +1105,7 @@
    "type": "file",
    "file": "Ethics & Society/Gender-affirming care outcomes.md",
    "x": 480,
-   "y": 5760,
+   "y": 5890,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1075,7 +1115,7 @@
    "type": "file",
    "file": "Ethics & Society/Trans Identity.md",
    "x": 480,
-   "y": 5890,
+   "y": 6020,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1085,7 +1125,7 @@
    "type": "file",
    "file": "Ethics & Society/Medicare and gender reassignment surgery.md",
    "x": 900,
-   "y": 5695,
+   "y": 5825,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -2237,6 +2277,42 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "outcomes over mechanisms"
+  },
+  {
+   "id": "e128",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Seed oils and inflammation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "why CRP matters"
+  },
+  {
+   "id": "e129",
+   "fromNode": "Seed oils and lipid peroxidation",
+   "fromSide": "right",
+   "toNode": "Seed oils and LDL oxidation",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "same story for oxidation"
+  },
+  {
+   "id": "e130",
+   "fromNode": "Biological sex",
+   "fromSide": "right",
+   "toNode": "Trans Identity",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "gamete-based definitions"
+  },
+  {
+   "id": "e131",
+   "fromNode": "ADHD and mortality",
+   "fromSide": "bottom",
+   "toNode": "Artifactual chronic disease trends",
+   "toSide": "top",
+   "toEnd": "arrow",
+   "label": "why diagnosis matters"
   }
  ]
 }

@@ -29,6 +29,16 @@ The outcome evidence (the saturated fat threshold, cohorts, the Cochrane trials,
 - [[Seed oils, arthritis and lupus]] — the omega-6 to omega-3 ratio's link to RA pain tracks low omega-3, and MR points to lower risk
 - [[Seed oils and macular degeneration]] — the claim rests on ecological data; cohorts are mostly null and MR points to lower risk
 - [[Seed oils and cognitive decline]] — no link to Alzheimer's, cognitive decline or dementia; vegetable fat is linked to lower dementia risk
+- [[Seed oils and inflammation]] — high and low linoleic acid diets both leave CRP unchanged
+- [[Seed oils and lipid peroxidation]] — PUFA-rich diets don't worsen peroxidation or DNA damage markers in trials
+
+## Overall
+
+Seed oils don't seem to be uniquely causal for chronic diseases we face and seem to have a beneficial role for many diseases, especially heart disease, T2DM, and maybe skin cancer. Seed oils could also have a beneficial role WRT macular degeneration, fatty liver disease, and some autoimmune diseases.
+
+There is no evidence of harm with seed oils on any of these endpoints and seem to have no consistent effect on breast cancer, colorectal cancer, obesity, or cognitive decline. There are multiple mechanisms proposed for seed oils being harmful to humans, but the human outcome data do not support the importance of these mechanisms for these endpoints. If the outcomes consistently contradict the mechanisms we speculate with, the mechanisms are likely not interacting in the ways we think.
+
+Seed oils can be a health promoting addition to the diet and seem to have a lot of health benefits with little to no health risks to the general population. Though, they are in many foods that aren't healthy, so it would be a good idea to include them in a healthy way that don't lead to an overconsumption of calories, like in salad dressings or with cooking oils for sauteing vegetables.
 
 ## Connections
 **Feeds into**

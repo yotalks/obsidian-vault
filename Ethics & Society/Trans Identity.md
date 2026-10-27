@@ -9,6 +9,7 @@ up: "[[Ethics & Society MOC]]"
 ## Defining man and woman
 
 All trans debates pretty much boil down to semantics about what constitutes a man or woman. Say we define a man as someone who possesses a sufficiently greater sum of weighted traits that more closely associate with small gametes, and a woman as someone who possesses a sufficiently greater sum of weighted traits that more closely associate with large gametes, and they are over the age of 18. Then a trans person who possesses those characteristics is that gender.
+→ [[Biological sex]]
 
 ## Is being trans a mental illness?
 
@@ -24,3 +25,4 @@ Nothing in that definition requires distress or impairment, so being trans can't
 ## Connections
 **Builds on**
 - [[Gender dysphoria in the DSM-5]] — the DSM-5 diagnosis requires clinically significant distress or impairment, so a trans person without it has no diagnosis
+- [[Biological sex]] — the biological definition of male and female by gamete size, which the trait-based definition builds on

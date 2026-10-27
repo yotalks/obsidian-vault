@@ -5,7 +5,7 @@ tags:
 up: "[[Glossary]]"
 ---
 > [!summary] Bottom line
-> LDL causes atherosclerotic heart disease. Risk rises steadily with cholesterol from young adulthood with no safe threshold, people born with lower LDL have far less heart disease, and every way of lowering LDL in trials cuts major vascular events by about a fifth to a quarter per mmol/L, even from very low starting levels. ApoB and non-HDL cholesterol predict risk a little better than LDL-C, and nonfasting tests work as well as fasting ones.
+> LDL causes atherosclerotic heart disease. Risk rises steadily with cholesterol from young adulthood with no safe threshold, people born with lower LDL have far less heart disease, and every way of lowering LDL in trials cuts major vascular events by about a fifth to a quarter per mmol/L, even from very low starting levels. ApoB and non-HDL cholesterol predict risk a little better than LDL-C, and nonfasting tests work as well as fasting ones. High CRP, a marker of inflammation, adds risk on top of LDL, but lowering LDL is what reliably cuts events.
 
 LDL particles — more precisely, all ApoB-carrying particles — cause atherosclerotic heart disease. Genetic studies, prospective cohorts and randomized trials agree: the more LDL you're exposed to, and the longer, the higher the risk, and lowering LDL with different drugs reduces risk roughly in proportion to how much it falls. So anything that durably raises LDL or ApoB raises heart disease risk, which makes LDL the marker to judge foods and diets by.
 [Ference 2017](https://pubmed.ncbi.nlm.nih.gov/28444290/)
@@ -91,6 +91,21 @@ LOX-1, the main receptor for oxidized LDL on blood vessel walls, also captures w
 [Honjo 2003](https://pubmed.ncbi.nlm.nih.gov/12538855/)
 → [[Seed oils and LDL oxidation]]
 
+## LDL vs inflammation
+
+It's often claimed that LDL isn't causal for [[Glossary#ASCVD|ASCVD]] rather it's inflammation. We have epidemiological data that divides a population into quartiles related to [[Glossary#AMI|AMI]]. These quartiles have varying levels and combinations of exposures to either high LDL, high [[Glossary#CRP|CRP]], high LDL and high CRP, and high LDL and high CRP, low LDL and high CRP, and low LDL and low CRP.
+![[Pasted image 20261027192118.png]]
+We see risk is lowest when both LDL and CRP are both low, but risk goes up in context of low LDL and high CRP as well with the worst being high CRP and high LDL. So, it seems high CRP are an independent risk factor for AMI, and presumably ASCVD. We also see high LDL and low CRP carries and independent risk on its own as well.
+[Mo 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7343474/)
+
+We also see in subgroup analyses on the FOURIER trial has also been done investigating the relationship between inflammation and ASCVD endpoints. The results show basically the same thing. We see having both high LDL and high CRP leads to the worst outcomes, but either in isolation raises risk, and having low of both reduces risk the both.
+![[Pasted image 20261027192512.png]]
+[Bohula 2018](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034032)
+
+Inflammation isn't a target for therapy, however, compared to LDL, because we have tried that and it was unsuccessful while when we target LDL do work.
+[Katsiari 2019](https://www.wjgnet.com/2220-6132/full/v8/i1/1.htm)
+[Moore 2019](https://pubmed.ncbi.nlm.nih.gov/30560921/)
+
 ## Connections
 **Feeds into**
 - [[Dietary cholesterol]] — why a rise in LDL-C means a rise in heart disease risk
@@ -102,3 +117,4 @@ LOX-1, the main receptor for oxidized LDL on blood vessel walls, also captures w
 - [[Low-carb diets]] — why the LDL rise on very-low-carb and high-saturated-fat diets counts against them
 - [[Impossible Beef]] — why the Impossible Burger's coconut oil counts against it
 - [[Cholesterol-lowering foods]] — why foods that lower LDL lower heart disease risk
+- [[Seed oils and inflammation]] — trials testing whether linoleic acid raises CRP, the inflammation marker that adds heart risk on top of LDL
