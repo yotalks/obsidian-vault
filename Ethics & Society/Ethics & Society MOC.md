@@ -33,5 +33,4 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Auschwitz gas chambers]] — cyanide residues in the gas chambers, and how many bodies the crematoria could burn
 
 ## Politics and law
-- [[Israeli Pagers]] — why the pagers weren't booby traps under IHL definitions
 - [[Luigi Mangione]] — a domestic terrorist under the FBI definition
