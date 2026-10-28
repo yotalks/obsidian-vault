@@ -7,7 +7,7 @@ aliases:
 up: "[[Exercise Science MOC]]"
 ---
 > [!summary] Bottom line
-> More sets build more muscle, but with steep diminishing returns: 4–6 sets per exercise gave less than twice the growth of one set. In a model where 6 sets give double the stimulus of 1, the second set adds 39% of the first set's value and the fifth only 13%. Muscle damage, meanwhile, keeps rising with each set and diverts new protein to repair, so beyond some number of sets the net stimulus may plateau or fall. That point likely differs between people and muscles. So quality, meaning high motor unit recruitment in each set, matters more than piling on sets.
+> More sets generally produce more muscle growth, with diminishing returns. The model discussed below predicts that rising muscle damage may eventually offset the extra stimulus, with the useful volume differing between people and muscles. My practical takeaway is to prioritize high-quality sets over simply adding more.
 
 ## Diminishing returns
 

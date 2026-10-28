@@ -45,6 +45,7 @@ Fusarium infection was significantly different between farming systems in maize 
 ## Pesticides
 
 "Two novel methods were combined to estimate a realistic worst case hazard index for pesticide residues in the Danish population. The methods were able to refine previous estimates especially with regard to below LOQ (left censored) data.
+→ [[Glyphosate and cancer]]
 
 The highest Hazard Index (HI) calculated for the complete pesticide usage analyzed in this study was for the population group Child aged 4–6. Our estimated HI for this group was 44% of ADI. Due to the many conservative (cautious) assumptions made, the real life figure was probably much lower. This finding adds to the existing body of evidence showing that pesticides are very unlikely to pose a risk to the health of Danish consumers through chronic dietary exposure of residues.
 
@@ -72,3 +73,7 @@ When you combine the data of the two largest studies done on the topic, you find
 
 Organic farming uses more copper sulfate per hectare than conventional.
 [Kuhne 2017](https://www.researchgate.net/publication/321974582_The_Use_of_Copper_Pesticides_in_Germany_and_the_Search_for_Minimization_and_Replacement_Strategies)
+
+## Connections
+**Builds on**
+- [[Glyphosate and cancer]] — dietary pesticide residues are a small fraction of acceptable intake

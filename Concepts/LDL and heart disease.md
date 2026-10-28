@@ -118,3 +118,4 @@ Inflammation isn't a target for therapy, however, compared to LDL, because we ha
 - [[Impossible Beef]] — why the Impossible Burger's coconut oil counts against it
 - [[Cholesterol-lowering foods]] — why foods that lower LDL lower heart disease risk
 - [[Seed oils and inflammation]] — trials testing whether linoleic acid raises CRP, the inflammation marker that adds heart risk on top of LDL
+- [[Coronary plaque regression]] — how far very low LDL can shrink coronary plaque on angiograms

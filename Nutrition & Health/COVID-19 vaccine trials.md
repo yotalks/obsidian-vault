@@ -13,7 +13,7 @@ aliases:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> In their randomized, placebo-controlled trials, the Pfizer (BNT162b2) and Moderna (mRNA-1273) vaccines prevented about 95% and 93% of symptomatic COVID-19, and about 97–98% of severe COVID-19. Protection declined slowly but stayed above 90% through about 6 months. Side effects were mostly short-lived arm pain, fatigue, headache and chills, worse after the second dose. Serious adverse events and deaths were similar with vaccine and placebo. The Oxford–AstraZeneca viral vector vaccine (ChAdOx1) was less effective against symptomatic disease (about 67–70%), but no vaccinated participant was hospitalized for COVID-19 after the first 3 weeks. The single-dose Johnson & Johnson (Janssen) vaccine prevented about 56% of moderate to severe COVID-19 and 73% of severe disease. Against the Delta variant, protection against infection fell, more for Pfizer than Moderna, but protection against severe disease stayed high.
+> The trials reviewed here found strong protection against symptomatic and severe COVID-19, with efficacy varying by vaccine and follow-up period. Side effects were mostly short-lived, and serious adverse events were similar between vaccine and control groups. Detailed results and follow-up findings are organized by vaccine below.
 
 ## Pfizer–BioNTech (BNT162b2)
 
@@ -88,6 +88,10 @@ In the later primary analysis (17,178 participants), efficacy was 66.7% (95% CI 
 [Voysey 2021b](https://pubmed.ncbi.nlm.nih.gov/33617777/)
 
 The trials were funded by UK Research and Innovation, the NIHR, CEPI, the Gates Foundation, other foundations, and AstraZeneca.
+
+## Johnson & Johnson and Delta-era findings
+
+The single-dose Johnson & Johnson (Janssen) vaccine prevented about 56% of moderate to severe COVID-19 and 73% of severe disease. Against the Delta variant, protection against infection fell, more for Pfizer than Moderna, while protection against severe disease stayed high.
 
 ## Connections
 **Builds on**

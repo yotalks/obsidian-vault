@@ -7,7 +7,7 @@ aliases:
 up: "[[Exercise Science MOC]]"
 ---
 > [!summary] Bottom line
-> Sprint speed depends on the horizontal impulse you can produce in each ground contact, repeated over many strides. Two hip-led sequences make that happen. To push, the hip extensors drive while the knee flexors and ankle absorb force eccentrically. To reposition the leg for the next contact, the hip flexors drive while the knee extensors absorb force eccentrically. The hip muscles work at moderate speeds, between maximum force and maximum velocity. So training should combine heavy strength work for the hip extensors and flexors, eccentric-only work for the knee flexors and extensors, plyometrics for the calves, and sprinting for maximum hip speed.
+> Sprint speed depends on repeatedly producing horizontal impulse during ground contact. This note explains the hip-led sequences for propulsion and leg repositioning, then argues for combining hip strength work, eccentric knee-muscle training, calf plyometrics and sprinting.
 
 ## Repeated horizontal impulses
 

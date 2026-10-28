@@ -6,59 +6,60 @@ up: "[[Home]]"
 Strength training physiology, laid out in the order the ideas build on each other. The [[Knowledge map.canvas|Knowledge map]] draws the same chain.
 
 ## 1. What limits performance
-- [[ATP does not deplete during exercise]] — energy never runs out, so fatigue is about mechanisms
-- [[Psychobiological model of fatigue]] → [[Supraspinal CNS fatigue]] — the brain cuts drive when effort feels too high
-- [[Calcium ion-related fatigue]] — the muscle-side mechanism behind post-workout fatigue
+- [[ATP does not deplete during exercise]] — ATP availability and fatigue
+- [[Psychobiological model of fatigue]] → [[Supraspinal CNS fatigue]] — effort and central drive
+- [[Calcium ion-related fatigue]] — peripheral fatigue mechanisms
 
 ## 2. Adapting to fatigue
-- [[Fatigue resistance]] — which mechanisms can adapt, and how to measure it
-- [[Repeated bout effect]] — one workout protects against the next
-- [[Carbohydrate mouth rinsing]] — easing supraspinal fatigue without fuel
-- [[Creatine Supplementation]] — fatigue resistance and swelling, not ATP or growth
+- [[Fatigue resistance]] — adaptations and measurement
+- [[Repeated bout effect]] — adaptation to repeated exercise
+- [[Carbohydrate mouth rinsing]] — performance and central fatigue
+- [[Creatine Supplementation]] — fatigue, swelling and growth
 
 ## 3. What makes muscle grow
-- [[Mechanical tension]] — the growth stimulus
-- [[Increasing motor unit recruitment]] — fibers must be recruited to feel tension
-- [[Flexing and co-contraction training]] — maximal flexing builds a little muscle with no equipment
-- [[Training volume]] — steep diminishing returns per set, and damage may cap the useful number
-- [[EMG for exercise selection]] — EMG shows where growth happens, not how much
-- [[Individual differences in muscle growth]] — starting point and fiber type set how fast you grow
-- [[Muscle swelling]] — the pump doesn't add tension
-- [[Swelling in hypertrophy studies]] — post-workout swelling looks like growth and may inflate high-volume results
-- [[Anabolic Androgenic Steroids]] — a separate growth signal (and a tendon problem)
-- [[Sarcomerogenesis]] — growing longer, from passive tension
+- [[Mechanical tension]] — active and passive tension
+- [[Increasing motor unit recruitment]] — recruitment and exercise demands
+- [[Flexing and co-contraction training]] — hypertrophy without external loads
+- [[Training volume]] — dose response and recovery
+- [[EMG for exercise selection]] — interpretation and limits
+- [[Individual differences in muscle growth]] — sources of response variation
+- [[Muscle swelling]] — the pump and tension
+- [[Swelling in hypertrophy studies]] — measurement timing and confounding
+- [[Anabolic Androgenic Steroids]] — growth signals and tendon effects
+- [[Sarcomerogenesis]] — adaptation in muscle length
 
 ## 4. Connective tissue
-- [[Tendon adaptation]] — tendons stiffen with heavy loads, barely grow
+- [[Tendon adaptation]] — stiffness and size
 
 ## 5. What gets in the way
-- [[Insufficient Sleep]] — through [[Glucocorticoids]], lower recruitment and coordination
-- [[Impaired muscle regrowth]] — inactivity and excess damage leave collagen behind
-- [[Post-workout cooling]] — faster recovery, but less muscle growth
-- [[Overuse injuries]] — mechanical fatigue explains strains and bone damage, not tendon or fibrosis
-- [[Muscle strain injuries]] — muscles tear at a set length and small strains lower it; manageable volume, warm-ups and rest help avoid them
-- [[Exercise isn't a stressor]] — planned, voluntary workouts don't add to stress load
-- [[Age and recovery]] → [[Age and adaptations]] — slower recovery, slower gains
+- [[Insufficient Sleep]] — recruitment, coordination and [[Glucocorticoids]]
+- [[Impaired muscle regrowth]] — inactivity, damage and collagen
+- [[Post-workout cooling]] — recovery and adaptation
+- [[Overuse injuries]] — mechanisms of tissue damage
+- [[Muscle strain injuries]] — mechanisms and prevention
+- [[Exercise isn't a stressor]] — voluntary exercise and stress
+- [[Age and recovery]] → [[Age and adaptations]] — recovery and adaptation with age
 
 ## 6. Keeping what you built
-- [[Detraining sarcomerogenesis]] → [[Detraining adaptations speed]] — what's lost first, and the maintenance dose
-- [[Training frequency and hypertrophy]] — what the frequency research does (and doesn't) show
+- [[Detraining sarcomerogenesis]] → [[Detraining adaptations speed]] — loss rates and maintenance
+- [[Training frequency and hypertrophy]] — frequency evidence
 
 ## 7. Skill, speed and leverage
 - [[Improvements in coordination traits]] → [[Techniques to improve coordination]]
-- [[Increasing speed]] — coordination, recruitment and fiber speed together
-- [[Proximal-to-distal sequence]] → [[Vertical jump height]], [[Sprint speed]], [[Throwing speed]] — the joint's place in the chain decides whether to train it for strength or speed
+- [[Increasing speed]] — coordination, recruitment and contraction speed
+- [[Proximal-to-distal sequence]] → [[Vertical jump height]], [[Sprint speed]], [[Throwing speed]] — joint roles and training demands
 - [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]], [[Squat patterns]]
-- [[Muscle size and leverage]] — a wider muscle has longer leverage, whether from growth, swelling, creatine or glycogen
+- [[Muscle size and leverage]] — size and moment arms
 
 ## 8. Training each muscle
-Train each muscle region where its leverage peaks: [[Internal moment arm]] → [[Neuromechanical matching]] →
-- [[Latissimus dorsi training]] — rows for the upper lats, wide-grip pulldowns for the lower
-- [[Pectoralis major training]] — slight-incline narrow presses for the upper pec, wide presses and flys for the rest
-- [[Deltoid training]] — overhead presses, lateral raises, rear delt flys
-- [[Trapezius training]] — presses and pulls for the upper traps, shrugs for the middle and lower (anatomy and EMG only)
-- [[Triceps training]] — pushdowns for the long head, close-grip lockouts and overhead extensions for the others
-- [[Elbow flexor training]] — straighter-elbow curls for biceps and brachialis, pronated curls for brachioradialis
-- [[Gluteus maximus training]] — seated abduction for the upper glutes, bridges for the lower
-- [[Hamstring training]] — seated curls and 45° back extensions, lying curls for the short head
-- [[Quadriceps training]] — squats for the vasti, knee extensions and hip flexion for the rectus femoris
+Regional anatomy and exercise selection: [[Internal moment arm]] → [[Neuromechanical matching]] →
+- [[Latissimus dorsi training]] — regional exercise selection
+- [[Pectoralis major training]] — regional exercise selection
+- [[Deltoid training]] — regional exercise selection
+- [[Trapezius training]] — anatomy, EMG and exercise selection
+- [[Triceps training]] — regional exercise selection
+- [[Elbow flexor training]] — regional exercise selection
+- [[Gluteus maximus training]] — regional exercise selection
+- [[Hamstring training]] — regional exercise selection
+- [[Quadriceps training]] — regional exercise selection
+- [[Calves training]] — soleus and gastrocnemius exercise selection

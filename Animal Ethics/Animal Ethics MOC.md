@@ -6,26 +6,29 @@ up: "[[Home]]"
 Animal rights and what follows from them.
 
 ## Foundation
-- [[Animal Rights]] — name the trait: animal rights extend trait-adjusted human rights
+- [[Animal Rights]] — the name-the-trait argument
 
 ## Wild animal suffering
-- [[Wild animal suffering]] — the premise these notes share
-- [[Culling Predators]] — killing predators to protect prey
-- [[Rewilding]] — animals' right not to be bred into the wild
-- [[Colonizing nature]] — non-violently displacing nature
+- [[Wild animal suffering]] — shared ethical premise
+- [[Culling Predators]] — predation and competing rights
+- [[Rewilding]] — breeding and release ethics
+- [[Colonizing nature]] — nonviolent displacement
 
 ## Where veganism draws lines
-- [[Vegan Bivalves]] — no brain, no sentience, no rights
-- [[Animal Procreation as Rape]] — whether animal sex can be rape
-- [[Crop deaths]] — no evidence cropland kills more animals than wildland
+- [[Vegan Bivalves]] — sentience and moral status
+- [[Animal Procreation as Rape]] — consent and animal behavior
+- [[Crop deaths]] — mortality estimates and comparisons
 
 ## Farming practices
-- [[Foie gras production]] — force-fed birds show aversion to the feeding
-- [[Dairy#Animal welfare|Dairy]] — milk causes more suffering and cattle deaths per calorie than meat
+- [[Foie gras production]] — force-feeding and aversion
+- [[Dairy#Animal welfare|Dairy]] — animal welfare
 
 ## Consumer impact
-- [[Animal agriculture subsidies]] — buying less isn't offset by the government buying more
+- [[Animal agriculture subsidies]] — consumer demand and subsidies
+
+## Animal testing
+- [[COVID vax being vegan]] — vaccine production and animal testing
 
 ## Activism
-- [[Lab-grown meat]] — making animal agriculture obsolete may do more than persuasion
-- [[Vandalizing zoos]] — why vandalism can harm the animals inside
+- [[Lab-grown meat]] — production, impact and alternatives
+- [[Vandalizing zoos]] — effects on captive animals

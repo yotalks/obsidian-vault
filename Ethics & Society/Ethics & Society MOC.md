@@ -6,32 +6,32 @@ up: "[[Home]]"
 Other ethics, social and political topics. Animal ethics has its own hub: [[Animal Ethics MOC]].
 
 ## Ethics
-- [[Anti Natalism]] — anti-natalism's own logic implies pragmatic natalism
+- [[Anti Natalism]] — arguments and implications
 
 ## Society
-- [[Biological sex]] — sex is defined by gamete size; two sexes, but not binary, since hermaphrodites are both
-- [[Trans Identity]] — defining man and woman by weighted gamete-associated traits; being trans isn't a mental illness
-- [[Gender dysphoria in the DSM-5]] — the diagnosis requires distress; persistence, onset types and differential diagnosis
-- [[Pronoun usage]] — about 2 in 5 in English-speaking countries use a trans person's lived-gender pronoun
-- [[Gender identity development]] — milestones by age, and the David Reimer case
+- [[Biological sex]] — definitions and classification
+- [[Trans Identity]] — definitions and identity
+- [[Gender dysphoria in the DSM-5]] — criteria and differential diagnosis
+- [[Pronoun usage]] — survey findings
+- [[Gender identity development]] — milestones and case evidence
 - [[Black White IQ gap]]
-- [[Slurs]] — how slurs stop being harmful, and why 'retard' is different
+- [[Slurs]] — meaning, context and harm
 
 ## Health policy
-- [[US life expectancy]] — Americans live ~3.5 years less than peers, mostly from overdoses, firearms, car accidents and heart disease
-- [[US healthcare spending]] — the US spends more mainly because it's richer
-- [[Childhood chronic disease]] — fact-checking the MAHA report: 37.5%, not over 40%, but the rise is real
-- [[Artifactual chronic disease trends]] — autism, ADHD and celiac rises that are mostly diagnostic; childhood cancer
-- [[Childhood chronic disease drivers]] — the report's four drivers; its medication claims checked
-- [[Corporate capture of health research]] — industry influence, including on red meat research
-- [[Medicare and gender reassignment surgery]] — no national policy in 2016, not a ban; coverage is case by case
-- [[Gender-affirming care outcomes]] — newer surgery and puberty blocker evidence, and its limits
-- [[Ultra-processed food and additives]] — the report's food and additive claims (in Nutrition & Health)
-- [[Low-carb diets]] — the report's low-carb claims (in Nutrition & Health)
-- [[Dietary Guidelines for Americans]] — the report's dietary guidelines claims (in Nutrition & Health)
+- [[US life expectancy]] — international comparisons and causes
+- [[US healthcare spending]] — international spending comparisons
+- [[Childhood chronic disease]] — prevalence and report claims
+- [[Artifactual chronic disease trends]] — diagnosis versus underlying prevalence
+- [[Childhood chronic disease drivers]] — proposed causes and medication claims
+- [[Corporate capture of health research]] — funding and research influence
+- [[Medicare and gender reassignment surgery]] — coverage policy
+- [[Gender-affirming care outcomes]] — outcomes and evidence limits
+- [[Ultra-processed food and additives]] — MAHA report claims
+- [[Low-carb diets]] — diet comparisons
+- [[Dietary Guidelines for Americans]] — guidelines and food processing
 
 ## History
-- [[Auschwitz gas chambers]] — cyanide residues in the gas chambers, and how many bodies the crematoria could burn
+- [[Auschwitz gas chambers]] — historical and physical evidence
 
 ## Politics and law
-- [[Luigi Mangione]] — a domestic terrorist under the FBI definition
+- [[Luigi Mangione]] — classification under the FBI definition

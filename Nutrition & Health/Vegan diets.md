@@ -14,6 +14,7 @@ This study is often cited to claim that 84% of vegans eventually quit their diet
 ## Nutrients
 
 B12 is indeed not found in plants, however, supplements are widely available.
+→ [[B12 to livestock]]
 
 Carnosine is also not found, but RCTs show omnivores taking on a vegetarian diet didn't find decreased carnosine levels in muscle. Only observational cross sectional studies found this.
 [Harris 2007](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.21.6.a944-a)
@@ -26,7 +27,8 @@ With vitamin a, there is no outcome based evidence that vegans have a higher rat
 [Li 2000](https://pubmed.ncbi.nlm.nih.gov/24394311/)
 [Schüpbach 2017](https://pubmed.ncbi.nlm.nih.gov/26502280/)
 
-Even mechanistically, accounting for difficulties with beta carotene to retinol conversion, vegans have multiple ways of easily converting enough beta carotene to the 900ug RDA of retinol. 
+Even mechanistically, accounting for difficulties with beta carotene to retinol conversion, vegans have multiple ways of easily converting enough beta carotene to the 900ug RDA of retinol.
+→ [[Beta-carotene conversion]]
 
 When we try to correct vitamin A deficiency with dietary carotenoids in humans, we see eating whole foods rich in carotenoids reliably improves and/or normalizes vitamin A status. Even foods that have been genetically modified to have more carotenoids improve vitamin A status reliably.
 [van Jaarsveld 2005](https://pubmed.ncbi.nlm.nih.gov/15883432/)
@@ -143,3 +145,8 @@ Vegan diets aren't detrimental to endurance and muscle strength.
 
 > [!note] My take
 > If good data came out that vegans would be better off with higher levels of taurine, then I would recommend supplementation.
+
+## Connections
+**Builds on**
+- [[Beta-carotene conversion]] — beta-carotene conversion ratios, individual variation, and the safety of beta-carotene supplements
+- [[B12 to livestock]] — about 30% of B12 sales go to animal feed, so supplementing B12 isn't unique to vegans

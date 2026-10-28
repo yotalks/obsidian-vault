@@ -9,71 +9,77 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Satiation]]
 - [[Fiber]]
 - [[GLP 1s]]
-- [[Low-carb diets]] — modest, mostly short-term edge over low-fat; no better for insulin resistance
-- [[Intermittent fasting]] — no better for weight loss, and may cost more lean mass
+- [[Low-carb diets]] — diet comparisons
+- [[Intermittent fasting]] — weight loss and lean mass
 
 ## Vegan diets
-- [[Vegan diets]] — covering nutrient gaps; plant toxin claims don't hold up
-- [[Vegetarian diets and mortality]] — less heart disease and cancer; lower all-cause mortality is inconsistent
-- [[Impossible Beef]] — likely healthier than beef, though high in saturated fat
-- [[Plant toxins and antinutrients]] — CYP450, thyroid, androgen, IBS and sulforaphane claims don't hold up
-- [[Soy]] — no effect on men's hormones; linked to lower prostate, lung and GI cancer
+- [[Vegan diets]] — nutrient adequacy
+  - [[B12 to livestock]] — livestock feed is supplemented with B12 too
+  - [[Beta-carotene conversion]] — conversion ratios, poor converters and supplement safety
+- [[Vegetarian diets and mortality]] — disease and mortality evidence
+- [[Impossible Beef]] — ingredients and nutritional comparisons
+- [[Plant toxins and antinutrients]] — mechanisms and outcome claims
+- [[Soy]] — hormonal and cancer outcomes
 
 ## Diet & disease
-- [[Red meat]] — processed meat is consistently linked to higher mortality; unprocessed red meat less consistently
-- [[Dairy]] — slightly higher prostate cancer risk, iron deficiency in toddlers, no diabetes or weight benefit
+- [[Red meat]] — processed versus unprocessed meat
+- [[Dairy]] — health and animal welfare
 - [[TMAO]]
-- [[Lipogenic Fructose]] — fructose, liver fat, and what actually drives NAFLD
-- [[Antagonistic pleiotropy]] → [[Evolution]] — why novel foods can beat ancestral ones long-term
-- [[Hunter-gatherer diets]] — the Hadza didn't eat mostly meat
+- [[Lipogenic Fructose]] — fructose and liver fat
+- [[Antagonistic pleiotropy]] → [[Evolution]] — evolution and long-term health
+- [[Hunter-gatherer diets]] — Hadza dietary evidence
 
 ## Heart health
-- [[LDL and heart disease]] — the premise the heart-health notes rest on
-- [[HDL]] — its protective link disappears in genetic studies; risk tracks ApoB
-- [[Saturated fat]] — replacing it with polyunsaturated fat cuts heart disease
-- [[Chocolate]] — the saturated fat that doesn't raise LDL
-- [[Seed oils]] — harm claims rest on mechanisms, not outcomes
-  - [[Seed oils and LDL oxidation]] — real but small, and oxidized LDL doesn't track risk
-  - [[Seed oils and cancer]] — trials, cohorts and MR are null or protective
-  - [[Seed oils and obesity]] — no appetite effect in humans; PUFA raises energy expenditure
-  - [[Seed oils and diabetes]] — linked to lower diabetes risk
-  - [[Seed oils and fatty liver]] — PUFA lowers liver fat compared with saturated fat
-  - [[Seed oils, arthritis and lupus]] — no harm in trials; MR points to lower risk
-  - [[Seed oils and macular degeneration]] — ecological claim; cohorts null, MR points to lower risk
-  - [[Seed oils and cognitive decline]] — no link to dementia; vegetable fat linked to lower risk
-  - [[Seed oils and inflammation]] — no effect on CRP in diet trials
-  - [[Seed oils and lipid peroxidation]] — no worse oxidative stress markers in diet trials
-- [[Omega 6 3 ratio]] — no known optimal ratio; omega-3 supplements don't help primary prevention
-- [[Omega-3 supplementation]] — small drops in heart attacks and CVD death; mixed results in pregnancy
-- [[Plant based diet CVD reversal]] — prevents progression and events, but doesn't reverse disease
-- [[Dietary cholesterol]] — a dose response that flattens out, but still a risk
-- [[Cholesterol-lowering foods]] — nuts, avocados, oats and plant protein lower LDL
-- [[Sodium]] — a U-shaped curve; usual intakes are fine for healthy people
+- [[LDL and heart disease]] — foundation for heart-health notes
+- [[HDL]] — associations and genetic evidence
+- [[Saturated fat]] — replacement nutrients and cardiovascular outcomes
+- [[Chocolate]] — fat composition and LDL
+- [[Seed oils]] — overview and outcome index
+  - [[Seed oils and LDL oxidation]] — lab markers versus disease outcomes
+  - [[Seed oils and cancer]] — trials, cohorts and genetic evidence
+  - [[Seed oils and obesity]] — appetite and energy expenditure
+  - [[Seed oils and diabetes]] — glycemic control and disease risk
+  - [[Seed oils and fatty liver]] — comparisons with saturated fat
+  - [[Seed oils, arthritis and lupus]] — trial and genetic evidence
+  - [[Seed oils and macular degeneration]] — ecological, cohort and genetic evidence
+  - [[Seed oils and cognitive decline]] — cognition and dementia
+  - [[Seed oils and inflammation]] — inflammatory markers
+  - [[Seed oils and lipid peroxidation]] — oxidative stress markers
+- [[Omega 6 3 ratio]] — ratios and supplementation
+- [[Omega-3 supplementation]] — cardiovascular and pregnancy outcomes
+- [[Coronary plaque regression]] — how much statins shrink plaque on angiograms, and why angiograms understate it
+- [[Plant based diet CVD reversal]] — progression, events and reversal claims
+  - [[Lifestyle Heart Trial]] — ejection fraction, perfusion, flow reserve and endothelial function in Ornish's trials
+- [[Dietary cholesterol]] — dose response and LDL
+- [[Cholesterol-lowering foods]] — dietary options and LDL
+- [[Sodium]] — intake and health outcomes
 
 ## Ultra-processed food
-- [[Ultra-processed food and additives]] — checking the MAHA report's claims on seed oils, dyes, BHT, parabens and sweeteners
-- [[Artificial sweeteners]] — not linked to diabetes or heart disease; no metabolic effects in trials
-- [[Dietary Guidelines for Americans]] — a guideline-compliant menu can be 91% ultra-processed
+- [[Ultra-processed food and additives]] — MAHA report claims
+- [[Artificial sweeteners]] — metabolic and disease outcomes
+- [[Dietary Guidelines for Americans]] — guidelines and food processing
 
 ## Animal farming
-- [[Grass fed beef]] — not healthier, needs far more land, and has a bigger carbon footprint
-- [[Polyface Farm]] — its pigs eat bought-in corn and soy
-- [[Livestock and climate change]] — about a fifth of warming to 2010; vegan diets emit 40% of heavy meat eaters'
-- [[Lab-grown meat]] — real meat without slaughter; serum-free, approved in Singapore and the US
+- [[Grass fed beef]] — nutrition, land use and emissions
+- [[Polyface Farm]] — feed sourcing
+- [[Livestock and climate change]] — warming and dietary footprints
+- [[Lab-grown meat]] — production, impact and alternatives
 
 ## Other health
-- [[Saunas]] — regular use temporarily impairs sperm
-- [[Minoxidil]] — prevents miniaturization by working downstream of DHT, not by blocking it
-- [[ADHD and mortality]] — higher death rates from all causes; medication linked to lower mortality
+- [[Saunas]] — fertility outcomes
+- [[Minoxidil]] — mechanism of action
+- [[ADHD and mortality]] — mortality and medication associations
 
 ## Infectious disease
-- [[COVID and erectile dysfunction]] — a plausible causal link, backed by animal data; human data are still observational
-- [[Vaccine safety]] — ingredient, overload and autism fears don't hold up; real risks are rare
-- [[HPV vaccine]] — prevents precancer and cancer; saline-placebo data show no extra systemic or autoimmune harm
-- [[COVID-19 vaccine trials]] — Pfizer 95%, Moderna 93%, AstraZeneca 67–70%, J&J 56% against symptomatic COVID-19; Delta cut protection against infection, not severe disease
-- [[Vaccine spike protein]] — vaccine spike is shape-locked, anchored near the injection site and barely reaches the blood
+- [[COVID and erectile dysfunction]] — causal evidence and limitations
+- [[Vaccine safety]] — common concerns and observed risks
+- [[COVID vax being vegan]] — animal ingredients and testing ethics
+- [[HPV vaccine]] — efficacy and safety evidence
+- [[COVID-19 vaccine trials]] — efficacy, safety and follow-up
+- [[Vaccine spike protein]] — structure and distribution
 
 ## Organic food
 - [[Organic and Health]]
 - [[Organic on the environment]]
 - [[Organic is not vegan]]
+- [[Glyphosate and cancer]] — no consistent cancer link in a cohort of 54,000 pesticide applicators

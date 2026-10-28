@@ -59,3 +59,4 @@ Consistent with this, the biceps have their plateau on the active LTR at long mu
 - [[Gluteus maximus training]] — why each glute region is trained best where its leverage peaks
 - [[Hamstring training]] — why each hamstring is trained best where its leverage peaks
 - [[Quadriceps training]] — why each quadriceps muscle is trained best where its leverage peaks
+- [[Calves training]] — how knee and foot position shift work between the soleus and gastrocnemius heads

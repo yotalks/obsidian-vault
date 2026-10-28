@@ -5,7 +5,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> The MAHA report blames ultra-processed foods and their additives for children's chronic disease, but many of its specific claims are weak. The omega-6/omega-3 "imbalance" worry isn't backed by outcome trials. The food-dye effect it cites is about a tenth of the ADHD gap and disappears in high-quality studies of FDA-approved dyes. BHT's rodent tumor effects came at 10–200 times human intake. And aspartame shows little to no effect on glucose or insulin in controlled human studies. Titanium dioxide is the exception: Europe's food safety authority no longer considers it safe as an additive. And European infant formula isn't safer than US formula: it's nutritionally similar, and importing it adds real risks.
+> This note finds weak support for many of the MAHA report's specific claims about food additives and children's chronic disease. It reviews omega-6 fats, food dyes, BHT and aspartame, while treating titanium dioxide as an exception. It also examines claims about the safety of European versus US infant formula.
 
 ## The report's claims
 

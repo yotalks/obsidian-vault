@@ -8,7 +8,7 @@ aliases:
 up: "[[Exercise Science MOC]]"
 ---
 > [!summary] Bottom line
-> The biceps and brachialis have their best leverage with the elbow straighter, and a separate supination exercise may train the biceps' supinator role better than twisting during curls. The brachioradialis has its best leverage with the elbow more bent and the forearm pronated, so pronated-grip or EZ-bar curls against bands train it best. Shoulder position matters a little too: incline curls grew the biceps slightly more, and preacher curls grew the brachialis and brachioradialis slightly more.
+> The biceps and brachialis have their best leverage with the elbow straighter, and a separate supination exercise may train the biceps' supinator role better than twisting during curls. The brachioradialis has its best leverage with the elbow more bent and the forearm pronated, so pronated-grip cuffed cable reverse curls train this best. Shoulder position matters too: incline curls grew the biceps slightly more, and preacher curls grew the brachialis and brachioradialis slightly more. So to train the brachialis we'd ideally want a preacher curl. To train the biceps, we would want a recline or Bayesian curl.
 
 ## Leverage changes with elbow and forearm position
 

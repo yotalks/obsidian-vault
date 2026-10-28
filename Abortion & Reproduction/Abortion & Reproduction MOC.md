@@ -7,7 +7,7 @@ Abortion ethics and policy, plus the reproductive biology and sentience research
 
 ## Ethics & policy
 - [[Abortion Ethics]]
-- [[Abortion position]] — where I draw the line: sentience, rape and incest
+- [[Abortion position]] — sentience and exceptions
 - [[Abortion Pragmatics]]
 - [[Pro-Life]]
 - [[Definitions of Life]]

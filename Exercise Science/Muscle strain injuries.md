@@ -7,7 +7,7 @@ aliases:
 up: "[[Exercise Science MOC]]"
 ---
 > [!summary] Bottom line
-> A muscle strain is a tear, usually at the muscle-tendon junction, during a single lengthening. In animal muscles pulled to failure, the muscle tears at a set length whether it's active or not, and that length is beyond what joints normally allow. One partial strain lowers the length at which the muscle tears. The proposed explanation for strains in normal movement is that smaller lengthening injuries build up without enough recovery, until the tear length falls within the normal range of motion. The main way to avoid strains is to keep stretched-position training volume at a level you can recover from. Warming up and resting between sets may also help, since warm, unfatigued muscles absorb more energy before tearing.
+> Animal experiments suggest that partial strains lower the length at which muscle tears. The proposed explanation for strains during normal movement is that smaller injuries accumulate without enough recovery. The practical takeaway is to manage stretched-position training volume, with warming up and rest between sets as additional precautions.
 
 ## Muscles tear at a set length
 

@@ -219,3 +219,21 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### HR
 **HR** — Hazard ratio: the rate of an event over time in one group divided by the rate in another. An HR of 1.71 means a 71% higher rate.
+
+## Related concepts
+- [[Proximal-to-distal sequence]]
+
+### QCA
+**QCA** — Quantitative coronary angiography: measuring coronary narrowings on X-ray angiograms with software, as percent diameter stenosis and minimum lumen diameter. See [[Coronary plaque regression]].
+
+### MLD
+**MLD** — Minimum lumen diameter: the width of the open channel of an artery at its narrowest point.
+
+### NHL
+**NHL** — Non-Hodgkin lymphoma: a group of cancers of lymphocytes, the white blood cells of the lymph system.
+
+### AML
+**AML** — Acute myeloid leukemia: a fast-growing cancer of the blood-forming cells in the bone marrow.
+
+### AUC
+**AUC** — Area under the curve: the area under a plot of blood concentration over time, a measure of total exposure to a substance after a dose.
