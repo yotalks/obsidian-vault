@@ -10,6 +10,8 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 
 ## Society
 - [[Biological sex]] — definitions and classification
+  - [[Intersex prevalence]] — how common intersex conditions are
+  - [[Sex chromosome exceptions]] — people whose chromosomes don't match their sex
 - [[Trans Identity]] — definitions and identity
 - [[Gender dysphoria in the DSM-5]] — criteria and differential diagnosis
 - [[Pronoun usage]] — survey findings

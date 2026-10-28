@@ -237,3 +237,21 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### AUC
 **AUC** — Area under the curve: the area under a plot of blood concentration over time, a measure of total exposure to a substance after a dose.
+
+### CAH
+**CAH** — Congenital adrenal hyperplasia: inherited disorders of the adrenal glands that change sex hormone production. The classical form shows at birth, and the milder late-onset form appears later. See [[Intersex prevalence]].
+
+### DSD
+**DSD** — Disorder (or difference) of sex development: a condition where chromosomal, gonadal or anatomical sex develops atypically. Often used in place of "intersex". See [[Intersex prevalence]].
+
+### Bimodal distribution
+**Bimodal distribution** — A distribution with two modes, which often show as two distinct peaks. Nominal data can be bimodal too. See [[Biological sex]].
+
+### SRY
+**SRY** — Sex-determining region Y: the gene on the Y chromosome that usually starts testis development. See [[Sex chromosome exceptions]].
+
+### Mosaicism
+**Mosaicism** — Having two or more genetically different cell lines that arose from one fertilized egg, such as some 46,XY and some 45,X cells. See [[Sex chromosome exceptions]].
+
+### Chimerism
+**Chimerism** — Having cells from two different individuals in one body, for example from blood exchanged between twins in the womb. See [[Sex chromosome exceptions]].

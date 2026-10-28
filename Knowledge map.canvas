@@ -1118,7 +1118,7 @@
    "x": 0,
    "y": 5960,
    "width": 1260,
-   "height": 640
+   "height": 770
   },
   {
    "id": "US life expectancy",
@@ -1151,11 +1151,21 @@
    "color": "5"
   },
   {
-   "id": "Biological sex",
+   "id": "Intersex prevalence",
    "type": "file",
-   "file": "Ethics & Society/Biological sex.md",
+   "file": "Ethics & Society/Intersex prevalence.md",
    "x": 60,
    "y": 6410,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Sex chromosome exceptions",
+   "type": "file",
+   "file": "Ethics & Society/Sex chromosome exceptions.md",
+   "x": 60,
+   "y": 6540,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1165,7 +1175,7 @@
    "type": "file",
    "file": "Ethics & Society/US healthcare spending.md",
    "x": 480,
-   "y": 6020,
+   "y": 6085,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1175,7 +1185,7 @@
    "type": "file",
    "file": "Ethics & Society/Childhood chronic disease.md",
    "x": 480,
-   "y": 6150,
+   "y": 6215,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1185,17 +1195,17 @@
    "type": "file",
    "file": "Ethics & Society/Gender-affirming care outcomes.md",
    "x": 480,
-   "y": 6280,
+   "y": 6345,
    "width": 300,
    "height": 90,
    "color": "5"
   },
   {
-   "id": "Trans Identity",
+   "id": "Biological sex",
    "type": "file",
-   "file": "Ethics & Society/Trans Identity.md",
+   "file": "Ethics & Society/Biological sex.md",
    "x": 480,
-   "y": 6410,
+   "y": 6475,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1206,6 +1216,16 @@
    "file": "Ethics & Society/Medicare and gender reassignment surgery.md",
    "x": 900,
    "y": 6215,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Trans Identity",
+   "type": "file",
+   "file": "Ethics & Society/Trans Identity.md",
+   "x": 900,
+   "y": 6345,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -2387,6 +2407,24 @@
   },
   {
    "id": "e131",
+   "fromNode": "Intersex prevalence",
+   "fromSide": "right",
+   "toNode": "Biological sex",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "how rare the other values are"
+  },
+  {
+   "id": "e132",
+   "fromNode": "Sex chromosome exceptions",
+   "fromSide": "right",
+   "toNode": "Biological sex",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "cases chromosomes can't sort"
+  },
+  {
+   "id": "e133",
    "fromNode": "ADHD and mortality",
    "fromSide": "bottom",
    "toNode": "Artifactual chronic disease trends",
@@ -2395,7 +2433,7 @@
    "label": "why diagnosis matters"
   },
   {
-   "id": "e132",
+   "id": "e134",
    "fromNode": "LDL and heart disease",
    "fromSide": "right",
    "toNode": "Coronary plaque regression",
@@ -2404,7 +2442,7 @@
    "label": "lower LDL, less progression"
   },
   {
-   "id": "e133",
+   "id": "e135",
    "fromNode": "Coronary plaque regression",
    "fromSide": "right",
    "toNode": "Plant based diet CVD reversal",
@@ -2413,7 +2451,7 @@
    "label": "clinically relevant thresholds"
   },
   {
-   "id": "e134",
+   "id": "e136",
    "fromNode": "Glyphosate and cancer",
    "fromSide": "right",
    "toNode": "Organic and Health",
@@ -2422,7 +2460,7 @@
    "label": "far higher exposure, no cancer signal"
   },
   {
-   "id": "e135",
+   "id": "e137",
    "fromNode": "Beta-carotene conversion",
    "fromSide": "right",
    "toNode": "Vegan diets",
@@ -2431,7 +2469,7 @@
    "label": "conversion is enough"
   },
   {
-   "id": "e136",
+   "id": "e138",
    "fromNode": "Lifestyle Heart Trial",
    "fromSide": "right",
    "toNode": "Plant based diet CVD reversal",
@@ -2440,7 +2478,7 @@
    "label": "improvement vs control, not from baseline"
   },
   {
-   "id": "e137",
+   "id": "e139",
    "fromNode": "Neuromechanical matching",
    "fromSide": "right",
    "toNode": "Calves training",
@@ -2449,7 +2487,7 @@
    "label": "joint position shifts the work"
   },
   {
-   "id": "e138",
+   "id": "e140",
    "fromNode": "B12 to livestock",
    "fromSide": "right",
    "toNode": "Vegan diets",
