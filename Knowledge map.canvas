@@ -537,7 +537,7 @@
    "color": "4",
    "x": 0,
    "y": 1880,
-   "width": 1680,
+   "width": 2100,
    "height": 2200
   },
   {
@@ -545,7 +545,7 @@
    "type": "file",
    "file": "Concepts/Antagonistic pleiotropy.md",
    "x": 60,
-   "y": 1940,
+   "y": 2005,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -555,7 +555,7 @@
    "type": "file",
    "file": "Concepts/LDL and heart disease.md",
    "x": 60,
-   "y": 2070,
+   "y": 2135,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -565,7 +565,7 @@
    "type": "file",
    "file": "Nutrition & Health/Seed oils/Seed oils.md",
    "x": 60,
-   "y": 2200,
+   "y": 2265,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -575,7 +575,7 @@
    "type": "file",
    "file": "Nutrition & Health/Omega 6 3 ratio.md",
    "x": 60,
-   "y": 2330,
+   "y": 2395,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -585,7 +585,7 @@
    "type": "file",
    "file": "Nutrition & Health/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 2460,
+   "y": 2525,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -595,7 +595,7 @@
    "type": "file",
    "file": "Nutrition & Health/Soy.md",
    "x": 60,
-   "y": 2590,
+   "y": 2655,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -605,17 +605,7 @@
    "type": "file",
    "file": "Nutrition & Health/Artificial sweeteners.md",
    "x": 60,
-   "y": 2720,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Vegetarian diets and mortality",
-   "type": "file",
-   "file": "Nutrition & Health/Vegetarian diets and mortality.md",
-   "x": 60,
-   "y": 2850,
+   "y": 2785,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -625,7 +615,7 @@
    "type": "file",
    "file": "Nutrition & Health/Dairy.md",
    "x": 60,
-   "y": 2980,
+   "y": 2915,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -635,7 +625,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vaccine safety.md",
    "x": 60,
-   "y": 3110,
+   "y": 3045,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -645,7 +635,7 @@
    "type": "file",
    "file": "Nutrition & Health/Seed oils/Seed oils and lipid peroxidation.md",
    "x": 60,
-   "y": 3240,
+   "y": 3175,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -655,7 +645,7 @@
    "type": "file",
    "file": "Nutrition & Health/ADHD and mortality.md",
    "x": 60,
-   "y": 3370,
+   "y": 3305,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -665,7 +655,7 @@
    "type": "file",
    "file": "Nutrition & Health/Glyphosate and cancer.md",
    "x": 60,
-   "y": 3500,
+   "y": 3435,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -675,7 +665,7 @@
    "type": "file",
    "file": "Nutrition & Health/Beta-carotene conversion.md",
    "x": 60,
-   "y": 3630,
+   "y": 3565,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -685,7 +675,7 @@
    "type": "file",
    "file": "Nutrition & Health/Lifestyle Heart Trial.md",
    "x": 60,
-   "y": 3760,
+   "y": 3695,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -695,7 +685,7 @@
    "type": "file",
    "file": "Nutrition & Health/B12 to livestock.md",
    "x": 60,
-   "y": 3890,
+   "y": 3825,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -891,9 +881,9 @@
    "color": "4"
   },
   {
-   "id": "Satiation",
+   "id": "Seed oils and LDL oxidation",
    "type": "file",
-   "file": "Nutrition & Health/Satiation.md",
+   "file": "Nutrition & Health/Seed oils/Seed oils and LDL oxidation.md",
    "x": 900,
    "y": 2915,
    "width": 300,
@@ -901,9 +891,9 @@
    "color": "4"
   },
   {
-   "id": "Seed oils and LDL oxidation",
+   "id": "Satiation",
    "type": "file",
-   "file": "Nutrition & Health/Seed oils/Seed oils and LDL oxidation.md",
+   "file": "Nutrition & Health/Satiation.md",
    "x": 900,
    "y": 3045,
    "width": 300,
@@ -911,9 +901,9 @@
    "color": "4"
   },
   {
-   "id": "Plant based diet CVD reversal",
+   "id": "Fish and health",
    "type": "file",
-   "file": "Nutrition & Health/Plant based diet CVD reversal.md",
+   "file": "Nutrition & Health/Fish and health.md",
    "x": 900,
    "y": 3175,
    "width": 300,
@@ -935,6 +925,26 @@
    "type": "file",
    "file": "Nutrition & Health/Hunter-gatherer diets.md",
    "x": 1320,
+   "y": 2850,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Vegetarian diets and mortality",
+   "type": "file",
+   "file": "Nutrition & Health/Vegetarian diets and mortality.md",
+   "x": 1320,
+   "y": 2980,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Plant based diet CVD reversal",
+   "type": "file",
+   "file": "Nutrition & Health/Plant based diet CVD reversal.md",
+   "x": 1740,
    "y": 2915,
    "width": 300,
    "height": 90,
@@ -2494,6 +2504,24 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "livestock need B12 too"
+  },
+  {
+   "id": "e141",
+   "fromNode": "Fish and health",
+   "fromSide": "right",
+   "toNode": "Vegetarian diets and mortality",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "why pescos do best"
+  },
+  {
+   "id": "e142",
+   "fromNode": "Omega-3 supplementation",
+   "fromSide": "right",
+   "toNode": "Fish and health",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "omega-3s don't explain it"
   }
  ]
 }

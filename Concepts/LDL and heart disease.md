@@ -87,6 +87,9 @@ Atherosclerosis starts when LDL builds up in the artery wall and gets modified. 
 In 504 patients having coronary angiography, oxidized phospholipids on ApoB particles closely tracked Lp(a) (r = 0.83). In patients 60 or younger, the top quartile had about 3 times the odds of coronary artery disease of the bottom quartile.
 [Tsimikas 2005](https://pubmed.ncbi.nlm.nih.gov/16000355/)
 
+Oxidized LDL activates the cells lining blood vessels, raising adhesion molecules and lowering nitric oxide, which draws in monocytes. Macrophages then take it up through scavenger receptors like CD36 and LOX-1, which, unlike the LDL receptor, don't shut down as cholesterol builds up, so the macrophages fill with lipid and become foam cells. Oxidized LDL also drives smooth muscle growth and platelet activation. But antioxidant trials have had poor results, so whether oxidative stress causes atherosclerosis or follows from it is unresolved.
+[Leiva 2015](https://doi.org/10.5772/59375)
+
 LOX-1, the main receptor for oxidized LDL on blood vessel walls, also captures white blood cells. Blocking it in rats prevented death from endotoxin shock.
 [Honjo 2003](https://pubmed.ncbi.nlm.nih.gov/12538855/)
 → [[Seed oils and LDL oxidation]]

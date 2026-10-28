@@ -11,6 +11,13 @@ up: "[[Nutrition & Health MOC]]"
 It's often claimed grass-fed beef is healthier than grain-fed, though it's unclear why. The only small reason could be that grain-finished beef has more fat, and so more saturated fat, even though the percentage of fat that's saturated is the same. But the people who promote grass-fed beef tend to believe saturated fat is healthy anyway.
 [Van Elswyk 2014](https://www.sciencedirect.com/science/article/pii/S0309174013004944#tf0025)
 
+### Polyphenols in grass-fed beef
+
+If one is committed to the notions that polyphenols in plants are bad for humans, and that grass-fed red meat is the healthiest available type of red meat, then they're pragmatically committed to being pro-GMO to lower the grass-derived polyphenol content of grass-fed beef.
+In a comparison of 18 pasture-finished and 18 grain-finished Black Angus cattle, pasture-finished beef had 2.6 times the phenolic antioxidants, along with more alpha-tocopherol and omega-3s. These compounds come from the grasses, forbs and shrubs the cattle graze.
+[Evans 2024](https://pubmed.ncbi.nlm.nih.gov/39215122/)
+→ [[Plant toxins and antinutrients]]
+
 ## How US cattle are raised
 
 US beef cattle start on pasture in the cow-calf phase (about 6–10 months), often spend 2–6 months more grazing as stockers, and then differ in the finishing phase. Grass-finished cattle keep grazing for about 6–10 months and are harvested at 20–26 months. Grain-finished cattle spend about 4–6 months in a feedlot and are harvested at 14–22 months.

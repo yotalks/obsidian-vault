@@ -5,7 +5,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> Lifestyle programs built around a very low-fat plant-based diet improve the things that matter: fewer cardiac events, less angina and better blood flow to the heart. But none of the evidence shows they reverse atherosclerosis. Angiograms only show small changes in narrowing and can't measure plaque, and perfusion, symptoms and outcomes can all improve without any change in plaque. The case is for going beyond reversal, not for reversal.
+> Lifestyle programs built around a very low-fat plant-based diet improve the things that matter: fewer cardiac events, less angina and better blood flow to the heart. But none of the evidence shows they reverse atherosclerosis. Angiograms only show small changes in narrowing and can't measure plaque, and perfusion, symptoms and outcomes can all improve without any change in plaque. To date, there isn't a single case of supposed heart disease reversal from a plant based diet that is compatible with established definitions used in literature. The case is for going beyond reversal, not for reversal.
 
 A whole food plant based diet can prevent CVD from getting worse, reduce CVD events, make you healthier, reduce risk of heart attacks, strokes, dying of heart disease, the things that actually matter and go beyond CVD reversal, but not reversal.
 

@@ -24,6 +24,7 @@ In the Adventist Health Study 2 (73,308 Seventh-day Adventists, about 6 years of
 
 So vegan men had significantly lower mortality, but vegan women, and vegans overall, didn't differ significantly from nonvegetarians. Lacto-ovo vegetarians were borderline lower with men and women combined (upper limit 1.00), but not in men or women separately. Pesco-vegetarians had the lowest mortality of any group.
 [Orlich 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4191896/)
+→ [[Fish and health]]
 
 In a pooled UK cohort (60,310 people, including EPIC-Oxford), all-cause mortality before age 90 didn't differ between vegetarians and regular meat eaters (HR 1.02, 95% CI 0.94–1.10), and vegans didn't differ significantly either. Many of the meat eaters were friends and relatives of the vegetarians, and earlier EPIC-Oxford work found the cohort's overall death rate was only half that of the UK as a whole, so the meat eaters here aren't typical. The authors suggest UK vegetarians may also be motivated less by health than Adventist vegetarians are.
 
@@ -68,5 +69,8 @@ The Academy of Nutrition and Dietetics considers appropriately planned vegetaria
 [Melina 2016](https://pubmed.ncbi.nlm.nih.gov/27886704/)
 
 ## Connections
+**Builds on**
+- [[Fish and health]] — how falling contaminant levels in fish may explain pesco-vegetarians' outcomes
+
 **Feeds into**
 - [[Plant based diet CVD reversal]] — the cohort data showing vegetarians have about 25% less ischemic heart disease

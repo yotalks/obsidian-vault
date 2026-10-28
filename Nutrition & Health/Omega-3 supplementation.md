@@ -103,3 +103,6 @@ Similar plasma and RBC levels of EPA and DHA were achieved across all fish oil a
 ## Connections
 **Builds on**
 - [[Omega 6 3 ratio]] — the omega-6 to omega-3 ratio and whether supplements help primary prevention
+
+**Feeds into**
+- [[Fish and health]] — omega-3 supplement trials, which are too mixed to explain pesco-vegetarians doing better than vegans

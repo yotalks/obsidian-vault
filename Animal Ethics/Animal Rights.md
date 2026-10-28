@@ -84,6 +84,9 @@ If it turned out that human meat was just as tasty as animal meat, would it be o
 The vegan society uses a definition for veganism that leads to insane positions, they say exploiting a being is wrong as long as that being belongs to the animal kingdom. Therefore, if a being, even if sentient, isn't in the animal kingdom, it would be vegan, this would include things like Santa's elves and Groot.
 
 Another common stance is that no animal exploitation is permissible. If one holds this view, many foods become non-vegan like apples as we exploit the natural behavior of bees to pollinate apple trees.
+If one accepts that no animal exploitation is permissible, they're committed to some truly hilarious positions, such as apples not being vegan because we exploit the natural behaviour of bees to pollinate our apple trees.
+Fruit growers rent honey bee colonies from beekeepers to pollinate their crops, and an extension guide recommends about 2 colonies per acre for apples.
+[Saunders 2020 (UNH Extension)](https://extension.unh.edu/sites/default/files/migrated_unmanaged_files/Resource007943_Rep11612.pdf)
 
 ## Connections
 **Feeds into**

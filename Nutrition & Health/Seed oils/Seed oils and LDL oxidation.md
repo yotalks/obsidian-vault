@@ -14,6 +14,13 @@ It's also suggested that [[Glossary#SFA|SFA]] are resistant to this sort of oxid
 [DiNicolantonio 2018](https://pubmed.ncbi.nlm.nih.gov/30364556/)
 → [[Saturated fat]]
 
+## The omega-3 problem
+
+If one takes the view that in order for a substance to increase the risk of atherosclerosis, it must facilitate the oxidative modification of LDL particles via [[Glossary#MDA|malondialdehyde]] production, and one also affirms that omega-3s are anti-atherogenic, then this would imply that all fatty acids that produce malondialdehyde, including omega-3s, must also be atherogenic, which contradicts the their belief that omega-3s are heart-healthy.
+[[Glossary#MDA|MDA]] is an end product of the breakdown of arachidonic acid and larger PUFAs, which include the long-chain omega-3s EPA and DHA.
+[Ayala 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4066722/)
+→ [[Omega-3 supplementation]]
+
 ## Fat type barely changes LDL oxidation
 
 We have comprehensively looked at the effects of altering fatty acid composition in diet on LDL oxidation rates in humans. This is one of the best studies of its kind and found no statistically significant differences between the effects of high SFA diets and high PUFA diets on the lag time to LDL oxidation were observed.

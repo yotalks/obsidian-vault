@@ -17,11 +17,13 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
   - [[B12 to livestock]] — livestock feed is supplemented with B12 too
   - [[Beta-carotene conversion]] — conversion ratios, poor converters and supplement safety
 - [[Vegetarian diets and mortality]] — disease and mortality evidence
+- [[Fish and health]] — contaminants and pesco-vegetarian outcomes
 - [[Impossible Beef]] — ingredients and nutritional comparisons
 - [[Plant toxins and antinutrients]] — mechanisms and outcome claims
 - [[Soy]] — hormonal and cancer outcomes
 
 ## Diet & disease
+- [[Healthier foods]] — what makes one food healthier than another
 - [[Red meat]] — processed versus unprocessed meat
 - [[Dairy]] — health and animal welfare
 - [[TMAO]]

@@ -255,3 +255,9 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### Chimerism
 **Chimerism** — Having cells from two different individuals in one body, for example from blood exchanged between twins in the womb. See [[Sex chromosome exceptions]].
+
+### NNT
+**NNT** — Number needed to treat: how many people need the intervention for one extra person to benefit. See [[Saturated fat]].
+
+### MDA
+**MDA** — Malondialdehyde: a reactive aldehyde formed when arachidonic acid and larger polyunsaturated fats, like EPA and DHA, break down. Used as a marker of lipid peroxidation. See [[Seed oils and LDL oxidation]].

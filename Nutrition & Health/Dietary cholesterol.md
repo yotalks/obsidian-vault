@@ -5,7 +5,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> Dietary cholesterol raises blood cholesterol along a curve that flattens out: going from 0 to 300 mg/day raises LDL-C by about 10 mg/dL, while 300 to 500 mg/day barely changes it. Because LDL causes heart disease, dietary cholesterol still raises risk, even though studies of typical intakes struggle to show it.
+> Dietary cholesterol raises blood cholesterol along a curve that flattens out: going from 0 to 300 mg/day raises LDL-C by about 10 mg/dL, while 300 to 500 mg/day barely changes it. Because LDL causes heart disease, dietary cholesterol still raises risk, even though studies of typical intakes struggle to show it. LDL causally associates with heart disease in a linear and proportional manner and in all cases of exposures that durably raise LDL over time, it'll produce a likewise increase in heart disease risk. Dietary cholesterol is one exposure.
 
 ## A dose response that flattens out
 

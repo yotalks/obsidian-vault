@@ -10,3 +10,4 @@ Arguments about religion and science.
 - [[Flat Earth]] — star-rotation evidence
 - [[Young Earth]] — starlight and age
 - [[Definitions]] — coherence and truth claims
+- [[Appeal to nature]] — why normal processes can still be harmful
