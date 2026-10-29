@@ -24,6 +24,10 @@ In cadaver measurements, the middle and anterior deltoid were the most effective
 - **Middle (side) region:** excellent leverage for abduction in the frontal plane, but its best leverage is below 90°. So lateral raises and wide-grip overhead presses train it well, best when they're hardest before the arm reaches horizontal.
 - **Posterior (rear) region:** excellent leverage for both horizontal extension in the transverse plane (pulling the arm back at shoulder height) and extension in the sagittal plane (pulling the arm down and back). So rear delt flys, narrow-grip rows and narrow-grip pulldowns all train it.
 
+## Pressing variations
+
+For pressing variations that shift work between the anterior deltoid, middle deltoid and pecs, see [[Pectoralis major training]].
+
 ## Connections
 **Builds on**
 - [[Neuromechanical matching]] — neural drive favors the region with the best leverage, so each region's peak leverage picks its best exercise

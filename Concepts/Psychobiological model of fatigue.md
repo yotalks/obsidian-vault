@@ -10,3 +10,5 @@ A model of exercise tolerance in which performance is limited by perceived effor
 **Feeds into**
 - [[Supraspinal CNS fatigue]] — explains why discomfort reduces motor drive
 - [[Carbohydrate mouth rinsing]] — the model behind why tricking the brain changes reps to failure
+- [[Periodization]] — why a motivating program change can increase growth
+- [[Stimulating reps and failure]] — why sets reach failure at tolerable effort rather than full recruitment

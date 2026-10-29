@@ -37,3 +37,6 @@ Its leverage relative to the other hip flexors is best from standing upright to 
 ## Connections
 **Builds on**
 - [[Neuromechanical matching]] — neural drive follows leverage and size, so each muscle's best leverage picks its best exercise
+
+**Feeds into**
+- [[Periodization]] — an example of how swapping exercises can shrink muscle regions

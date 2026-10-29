@@ -7,15 +7,15 @@
    "color": "2",
    "x": 0,
    "y": 0,
-   "width": 2940,
-   "height": 1680
+   "width": 3360,
+   "height": 2330
   },
   {
    "id": "ATP does not deplete during exercise",
    "type": "file",
-   "file": "Exercise Science/ATP does not deplete during exercise.md",
+   "file": "Exercise Science/Fatigue and recovery/ATP does not deplete during exercise.md",
    "x": 60,
-   "y": 190,
+   "y": 515,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -25,7 +25,7 @@
    "type": "file",
    "file": "Concepts/Psychobiological model of fatigue.md",
    "x": 60,
-   "y": 320,
+   "y": 645,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -35,7 +35,7 @@
    "type": "file",
    "file": "Concepts/Calcium ion-related fatigue.md",
    "x": 60,
-   "y": 450,
+   "y": 775,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -45,7 +45,7 @@
    "type": "file",
    "file": "Concepts/Mechanical tension.md",
    "x": 60,
-   "y": 580,
+   "y": 905,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -55,7 +55,7 @@
    "type": "file",
    "file": "Concepts/Glucocorticoids.md",
    "x": 60,
-   "y": 710,
+   "y": 1035,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -65,7 +65,7 @@
    "type": "file",
    "file": "Concepts/Internal moment arm.md",
    "x": 60,
-   "y": 840,
+   "y": 1165,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -73,9 +73,9 @@
   {
    "id": "Age and recovery",
    "type": "file",
-   "file": "Exercise Science/Age and recovery.md",
+   "file": "Exercise Science/Fatigue and recovery/Age and recovery.md",
    "x": 60,
-   "y": 970,
+   "y": 1295,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -83,9 +83,9 @@
   {
    "id": "Improvements in coordination traits",
    "type": "file",
-   "file": "Exercise Science/Improvements in coordination traits.md",
+   "file": "Exercise Science/Strength and performance/Improvements in coordination traits.md",
    "x": 60,
-   "y": 1100,
+   "y": 1425,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -95,7 +95,7 @@
    "type": "file",
    "file": "Concepts/Proximal-to-distal sequence.md",
    "x": 60,
-   "y": 1230,
+   "y": 1555,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -103,9 +103,9 @@
   {
    "id": "Tendon adaptation",
    "type": "file",
-   "file": "Exercise Science/Tendon adaptation.md",
+   "file": "Exercise Science/Injuries and tendons/Tendon adaptation.md",
    "x": 60,
-   "y": 1360,
+   "y": 1685,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -123,7 +123,7 @@
   {
    "id": "Overuse injuries",
    "type": "file",
-   "file": "Exercise Science/Overuse injuries.md",
+   "file": "Exercise Science/Injuries and tendons/Overuse injuries.md",
    "x": 480,
    "y": 320,
    "width": 300,
@@ -131,11 +131,171 @@
    "color": "2"
   },
   {
-   "id": "Muscle swelling",
+   "id": "Cardio and hypertrophy",
    "type": "file",
-   "file": "Exercise Science/Muscle swelling.md",
+   "file": "Exercise Science/Hypertrophy/Cardio and hypertrophy.md",
    "x": 480,
    "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Fiber type shifts",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Fiber type shifts.md",
+   "x": 480,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Muscle swelling",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Muscle swelling.md",
+   "x": 480,
+   "y": 710,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Isometric training and hypertrophy",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Isometric training and hypertrophy.md",
+   "x": 480,
+   "y": 840,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Fiber-specific muscle growth",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Fiber-specific muscle growth.md",
+   "x": 480,
+   "y": 970,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Post-workout cooling",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Post-workout cooling.md",
+   "x": 480,
+   "y": 1100,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Running Economy",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Running Economy.md",
+   "x": 480,
+   "y": 1230,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Techniques to improve coordination",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Techniques to improve coordination.md",
+   "x": 480,
+   "y": 1360,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Vertical jump height",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Vertical jump height.md",
+   "x": 480,
+   "y": 1490,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Sprint speed",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Sprint speed.md",
+   "x": 480,
+   "y": 1620,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Throwing speed",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Throwing speed.md",
+   "x": 480,
+   "y": 1750,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Progressive overload",
+   "type": "file",
+   "file": "Exercise Science/Programming/Progressive overload.md",
+   "x": 480,
+   "y": 1880,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Stretch-shortening cycle",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Stretch-shortening cycle.md",
+   "x": 480,
+   "y": 2010,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Carbohydrate mouth rinsing",
+   "type": "file",
+   "file": "Exercise Science/Supplements and drugs/Carbohydrate mouth rinsing.md",
+   "x": 900,
+   "y": 775,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Stimulating reps and failure",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Stimulating reps and failure.md",
+   "x": 900,
+   "y": 905,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Muscle strain injuries",
+   "type": "file",
+   "file": "Exercise Science/Injuries and tendons/Muscle strain injuries.md",
+   "x": 900,
+   "y": 1035,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Increasing motor unit recruitment",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Increasing motor unit recruitment.md",
+   "x": 900,
+   "y": 1165,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -144,118 +304,18 @@
    "id": "Sarcomerogenesis",
    "type": "file",
    "file": "Concepts/Sarcomerogenesis.md",
-   "x": 480,
-   "y": 580,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Post-workout cooling",
-   "type": "file",
-   "file": "Exercise Science/Post-workout cooling.md",
-   "x": 480,
-   "y": 710,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Running Economy",
-   "type": "file",
-   "file": "Exercise Science/Running Economy.md",
-   "x": 480,
-   "y": 840,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Techniques to improve coordination",
-   "type": "file",
-   "file": "Exercise Science/Techniques to improve coordination.md",
-   "x": 480,
-   "y": 970,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Vertical jump height",
-   "type": "file",
-   "file": "Exercise Science/Vertical jump height.md",
-   "x": 480,
-   "y": 1100,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Sprint speed",
-   "type": "file",
-   "file": "Exercise Science/Sprint speed.md",
-   "x": 480,
-   "y": 1230,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Throwing speed",
-   "type": "file",
-   "file": "Exercise Science/Throwing speed.md",
-   "x": 480,
-   "y": 1360,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Carbohydrate mouth rinsing",
-   "type": "file",
-   "file": "Exercise Science/Carbohydrate mouth rinsing.md",
    "x": 900,
-   "y": 515,
+   "y": 1295,
    "width": 300,
    "height": 90,
    "color": "2"
   },
   {
-   "id": "Muscle strain injuries",
+   "id": "Strength training for endurance athletes",
    "type": "file",
-   "file": "Exercise Science/Muscle strain injuries.md",
+   "file": "Exercise Science/Strength and performance/Strength training for endurance athletes.md",
    "x": 900,
-   "y": 645,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Repeated bout effect",
-   "type": "file",
-   "file": "Exercise Science/Repeated bout effect.md",
-   "x": 900,
-   "y": 775,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Detraining sarcomerogenesis",
-   "type": "file",
-   "file": "Exercise Science/Detraining sarcomerogenesis.md",
-   "x": 900,
-   "y": 905,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Increasing motor unit recruitment",
-   "type": "file",
-   "file": "Exercise Science/Increasing motor unit recruitment.md",
-   "x": 900,
-   "y": 1035,
+   "y": 1425,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -263,139 +323,19 @@
   {
    "id": "Fatigue resistance",
    "type": "file",
-   "file": "Exercise Science/Fatigue resistance.md",
-   "x": 1320,
-   "y": 125,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Insufficient Sleep",
-   "type": "file",
-   "file": "Exercise Science/Insufficient Sleep.md",
-   "x": 1320,
-   "y": 255,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Detraining adaptations speed",
-   "type": "file",
-   "file": "Exercise Science/Detraining adaptations speed.md",
-   "x": 1320,
-   "y": 385,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Training volume",
-   "type": "file",
-   "file": "Exercise Science/Training volume.md",
-   "x": 1320,
+   "file": "Exercise Science/Fatigue and recovery/Fatigue resistance.md",
+   "x": 1740,
    "y": 515,
    "width": 300,
    "height": 90,
    "color": "2"
   },
   {
-   "id": "Flexing and co-contraction training",
+   "id": "Recovery between workouts",
    "type": "file",
-   "file": "Exercise Science/Flexing and co-contraction training.md",
-   "x": 1320,
+   "file": "Exercise Science/Fatigue and recovery/Recovery between workouts.md",
+   "x": 1740,
    "y": 645,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Neuromechanical matching",
-   "type": "file",
-   "file": "Concepts/Neuromechanical matching.md",
-   "x": 1320,
-   "y": 775,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Individual differences in muscle growth",
-   "type": "file",
-   "file": "Exercise Science/Individual differences in muscle growth.md",
-   "x": 1320,
-   "y": 905,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "EMG for exercise selection",
-   "type": "file",
-   "file": "Exercise Science/EMG for exercise selection.md",
-   "x": 1320,
-   "y": 1035,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Squat patterns",
-   "type": "file",
-   "file": "Exercise Science/Squat patterns.md",
-   "x": 1320,
-   "y": 1165,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Increasing speed",
-   "type": "file",
-   "file": "Exercise Science/Increasing speed.md",
-   "x": 1320,
-   "y": 1295,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Sticking points in powerlifting",
-   "type": "file",
-   "file": "Exercise Science/Sticking points in powerlifting.md",
-   "x": 1320,
-   "y": 1425,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Training frequency and hypertrophy",
-   "type": "file",
-   "file": "Exercise Science/Training frequency and hypertrophy.md",
-   "x": 2160,
-   "y": 645,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Creatine Supplementation",
-   "type": "file",
-   "file": "Exercise Science/Creatine Supplementation.md",
-   "x": 2160,
-   "y": 775,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Elbow flexor training",
-   "type": "file",
-   "file": "Exercise Science/Muscle training/Elbow flexor training.md",
-   "x": 2160,
-   "y": 905,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -403,99 +343,29 @@
   {
    "id": "Swelling in hypertrophy studies",
    "type": "file",
-   "file": "Exercise Science/Swelling in hypertrophy studies.md",
+   "file": "Exercise Science/Hypertrophy/Swelling in hypertrophy studies.md",
    "x": 1740,
-   "y": 60,
+   "y": 775,
    "width": 300,
    "height": 90,
    "color": "2"
   },
   {
-   "id": "Age and adaptations",
+   "id": "Muscle differences in recovery",
    "type": "file",
-   "file": "Exercise Science/Age and adaptations.md",
+   "file": "Exercise Science/Fatigue and recovery/Muscle differences in recovery.md",
    "x": 1740,
-   "y": 190,
+   "y": 905,
    "width": 300,
    "height": 90,
    "color": "2"
   },
   {
-   "id": "Latissimus dorsi training",
+   "id": "Slow twitch fiber hypertrophy",
    "type": "file",
-   "file": "Exercise Science/Muscle training/Latissimus dorsi training.md",
+   "file": "Exercise Science/Hypertrophy/Slow twitch fiber hypertrophy.md",
    "x": 1740,
-   "y": 320,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Pectoralis major training",
-   "type": "file",
-   "file": "Exercise Science/Muscle training/Pectoralis major training.md",
-   "x": 1740,
-   "y": 450,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Deltoid training",
-   "type": "file",
-   "file": "Exercise Science/Muscle training/Deltoid training.md",
-   "x": 1740,
-   "y": 580,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Triceps training",
-   "type": "file",
-   "file": "Exercise Science/Muscle training/Triceps training.md",
-   "x": 1740,
-   "y": 710,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Gluteus maximus training",
-   "type": "file",
-   "file": "Exercise Science/Muscle training/Gluteus maximus training.md",
-   "x": 1740,
-   "y": 840,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Hamstring training",
-   "type": "file",
-   "file": "Exercise Science/Muscle training/Hamstring training.md",
-   "x": 1740,
-   "y": 970,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Quadriceps training",
-   "type": "file",
-   "file": "Exercise Science/Muscle training/Quadriceps training.md",
-   "x": 1740,
-   "y": 1100,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Calves training",
-   "type": "file",
-   "file": "Exercise Science/Muscle training/Calves training.md",
-   "x": 1740,
-   "y": 1230,
+   "y": 1035,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -503,9 +373,9 @@
   {
    "id": "Anabolic Androgenic Steroids",
    "type": "file",
-   "file": "Exercise Science/Anabolic Androgenic Steroids.md",
+   "file": "Exercise Science/Supplements and drugs/Anabolic Androgenic Steroids.md",
    "x": 1740,
-   "y": 1360,
+   "y": 1165,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -515,7 +385,437 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Trapezius training.md",
    "x": 1740,
+   "y": 1295,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Neuromechanical matching",
+   "type": "file",
+   "file": "Concepts/Neuromechanical matching.md",
+   "x": 1740,
+   "y": 1425,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Detraining adaptations speed",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Detraining adaptations speed.md",
+   "x": 1740,
+   "y": 1555,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Warm-up sets",
+   "type": "file",
+   "file": "Exercise Science/Programming/Warm-up sets.md",
+   "x": 1740,
+   "y": 1685,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Repeated bout effect",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Repeated bout effect.md",
+   "x": 1320,
+   "y": 320,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Insufficient Sleep",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Insufficient Sleep.md",
+   "x": 1320,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Training volume",
+   "type": "file",
+   "file": "Exercise Science/Programming/Training volume.md",
+   "x": 1320,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Fatigue across rep ranges",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Fatigue across rep ranges.md",
+   "x": 1320,
+   "y": 710,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Individual differences in muscle growth",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Individual differences in muscle growth.md",
+   "x": 1320,
+   "y": 840,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "EMG for exercise selection",
+   "type": "file",
+   "file": "Exercise Science/Programming/EMG for exercise selection.md",
+   "x": 1320,
+   "y": 970,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Lifting tempo",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Lifting tempo.md",
+   "x": 1320,
+   "y": 1100,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Flexing and co-contraction training",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Flexing and co-contraction training.md",
+   "x": 1320,
+   "y": 1230,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Detraining sarcomerogenesis",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Detraining sarcomerogenesis.md",
+   "x": 1320,
+   "y": 1360,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Squat patterns",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Squat patterns.md",
+   "x": 1320,
    "y": 1490,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Increasing speed",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Increasing speed.md",
+   "x": 1320,
+   "y": 1620,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Strength training for team sports",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Strength training for team sports.md",
+   "x": 1320,
+   "y": 1750,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Sticking points in powerlifting",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Sticking points in powerlifting.md",
+   "x": 1320,
+   "y": 1880,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Overtraining and overreaching",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Overtraining and overreaching.md",
+   "x": 2160,
+   "y": 60,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Very light loads and BFR",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Very light loads and BFR.md",
+   "x": 2160,
+   "y": 190,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Life stress and recovery",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Life stress and recovery.md",
+   "x": 2160,
+   "y": 320,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Creatine Supplementation",
+   "type": "file",
+   "file": "Exercise Science/Supplements and drugs/Creatine Supplementation.md",
+   "x": 2160,
+   "y": 450,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Training frequency and hypertrophy",
+   "type": "file",
+   "file": "Exercise Science/Programming/Training frequency and hypertrophy.md",
+   "x": 2160,
+   "y": 580,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Age and adaptations",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Age and adaptations.md",
+   "x": 2160,
+   "y": 710,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Stretch-mediated hypertrophy",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Stretch-mediated hypertrophy.md",
+   "x": 2160,
+   "y": 840,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Muscle memory",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Muscle memory.md",
+   "x": 2160,
+   "y": 970,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Hardgainers",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Hardgainers.md",
+   "x": 2160,
+   "y": 1100,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Latissimus dorsi training",
+   "type": "file",
+   "file": "Exercise Science/Muscle training/Latissimus dorsi training.md",
+   "x": 2160,
+   "y": 1230,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Pectoralis major training",
+   "type": "file",
+   "file": "Exercise Science/Muscle training/Pectoralis major training.md",
+   "x": 2160,
+   "y": 1360,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Deltoid training",
+   "type": "file",
+   "file": "Exercise Science/Muscle training/Deltoid training.md",
+   "x": 2160,
+   "y": 1490,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Triceps training",
+   "type": "file",
+   "file": "Exercise Science/Muscle training/Triceps training.md",
+   "x": 2160,
+   "y": 1620,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Gluteus maximus training",
+   "type": "file",
+   "file": "Exercise Science/Muscle training/Gluteus maximus training.md",
+   "x": 2160,
+   "y": 1750,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Hamstring training",
+   "type": "file",
+   "file": "Exercise Science/Muscle training/Hamstring training.md",
+   "x": 2160,
+   "y": 1880,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Quadriceps training",
+   "type": "file",
+   "file": "Exercise Science/Muscle training/Quadriceps training.md",
+   "x": 2160,
+   "y": 2010,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Calves training",
+   "type": "file",
+   "file": "Exercise Science/Muscle training/Calves training.md",
+   "x": 2160,
+   "y": 2140,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Impaired muscle regrowth",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Impaired muscle regrowth.md",
+   "x": 2580,
+   "y": 645,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Accumulating post-workout fatigue",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Accumulating post-workout fatigue.md",
+   "x": 2580,
+   "y": 775,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Junk volume",
+   "type": "file",
+   "file": "Exercise Science/Programming/Junk volume.md",
+   "x": 2580,
+   "y": 905,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Beginners vs intermediates",
+   "type": "file",
+   "file": "Exercise Science/Programming/Beginners vs intermediates.md",
+   "x": 2580,
+   "y": 1035,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Dieting and hypertrophy",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Dieting and hypertrophy.md",
+   "x": 2580,
+   "y": 1165,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Partial vs full range of motion",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Partial vs full range of motion.md",
+   "x": 2580,
+   "y": 1295,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Periodization",
+   "type": "file",
+   "file": "Exercise Science/Programming/Periodization.md",
+   "x": 2580,
+   "y": 1425,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Elbow flexor training",
+   "type": "file",
+   "file": "Exercise Science/Muscle training/Elbow flexor training.md",
+   "x": 2580,
+   "y": 1555,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Drop sets",
+   "type": "file",
+   "file": "Exercise Science/Programming/Drop sets.md",
+   "x": 3000,
+   "y": 970,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Advanced lifters",
+   "type": "file",
+   "file": "Exercise Science/Programming/Advanced lifters.md",
+   "x": 3000,
+   "y": 1100,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -523,9 +823,9 @@
   {
    "id": "Muscle size and leverage",
    "type": "file",
-   "file": "Exercise Science/Muscle size and leverage.md",
-   "x": 2580,
-   "y": 775,
+   "file": "Exercise Science/Strength and performance/Muscle size and leverage.md",
+   "x": 3000,
+   "y": 1230,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -536,7 +836,7 @@
    "label": "Nutrition & Health",
    "color": "4",
    "x": 0,
-   "y": 1880,
+   "y": 2530,
    "width": 2100,
    "height": 2200
   },
@@ -545,7 +845,7 @@
    "type": "file",
    "file": "Concepts/Antagonistic pleiotropy.md",
    "x": 60,
-   "y": 2005,
+   "y": 2655,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -555,7 +855,7 @@
    "type": "file",
    "file": "Concepts/LDL and heart disease.md",
    "x": 60,
-   "y": 2135,
+   "y": 2785,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -563,9 +863,9 @@
   {
    "id": "Seed oils",
    "type": "file",
-   "file": "Nutrition & Health/Seed oils/Seed oils.md",
+   "file": "Nutrition & Health/Heart health/Seed oils/Seed oils.md",
    "x": 60,
-   "y": 2265,
+   "y": 2915,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -573,9 +873,9 @@
   {
    "id": "Omega 6 3 ratio",
    "type": "file",
-   "file": "Nutrition & Health/Omega 6 3 ratio.md",
+   "file": "Nutrition & Health/Heart health/Omega 6 3 ratio.md",
    "x": 60,
-   "y": 2395,
+   "y": 3045,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -583,9 +883,9 @@
   {
    "id": "Organic is not vegan",
    "type": "file",
-   "file": "Nutrition & Health/Organic/Organic is not vegan.md",
+   "file": "Nutrition & Health/Animal farming/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 2525,
+   "y": 3175,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -593,9 +893,9 @@
   {
    "id": "Soy",
    "type": "file",
-   "file": "Nutrition & Health/Soy.md",
+   "file": "Nutrition & Health/Vegan diets/Soy.md",
    "x": 60,
-   "y": 2655,
+   "y": 3305,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -603,57 +903,7 @@
   {
    "id": "Artificial sweeteners",
    "type": "file",
-   "file": "Nutrition & Health/Artificial sweeteners.md",
-   "x": 60,
-   "y": 2785,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Dairy",
-   "type": "file",
-   "file": "Nutrition & Health/Dairy.md",
-   "x": 60,
-   "y": 2915,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Vaccine safety",
-   "type": "file",
-   "file": "Nutrition & Health/Vaccine safety.md",
-   "x": 60,
-   "y": 3045,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Seed oils and lipid peroxidation",
-   "type": "file",
-   "file": "Nutrition & Health/Seed oils/Seed oils and lipid peroxidation.md",
-   "x": 60,
-   "y": 3175,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "ADHD and mortality",
-   "type": "file",
-   "file": "Nutrition & Health/ADHD and mortality.md",
-   "x": 60,
-   "y": 3305,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Glyphosate and cancer",
-   "type": "file",
-   "file": "Nutrition & Health/Glyphosate and cancer.md",
+   "file": "Nutrition & Health/Diet and disease/Artificial sweeteners.md",
    "x": 60,
    "y": 3435,
    "width": 300,
@@ -661,9 +911,9 @@
    "color": "4"
   },
   {
-   "id": "Beta-carotene conversion",
+   "id": "Dairy",
    "type": "file",
-   "file": "Nutrition & Health/Beta-carotene conversion.md",
+   "file": "Nutrition & Health/Diet and disease/Dairy.md",
    "x": 60,
    "y": 3565,
    "width": 300,
@@ -671,9 +921,9 @@
    "color": "4"
   },
   {
-   "id": "Lifestyle Heart Trial",
+   "id": "Vaccine safety",
    "type": "file",
-   "file": "Nutrition & Health/Lifestyle Heart Trial.md",
+   "file": "Nutrition & Health/Medicine and vaccines/Vaccine safety.md",
    "x": 60,
    "y": 3695,
    "width": 300,
@@ -681,9 +931,9 @@
    "color": "4"
   },
   {
-   "id": "B12 to livestock",
+   "id": "Seed oils and lipid peroxidation",
    "type": "file",
-   "file": "Nutrition & Health/B12 to livestock.md",
+   "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and lipid peroxidation.md",
    "x": 60,
    "y": 3825,
    "width": 300,
@@ -691,59 +941,59 @@
    "color": "4"
   },
   {
+   "id": "ADHD and mortality",
+   "type": "file",
+   "file": "Nutrition & Health/Medicine and vaccines/ADHD and mortality.md",
+   "x": 60,
+   "y": 3955,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Glyphosate and cancer",
+   "type": "file",
+   "file": "Nutrition & Health/Animal farming/Organic/Glyphosate and cancer.md",
+   "x": 60,
+   "y": 4085,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Beta-carotene conversion",
+   "type": "file",
+   "file": "Nutrition & Health/Vegan diets/Beta-carotene conversion.md",
+   "x": 60,
+   "y": 4215,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Lifestyle Heart Trial",
+   "type": "file",
+   "file": "Nutrition & Health/Heart health/Lifestyle Heart Trial.md",
+   "x": 60,
+   "y": 4345,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "B12 to livestock",
+   "type": "file",
+   "file": "Nutrition & Health/Vegan diets/B12 to livestock.md",
+   "x": 60,
+   "y": 4475,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "HDL",
    "type": "file",
-   "file": "Nutrition & Health/HDL.md",
-   "x": 480,
-   "y": 1940,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Saturated fat",
-   "type": "file",
-   "file": "Nutrition & Health/Saturated fat.md",
-   "x": 480,
-   "y": 2070,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Dietary cholesterol",
-   "type": "file",
-   "file": "Nutrition & Health/Dietary cholesterol.md",
-   "x": 480,
-   "y": 2200,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Low-carb diets",
-   "type": "file",
-   "file": "Nutrition & Health/Low-carb diets.md",
-   "x": 480,
-   "y": 2330,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Fiber",
-   "type": "file",
-   "file": "Nutrition & Health/Fiber.md",
-   "x": 480,
-   "y": 2460,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Impossible Beef",
-   "type": "file",
-   "file": "Nutrition & Health/Impossible Beef.md",
+   "file": "Nutrition & Health/Heart health/HDL.md",
    "x": 480,
    "y": 2590,
    "width": 300,
@@ -751,9 +1001,9 @@
    "color": "4"
   },
   {
-   "id": "Seed oils and inflammation",
+   "id": "Saturated fat",
    "type": "file",
-   "file": "Nutrition & Health/Seed oils/Seed oils and inflammation.md",
+   "file": "Nutrition & Health/Heart health/Saturated fat.md",
    "x": 480,
    "y": 2720,
    "width": 300,
@@ -761,9 +1011,9 @@
    "color": "4"
   },
   {
-   "id": "Coronary plaque regression",
+   "id": "Dietary cholesterol",
    "type": "file",
-   "file": "Nutrition & Health/Coronary plaque regression.md",
+   "file": "Nutrition & Health/Heart health/Dietary cholesterol.md",
    "x": 480,
    "y": 2850,
    "width": 300,
@@ -771,9 +1021,9 @@
    "color": "4"
   },
   {
-   "id": "Omega-3 supplementation",
+   "id": "Low-carb diets",
    "type": "file",
-   "file": "Nutrition & Health/Omega-3 supplementation.md",
+   "file": "Nutrition & Health/Appetite and weight loss/Low-carb diets.md",
    "x": 480,
    "y": 2980,
    "width": 300,
@@ -781,9 +1031,9 @@
    "color": "4"
   },
   {
-   "id": "Ultra-processed food and additives",
+   "id": "Fiber",
    "type": "file",
-   "file": "Nutrition & Health/Ultra-processed food and additives.md",
+   "file": "Nutrition & Health/Appetite and weight loss/Fiber.md",
    "x": 480,
    "y": 3110,
    "width": 300,
@@ -791,9 +1041,9 @@
    "color": "4"
   },
   {
-   "id": "Organic on the environment",
+   "id": "Impossible Beef",
    "type": "file",
-   "file": "Nutrition & Health/Organic/Organic on the environment.md",
+   "file": "Nutrition & Health/Vegan diets/Impossible Beef.md",
    "x": 480,
    "y": 3240,
    "width": 300,
@@ -801,9 +1051,9 @@
    "color": "4"
   },
   {
-   "id": "Plant toxins and antinutrients",
+   "id": "Seed oils and inflammation",
    "type": "file",
-   "file": "Nutrition & Health/Plant toxins and antinutrients.md",
+   "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and inflammation.md",
    "x": 480,
    "y": 3370,
    "width": 300,
@@ -811,9 +1061,9 @@
    "color": "4"
   },
   {
-   "id": "HPV vaccine",
+   "id": "Coronary plaque regression",
    "type": "file",
-   "file": "Nutrition & Health/HPV vaccine.md",
+   "file": "Nutrition & Health/Heart health/Coronary plaque regression.md",
    "x": 480,
    "y": 3500,
    "width": 300,
@@ -821,9 +1071,9 @@
    "color": "4"
   },
   {
-   "id": "COVID-19 vaccine trials",
+   "id": "Omega-3 supplementation",
    "type": "file",
-   "file": "Nutrition & Health/COVID-19 vaccine trials.md",
+   "file": "Nutrition & Health/Heart health/Omega-3 supplementation.md",
    "x": 480,
    "y": 3630,
    "width": 300,
@@ -831,9 +1081,9 @@
    "color": "4"
   },
   {
-   "id": "Organic and Health",
+   "id": "Ultra-processed food and additives",
    "type": "file",
-   "file": "Nutrition & Health/Organic/Organic and Health.md",
+   "file": "Nutrition & Health/Diet and disease/Ultra-processed food and additives.md",
    "x": 480,
    "y": 3760,
    "width": 300,
@@ -841,9 +1091,9 @@
    "color": "4"
   },
   {
-   "id": "Vegan diets",
+   "id": "Organic on the environment",
    "type": "file",
-   "file": "Nutrition & Health/Vegan diets.md",
+   "file": "Nutrition & Health/Animal farming/Organic/Organic on the environment.md",
    "x": 480,
    "y": 3890,
    "width": 300,
@@ -851,59 +1101,59 @@
    "color": "4"
   },
   {
+   "id": "Plant toxins and antinutrients",
+   "type": "file",
+   "file": "Nutrition & Health/Vegan diets/Plant toxins and antinutrients.md",
+   "x": 480,
+   "y": 4020,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "HPV vaccine",
+   "type": "file",
+   "file": "Nutrition & Health/Medicine and vaccines/HPV vaccine.md",
+   "x": 480,
+   "y": 4150,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "COVID-19 vaccine trials",
+   "type": "file",
+   "file": "Nutrition & Health/Medicine and vaccines/COVID-19 vaccine trials.md",
+   "x": 480,
+   "y": 4280,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Organic and Health",
+   "type": "file",
+   "file": "Nutrition & Health/Animal farming/Organic/Organic and Health.md",
+   "x": 480,
+   "y": 4410,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Vegan diets",
+   "type": "file",
+   "file": "Nutrition & Health/Vegan diets/Vegan diets.md",
+   "x": 480,
+   "y": 4540,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Evolution",
    "type": "file",
-   "file": "Nutrition & Health/Evolution.md",
-   "x": 900,
-   "y": 2525,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Chocolate",
-   "type": "file",
-   "file": "Nutrition & Health/Chocolate.md",
-   "x": 900,
-   "y": 2655,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Cholesterol-lowering foods",
-   "type": "file",
-   "file": "Nutrition & Health/Cholesterol-lowering foods.md",
-   "x": 900,
-   "y": 2785,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Seed oils and LDL oxidation",
-   "type": "file",
-   "file": "Nutrition & Health/Seed oils/Seed oils and LDL oxidation.md",
-   "x": 900,
-   "y": 2915,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Satiation",
-   "type": "file",
-   "file": "Nutrition & Health/Satiation.md",
-   "x": 900,
-   "y": 3045,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Fish and health",
-   "type": "file",
-   "file": "Nutrition & Health/Fish and health.md",
+   "file": "Nutrition & Health/Diet and disease/Evolution.md",
    "x": 900,
    "y": 3175,
    "width": 300,
@@ -911,9 +1161,9 @@
    "color": "4"
   },
   {
-   "id": "Vaccine spike protein",
+   "id": "Chocolate",
    "type": "file",
-   "file": "Nutrition & Health/Vaccine spike protein.md",
+   "file": "Nutrition & Health/Heart health/Chocolate.md",
    "x": 900,
    "y": 3305,
    "width": 300,
@@ -921,11 +1171,61 @@
    "color": "4"
   },
   {
+   "id": "Cholesterol-lowering foods",
+   "type": "file",
+   "file": "Nutrition & Health/Heart health/Cholesterol-lowering foods.md",
+   "x": 900,
+   "y": 3435,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Seed oils and LDL oxidation",
+   "type": "file",
+   "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and LDL oxidation.md",
+   "x": 900,
+   "y": 3565,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Satiation",
+   "type": "file",
+   "file": "Nutrition & Health/Appetite and weight loss/Satiation.md",
+   "x": 900,
+   "y": 3695,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Fish and health",
+   "type": "file",
+   "file": "Nutrition & Health/Vegan diets/Fish and health.md",
+   "x": 900,
+   "y": 3825,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Vaccine spike protein",
+   "type": "file",
+   "file": "Nutrition & Health/Medicine and vaccines/Vaccine spike protein.md",
+   "x": 900,
+   "y": 3955,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "Hunter-gatherer diets",
    "type": "file",
-   "file": "Nutrition & Health/Hunter-gatherer diets.md",
+   "file": "Nutrition & Health/Diet and disease/Hunter-gatherer diets.md",
    "x": 1320,
-   "y": 2850,
+   "y": 3500,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -933,9 +1233,9 @@
   {
    "id": "Vegetarian diets and mortality",
    "type": "file",
-   "file": "Nutrition & Health/Vegetarian diets and mortality.md",
+   "file": "Nutrition & Health/Vegan diets/Vegetarian diets and mortality.md",
    "x": 1320,
-   "y": 2980,
+   "y": 3630,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -943,9 +1243,9 @@
   {
    "id": "Plant based diet CVD reversal",
    "type": "file",
-   "file": "Nutrition & Health/Plant based diet CVD reversal.md",
+   "file": "Nutrition & Health/Heart health/Plant based diet CVD reversal.md",
    "x": 1740,
-   "y": 2915,
+   "y": 3565,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -956,7 +1256,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 4280,
+   "y": 4930,
    "width": 1260,
    "height": 510
   },
@@ -965,7 +1265,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 4340,
+   "y": 4990,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -975,7 +1275,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 4470,
+   "y": 5120,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -985,7 +1285,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 4600,
+   "y": 5250,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -995,7 +1295,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 4340,
+   "y": 4990,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1005,7 +1305,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 4470,
+   "y": 5120,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1015,7 +1315,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 4600,
+   "y": 5250,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1025,7 +1325,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 4470,
+   "y": 5120,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1036,7 +1336,7 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 4990,
+   "y": 5640,
    "width": 1260,
    "height": 770
   },
@@ -1045,7 +1345,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 5245,
+   "y": 5895,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1055,7 +1355,7 @@
    "type": "file",
    "file": "Concepts/Wild animal suffering.md",
    "x": 60,
-   "y": 5375,
+   "y": 6025,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1065,7 +1365,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
-   "y": 5050,
+   "y": 5700,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1075,7 +1375,7 @@
    "type": "file",
    "file": "Animal Ethics/Vegan Bivalves.md",
    "x": 480,
-   "y": 5180,
+   "y": 5830,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1085,7 +1385,7 @@
    "type": "file",
    "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
-   "y": 5310,
+   "y": 5960,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1095,7 +1395,7 @@
    "type": "file",
    "file": "Animal Ethics/Rewilding.md",
    "x": 480,
-   "y": 5440,
+   "y": 6090,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1105,7 +1405,7 @@
    "type": "file",
    "file": "Animal Ethics/Colonizing nature.md",
    "x": 480,
-   "y": 5570,
+   "y": 6220,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1115,7 +1415,7 @@
    "type": "file",
    "file": "Animal Ethics/Crop deaths.md",
    "x": 900,
-   "y": 5310,
+   "y": 5960,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1126,16 +1426,16 @@
    "label": "Ethics & Society",
    "color": "5",
    "x": 0,
-   "y": 5960,
+   "y": 6610,
    "width": 1260,
    "height": 770
   },
   {
    "id": "US life expectancy",
    "type": "file",
-   "file": "Ethics & Society/US life expectancy.md",
+   "file": "Ethics & Society/Health policy/US life expectancy.md",
    "x": 60,
-   "y": 6020,
+   "y": 6670,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1143,9 +1443,9 @@
   {
    "id": "Artifactual chronic disease trends",
    "type": "file",
-   "file": "Ethics & Society/Artifactual chronic disease trends.md",
+   "file": "Ethics & Society/Health policy/Artifactual chronic disease trends.md",
    "x": 60,
-   "y": 6150,
+   "y": 6800,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1153,9 +1453,9 @@
   {
    "id": "Gender dysphoria in the DSM-5",
    "type": "file",
-   "file": "Ethics & Society/Gender dysphoria in the DSM-5.md",
+   "file": "Ethics & Society/Sex and gender/Gender dysphoria in the DSM-5.md",
    "x": 60,
-   "y": 6280,
+   "y": 6930,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1163,9 +1463,9 @@
   {
    "id": "Intersex prevalence",
    "type": "file",
-   "file": "Ethics & Society/Intersex prevalence.md",
+   "file": "Ethics & Society/Sex and gender/Intersex prevalence.md",
    "x": 60,
-   "y": 6410,
+   "y": 7060,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1173,9 +1473,9 @@
   {
    "id": "Sex chromosome exceptions",
    "type": "file",
-   "file": "Ethics & Society/Sex chromosome exceptions.md",
+   "file": "Ethics & Society/Sex and gender/Sex chromosome exceptions.md",
    "x": 60,
-   "y": 6540,
+   "y": 7190,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1183,9 +1483,9 @@
   {
    "id": "US healthcare spending",
    "type": "file",
-   "file": "Ethics & Society/US healthcare spending.md",
+   "file": "Ethics & Society/Health policy/US healthcare spending.md",
    "x": 480,
-   "y": 6085,
+   "y": 6735,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1193,9 +1493,9 @@
   {
    "id": "Childhood chronic disease",
    "type": "file",
-   "file": "Ethics & Society/Childhood chronic disease.md",
+   "file": "Ethics & Society/Health policy/Childhood chronic disease.md",
    "x": 480,
-   "y": 6215,
+   "y": 6865,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1203,9 +1503,9 @@
   {
    "id": "Gender-affirming care outcomes",
    "type": "file",
-   "file": "Ethics & Society/Gender-affirming care outcomes.md",
+   "file": "Ethics & Society/Sex and gender/Gender-affirming care outcomes.md",
    "x": 480,
-   "y": 6345,
+   "y": 6995,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1213,9 +1513,9 @@
   {
    "id": "Biological sex",
    "type": "file",
-   "file": "Ethics & Society/Biological sex.md",
+   "file": "Ethics & Society/Sex and gender/Biological sex.md",
    "x": 480,
-   "y": 6475,
+   "y": 7125,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1223,9 +1523,9 @@
   {
    "id": "Medicare and gender reassignment surgery",
    "type": "file",
-   "file": "Ethics & Society/Medicare and gender reassignment surgery.md",
+   "file": "Ethics & Society/Sex and gender/Medicare and gender reassignment surgery.md",
    "x": 900,
-   "y": 6215,
+   "y": 6865,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1233,9 +1533,9 @@
   {
    "id": "Trans Identity",
    "type": "file",
-   "file": "Ethics & Society/Trans Identity.md",
+   "file": "Ethics & Society/Sex and gender/Trans Identity.md",
    "x": 900,
-   "y": 6345,
+   "y": 6995,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -2522,6 +2822,564 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "omega-3s don't explain it"
+  },
+  {
+   "id": "e143",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Very light loads and BFR",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the only fatigue left"
+  },
+  {
+   "id": "e144",
+   "fromNode": "Neuromechanical matching",
+   "fromSide": "right",
+   "toNode": "Stretch-mediated hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "activation at long lengths"
+  },
+  {
+   "id": "e145",
+   "fromNode": "Sarcomerogenesis",
+   "fromSide": "right",
+   "toNode": "Stretch-mediated hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "sarcomeres in series"
+  },
+  {
+   "id": "e146",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Cardio and hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "fatigue from cardio"
+  },
+  {
+   "id": "e147",
+   "fromNode": "Training volume",
+   "fromSide": "right",
+   "toNode": "Junk volume",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "later sets add less"
+  },
+  {
+   "id": "e148",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Junk volume",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "fatigue accumulates"
+  },
+  {
+   "id": "e149",
+   "fromNode": "Mechanical tension",
+   "fromSide": "right",
+   "toNode": "Isometric training and hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "tension is always high"
+  },
+  {
+   "id": "e150",
+   "fromNode": "Isometric training and hypertrophy",
+   "fromSide": "right",
+   "toNode": "Flexing and co-contraction training",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "isometrics in general"
+  },
+  {
+   "id": "e151",
+   "fromNode": "Psychobiological model of fatigue",
+   "fromSide": "right",
+   "toNode": "Periodization",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "motivation raises effort"
+  },
+  {
+   "id": "e152",
+   "fromNode": "Quadriceps training",
+   "fromSide": "right",
+   "toNode": "Periodization",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "exercise swaps can cost size"
+  },
+  {
+   "id": "e153",
+   "fromNode": "Mechanical tension",
+   "fromSide": "right",
+   "toNode": "Fiber-specific muscle growth",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "each fiber senses its own tension"
+  },
+  {
+   "id": "e154",
+   "fromNode": "Fiber-specific muscle growth",
+   "fromSide": "right",
+   "toNode": "Sarcomerogenesis",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "only stretched fibers lengthen"
+  },
+  {
+   "id": "e155",
+   "fromNode": "Individual differences in muscle growth",
+   "fromSide": "right",
+   "toNode": "Hardgainers",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "real differences in response"
+  },
+  {
+   "id": "e156",
+   "fromNode": "Detraining adaptations speed",
+   "fromSide": "right",
+   "toNode": "Hardgainers",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "once a week only maintains"
+  },
+  {
+   "id": "e157",
+   "fromNode": "Improvements in coordination traits",
+   "fromSide": "right",
+   "toNode": "Progressive overload",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the first adaptation"
+  },
+  {
+   "id": "e158",
+   "fromNode": "Tendon adaptation",
+   "fromSide": "right",
+   "toNode": "Progressive overload",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "tendon stiffness"
+  },
+  {
+   "id": "e159",
+   "fromNode": "Sticking points in powerlifting",
+   "fromSide": "right",
+   "toNode": "Warm-up sets",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "isometrics at the sticking point"
+  },
+  {
+   "id": "e160",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Muscle memory",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "recruitment isn't lost"
+  },
+  {
+   "id": "e161",
+   "fromNode": "Detraining adaptations speed",
+   "fromSide": "right",
+   "toNode": "Muscle memory",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "what's lost and what stays"
+  },
+  {
+   "id": "e162",
+   "fromNode": "Stretch-mediated hypertrophy",
+   "fromSide": "right",
+   "toNode": "Partial vs full range of motion",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "stretch adds growth"
+  },
+  {
+   "id": "e163",
+   "fromNode": "Neuromechanical matching",
+   "fromSide": "right",
+   "toNode": "Partial vs full range of motion",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "where peak effort falls"
+  },
+  {
+   "id": "e164",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Lifting tempo",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "slowing down cuts recruitment"
+  },
+  {
+   "id": "e165",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Slow twitch fiber hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "submaximal recruitment"
+  },
+  {
+   "id": "e166",
+   "fromNode": "Individual differences in muscle growth",
+   "fromSide": "right",
+   "toNode": "Slow twitch fiber hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "fiber type proportion"
+  },
+  {
+   "id": "e167",
+   "fromNode": "Glucocorticoids",
+   "fromSide": "right",
+   "toNode": "Dieting and hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "stress hormones in a deficit"
+  },
+  {
+   "id": "e168",
+   "fromNode": "Training frequency and hypertrophy",
+   "fromSide": "right",
+   "toNode": "Dieting and hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "train more often when dieting"
+  },
+  {
+   "id": "e169",
+   "fromNode": "Psychobiological model of fatigue",
+   "fromSide": "right",
+   "toNode": "Stimulating reps and failure",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "failure is an effort limit"
+  },
+  {
+   "id": "e170",
+   "fromNode": "Supraspinal CNS fatigue",
+   "fromSide": "right",
+   "toNode": "Stimulating reps and failure",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "discomfort lowers recruitment"
+  },
+  {
+   "id": "e171",
+   "fromNode": "Stimulating reps and failure",
+   "fromSide": "right",
+   "toNode": "Junk volume",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "complexes lose stimulus"
+  },
+  {
+   "id": "e172",
+   "fromNode": "Tendon adaptation",
+   "fromSide": "right",
+   "toNode": "Strength training for team sports",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "stiffer tendons, trade-offs"
+  },
+  {
+   "id": "e173",
+   "fromNode": "Muscle strain injuries",
+   "fromSide": "right",
+   "toNode": "Strength training for team sports",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "preventing strains"
+  },
+  {
+   "id": "e174",
+   "fromNode": "Tendon adaptation",
+   "fromSide": "right",
+   "toNode": "Strength training for endurance athletes",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "stiffness costs elastic energy"
+  },
+  {
+   "id": "e175",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Fiber type shifts",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "calcium drives the shift"
+  },
+  {
+   "id": "e176",
+   "fromNode": "Fiber type shifts",
+   "fromSide": "right",
+   "toNode": "Increasing speed",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "keep fast fibers"
+  },
+  {
+   "id": "e177",
+   "fromNode": "Stretch-mediated hypertrophy",
+   "fromSide": "right",
+   "toNode": "Beginners vs intermediates",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "stretch growth fades"
+  },
+  {
+   "id": "e178",
+   "fromNode": "Repeated bout effect",
+   "fromSide": "right",
+   "toNode": "Beginners vs intermediates",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "protection early on"
+  },
+  {
+   "id": "e179",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Advanced lifters",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "recruitment is everything"
+  },
+  {
+   "id": "e180",
+   "fromNode": "Beginners vs intermediates",
+   "fromSide": "right",
+   "toNode": "Advanced lifters",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "the next stage"
+  },
+  {
+   "id": "e181",
+   "fromNode": "Tendon adaptation",
+   "fromSide": "right",
+   "toNode": "Stretch-shortening cycle",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "tendons store energy"
+  },
+  {
+   "id": "e182",
+   "fromNode": "Stretch-shortening cycle",
+   "fromSide": "right",
+   "toNode": "Strength training for endurance athletes",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "elastic energy for endurance"
+  },
+  {
+   "id": "e183",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Recovery between workouts",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "muscle-side fatigue"
+  },
+  {
+   "id": "e184",
+   "fromNode": "Training volume",
+   "fromSide": "right",
+   "toNode": "Recovery between workouts",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "session demands"
+  },
+  {
+   "id": "e185",
+   "fromNode": "Recovery between workouts",
+   "fromSide": "right",
+   "toNode": "Training frequency and hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "spacing sessions"
+  },
+  {
+   "id": "e186",
+   "fromNode": "Recovery between workouts",
+   "fromSide": "right",
+   "toNode": "Very light loads and BFR",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "recovery after repeated sessions"
+  },
+  {
+   "id": "e187",
+   "fromNode": "Recovery between workouts",
+   "fromSide": "right",
+   "toNode": "Overtraining and overreaching",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "fatigue across a block"
+  },
+  {
+   "id": "e188",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Overtraining and overreaching",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "calcium sensitivity"
+  },
+  {
+   "id": "e189",
+   "fromNode": "Overtraining and overreaching",
+   "fromSide": "right",
+   "toNode": "Junk volume",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "accumulated fatigue"
+  },
+  {
+   "id": "e190",
+   "fromNode": "Overtraining and overreaching",
+   "fromSide": "right",
+   "toNode": "Impaired muscle regrowth",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "inflammation and oxidative stress"
+  },
+  {
+   "id": "e191",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Fatigue across rep ranges",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "light loads, more calcium"
+  },
+  {
+   "id": "e192",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Fatigue across rep ranges",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "heavy loads build recruitment"
+  },
+  {
+   "id": "e193",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Drop sets",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "calcium drives post-workout fatigue"
+  },
+  {
+   "id": "e194",
+   "fromNode": "Fatigue across rep ranges",
+   "fromSide": "right",
+   "toNode": "Drop sets",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "light loads, more fatigue"
+  },
+  {
+   "id": "e195",
+   "fromNode": "Junk volume",
+   "fromSide": "right",
+   "toNode": "Drop sets",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "little stimulus after the first set"
+  },
+  {
+   "id": "e196",
+   "fromNode": "Increasing motor unit recruitment",
+   "fromSide": "right",
+   "toNode": "Muscle differences in recovery",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "more activation, more damage"
+  },
+  {
+   "id": "e197",
+   "fromNode": "Fiber-specific muscle growth",
+   "fromSide": "right",
+   "toNode": "Muscle differences in recovery",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "fast fibers damage more"
+  },
+  {
+   "id": "e198",
+   "fromNode": "Repeated bout effect",
+   "fromSide": "right",
+   "toNode": "Muscle differences in recovery",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "similar protection across muscles"
+  },
+  {
+   "id": "e199",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Life stress and recovery",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "calcium triggers damage"
+  },
+  {
+   "id": "e200",
+   "fromNode": "Recovery between workouts",
+   "fromSide": "right",
+   "toNode": "Life stress and recovery",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "stress lengthens recovery"
+  },
+  {
+   "id": "e201",
+   "fromNode": "Supraspinal CNS fatigue",
+   "fromSide": "right",
+   "toNode": "Accumulating post-workout fatigue",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "CNS fatigue protects fibers"
+  },
+  {
+   "id": "e202",
+   "fromNode": "Recovery between workouts",
+   "fromSide": "right",
+   "toNode": "Accumulating post-workout fatigue",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "too little recovery"
+  },
+  {
+   "id": "e203",
+   "fromNode": "Calcium ion-related fatigue",
+   "fromSide": "right",
+   "toNode": "Accumulating post-workout fatigue",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "activation alone damages"
+  },
+  {
+   "id": "e204",
+   "fromNode": "Very light loads and BFR",
+   "fromSide": "right",
+   "toNode": "Accumulating post-workout fatigue",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "BFR fatigue like moderate loads"
   }
  ]
 }

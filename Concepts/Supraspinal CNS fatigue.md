@@ -16,3 +16,5 @@ A drop in the motor command the brain sends to muscles, which lowers how many mo
 - [[Increasing motor unit recruitment]] — explains why light loads to failure can't reach full recruitment
 - [[Fatigue resistance]] — light-load training raises tolerance to it
 - [[Repeated bout effect]] — its level stays the same in trained lifters, so it isn't part of the RBE
+- [[Stimulating reps and failure]] — why breathlessness, burning and inflammation leave fewer stimulating reps
+- [[Accumulating post-workout fatigue]] — why fatigue doesn't accumulate over eccentric-only programs

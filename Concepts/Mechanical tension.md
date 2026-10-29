@@ -14,3 +14,5 @@ The force a muscle fiber experiences, either while actively contracting against 
 - [[Age and adaptations]] — older muscle maintains on the same tension dose as young muscle
 - [[Sarcomerogenesis]] — passive tension is the stimulus for adding sarcomeres
 - [[Flexing and co-contraction training]] — isometric flexing gives activated fibers high tension, so only activation is needed
+- [[Isometric training and hypertrophy]] — why isometric contractions give every activated fiber a full growth stimulus
+- [[Fiber-specific muscle growth]] — why only the fibers that experience high tension grow

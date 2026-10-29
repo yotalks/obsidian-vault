@@ -261,3 +261,15 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### MDA
 **MDA** — Malondialdehyde: a reactive aldehyde formed when arachidonic acid and larger polyunsaturated fats, like EPA and DHA, break down. Used as a marker of lipid peroxidation. See [[Seed oils and LDL oxidation]].
+
+### Titin
+**Titin** — The giant spring-like protein that runs through each sarcomere and produces passive tension when a muscle fiber is stretched. See [[Stretch-mediated hypertrophy]].
+
+### FOR
+**FOR** — Functional overreaching: a temporary training-related performance drop followed by improvement after recovery. See [[Overtraining and overreaching]].
+
+### NFOR
+**NFOR** — Nonfunctional overreaching: a prolonged training-related performance drop without a subsequent performance benefit. See [[Overtraining and overreaching]].
+
+### OTS
+**OTS** — Overtraining syndrome: prolonged training-related maladaptation diagnosed after excluding other causes of underperformance. See [[Overtraining and overreaching]].

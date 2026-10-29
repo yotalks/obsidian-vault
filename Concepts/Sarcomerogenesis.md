@@ -11,6 +11,7 @@ up: "[[Glossary]]"
 
 Sarcomere addition has been seen in multiple animal models with the most known example being in immobilization studies. The limbs of animals are placed in plaster casts at long muscle lengths for several days or even a couple weeks. After, the number of sarcomeres are counted in the muscle fibers of the stretched limb and compared to the number of sarcomeres in the unstretched limb. These studies show increases in both muscle fascicle length and the number of sarcomeres in series, although this doesn't stop muscle loss from atrophy, which shows that myofibrillar addition and sarcomere addition are completely separate adaptations.
 [Shah 2001](https://pubmed.ncbi.nlm.nih.gov/11316490/)
+→ [[Fiber-specific muscle growth]]
 
 We see that sarcomere addition happens very fast in comparison to muscle fiber hypertrophy. This study saw sarcomere addition in 4 days.
 [Aoki 2009](https://pubmed.ncbi.nlm.nih.gov/19705480/)
@@ -50,8 +51,10 @@ Sarcomerogenesis appears to be more dependent upon the presence of satellite cel
 ## Connections
 **Builds on**
 - [[Mechanical tension]] — passive tension is the stimulus for adding sarcomeres
+- [[Fiber-specific muscle growth]] — why fibers whose sarcomeres are stretched furthest are the ones that add sarcomeres
 
 **Feeds into**
 - [[Detraining sarcomerogenesis]] — how sarcomeres are added — and lost
 - [[Repeated bout effect]] — more sarcomeres in series means less stretch per sarcomere, which may cause the RBE
 - [[Neuromechanical matching]] — sarcomere number sets where the length-tension plateau sits in the joint's range
+- [[Stretch-mediated hypertrophy]] — why muscles with many sarcomeres in series can't generate enough passive tension for stretch-mediated hypertrophy

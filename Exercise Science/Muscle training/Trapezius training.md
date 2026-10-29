@@ -62,6 +62,10 @@ Retraction can be trained horizontally or vertically:
 
 Wide-grip rows probably aren't enough for the middle and lower trapezius, because the trapezius isn't what limits the lift. You can retract more weight in a Kelso shrug than you can row in the same machine. 
 
+## Home gym option
+
+Horizontal shrugs from the arms-extended position of a chest-supported dumbbell row or narrow-grip inverted row train the trapezius' main action of pulling the shoulder blades back and together, with far less weight than vertical barbell shrugs → [[Latissimus dorsi training]].
+
 ## Connections
 **Builds on**
 - [[EMG for exercise selection]] — the region or exercise with the highest EMG likely has the most growth potential, which is all there is to go on without leverage data
