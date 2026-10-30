@@ -74,3 +74,7 @@ There was a statistically significant 6% reduction in [[Glossary#BCC|BCC]] risk 
 For [[Glossary#SCC|SCC]], the only statistically significant relationship between genetically elevated plasma PUFA was a 4% increased risk with plasma AA. The results for all other PUFA were null.
 
 So all in all, some cohorts say higher PUFA may increase risk of skin cancer, but the results from the LAVAT and MR trials are stronger evidence and go in the opposite direction so it appears likely that increased seed oil consumption is not an independent risk factor for developing skin cancer, and could actually reduce risk.
+
+## Connections
+**Feeds into**
+- [[Seed oils and lung cancer]] — lung cancer claims rest on cooking fume case-control studies

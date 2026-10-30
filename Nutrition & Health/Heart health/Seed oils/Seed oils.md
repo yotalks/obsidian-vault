@@ -23,6 +23,7 @@ The outcome evidence (the saturated fat threshold, cohorts, the Cochrane trials,
 
 - [[Seed oils and LDL oxidation]] — linoleic acid makes LDL slightly easier to oxidize, but antioxidants and diet matter far more, and oxidized LDL doesn't track risk once ApoB is counted
 - [[Seed oils and cancer]] — the LAVAT excess was post-hoc and tracked smoking; trials, cohorts and MR are null or protective
+- [[Seed oils and lung cancer]] — cooking fume case-control studies are confounded by solid fuels and smoking; cohorts show no link with PUFA
 - [[Seed oils and obesity]] — the 2-AG appetite mechanism doesn't hold in humans, and PUFA raises energy expenditure
 - [[Seed oils and diabetes]] — higher linoleic acid is linked to better insulin sensitivity and lower diabetes risk
 - [[Seed oils and fatty liver]] — the infant liver damage comes from soy phytosterols, and PUFA lowers liver fat compared with saturated fat

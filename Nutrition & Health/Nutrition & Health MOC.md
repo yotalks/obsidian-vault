@@ -9,6 +9,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Satiation]]
 - [[Fiber]]
 - [[GLP 1s]]
+- [[Injectable fat reduction]] — CBL-514 and Kybella for spot fat removal
 - [[Low-carb diets]] — diet comparisons
 - [[Intermittent fasting]] — weight loss and lean mass
 
@@ -39,6 +40,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Seed oils]] — overview and outcome index
   - [[Seed oils and LDL oxidation]] — lab markers versus disease outcomes
   - [[Seed oils and cancer]] — trials, cohorts and genetic evidence
+  - [[Seed oils and lung cancer]] — cooking fumes, case-control studies and cohorts
   - [[Seed oils and obesity]] — appetite and energy expenditure
   - [[Seed oils and diabetes]] — glycemic control and disease risk
   - [[Seed oils and fatty liver]] — comparisons with saturated fat
