@@ -56,6 +56,26 @@ These are associations, mostly from case-control and cohort studies (see [[Obser
 In a meta-analysis of 7 cohorts (627,209 people, 39,250 deaths), high soy intake wasn't linked to all-cause mortality (HR 0.96, 95% CI 0.90–1.02), cardiovascular mortality (0.95) or cancer mortality (0.98). Only 3 of the cohorts reported all-cause mortality.
 [Namazi 2018](https://pubmed.ncbi.nlm.nih.gov/29666853/)
 
+## Where soy's calories go
+
+More than three-quarters (77%) of the world's soy is fed to livestock, mostly as soybean meal (cake) left over after the oil is pressed out, and only 7% is eaten directly as foods like tofu, soy milk, tempeh and edamame. About a fifth goes to direct human consumption, mostly as soybean oil, and about 4% to biofuels and other industrial uses.
+[Our World in Data: Soy](https://ourworldindata.org/soy)
+
+So while most soybean oil goes to people, most of soy's calories still go to livestock. In 100 g of raw soybeans (446 kcal), the macronutrients are 20 g fat, 36 g protein and 30 g carbohydrate:
+- fat: 20 × 9 = 180 kcal
+- protein: 36 × 4 = 144 kcal
+- carbohydrate: 30 × 4 = 120 kcal
+
+That's 444 kcal, and the oil carries 180 / 444 = 40.5% of it.
+![[Soybeans raw nutrition facts.png]]
+[USDA FoodData Central: Soybeans, mature seeds, raw](https://fdc.nal.usda.gov/food-details/174270/nutrients)
+
+If 15% of soy goes to people directly and 85% goes to livestock, with all of the oil from the livestock share also going to people:
+- calories to people: 66.6 kcal (15% of 444) + 40.5% of the remaining 377.4 kcal = 219.4 kcal
+- calories to livestock: 444 − 219.4 = 224.6 kcal
+
+Even assuming every gram of the oil goes to people, about half of soy's calories end up in livestock feed. With the Our World in Data split (7% eaten whole by people, 7% fed whole to animals, the rest crushed), the share going to livestock is higher, about 58%. Part of the oil also goes to biofuels, and some fat stays in the meal, so these are generous to the oil side.
+
 ## Connections
 **Builds on**
 - [[Menstrual cycle]] — FSH and LH drive the menstrual cycle, which is what soy's small effects in premenopausal women act on

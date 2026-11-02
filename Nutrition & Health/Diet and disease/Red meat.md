@@ -4,7 +4,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> Processed meat is consistently linked to higher mortality, especially from heart disease and cancer. The evidence for unprocessed red meat is weaker and less consistent: some large cohorts link it to higher mortality, but a meta-analysis and a measurement-error-corrected European cohort didn't. Red meat is also linked to stroke and breast cancer, and replacing it with fish, poultry, nuts, legumes or whole grains is linked to lower risk.
+> Processed meat is consistently linked to higher mortality, especially from heart disease and cancer. The evidence for unprocessed red meat is weaker and less consistent: some large cohorts link it to higher mortality, but a meta-analysis and a measurement-error-corrected European cohort didn't. Red meat is also linked to stroke and breast cancer, and replacing it with fish, poultry, nuts, legumes or whole grains is linked to lower risk. Pooled case-control studies also link children's meat intake to slightly higher odds of childhood leukemia.
 
 ## All-cause mortality
 
@@ -33,6 +33,43 @@ In a meta-analysis of 7 cohorts (over 2 million people), red meat was linked to 
 
 Among 88,803 women followed for 20 years, those with the highest red meat intake in early adulthood had a 22% higher risk of breast cancer than those with the lowest (95% CI 1.06–1.40). Replacing a daily serving of red meat with legumes was linked to 15% lower risk, and with poultry to 17% lower.
 [Farvid 2014](https://www.bmj.com/content/348/bmj.g3437)
+
+## Childhood leukemia
+
+Cured and processed meats are a source of nitrites and N-nitroso compounds, which can form carcinogens in the stomach, so several case-control studies have looked at children's meat intake and leukemia.
+
+| Study | Population | Meat exposure used | OR (95% CI) |
+|---|---|---|---|
+| Kwan 2004 | California, leukemia at 2–14 years | not stated | 1.56 (0.79–3.06) |
+| Kwan 2004 | Same study, leukemia at 2–5 years | not stated | 1.52 (0.64–3.60) |
+| Liu 2009 | Southern Taiwan, 2–5 years | Frequent cured meat/fish | 1.52 (0.75–3.09) |
+| Peters 1994 | Los Angeles County, birth to 10 years | not stated | 1.00 (0.27–3.72) |
+| Sarasua 1994 | Denver | Hamburgers once a week or more | 2.00 (0.87–4.60) |
+
+[Kwan 2004](https://pubmed.ncbi.nlm.nih.gov/15561989/)
+[Liu 2009](https://pubmed.ncbi.nlm.nih.gov/19144145/)
+[Peters 1994](https://pubmed.ncbi.nlm.nih.gov/8167267/)
+[Sarasua 1994](https://pubmed.ncbi.nlm.nih.gov/8167261/)
+
+None of these estimates was significant alone, but pooling them (fixed effect, inverse variance) gave an odds ratio of 1.56 (1.09–2.25) for more meat, with no heterogeneity (I² = 0%). The estimates came from the most adjusted models available. Where a study reported several meats, beef was chosen over ultra-processed meats, for example hamburgers rather than hot dogs.
+![[Meat and childhood leukemia meta all studies.png]]
+
+The two Kwan estimates come from overlapping groups of children, so they aren't independent. But removing either one, or removing Liu 2009, left the result significant:
+
+| Analysis | OR (95% CI) |
+|---|---|
+| All studies | 1.56 (1.09–2.25) |
+| Without Kwan 2–14 | 1.56 (1.02–2.41) |
+| Without Kwan 2–5 | 1.57 (1.05–2.35) |
+| Without Liu 2009 | 1.58 (1.03–2.41) |
+
+![[Meat and childhood leukemia meta without Kwan 2-14.png]]
+![[Meat and childhood leukemia meta without Kwan 2-5.png]]
+![[Meat and childhood leukemia meta without Liu.png]]
+
+Some individual studies found stronger links for processed meats than this pooled estimate. In Liu 2009, eating cured or smoked meat and fish more than once a week was linked to acute leukemia across ages 2–20 (OR 1.74, 1.15–2.64), while vegetables (0.55) and bean curd (0.55) were linked to lower risk. In Peters 1994, children eating 12 or more hot dogs a month had much higher odds (OR 9.5, 1.6–57.6), though with a very wide interval. Kwan 2004 found no link with hot dogs or lunch meats, but regular oranges, bananas or orange juice in the first 2 years were linked to lower risk.
+
+All of these are small case-control studies based on caregivers' recall, so they're prone to recall bias and confounding.
 
 ## Trials
 

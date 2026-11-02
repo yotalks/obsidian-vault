@@ -78,3 +78,4 @@ So all in all, some cohorts say higher PUFA may increase risk of skin cancer, bu
 ## Connections
 **Feeds into**
 - [[Seed oils and lung cancer]] — lung cancer claims rest on cooking fume case-control studies
+- [[Acrylamide]] — the acrylamide angle on heated seed oils and cancer

@@ -15,6 +15,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Vegan diets
 - [[Vegan diets]] — nutrient adequacy
+  - [[Vegan children]] — growth and nutrient status
   - [[B12 to livestock]] — livestock feed is supplemented with B12 too
   - [[Beta-carotene conversion]] — conversion ratios, poor converters and supplement safety
 - [[Vegetarian diets and mortality]] — disease and mortality evidence
@@ -40,6 +41,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Seed oils]] — overview and outcome index
   - [[Seed oils and LDL oxidation]] — lab markers versus disease outcomes
   - [[Seed oils and cancer]] — trials, cohorts and genetic evidence
+  - [[Acrylamide]] — frying byproducts, cancer and heart disease
   - [[Seed oils and lung cancer]] — cooking fumes, case-control studies and cohorts
   - [[Seed oils and obesity]] — appetite and energy expenditure
   - [[Seed oils and diabetes]] — glycemic control and disease risk
@@ -75,6 +77,9 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[ADHD and mortality]] — mortality and medication associations
 
 ## Infectious disease
+- [[COVID-19 vaccine safety]] — excess deaths, VAERS, coding lags, myocarditis and fertility
+- [[COVID-19 early treatments]] — fluvoxamine, proxalutamide and pooled analyses
+- [[Ivermectin for COVID-19]] — mortality meta-analyses with and without questionable trials
 - [[COVID and erectile dysfunction]] — causal evidence and limitations
 - [[Vaccine safety]] — common concerns and observed risks
 - [[COVID vax being vegan]] — animal ingredients and testing ethics

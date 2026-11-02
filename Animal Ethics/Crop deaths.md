@@ -37,6 +37,13 @@ This alone puts animal agriculture above plant agriculture in the death count ev
 
 The previous paper also notes that mouse plagues also damage grazing land. A primary reason farmers resort to poison is to avoid the extensive economic issues mouse plagues cause. Insofar as mouse plagues damage farms indiscriminately, it's wrong to argue that farmers poison mice to grow grain. The poisoning that occurs in Australia is done to protect all aspects of affected farming operations, including pastures. Archer's analysis is thus misleading in failing to associate mouse poisoning with animal agriculture, and this undermines his attempt to use mouse poison deaths as grounds to prefer pasture raised meat over plant foods.
 
+## Mammals are denser on farmland
+
+Farmland isn't empty of wild mammals. In a global analysis of 6,729 population density estimates for 468 mammal species, densities were higher where the human footprint was larger, such as agricultural and suburban areas (very built-up urban areas had no populations in the data). For a 15 kg herbivore, average density rose from about 1 per km² with no human footprint to 4.5 at a moderate footprint and 26 at the highest, up to 25 times higher. Each component of the human footprint, including cropland and pasture, was linked to higher densities, and the pattern held within single species too, though it varied a lot between species.
+
+The likely reasons are extra food from crops and other human sources, fewer predators and competitors, and shelter from predators near people. But the gain comes from a few species that thrive in human-modified landscapes while others decline or disappear, and croplands were linked to less taxonomically diverse mammal communities.
+[Tucker 2020](https://doi.org/10.1111/ecog.05126)
+
 ## Moral weight
 
 Also the moral value isn't necessarily equivalent to the moral value of rodents to the sentience difference.

@@ -16,6 +16,11 @@ This study is often cited to claim that 84% of vegans eventually quit their diet
 B12 is indeed not found in plants, however, supplements are widely available.
 → [[B12 to livestock]]
 
+Whether vegans become deficient depends on supplementing, not on how long they've been vegan. Among 151 Czech adult vegans, those not taking B12 supplements were much more likely to have low B12 (OR 4.41 for serum B12, 19.18 for holotranscobalamin), while those supplementing regularly had B12 levels similar to non-vegans. How long they'd been vegan made no difference. Vegans had lower ferritin and hemoglobin but no higher risk of iron deficiency.
+[Selinger 2019](https://pubmed.ncbi.nlm.nih.gov/31835560/)
+
+For children → [[Vegan children]]
+
 Carnosine is also not found, but RCTs show omnivores taking on a vegetarian diet didn't find decreased carnosine levels in muscle. Only observational cross sectional studies found this.
 [Harris 2007](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.21.6.a944-a)
 [Blancquaert 2018](https://pubmed.ncbi.nlm.nih.gov/29569535/)

@@ -4,7 +4,7 @@ tags:
 up: "[[Research Methods MOC]]"
 ---
 > [!summary] Bottom line
-> Case-control studies start from disease and look back for exposure; cohort studies start from exposure and look for disease. Because a case-control study sets how many cases it includes, it can only report an [[Glossary#OR|odds ratio]], which approximates the [[Glossary#RR|relative risk]] only for rare diseases. Cohort studies can report both.
+> Case-control studies start from disease and look back for exposure; cohort studies start from exposure and look for disease. Because a case-control study sets how many cases it includes, it can only report an [[Glossary#OR|odds ratio]], which approximates the [[Glossary#RR|relative risk]] only for rare diseases. Cohort studies can report both. → [[Odds ratios and risk ratios]]
 
 ![[Case-control vs cohort study designs.png]]
 

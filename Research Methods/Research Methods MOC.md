@@ -10,6 +10,11 @@ Study designs, biostatistics, and how to read research.
 - [[Observational study designs]] — designs and risk measures
 - [[Nutritional epidemiology]] — how well cohort studies match RCTs
 - [[Mean difference vs standardized mean difference]] — effect-size choice and interpretation
-- [[Multiple comparisons]] — chance findings and correction
-- [[Research methods resources]] — courses, tools and readings
+- [[Change scores vs ANCOVA]] — analyzing trials with baseline and follow-up measurements
+- [[Multiple comparisons]] — family-wise error, false discovery rate and corrections
+- [[Diagnostic test accuracy]] — sensitivity, specificity, predictive values and ROC curves
+- [[Odds ratios and risk ratios]] — risk measures and when odds ratios mislead
+- [[Probability distributions]] — binomial, Poisson, normal and z-scores
+- [[Research methods resources]] — courses, tools, readings, causal inference books and learning R
+- [[Sample size and power]] — power analysis, diminishing returns and other reasons for bigger samples
 - [[Underpowered studies in meta-analysis]] — when excluding small studies improves estimates

@@ -54,21 +54,26 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Advanced lifters]] — maximizing recruitment once only the top fibers can grow
 - [[EMG for exercise selection]] — interpretation and limits
 
-## 5. What gets in the way
+## 5. Protein
+- [[Protein Intake]] — how much protein maximizes lean mass gains
+- [[Protein Distribution]] — spreading protein across meals
+- [[Protein timing]] — the post-workout window
+
+## 6. What gets in the way
 - [[Cardio and hypertrophy]] — when aerobic exercise interferes with growth
 - [[Dieting and hypertrophy]] — how a calorie deficit holds back growth
 - [[Impaired muscle regrowth]] — inactivity, damage and collagen
 
-## 6. Keeping what you built
+## 7. Keeping what you built
 - [[Detraining sarcomerogenesis]] → [[Detraining adaptations speed]] — loss rates and maintenance
 - [[Muscle memory]] — why regaining muscle is faster
 
-## 7. Supplements and drugs
+## 8. Supplements and drugs
 - [[Creatine Supplementation]] — fatigue, swelling and growth
 - [[Carbohydrate mouth rinsing]] — performance and central fatigue
 - [[Anabolic Androgenic Steroids]] — growth signals and tendon effects
 
-## 8. Skill, speed and leverage
+## 9. Skill, speed and leverage
 - [[Improvements in coordination traits]] → [[Techniques to improve coordination]]
 - [[Increasing speed]] — coordination, recruitment and contraction speed
 - [[Fiber type shifts]] — calcium and slower fiber types
@@ -79,12 +84,12 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]], [[Squat patterns]]
 - [[Muscle size and leverage]] — size and moment arms
 
-## 9. Tendons and injuries
+## 10. Tendons and injuries
 - [[Tendon adaptation]] — stiffness and size
 - [[Overuse injuries]] — mechanisms of tissue damage
 - [[Muscle strain injuries]] — mechanisms and prevention
 
-## 10. Training each muscle
+## 11. Training each muscle
 Regional anatomy and exercise selection: [[Internal moment arm]] → [[Neuromechanical matching]] →
 - [[Latissimus dorsi training]] — regional exercise selection
 - [[Pectoralis major training]] — regional exercise selection

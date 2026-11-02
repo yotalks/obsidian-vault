@@ -90,3 +90,25 @@ But it needed 2.5 times as much land: about 1,500 hectares for its cattle and ab
 
 Counted across the whole farm, it isn't a net carbon sink: net emissions were about 4 kg CO2e per kg of carcass weight. (If all the soil carbon were credited to the cattle alone, the beef would be a net sink of −4.4 kg.) That's still more than a Beyond Burger's 3.4 kg CO2e per kg of product, and the gap is bigger than it looks, since carcass weight includes bone and fat that aren't eaten.
 [Heller 2018](https://css.umich.edu/sites/default/files/publication/CSS18-10.pdf)
+
+### Herd productivity
+
+White Oak Pastures' own life-cycle analysis compared its herd with the conventional system modeled by Rotz (2013), which uses rotational grazing for the cow-calf stage and a feedlot for finishing. White Oak's cattle were slaughtered at 24 months and 520 kg, versus 17 months and 580 kg. Its herd of 3,055 cattle produced 990 slaughtered head a year, about 0.32 per animal kept, versus 5,050 from a herd of 12,000 (about 0.42 per animal) in the conventional system.
+![[White Oak Pastures vs Rotz 2013 herd.png]]
+[Quantis 2019: White Oak Pastures LCA](https://blog.whiteoakpastures.com/hubfs/WOP-LCA-Quantis-2019.pdf)
+
+### Compared with better crop farming
+
+Regenerative grazing is usually compared with conventional crop farming: monocropped, tilled, without rotation or cover. If the goal is farming that cuts emissions or stores carbon per hectare, the fair comparison is regenerative grazing against crop farming that uses improved practices too.
+
+In a 25-year field experiment in Saskatchewan, spring wheat grown with improved practices (fertilizing based on soil tests, less summer fallow, and rotating cereals with legumes like peas and lentils) had a negative carbon footprint, averaging −256 kg CO2e per hectare per year. Each kg of wheat grain stored a net 0.027–0.377 kg CO2e in the soil, so the crop took up more CO2 than its production emitted.
+[Gan 2014](https://www.nature.com/articles/ncomms6012)
+
+## Land unsuitable for crops
+
+The claim that livestock make use of land that can't grow crops mainly comes from an FAO analysis. Livestock feed uses about 2.5 billion hectares, half of all agricultural land. About 2 billion of that is grassland, and 1.3 billion hectares of it was classed as unable to be converted to cropland, so 57% of the land used for feed isn't suitable for food crops. The same analysis found 86% of livestock feed (by dry matter) is material humans don't currently eat, and producing 1 kg of boneless meat takes 2.8 kg of human-edible feed in ruminant systems and 3.2 kg in monogastric systems.
+
+Grassland counted as unconvertible if its actual crop yield was below 25% of its potential yield, the level ranked as "marginal" suitability for crops.
+[Mottet 2017](https://doi.org/10.1016/j.gfs.2017.01.001)
+
+That definition is a yield cutoff, and grazing systems have yield gaps too. Regenerative grazing at White Oak Pastures needed 2.5 times the land to produce the same carcass weight as conventional production, about 40% of the conventional yield per hectare (see White Oak Pastures above). To compare how much grassland could go to regenerative grazing versus regenerative crops, the same kind of yield standard would have to apply to both.
