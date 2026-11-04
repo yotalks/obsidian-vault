@@ -51,6 +51,146 @@
    "color": "2"
   },
   {
+   "id": "Repeated bout effect",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Repeated bout effect.md",
+   "x": 1320,
+   "y": 255,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Insufficient Sleep",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Insufficient Sleep.md",
+   "x": 1320,
+   "y": 385,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Training volume",
+   "type": "file",
+   "file": "Exercise Science/Programming/Training volume.md",
+   "x": 1320,
+   "y": 515,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Fatigue across rep ranges",
+   "type": "file",
+   "file": "Exercise Science/Fatigue and recovery/Fatigue across rep ranges.md",
+   "x": 1320,
+   "y": 645,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Individual differences in muscle growth",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Individual differences in muscle growth.md",
+   "x": 1320,
+   "y": 775,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "EMG for exercise selection",
+   "type": "file",
+   "file": "Exercise Science/Programming/EMG for exercise selection.md",
+   "x": 1320,
+   "y": 905,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Lifting tempo",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Lifting tempo.md",
+   "x": 1320,
+   "y": 1035,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Flexing and co-contraction training",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Flexing and co-contraction training.md",
+   "x": 1320,
+   "y": 1165,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Sarcomerogenesis increases strength",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Sarcomerogenesis increases strength.md",
+   "x": 1320,
+   "y": 1295,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Detraining sarcomerogenesis",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Detraining sarcomerogenesis.md",
+   "x": 1320,
+   "y": 1425,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Squat patterns",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Squat patterns.md",
+   "x": 1320,
+   "y": 1555,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Increasing speed",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Increasing speed.md",
+   "x": 1320,
+   "y": 1685,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Strength training for team sports",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Strength training for team sports.md",
+   "x": 1320,
+   "y": 1815,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Sticking points in powerlifting",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Sticking points in powerlifting.md",
+   "x": 1320,
+   "y": 1945,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
    "id": "ATP does not deplete during exercise",
    "type": "file",
    "file": "Exercise Science/Fatigue and recovery/ATP does not deplete during exercise.md",
@@ -456,136 +596,6 @@
    "file": "Exercise Science/Programming/Warm-up sets.md",
    "x": 1740,
    "y": 1685,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Repeated bout effect",
-   "type": "file",
-   "file": "Exercise Science/Fatigue and recovery/Repeated bout effect.md",
-   "x": 1320,
-   "y": 320,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Insufficient Sleep",
-   "type": "file",
-   "file": "Exercise Science/Fatigue and recovery/Insufficient Sleep.md",
-   "x": 1320,
-   "y": 450,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Training volume",
-   "type": "file",
-   "file": "Exercise Science/Programming/Training volume.md",
-   "x": 1320,
-   "y": 580,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Fatigue across rep ranges",
-   "type": "file",
-   "file": "Exercise Science/Fatigue and recovery/Fatigue across rep ranges.md",
-   "x": 1320,
-   "y": 710,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Individual differences in muscle growth",
-   "type": "file",
-   "file": "Exercise Science/Hypertrophy/Individual differences in muscle growth.md",
-   "x": 1320,
-   "y": 840,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "EMG for exercise selection",
-   "type": "file",
-   "file": "Exercise Science/Programming/EMG for exercise selection.md",
-   "x": 1320,
-   "y": 970,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Lifting tempo",
-   "type": "file",
-   "file": "Exercise Science/Hypertrophy/Lifting tempo.md",
-   "x": 1320,
-   "y": 1100,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Flexing and co-contraction training",
-   "type": "file",
-   "file": "Exercise Science/Hypertrophy/Flexing and co-contraction training.md",
-   "x": 1320,
-   "y": 1230,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Detraining sarcomerogenesis",
-   "type": "file",
-   "file": "Exercise Science/Hypertrophy/Detraining sarcomerogenesis.md",
-   "x": 1320,
-   "y": 1360,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Squat patterns",
-   "type": "file",
-   "file": "Exercise Science/Strength and performance/Squat patterns.md",
-   "x": 1320,
-   "y": 1490,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Increasing speed",
-   "type": "file",
-   "file": "Exercise Science/Strength and performance/Increasing speed.md",
-   "x": 1320,
-   "y": 1620,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Strength training for team sports",
-   "type": "file",
-   "file": "Exercise Science/Strength and performance/Strength training for team sports.md",
-   "x": 1320,
-   "y": 1750,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Sticking points in powerlifting",
-   "type": "file",
-   "file": "Exercise Science/Strength and performance/Sticking points in powerlifting.md",
-   "x": 1320,
-   "y": 1880,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -1488,14 +1498,34 @@
    "x": 0,
    "y": 7000,
    "width": 1260,
-   "height": 770
+   "height": 1030
+  },
+  {
+   "id": "Positive and negative rights",
+   "type": "file",
+   "file": "Ethics & Society/Positive and negative rights.md",
+   "x": 60,
+   "y": 7060,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Bigotry and evidence",
+   "type": "file",
+   "file": "Ethics & Society/Bigotry and evidence.md",
+   "x": 60,
+   "y": 7190,
+   "width": 300,
+   "height": 90,
+   "color": "5"
   },
   {
    "id": "US life expectancy",
    "type": "file",
    "file": "Ethics & Society/Health policy/US life expectancy.md",
    "x": 60,
-   "y": 7060,
+   "y": 7320,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1505,7 +1535,7 @@
    "type": "file",
    "file": "Ethics & Society/Health policy/Artifactual chronic disease trends.md",
    "x": 60,
-   "y": 7190,
+   "y": 7450,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1515,7 +1545,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Gender dysphoria in the DSM-5.md",
    "x": 60,
-   "y": 7320,
+   "y": 7580,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1525,7 +1555,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Intersex prevalence.md",
    "x": 60,
-   "y": 7450,
+   "y": 7710,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1535,7 +1565,17 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Sex chromosome exceptions.md",
    "x": 60,
-   "y": 7580,
+   "y": 7840,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Black White IQ gap",
+   "type": "file",
+   "file": "Ethics & Society/Black White IQ gap.md",
+   "x": 480,
+   "y": 7190,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1545,7 +1585,7 @@
    "type": "file",
    "file": "Ethics & Society/Health policy/US healthcare spending.md",
    "x": 480,
-   "y": 7125,
+   "y": 7320,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1555,7 +1595,7 @@
    "type": "file",
    "file": "Ethics & Society/Health policy/Childhood chronic disease.md",
    "x": 480,
-   "y": 7255,
+   "y": 7450,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1565,7 +1605,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Gender-affirming care outcomes.md",
    "x": 480,
-   "y": 7385,
+   "y": 7580,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1575,7 +1615,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Biological sex.md",
    "x": 480,
-   "y": 7515,
+   "y": 7710,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1585,7 +1625,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Medicare and gender reassignment surgery.md",
    "x": 900,
-   "y": 7255,
+   "y": 7385,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1595,7 +1635,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Trans Identity.md",
    "x": 900,
-   "y": 7385,
+   "y": 7515,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -3494,6 +3534,60 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "sarcomeres go first"
+  },
+  {
+   "id": "e211",
+   "fromNode": "Sarcomerogenesis",
+   "fromSide": "right",
+   "toNode": "Sarcomerogenesis increases strength",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "series sarcomeres and force"
+  },
+  {
+   "id": "e212",
+   "fromNode": "Sarcomerogenesis increases strength",
+   "fromSide": "right",
+   "toNode": "Peaking for strength competitions",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "why sarcomeres matter for a meet"
+  },
+  {
+   "id": "e213",
+   "fromNode": "Sarcomerogenesis increases strength",
+   "fromSide": "right",
+   "toNode": "Partial vs full range of motion",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "full ROM and specific tension"
+  },
+  {
+   "id": "e214",
+   "fromNode": "Animal Rights",
+   "fromSide": "bottom",
+   "toNode": "Positive and negative rights",
+   "toSide": "top",
+   "toEnd": "arrow",
+   "label": "negative rights get you veganism"
+  },
+  {
+   "id": "e215",
+   "fromNode": "Positive and negative rights",
+   "fromSide": "bottom",
+   "toNode": "Wild animal suffering",
+   "toSide": "top",
+   "toEnd": "arrow",
+   "label": "does helping extend to animals"
+  },
+  {
+   "id": "e216",
+   "fromNode": "Bigotry and evidence",
+   "fromSide": "right",
+   "toNode": "Black White IQ gap",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "explaining a gap isn't the same as stating it"
   }
  ]
 }

@@ -7,6 +7,7 @@ Animal rights and what follows from them.
 
 ## Foundation
 - [[Animal Rights]] — the name-the-trait argument
+- [[Positive and negative rights]] — why veganism only needs negative rights
 
 ## Wild animal suffering
 - [[Wild animal suffering]] — shared ethical premise
@@ -18,6 +19,8 @@ Animal rights and what follows from them.
 - [[Vegan Bivalves]] — sentience and moral status
 - [[Animal Procreation as Rape]] — consent and animal behavior
 - [[Crop deaths]] — mortality estimates and comparisons
+- [[Propofol]] — egg lecithin in anesthesia
+- [[Hypocrisy arguments against veganism]] — crops, phones, sweatshops and why these arguments fail
 
 ## Farming practices
 - [[Foie gras production]] — force-feeding and aversion

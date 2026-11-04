@@ -45,3 +45,4 @@ Range of motion affects growth because neuromechanical matching favors different
 **Builds on**
 - [[Stretch-mediated hypertrophy]] — which muscles can get stretch-mediated hypertrophy
 - [[Neuromechanical matching]] — the principle that peak effort at different joint angles favors different muscles
+- [[Sarcomerogenesis increases strength]] — how added sarcomeres could raise force without raising physiological CSA

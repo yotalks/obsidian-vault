@@ -56,6 +56,7 @@ Correlations at a single time point tend to drop sharply for changes over time, 
 Because percent stenosis and stenosis flow reserve are both calculated against a reference segment, a narrowing reference segment makes the lesion look less severe even if the lesion hasn't changed. This is pseudoregression.
 
 ## Endothelial function
+→ [[Endothelial function]]
 
 Three trials have tested plant-based diets on endothelial function outside the period right after a meal:
 - **Lin 2020:** 52 people with peripheral arterial disease were randomized to a plant-based diet or no dietary advice for 4 months. Flow-mediated dilation improved more with the plant-based diet. [Lin 2020](https://ijdrp.org/index.php/ijdrp/article/view/53)

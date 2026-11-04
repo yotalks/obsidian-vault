@@ -8,6 +8,7 @@ Abortion ethics and policy, plus the reproductive biology and sentience research
 ## Ethics & policy
 - [[Abortion Ethics]]
 - [[Abortion position]] — sentience and exceptions
+- [[Personhood and abortion]] — psychological continuity and the infanticide reductio
 - [[Abortion Pragmatics]]
 - [[Pro-Life]]
 - [[Definitions of Life]]

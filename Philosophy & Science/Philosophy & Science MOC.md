@@ -10,4 +10,7 @@ Arguments about religion and science.
 - [[Flat Earth]] — star-rotation evidence
 - [[Young Earth]] — starlight and age
 - [[Definitions]] — coherence and truth claims
+- [[Metaethics]] — moral realism, axioms and the is-ought problem
+- [[Agnosticism and deism]] — belief, certainty and suffering
+- [[Kalam and the B theory of time]] — whether the universe needs a cause
 - [[Appeal to nature]] — why normal processes can still be harmful

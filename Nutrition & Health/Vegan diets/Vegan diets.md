@@ -19,6 +19,12 @@ B12 is indeed not found in plants, however, supplements are widely available.
 Whether vegans become deficient depends on supplementing, not on how long they've been vegan. Among 151 Czech adult vegans, those not taking B12 supplements were much more likely to have low B12 (OR 4.41 for serum B12, 19.18 for holotranscobalamin), while those supplementing regularly had B12 levels similar to non-vegans. How long they'd been vegan made no difference. Vegans had lower ferritin and hemoglobin but no higher risk of iron deficiency.
 [Selinger 2019](https://pubmed.ncbi.nlm.nih.gov/31835560/)
 
+Supplementing has to be regular. Occasional use and fortified foods don't guarantee enough, so a low blood test on an irregular routine doesn't show that supplementing fails.
+
+Duckweed is an unusual exception to plants not having B12, but not a natural one. Mankai, a newly developed high-protein strain of *Wolffia globosa* grown in controlled conditions, raised blood B12 more than cheese or peas in a trial of 36 men. Its B12 seems to come from bacteria living inside the plant, not the plant itself, so this doesn't show that duckweed in general is a reliable source.
+[Kaplan 2019](https://pubmed.ncbi.nlm.nih.gov/30591380/)
+[Dutta 2026](https://pubmed.ncbi.nlm.nih.gov/42304541/)
+
 For children → [[Vegan children]]
 
 Carnosine is also not found, but RCTs show omnivores taking on a vegetarian diet didn't find decreased carnosine levels in muscle. Only observational cross sectional studies found this.
@@ -88,9 +94,15 @@ With the plain mean difference, it would be clearly significant (P = 0.004).
 
 Heme iron, even though not essential, can be gotten from plant-based meats like the [[Impossible Beef|Impossible Burger]].
 
+Some vegans do run low on iron. Among 75 German vegan women, 40% of those under 50 were iron-deficient by serum ferritin, or 20% by a stricter three-marker model, though only 3 women overall had iron deficiency anemia. That shows what happens on the diets those women ate, not that a vegan diet can't provide enough, and supplementing non-heme iron is the usual fix.
+[Waldmann 2004](https://pubmed.ncbi.nlm.nih.gov/14988640/)
+
 EPA/DHA can be found in seaweed, algae, algae oil, and converted from ALA. The differences between circulating omega-3s, EPA, and DHA between vegans, vegetarians, and omnivores are mixed. Some find large differences, while some find it's similar. Though this study had low sample sizes of vegans and the measurement of blood omega-3 levels had an even lower vegan sample size. Even then, lower levels don't necessarily mean deficiency so there's no basis to say there would be worse health outcomes.
 [Welch 2010](https://academic.oup.com/ajcn/article/92/5/1040/4597496)
 [Sarter 2015](https://www.sciencedirect.com/science/article/pii/S0261561414000764)
+
+Vegans having lower levels than meat-eaters doesn't show they're deficient, since that needs an established target level and evidence that falling below it causes harm. In British men, plasma EPA and DHA were lower in vegans than meat-eaters, but they didn't fall further with time on the diet, from under 1 to over 20 years. So levels seem to settle at a low but stable point.
+[Rosell 2005](https://pubmed.ncbi.nlm.nih.gov/16087975/)
 
 ### Vitamin K2
 

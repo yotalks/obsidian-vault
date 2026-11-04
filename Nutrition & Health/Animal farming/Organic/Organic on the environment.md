@@ -50,6 +50,16 @@ Per unit of KG food/calorie produced, organic farming DOES NOT reduce greenhouse
 Per acre is a bad metric to compare because organic farming is inherently inefficient and uses more land in the first place. So it's greenhouse gas impact will be artificially deflated.
 [Mondelaers 2009](https://www.researchgate.net/profile/Joris_Aertsens/publication/235407512_A_meta-analysis_of_the_differences_in_environmental_impacts_between_organic_and_conventional_farming/links/00b49522e169faa120000000/A-meta-analysis-of-the-differences-in-environmental-impacts-between-organic-and-conventional-farming.pdf?origin=publication_detail)
 
+## Fertilizer and labor
+
+Synthetic nitrogen doesn't have to come from petroleum. The Haber process fixes nitrogen from the air, and most of its hydrogen comes from natural gas.
+[Wikipedia: Haber process](https://en.wikipedia.org/wiki/Haber_process)
+
+Companion planting with legumes can supply nitrogen, but not phosphorus or potassium, so it doesn't replace fertilizer on its own.
+
+The concern with returning to small-scale farming is labor. Almost 50% of the US population worked in agriculture in 1870, compared with less than 1% as of 2025. Mechanized farming is what freed those people to do everything else, so any alternative needs numbers on how much of the workforce it would take.
+[Wikipedia: Agriculture in the United States](https://en.wikipedia.org/wiki/Agriculture_in_the_United_States)
+
 [[Organic and Health]]
 
 ## Connections

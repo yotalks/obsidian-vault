@@ -49,6 +49,7 @@ In 8 young male bodybuilders on a rest day, the IAAO method put the average requ
 So the upper limit matches the 2.2 g/kg from the Morton regression, but 1.6 g/kg falls just below the IAAO average requirement.
 
 ## Very high intakes
+→ [[Protein and testosterone]]
 
 In resistance-trained men and women told to keep their training and diets otherwise the same, eating 4.4 g/kg/day of protein for 8 weeks (about 307 g a day, versus 1.8 g/kg in the control group) didn't change body weight, fat mass or fat-free mass, despite the extra calories.
 [Antonio 2014](https://pubmed.ncbi.nlm.nih.gov/24834017/)

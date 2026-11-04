@@ -10,6 +10,14 @@ up: "[[Nutrition & Health MOC]]"
 > [!summary] Bottom line
 > The Agricultural Health Study, the first major prospective cohort on glyphosate, followed more than 54,000 pesticide applicators and found no consistent link between glyphosate and cancer, including non-Hodgkin lymphoma. The case-control studies that suggested a link sit lower on the evidence hierarchy and are prone to recall bias. The cohort's isolated positive findings, for multiple myeloma early on and AML later, came from few cases and didn't hold up or haven't been confirmed.
 
+## How glyphosate works
+
+Glyphosate blocks the shikimate pathway, which plants and microorganisms use to make certain amino acids and animals don't have. That helps explain its low acute toxicity in mammals, with an LD50 of about 5,000 mg/kg in rats.
+[Wikipedia: Glyphosate](https://en.wikipedia.org/wiki/Glyphosate)
+
+One widely cited safety review from 2000 was retracted in 2025.
+[Williams 2000 retraction](https://pubmed.ncbi.nlm.nih.gov/41428335/)
+
 ## The Agricultural Health Study
 
 The Agricultural Health Study (AHS) is a prospective cohort of licensed pesticide applicators in Iowa and North Carolina, enrolled in 1993–1997. Applicators reported their pesticide use before any cancer was diagnosed, which avoids the recall bias of case-control studies, where people with cancer may remember past exposures differently.
@@ -44,6 +52,17 @@ Lagging exposure by 5 years didn't change these results. With a 20-year lag, the
 
 The study was funded by the NIH's intramural research program, and most of its authors work at the National Cancer Institute and NIEHS.
 [Andreotti 2018](https://pubmed.ncbi.nlm.nih.gov/29136183/)
+
+> [!note] My take
+> The Agricultural Health Study was the first major prospective cohort study that looked at glyphosate and cancer risks. And they found the only statistically significant thing was a decreased risk in lung cancer among those with the highest glyphosate exposure tertile in the intensity-weighted exposure days.
+> [De Roos 2005](https://pubmed.ncbi.nlm.nih.gov/15626647/)
+>
+> Another analysis of the AHS found similar results, they found no statistically significant increased risk with any cancer, even at highest exposures.
+>
+> A 5 year weighted lag time didn't change these results, a 20 year weighted lag time just barely pushed the highest exposure quartile and risk of AML into statistical significance, but there was no lag time analysis reported for testicular cancer to see if the protective effect of glyphosate on testicular cancer would be pushed into statistical significance in the same way. To fairly judge risk, they need to be compared fairly.
+>
+> None of the other cancers met statistical significance for the 20 year lag analysis.
+> [Andreotti 2018](https://pubmed.ncbi.nlm.nih.gov/29136183/)
 
 ## Connections
 **Feeds into**

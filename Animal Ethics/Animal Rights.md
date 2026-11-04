@@ -79,6 +79,36 @@ If we found a civilization of humans who were sustaining themselves on human mea
 **"The trait that makes the difference is that animals are tasty, but humans aren't"**
 If it turned out that human meat was just as tasty as animal meat, would it be ok to farm, kill, and eat humans?
 
+## Objections to the argument itself
+
+**"It assumes moral objectivism."**
+It doesn't. A contradiction is a contradiction whatever morality is. Saying your favorite car both is and isn't a Ferrari is contradictory, and showing that doesn't require knowing what your car preferences are based on.
+→ [[Metaethics]]
+
+**"It assumes morality is based on traits."**
+It doesn't need to. All it asks is whether a human could be reduced to an animal while keeping their value. If yes, you can't then say the animal has no value. A trait here means any contextual factor, internal or external, so splitting traits into essential and accidental or intrinsic and extrinsic doesn't change anything.
+
+**"It only detects double standards, not contradictions."**
+A double standard is what you apply it to. Either a consistent principle sits under the double standard, or it reduces to a contradiction, and the argument is how you find out which.
+
+**"Naming the trait 'human' answers it."**
+It does, and that's consistent. But then you'd have to accept killing any number of infinitely sentient, well-intentioned beings because they aren't human. The position escapes the contradiction by accepting something absurd.
+
+**"Moral particularism gets around it."**
+Particularists hold that moral thought doesn't work by applying principles, while generalists hold that it depends on them.
+[SEP: Moral particularism](https://plato.stanford.edu/entries/moral-particularism/)
+
+A particularist with anti-vegan views can answer the argument to their own satisfaction more easily, because they don't need a principle to cover every case. But that doesn't give anyone else a reason to accept their answer, and a generalist with the same views still has to build a principle that works. Rejecting particularism because it could justify anything doesn't work either, since generalism could too.
+
+**"The argument is deontological."**
+It doesn't imply exploitation is wrong in every possible situation. Saying nothing true of an animal would justify exploiting it, if that were true of a human, only covers the traits animals actually have. Add something else, like a continent exploding unless you kill one, and the test is the same: would you do it to a human there? If so, you can do it to the animal.
+
+**"Humans have essential properties animals lack."**
+If that property exists objectively, it needs demonstrating. If it's subjective, you've just assigned value to whatever you like, which is the bullet in the "human" answer above.
+
+**"You can't swap every trait, because the atoms would collide, or a human can't never have been human."**
+The hypothetical happens in conceptual space, not in physical space or time. It's a comparison of concepts, so nothing has to be physically moved or changed.
+
 ## Other definitions of veganism
 
 The vegan society uses a definition for veganism that leads to insane positions, they say exploiting a being is wrong as long as that being belongs to the animal kingdom. Therefore, if a being, even if sentient, isn't in the animal kingdom, it would be vegan, this would include things like Santa's elves and Groot.
@@ -95,3 +125,4 @@ Fruit growers rent honey bee colonies from beekeepers to pollinate their crops, 
 - [[Animal Procreation as Rape]] — the same comparison with humans who lack a trait, applied to whether animal sex is rape
 - [[Rewilding]] — the trait-adjusted extension of human rights applied to being bred into the wild
 - [[Vegan Bivalves]] — the same extension, run in reverse: humans without brains lack rights, so brainless animals do too
+- [[Positive and negative rights]] — why veganism needs no position on positive rights

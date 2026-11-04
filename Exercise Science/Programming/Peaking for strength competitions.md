@@ -97,3 +97,4 @@ Taking a powerlifter as an example, with RIR meaning reps in reserve:
 - [[Accumulating post-workout fatigue]] — the fatigue a peaking phase has to clear
 - [[Detraining adaptations speed]] — which adaptations are lost quickly and how little training maintains them
 - [[Detraining sarcomerogenesis]] — why sarcomeres are the first thing to protect
+- [[Sarcomerogenesis increases strength]] — the argument that sarcomeres contribute to maximum strength

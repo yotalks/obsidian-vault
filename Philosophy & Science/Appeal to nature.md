@@ -29,3 +29,10 @@ If someone commits to this variation of the appeal to nature fallacy, it's uncle
 The argument is valid, and P2 is true, so the false conclusion means P1 is false.
 
 Aging itself is a normal process that evolution favors even though it harms us late in life → [[Antagonistic pleiotropy]].
+
+## Natural diets and supplements
+
+A diet needing a supplement doesn't make it inferior, because what matters is the health outcomes, not whether every nutrient comes from food. A diet that needs B12 could still be healthier than one that doesn't. If diet A gives you every nutrient from food but leads to worse health than diet B, which needs a supplement, the reasonable choice is diet B. An all-rice diet isn't a counterexample, since there's no evidence it would lead to better health, but if there were, supplementing it would be reasonable too. The same logic applies to medicine: letting a bacterial infection kill you is natural, and taking antibiotics isn't.
+
+Evolution doesn't select for a long, healthy life either. It selects for reproductive fitness, so a diet we evolved to eat wouldn't be expected to be the best one for health in old age.
+→ [[Vegan diets]]

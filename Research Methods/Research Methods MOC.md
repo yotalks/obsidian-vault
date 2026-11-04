@@ -8,6 +8,7 @@ Study designs, biostatistics, and how to read research.
 ## Notes
 - [[Levels of measurement]] — scales and permitted analyses
 - [[Observational study designs]] — designs and risk measures
+- [[Mendelian randomization]] — genetic natural experiments, causation without mechanisms and anecdotes
 - [[Nutritional epidemiology]] — how well cohort studies match RCTs
 - [[Mean difference vs standardized mean difference]] — effect-size choice and interpretation
 - [[Change scores vs ANCOVA]] — analyzing trials with baseline and follow-up measurements

@@ -46,6 +46,8 @@ The likely reasons are extra food from crops and other human sources, fewer pred
 
 ## Moral weight
 
+→ [[Hypocrisy arguments against veganism]]
+
 Also the moral value isn't necessarily equivalent to the moral value of rodents to the sentience difference.
 
 Replacing wild animals for humans may actually be a moral good, thus justifying crop deaths further.

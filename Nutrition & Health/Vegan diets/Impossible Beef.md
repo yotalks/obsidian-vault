@@ -38,6 +38,9 @@ Comparing a 240-calorie serving of Impossible Burger with fatty beef brisket, th
 It also contains leghemoglobin, a plant analogue of the hemoglobin in meat, which carries heme and gives it a meaty flavor. Iron bioavailability is likely similar to beef's. The only data on leghemoglobin's allergy risk are from sequence comparisons and digestion tests, which suggest it poses very little risk to humans.
 [Jin 2018](https://pubmed.ncbi.nlm.nih.gov/28921896/)
 
+It's made by expressing soy leghemoglobin in yeast. In 28-day rat feeding studies run by Impossible Foods, the highest dose showed no adverse effects at over 100 times the estimated daily intake.
+[Fraser 2018](https://pubmed.ncbi.nlm.nih.gov/29642729/)
+
 ## Connections
 **Builds on**
 - [[LDL and heart disease]] — its saturated fat matters because LDL causes heart disease

@@ -13,9 +13,10 @@ Detraining refers to the loss of adaptations after the cessation of a strength t
 
 After a standard strength training program (8-12 weeks), neural adaptations (coordination and increases in ability to recruit high threshold motor units), it takes 6-12 months or even longer to lose those adaptations.
 [[Kubo 2010]]
+[Shima 2002](https://pubmed.ncbi.nlm.nih.gov/11990741/)
 
 We see that tendon stiffness adaptations are lost in 2 months
-[Shima 2002](https://pubmed.ncbi.nlm.nih.gov/11990741/)
+[[Kubo 2010]]
 
 Hypertrophy (increases ion muscle fiber [[Glossary#CSA|CSA]] though the addition of myofibrils in parallel) are lost in a month.
 [Kadi 2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC1665027/#sec8)

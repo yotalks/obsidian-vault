@@ -16,6 +16,7 @@ Combining Mendelian randomization studies of 9 variants in 6 genes (312,321 peop
 [Ference 2012](https://pubmed.ncbi.nlm.nih.gov/23083789/)
 
 A review of these studies concludes that LDL's effect is causal and cumulative, and that the benefit of lower LDL depends on how much lower and for how long, not on how it's lowered.
+→ [[Mendelian randomization]]
 [Ference 2015](https://pubmed.ncbi.nlm.nih.gov/26780009/)
 
 A common variant of PCSK9, a gene that controls how many LDL receptors the liver keeps, raised LDL-C in a dose-dependent way and was linked to more severe coronary atherosclerosis in about 700 people.

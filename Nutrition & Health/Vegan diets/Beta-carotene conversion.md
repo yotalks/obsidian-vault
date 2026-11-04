@@ -47,6 +47,17 @@ The median beta-carotene dose in these trials was 19.5 mg, and doses ranged from
 A meta-analysis of primary prevention trials found beta-carotene supplements overall had no significant effect, but beta-carotene given alone increased all-cause mortality by 6% (RR 1.06, 1.02–1.10).
 [Schwingshackl 2017](https://pubmed.ncbi.nlm.nih.gov/28096125/)
 
+The harm is clearest in smokers. In 29,133 male smokers, 20 mg of beta-carotene a day raised lung cancer incidence by 18% (95% CI 3–36%).
+[ATBC 1994](https://pubmed.ncbi.nlm.nih.gov/8127329/)
+
+In smokers and asbestos workers, 30 mg of beta-carotene plus retinol raised lung cancer (RR 1.28, 95% CI 1.04–1.57) and death from any cause (RR 1.17, 95% CI 1.03–1.33).
+[Omenn 1996](https://pubmed.ncbi.nlm.nih.gov/8602180/)
+
+In 22,071 male physicians, only 11% of whom were current smokers, 50 mg every other day had no effect on cancer, cardiovascular disease or mortality.
+[Hennekens 1996](https://pubmed.ncbi.nlm.nih.gov/8602179/)
+
+So a high-dose beta-carotene supplement isn't a good default, especially for smokers, when food sources are available.
+
 ## Rare poor converters
 
 The first step of conversion is done by the enzyme BCO1 (also called CMO1). In one person with high blood carotenoids and mildly low vitamin A, a single copy of a T170M mutation cut the enzyme's activity by 90%. Symptoms like this appear when someone eats carotenoids but very little preformed vitamin A. Cases like this are very rare, and for them, a carefully dosed preformed vitamin A supplement (synthetic retinyl palmitate) can be used with a doctor's help.

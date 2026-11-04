@@ -62,6 +62,18 @@ Sulforaphane is found in cruciferous vegetables like broccoli and cabbage and is
 [Cornblatt 2007](https://pubmed.ncbi.nlm.nih.gov/17347138/)
 [Alumkal 2015](https://pubmed.ncbi.nlm.nih.gov/25431127/)
 
+## The dose makes the poison
+
+Calling something a toxin doesn't show a food is harmful. Almost any compound is harmless at a low enough dose and harmful at a high enough one, so a claim of toxicity needs the amount in the food, the amount that causes harm, and how much people actually eat.
+
+Salicylates are a good example. Serum salicylic acid was higher in vegetarians than non-vegetarians (median 0.11 vs 0.07 µmol/L), and it was far higher in people taking 75 mg of aspirin a day (10.03 µmol/L), though the ranges overlapped. So fruit and vegetables supply some salicylate, at levels well below low-dose aspirin for most people.
+[Blacklock 2001](https://pubmed.ncbi.nlm.nih.gov/11429429/)
+
+Antinutrients on paper also don't always translate to outcomes. Legumes are high in them, but in 785 people aged 70 and over across Japan, Sweden, Greece and Australia, each 20 g a day of legumes was linked to 7–8% lower mortality (RR 0.92, 95% CI 0.85–0.99). This was a small observational study.
+[Darmadi-Blackberry 2004](https://pubmed.ncbi.nlm.nih.gov/15228991/)
+
+Someone with oxalate kidney stones can also just limit high-oxalate foods like spinach, which a vegan diet doesn't require.
+
 ## Connections
 **Builds on**
 - [[Soy]] — clinical trials of soy, the main source of phytoestrogens, find no effect on men's testosterone or estrogen

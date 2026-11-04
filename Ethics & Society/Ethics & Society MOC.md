@@ -7,6 +7,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 
 ## Ethics
 - [[Anti Natalism]] — arguments and implications
+- [[Positive and negative rights]] — how far obligations to help go
 
 ## Society
 - [[Biological sex]] — definitions and classification
@@ -37,3 +38,4 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 
 ## Politics and law
 - [[Luigi Mangione]] — classification under the FBI definition
+- [[Bigotry and evidence]] — definition vs evidence, best explanation, degrees, and bigotry vs legality

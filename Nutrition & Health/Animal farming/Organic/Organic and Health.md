@@ -4,7 +4,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> Organic food shows no nutritional or health advantage, may carry more pathogens and antibiotic-resistance genes, and combined cohort data associate organic consumption with slightly more cancers, not fewer.
+> Organic food shows no nutritional or health advantage, may carry more pathogens and antibiotic-resistance genes, and pooling the two major cohorts shows no clear difference in total cancer.
 
 ## Food safety
 
@@ -19,6 +19,9 @@ Use of commercial organic fertilizer increases the abundance of antibiotic resis
 
 Fusarium infection was significantly different between farming systems in maize (20% vs 35% in conventional and organic, respectively), while in 2010 the incidence was significantly higher than in 2011 (43% vs 25%)
 [Crop Protection 2015](https://www.sciencedirect.com/science/article/pii/S0261219415000757)
+
+A systematic review found no difference in E. coli contamination of produce between organic and conventional. Retail chicken and pork often carried bacteria whichever way they were farmed, though bacteria resistant to 3 or more antibiotics were more common in conventional meat (risk difference 33%, 95% CI 21–45%).
+[Smith-Spangler 2012](https://pubmed.ncbi.nlm.nih.gov/22944875/)
 
 ## Nutrition and health
 
@@ -52,12 +55,65 @@ The highest Hazard Index (HI) calculated for the complete pesticide usage analyz
 The hazard index for pesticides for a Danish adult was on level with the hazard quotient for alcohol for a person consuming the equivalent of 1 glass of wine every seventh year."
 [Larsson 2018](https://www.sciencedirect.com/science/article/pii/S0278691517306877?via%3Dihub)
 
+Organic produce is less likely to have detectable pesticide residues (risk difference 30%, 95% CI 23–37%), but the difference in exceeding maximum allowed limits is small.
+[Smith-Spangler 2012](https://pubmed.ncbi.nlm.nih.gov/22944875/)
+
+More than 90% of human dioxin exposure comes through food, mainly meat, dairy, fish and shellfish, since these pollutants build up in animal fat.
+[WHO: Dioxins](https://www.who.int/news-room/fact-sheets/detail/dioxins-and-their-effects-on-human-health)
+
+Eating organic produce does lower exposure to some pesticides. In a 24-week randomized trial of 20 pregnant women in Idaho, those given organic fruit and vegetables had lower levels of 3-PBA, a general marker of pyrethroid insecticides, than those given conventional produce (0.95 vs 0.27 μg/L). There was no significant difference in any of the 4 organophosphate markers. This measured exposure, not health.
+[Curl 2019](https://pubmed.ncbi.nlm.nih.gov/31324402/)
+
+The evidence that this exposure causes harm is weak so far. In 187 mothers in Mexico City, higher 3-PBA in pregnancy was linked to lower mental development scores at 24 months, but the trend wasn't significant (P = 0.07), and there was no link at 36 months or with motor scores.
+[Watkins 2016](https://pubmed.ncbi.nlm.nih.gov/26922411/)
+
+Pesticide use on the 21 main US crops rose until about 1981 and has fallen somewhat since, with a shift from insecticides toward herbicides.
+[Fernandez-Cornejo 2014](https://www.ers.usda.gov/publications/pub-details?pubid=43855)
+
+### Natural pesticides aren't automatically safer
+
+Acute toxicity is measured by LD50, the dose that kills half of the animals tested, so a higher number means less acutely toxic. This only covers short-term poisoning, not long-term effects.
+
+| Substance | Used in | Oral LD50 in rats (mg/kg) |
+| --- | --- | --- |
+| Glyphosate | Conventional | 5,000 |
+| Copper sulfate | Organic and conventional | 300 |
+| DDT | Banned in most countries | 113–800 |
+| Rotenone | Formerly organic | 25–132 |
+
+[Wikipedia: Glyphosate](https://en.wikipedia.org/wiki/Glyphosate)
+[Wikipedia: Copper(II) sulfate](https://en.wikipedia.org/wiki/Copper(II)_sulfate)
+[Wikipedia: DDT](https://en.wikipedia.org/wiki/DDT)
+[Wikipedia: Rotenone](https://en.wikipedia.org/wiki/Rotenone)
+
+Rotenone comes from plants, was used as an insecticide, and is toxic enough to fish that it's used to remove invasive fish. It's now prohibited in US organic farming.
+[7 CFR 205.602](https://www.law.cornell.edu/cfr/text/7/205.602)
+
+Whether a chemical builds up in food chains depends largely on how long it lasts. Short half-life chemicals that break down into less toxic products are less likely to accumulate, so each one has to be judged on its own data, not on whether it's natural or synthetic.
+
 ## Other findings
 
 "Organic vegetable soups contained more salicylic acid than non-organic ones, suggesting that the vegetables and plants used to prepare them contained greater amounts of the phenolic acid than the corresponding non-organic ingredients. Consumption of organic foods may result in a greater intake of salicylic acid."
 [Baxter 2001](https://www.ncbi.nlm.nih.gov/pubmed/11876493)
 
 ## Cancer
+
+The only two major studies with hard endpoints are two prospective cohorts and cancer outcomes and if you meta analytically summate their outcomes, their results are null.
+![[Pasted image 20261104160000.png]]
+
+Fixed effects model:
+![[Pasted image 20261104160015.png]]
+
+The data doesn't support organic food as healthier for total cancer prevention.
+
+The two cohorts reported outcomes differently, and there is considerable differences in assessment of organic food consumption between studies.
+[Bradbury 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4007233/)
+[Baudry 2018](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2707948)
+
+A later analysis from the same French cohort as Baudry 2018 looked at swapping conventional fruit and vegetables for organic in 31,179 people. Swapping 100 g/day was linked to slightly lower overall cancer (HR 0.98, 95% CI 0.95–1.00) and lower postmenopausal breast cancer (HR 0.90, 95% CI 0.85–0.96), but overall cancer wasn't lower when compared by quintiles.
+[Berlivet 2026](https://pubmed.ncbi.nlm.nih.gov/41862000/)
+
+### Adding up the case counts
 
 When you combine the data of the two largest studies done on the topic, you find that consumers of organic are actually more likely to get cancer than non-organic consumers.   
 

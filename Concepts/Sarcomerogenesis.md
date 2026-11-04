@@ -58,3 +58,4 @@ Sarcomerogenesis appears to be more dependent upon the presence of satellite cel
 - [[Repeated bout effect]] — more sarcomeres in series means less stretch per sarcomere, which may cause the RBE
 - [[Neuromechanical matching]] — sarcomere number sets where the length-tension plateau sits in the joint's range
 - [[Stretch-mediated hypertrophy]] — why muscles with many sarcomeres in series can't generate enough passive tension for stretch-mediated hypertrophy
+- [[Sarcomerogenesis increases strength]] — whether adding sarcomeres in series raises force as well as speed

@@ -60,6 +60,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Protein Distribution]] — spreading protein across meals
 - [[Protein timing]] — the post-workout window
 - [[Plant vs animal protein]] — protein source, leucine and digestibility
+- [[Protein and testosterone]] — very high intakes, energy balance and weight cutting
 
 ## 6. What gets in the way
 - [[Cardio and hypertrophy]] — when aerobic exercise interferes with growth
@@ -85,6 +86,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Proximal-to-distal sequence]] → [[Vertical jump height]], [[Sprint speed]], [[Throwing speed]] — joint roles and training demands
 - [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]], [[Squat patterns]]
 - [[Muscle size and leverage]] — size and moment arms
+- [[Sarcomerogenesis increases strength]] — how sarcomeres in series could add force
 
 ## 10. Tendons and injuries
 - [[Tendon adaptation]] — stiffness and size
