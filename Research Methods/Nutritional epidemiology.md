@@ -62,3 +62,5 @@ There are two separate claims here:
 The first doesn't follow from any of this: if an RCT and an equally well-done cohort study disagree, the RCT should win. The second can be true even if cohorts and trials only agree around two-thirds of the time. If agreement were no better than chance, a cohort result would tell us nothing about what a trial would find, but any agreement above chance shifts the odds. So when there are no RCTs, well-done cohort studies are the best evidence available, with a real chance the trials will disagree once they're done.
 
 How far above chance nutrition cohorts get is the open question. Nutrition trials tend to have small effects, wide confidence intervals and many null results, which makes agreement by chance more likely and the true signal harder to see than in drug research. Since risk of bias explained more of the disagreement than how closely studies were matched, cohorts with better control of confounding may agree more closely.
+
+→ [[Evidence hierarchy]]

@@ -17,6 +17,11 @@ Rape cases are different and I think the violinist analogy applies as they're ba
 
 In many cases I think it's ok in incest cases too as it commonly involves highly unbalanced power dynamics that undermine consent.
 
+## When abortions happen
+
+Most abortions come early. In the US in 2022, 78.6% were at 9 weeks or earlier and 92.8% at 13 weeks or earlier.
+[CDC 2024](https://www.cdc.gov/mmwr/volumes/73/ss/ss7307a1.htm)
+
 ## Connections
 **Builds on**
 - [[Abortion Ethics]] — rape cases rest on Thomson's violinist analogy

@@ -34,5 +34,10 @@ Aging itself is a normal process that evolution favors even though it harms us l
 
 A diet needing a supplement doesn't make it inferior, because what matters is the health outcomes, not whether every nutrient comes from food. A diet that needs B12 could still be healthier than one that doesn't. If diet A gives you every nutrient from food but leads to worse health than diet B, which needs a supplement, the reasonable choice is diet B. An all-rice diet isn't a counterexample, since there's no evidence it would lead to better health, but if there were, supplementing it would be reasonable too. The same logic applies to medicine: letting a bacterial infection kill you is natural, and taking antibiotics isn't.
 
+Most people already rely on supplementation without noticing. Since 1998, the US has required folic acid in enriched grain products, which prevents an estimated 1,326 neural tube defects each year.
+[Williams 2015](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6401a2.htm)
+
+Nearly any diet has gaps unless it's carefully planned, so asking whether one needs a supplement doesn't separate diets from each other.
+
 Evolution doesn't select for a long, healthy life either. It selects for reproductive fitness, so a diet we evolved to eat wouldn't be expected to be the best one for health in old age.
 → [[Vegan diets]]

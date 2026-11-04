@@ -68,6 +68,8 @@ Theists often say atheists can only have subjective morality. But if the good is
 
 The theist's way out is the distinction above. If morality depends on God's mind but exists outside it, while the atheist's morality is inside human minds, then the theist's view could count as objective and the atheist's wouldn't. That only works if the theist actually holds that morality is external to God's mind, which a view where everything is within God's mind can't say. It also doesn't help against an atheist who doesn't think morality is mind-internal.
 
+Saying that God's word is complete, unchanging and clearly revealed doesn't remove the problem of fallibility either. Even if all of that is true, a person could still be wrong about what it says. Any claim that God guarantees you've read it correctly is itself a reading of the text, so the worry applies again. For that to be impossible, a human's interpretation would have to be an essential property of God, which isn't Christianity as usually understood. So there are hypotheticals where a theist's actual moral duty differs from what they believe it to be, just as there are for anyone else. The usual reply to the Euthyphro problem, that goodness comes from God's nature rather than arbitrary commands, doesn't touch this, because it's about how we know that nature and not what grounds it.
+
 ## Theories of truth
 
 Whether something counts as true can depend on your theory of truth:

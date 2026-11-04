@@ -48,6 +48,14 @@ But every intuition has some cultural source, including contrarian ones, so this
 [SEP: Reflective equilibrium](https://plato.stanford.edu/entries/reflective-equilibrium/)
 → [[Metaethics]]
 
+## Dead bodies
+
+If only sentient beings have intrinsic value, a corpse has none. The objection is that this makes abusing a corpse fine, since a dead body isn't sentient.
+
+The reply is that intrinsic and extrinsic value are different. Mistreating a corpse can still harm living people, through the suffering of relatives and anyone who finds out, or by encouraging killing. Nearly all real cases involve something like this, so the view doesn't approve of them. But if you take away every effect on anyone, the view does accept that nothing wrong was done to the corpse, which is the same conclusion it reaches about burial, where bodies are left to decompose, and cremation. So this is a cost of the view, but a small one that's limited to hypotheticals.
+
+Other views have their own version of this. A divine command theorist who says it's wrong because God forbids it has the same issue if they've misread what God wants. → [[Metaethics#Is God-based morality objective?]]
+
 ## Miscarriage
 
 One argument for the fetus having less value is that a miscarriage isn't treated as being as tragic as the death of an adult. But most miscarriages happen early, with about 80% in the first 12 weeks, when the fetus likely isn't sentient. A stillbirth is far more devastating, which fits value rising with sentience.
