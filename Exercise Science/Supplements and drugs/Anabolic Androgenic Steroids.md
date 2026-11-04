@@ -50,6 +50,8 @@ AAS-user tendons under the microscope show disorganization, fibril misalignment,
 Rupture risk elevation applies to prescription [[Glossary#TRT|TRT]] as well as recreational bodybuilding doses. 
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
 
+For preventing hair loss on steroids → [[Hair loss]]
+
 ## Connections
 **Builds on**
 - [[Mechanical tension]] — tension and androgens are separate growth signals

@@ -80,3 +80,6 @@ Accumulated post-workout fatigue clears like a fatigue debt: any fatigue that is
 - [[Recovery between workouts]] — how short recovery lets fatigue build up over a program
 - [[Calcium ion-related fatigue]] — calcium influx, not tearing, as the cause of damage
 - [[Very light loads and BFR]] — why light BFR workouts cause moderate-load fatigue
+
+**Feeds into**
+- [[Peaking for strength competitions]] — how much fatigue has built up sets how long a peaking phase needs to be

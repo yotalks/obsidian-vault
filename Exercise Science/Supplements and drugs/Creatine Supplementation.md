@@ -74,6 +74,8 @@ There's some evidence creatine improves memory and cognitive performance, mainly
 - In 45 young vegetarian adults, 5 g a day for 6 weeks improved working memory and intelligence test scores compared with placebo.
 [Rae 2003](https://pubmed.ncbi.nlm.nih.gov/14561278/)
 
+Creatine doesn't seem to cause hair loss → [[Hair loss]]
+
 ## Connections
 **Builds on**
 - [[ATP does not deplete during exercise]] — ATP never runs low, so creatine can't work by supplying more of it; that leaves fatigue resistance as the mechanism

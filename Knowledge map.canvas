@@ -11,6 +11,46 @@
    "height": 2330
   },
   {
+   "id": "Drop sets",
+   "type": "file",
+   "file": "Exercise Science/Programming/Drop sets.md",
+   "x": 3000,
+   "y": 905,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Advanced lifters",
+   "type": "file",
+   "file": "Exercise Science/Programming/Advanced lifters.md",
+   "x": 3000,
+   "y": 1035,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Muscle size and leverage",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Muscle size and leverage.md",
+   "x": 3000,
+   "y": 1165,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Peaking for strength competitions",
+   "type": "file",
+   "file": "Exercise Science/Programming/Peaking for strength competitions.md",
+   "x": 3000,
+   "y": 1295,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
    "id": "ATP does not deplete during exercise",
    "type": "file",
    "file": "Exercise Science/Fatigue and recovery/ATP does not deplete during exercise.md",
@@ -796,36 +836,6 @@
    "file": "Exercise Science/Muscle training/Elbow flexor training.md",
    "x": 2580,
    "y": 1555,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Drop sets",
-   "type": "file",
-   "file": "Exercise Science/Programming/Drop sets.md",
-   "x": 3000,
-   "y": 970,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Advanced lifters",
-   "type": "file",
-   "file": "Exercise Science/Programming/Advanced lifters.md",
-   "x": 3000,
-   "y": 1100,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Muscle size and leverage",
-   "type": "file",
-   "file": "Exercise Science/Strength and performance/Muscle size and leverage.md",
-   "x": 3000,
-   "y": 1230,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -3457,6 +3467,33 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "frying byproducts"
+  },
+  {
+   "id": "e208",
+   "fromNode": "Accumulating post-workout fatigue",
+   "fromSide": "right",
+   "toNode": "Peaking for strength competitions",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "fatigue sets taper length"
+  },
+  {
+   "id": "e209",
+   "fromNode": "Detraining adaptations speed",
+   "fromSide": "right",
+   "toNode": "Peaking for strength competitions",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "what to protect"
+  },
+  {
+   "id": "e210",
+   "fromNode": "Detraining sarcomerogenesis",
+   "fromSide": "right",
+   "toNode": "Peaking for strength competitions",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "sarcomeres go first"
   }
  ]
 }

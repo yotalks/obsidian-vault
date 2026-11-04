@@ -73,7 +73,9 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Other health
 - [[Saunas]] — fertility outcomes
-- [[Minoxidil]] — mechanism of action
+- [[Minoxidil]] — mechanism of action and safety
+- [[Hair loss]] — finasteride, steroids and creatine
+- [[Sun exposure and sunscreen]] — skin cancer, aging, sunscreen choice and tanning
 - [[ADHD and mortality]] — mortality and medication associations
 
 ## Infectious disease

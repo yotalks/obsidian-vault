@@ -5,7 +5,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> Minoxidil works as a preventive for pattern hair loss without touching DHT. Instead of blocking DHT or the conversion of testosterone to DHT, it offsets DHT's downstream effects on the follicle, partly by stimulating growth, and the hair is still kept from miniaturizing. Topical minoxidil's benefit peaks around a year and is still above baseline after 5 years, and oral minoxidil works about as well as topical in trials.
+> Minoxidil works as a preventive for pattern hair loss without touching DHT. Instead of blocking DHT or the conversion of testosterone to DHT, it offsets DHT's downstream effects on the follicle, partly by stimulating growth, and the hair is still kept from miniaturizing. Topical minoxidil's benefit peaks around a year and is still above baseline after 5 years, and oral minoxidil works about as well as topical in trials. Low-dose oral minoxidil rarely causes serious side effects, and the pericardial effusions seen at blood-pressure doses mostly happened in people who already had conditions that cause them.
 
 ## How it prevents miniaturization
 
@@ -33,3 +33,22 @@ Low-dose oral minoxidil isn't FDA-approved for hair loss. It's usually started a
 
 The evidence for oral minoxidil across types of hair loss is still low quality, with few randomized trials.
 [do Nascimento 2020](https://pubmed.ncbi.nlm.nih.gov/33376283/)
+
+Topical minoxidil also has to reach the hair bulb through the scalp, while oral minoxidil gets there through the blood, and topical can cause itching and acne-like reactions.
+
+## Safety
+
+In 1,404 people taking low-dose oral minoxidil for hair loss for at least 3 months, the most common side effect was unwanted hair growth elsewhere (15.1%), which made 0.5% stop. Lightheadedness (1.7%), fluid retention (1.3%), fast heart rate (0.9%), headache, swelling around the eyes and insomnia were uncommon, 1.2% stopped because of them, and there were no life-threatening side effects. It was a retrospective study without a control group.
+[Vañó-Galván 2021](https://pubmed.ncbi.nlm.nih.gov/33639244/)
+
+### Pericardial effusion
+
+At the much higher doses used for severe high blood pressure, fluid around the heart (pericardial effusion), sometimes progressing to tamponade, was seen in about 3% of patients not on dialysis, especially those with impaired kidney function. In many cases the effusion came with connective tissue disease, uremia, heart failure or marked fluid retention, though there were cases without these.
+[FDA label: Minoxidil tablets](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5bc9f21d-c959-89ee-e063-6294a90a0a62)
+
+A 1981 review counted 91 episodes of pericardial disease in 1,869 people in early trials (4.8%), including 21 tamponades and 8 deaths. Effusions resolved after stopping in 5 patients, and recurred on rechallenge in 1.
+[Reichgott 1981](https://pubmed.ncbi.nlm.nih.gov/7237900/)
+
+Since most of these patients already had conditions known to cause effusions, these reports don't show that minoxidil causes effusions in otherwise healthy people. "No identifiable risk factors" in such reports often means no workup was done to rule them out, and case reports only show the cases someone chose to publish. Rechallenge in a handful of patients also says little about how often it happens in the wider population.
+
+→ [[Hair loss]]

@@ -72,6 +72,7 @@ Creatine is not necessary (though can of course be supplemented like bodybuilder
 Iodine can be achieved with iodized salt
 
 Vitamin D can be achieved with the sun or supplemented.
+→ [[Sun exposure and sunscreen]]
 
 With taurine, we have data that shows in 12 strict vegan males who had maintained a vegan diet for 53 +/- 26 months and in 14 male nonvegetarian control subjects, plasma taurine levels differed. However, an objective standard to establish a deficiency for taurine does not exist, so there's no basis this would be negative for health.
 [Rana 1986](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/taurine-concentrations-in-the-diet-plasma-urine-and-breast-milk-of-vegans-compared-with-omnivores/57EF109C7DCF9067E72C751B6F6D8874)

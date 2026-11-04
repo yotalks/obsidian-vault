@@ -49,6 +49,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Training frequency and hypertrophy]] — frequency evidence
 - [[Progressive overload]] — what drives strength gains and when
 - [[Periodization]] — when changing a program helps and when it doesn't
+- [[Peaking for strength competitions]] — clearing fatigue without losing adaptations
 - [[Warm-up sets]] — potentiation without fatigue
 - [[Beginners vs intermediates]] — how training should change with experience
 - [[Advanced lifters]] — maximizing recruitment once only the top fibers can grow
@@ -58,6 +59,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Protein Intake]] — how much protein maximizes lean mass gains
 - [[Protein Distribution]] — spreading protein across meals
 - [[Protein timing]] — the post-workout window
+- [[Plant vs animal protein]] — protein source, leucine and digestibility
 
 ## 6. What gets in the way
 - [[Cardio and hypertrophy]] — when aerobic exercise interferes with growth

@@ -30,6 +30,7 @@ Hypertrophy (increases ion muscle fiber [[Glossary#CSA|CSA]] though the addition
 ## Maintenance
 
 This means short periods of detraining will mainly only involve the loss of sarcomeres in series and muscle fiber CSA. So, tapers, deloads, and other periods of reduced levels of training should focus on avoiding loss in muscle size. 
+→ [[Peaking for strength competitions]]
 
 We see maintenance literature identifies the workout volume and frequency needed to keep existing levels of muscle fiber CSA and sarcomeres in series.
 
@@ -54,3 +55,4 @@ Sarcomerogenesis requires even less weekly stimulus to maintain. Maintenance of 
 - [[Training frequency and hypertrophy]] — maintenance data set how fast gains are lost between workouts
 - [[Hardgainers]] — why training a muscle once a week can leave a beginner with no growth
 - [[Muscle memory]] — why muscle comes back faster than it was first built
+- [[Peaking for strength competitions]] — a peaking phase protects the adaptations that are lost fastest
