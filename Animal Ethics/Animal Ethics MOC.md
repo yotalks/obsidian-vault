@@ -27,6 +27,7 @@ Animal rights and what follows from them.
 - [[Dairy#Animal welfare|Dairy]] — animal welfare
 
 ## Consumer impact
+- [[Inefficacy objection to veganism]] — thresholds and the expected impact of one purchase
 - [[Animal agriculture subsidies]] — consumer demand and subsidies
 
 ## Animal testing

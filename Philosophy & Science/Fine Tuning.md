@@ -30,3 +30,13 @@ The fine-tuning argument says life-permitting constants are a tiny slice of the 
 **Evidence about designers points to imperfect ones.** A theistic hypothesis can be written for any set of constants, such as a god who happens to prefer those values. So the argument relies on a further step: agents like to create things, so a designer would probably pick life-permitting constants. But every agent we've observed is imperfect and has no divine properties, so that same step raises the probability of an imperfect, non-divine designer.
 
 This isn't the problem of evil. It concerns how little life the universe allows and for how long, not suffering, and it also counts against an evil god who wanted to create life in order to torment it. Counting every non-ideal feature of the universe as part of the problem of evil would make that argument stronger rather than absorb this one.
+
+## Comparing like with like
+
+The argument is often run by comparing a specific god, one who is good and wants life, with bare naturalism. That isn't a fair test. Bare theism doesn't predict life any more than bare naturalism does, because a god could want anything. Calling God good loads the prediction into the hypothesis.
+
+Naturalism can be made specific in the same way: naturalism plus a long-lived universe with stable elements and planets. That predicts life-permitting conditions as well as a god who wants life does, and the added claim can have its own motivation, such as the evidence for how old the universe is.
+
+The theist's reply is that this is ad hoc, like adding to naturalism that the Gospel of John is written on every atom. But being more specific isn't the same as being ad hoc. So the argument needs a further premise: that the specific theism is less ad hoc than the specific naturalism, or that moving from theism to classical theism costs less than moving from naturalism to planets. Classical theism could itself be very improbable given bare theism. If those priors can't be compared, the argument stalls at that point, and it won't move a naturalist.
+[Fine-tuning debate, specificity](https://www.youtube.com/watch?v=4_WKVcFJWq4)
+→ [[Naturalism]]

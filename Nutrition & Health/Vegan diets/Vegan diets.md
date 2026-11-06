@@ -15,6 +15,7 @@ This study is often cited to claim that 84% of vegans eventually quit their diet
 
 B12 is indeed not found in plants, however, supplements are widely available.
 → [[B12 to livestock]]
+→ [[B12 in water and soil]]
 
 Whether vegans become deficient depends on supplementing, not on how long they've been vegan. Among 151 Czech adult vegans, those not taking B12 supplements were much more likely to have low B12 (OR 4.41 for serum B12, 19.18 for holotranscobalamin), while those supplementing regularly had B12 levels similar to non-vegans. How long they'd been vegan made no difference. Vegans had lower ferritin and hemoglobin but no higher risk of iron deficiency.
 [Selinger 2019](https://pubmed.ncbi.nlm.nih.gov/31835560/)
@@ -71,7 +72,7 @@ The only cases of vitamin A toxicity in the literature involved the consumption 
 [van Stuijvenberg 2019](https://pubmed.ncbi.nlm.nih.gov/31089689/)
 [Carpenter 1987](https://pubmed.ncbi.nlm.nih.gov/3655980/)
 
-Vegans can supplement with calcium to reach the RDA without any issue.
+Vegans can supplement with calcium to reach the RDA without any issue. → [[Vegan diets and fractures]]
 
 Creatine is not necessary (though can of course be supplemented like bodybuilders do).
 
@@ -168,3 +169,9 @@ Vegan diets aren't detrimental to endurance and muscle strength.
 **Builds on**
 - [[Beta-carotene conversion]] — beta-carotene conversion ratios, individual variation, and the safety of beta-carotene supplements
 - [[B12 to livestock]] — about 30% of B12 sales go to animal feed, so supplementing B12 isn't unique to vegans
+- [[B12 in water and soil]] — water and algae aren't realistic B12 sources
+- [[Raw food diets]] — weight loss and amenorrhea on strict raw food diets
+
+**Feeds into**
+- [[Vegan diets and fractures]] — what low calcium and low BMI mean for bones in vegans
+- [[TMAO]] — how the form of choline changes TMAO

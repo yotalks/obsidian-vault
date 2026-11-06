@@ -37,6 +37,9 @@ It is apparent eccentric contractions also respond to sarcomere length. In this 
 Eccentric training has also been shown to stimulate increases in sarcomere number in humans, alongside increases in muscle fascicle length. In this study, the increase in fascicle length and sarcomere number varied between muscle regions, and distal region displayed greater increase in both fascicle length and sarcomere number, showing the two measurements do correspond relatively well to one another.
 [Andrews 2025](https://www.sciencedirect.com/science/article/pii/S2095254624001534)
 
+Not every eccentric program lengthens fascicles. In one 10-week study, fascicles only grew with fast, maximal eccentrics. → [[Contraction types and muscle growth]]
+[Sharifnezhad 2014](https://pubmed.ncbi.nlm.nih.gov/24803466/)
+
 ## Mechanisms
 
 Since sarcomere addition involves the production of new contractile proteins, it is not surprising that it requires a robust increase in [[Glossary#MPS|MPS]] rates. This doesn't protect myofibrils from atrophy during immobilization, which tells us that the proteins are exclusively directed toward sarcomerogenesis in response to the sarcomere length stimulus, and that the MPS elevations don't have generic effects.
@@ -59,3 +62,4 @@ Sarcomerogenesis appears to be more dependent upon the presence of satellite cel
 - [[Neuromechanical matching]] — sarcomere number sets where the length-tension plateau sits in the joint's range
 - [[Stretch-mediated hypertrophy]] — why muscles with many sarcomeres in series can't generate enough passive tension for stretch-mediated hypertrophy
 - [[Sarcomerogenesis increases strength]] — whether adding sarcomeres in series raises force as well as speed
+- [[Contraction types and muscle growth]] — why eccentrics add sarcomeres and concentrics don't

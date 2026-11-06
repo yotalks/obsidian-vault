@@ -16,3 +16,4 @@ The force a muscle fiber experiences, either while actively contracting against 
 - [[Flexing and co-contraction training]] — isometric flexing gives activated fibers high tension, so only activation is needed
 - [[Isometric training and hypertrophy]] — why isometric contractions give every activated fiber a full growth stimulus
 - [[Fiber-specific muscle growth]] — why only the fibers that experience high tension grow
+- [[Contraction types and muscle growth]] — which contraction types provide active and passive tension

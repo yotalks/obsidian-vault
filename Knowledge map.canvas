@@ -8,14 +8,14 @@
    "x": 0,
    "y": 0,
    "width": 3360,
-   "height": 2330
+   "height": 2460
   },
   {
    "id": "Drop sets",
    "type": "file",
    "file": "Exercise Science/Programming/Drop sets.md",
    "x": 3000,
-   "y": 905,
+   "y": 970,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -25,7 +25,7 @@
    "type": "file",
    "file": "Exercise Science/Programming/Advanced lifters.md",
    "x": 3000,
-   "y": 1035,
+   "y": 1100,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -35,7 +35,7 @@
    "type": "file",
    "file": "Exercise Science/Strength and performance/Muscle size and leverage.md",
    "x": 3000,
-   "y": 1165,
+   "y": 1230,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -45,7 +45,7 @@
    "type": "file",
    "file": "Exercise Science/Programming/Peaking for strength competitions.md",
    "x": 3000,
-   "y": 1295,
+   "y": 1360,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -55,7 +55,7 @@
    "type": "file",
    "file": "Exercise Science/Fatigue and recovery/Repeated bout effect.md",
    "x": 1320,
-   "y": 255,
+   "y": 320,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -65,7 +65,7 @@
    "type": "file",
    "file": "Exercise Science/Fatigue and recovery/Insufficient Sleep.md",
    "x": 1320,
-   "y": 385,
+   "y": 450,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -75,7 +75,7 @@
    "type": "file",
    "file": "Exercise Science/Programming/Training volume.md",
    "x": 1320,
-   "y": 515,
+   "y": 580,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -85,7 +85,7 @@
    "type": "file",
    "file": "Exercise Science/Fatigue and recovery/Fatigue across rep ranges.md",
    "x": 1320,
-   "y": 645,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -95,7 +95,7 @@
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Individual differences in muscle growth.md",
    "x": 1320,
-   "y": 775,
+   "y": 840,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -105,7 +105,7 @@
    "type": "file",
    "file": "Exercise Science/Programming/EMG for exercise selection.md",
    "x": 1320,
-   "y": 905,
+   "y": 970,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -115,17 +115,17 @@
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Lifting tempo.md",
    "x": 1320,
-   "y": 1035,
+   "y": 1100,
    "width": 300,
    "height": 90,
    "color": "2"
   },
   {
-   "id": "Flexing and co-contraction training",
+   "id": "Contraction types and muscle growth",
    "type": "file",
-   "file": "Exercise Science/Hypertrophy/Flexing and co-contraction training.md",
+   "file": "Exercise Science/Hypertrophy/Contraction types and muscle growth.md",
    "x": 1320,
-   "y": 1165,
+   "y": 1230,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -135,7 +135,7 @@
    "type": "file",
    "file": "Exercise Science/Strength and performance/Sarcomerogenesis increases strength.md",
    "x": 1320,
-   "y": 1295,
+   "y": 1360,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -145,7 +145,7 @@
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Detraining sarcomerogenesis.md",
    "x": 1320,
-   "y": 1425,
+   "y": 1490,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -155,7 +155,7 @@
    "type": "file",
    "file": "Exercise Science/Strength and performance/Squat patterns.md",
    "x": 1320,
-   "y": 1555,
+   "y": 1620,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -165,17 +165,7 @@
    "type": "file",
    "file": "Exercise Science/Strength and performance/Increasing speed.md",
    "x": 1320,
-   "y": 1685,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Strength training for team sports",
-   "type": "file",
-   "file": "Exercise Science/Strength and performance/Strength training for team sports.md",
-   "x": 1320,
-   "y": 1815,
+   "y": 1750,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -185,7 +175,17 @@
    "type": "file",
    "file": "Exercise Science/Strength and performance/Sticking points in powerlifting.md",
    "x": 1320,
-   "y": 1945,
+   "y": 1880,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Strength training for team sports",
+   "type": "file",
+   "file": "Exercise Science/Strength and performance/Strength training for team sports.md",
+   "x": 1320,
+   "y": 2010,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -195,7 +195,7 @@
    "type": "file",
    "file": "Exercise Science/Fatigue and recovery/ATP does not deplete during exercise.md",
    "x": 60,
-   "y": 515,
+   "y": 580,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -205,7 +205,7 @@
    "type": "file",
    "file": "Concepts/Psychobiological model of fatigue.md",
    "x": 60,
-   "y": 645,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -215,7 +215,7 @@
    "type": "file",
    "file": "Concepts/Calcium ion-related fatigue.md",
    "x": 60,
-   "y": 775,
+   "y": 840,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -225,7 +225,7 @@
    "type": "file",
    "file": "Concepts/Mechanical tension.md",
    "x": 60,
-   "y": 905,
+   "y": 970,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -235,7 +235,7 @@
    "type": "file",
    "file": "Concepts/Glucocorticoids.md",
    "x": 60,
-   "y": 1035,
+   "y": 1100,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -245,7 +245,7 @@
    "type": "file",
    "file": "Concepts/Internal moment arm.md",
    "x": 60,
-   "y": 1165,
+   "y": 1230,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -255,7 +255,7 @@
    "type": "file",
    "file": "Exercise Science/Fatigue and recovery/Age and recovery.md",
    "x": 60,
-   "y": 1295,
+   "y": 1360,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -265,7 +265,7 @@
    "type": "file",
    "file": "Exercise Science/Strength and performance/Improvements in coordination traits.md",
    "x": 60,
-   "y": 1425,
+   "y": 1490,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -275,7 +275,7 @@
    "type": "file",
    "file": "Concepts/Proximal-to-distal sequence.md",
    "x": 60,
-   "y": 1555,
+   "y": 1620,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -285,7 +285,7 @@
    "type": "file",
    "file": "Exercise Science/Injuries and tendons/Tendon adaptation.md",
    "x": 60,
-   "y": 1685,
+   "y": 1750,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -295,7 +295,7 @@
    "type": "file",
    "file": "Concepts/Supraspinal CNS fatigue.md",
    "x": 480,
-   "y": 190,
+   "y": 320,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -305,7 +305,7 @@
    "type": "file",
    "file": "Exercise Science/Injuries and tendons/Overuse injuries.md",
    "x": 480,
-   "y": 320,
+   "y": 450,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -315,7 +315,7 @@
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Cardio and hypertrophy.md",
    "x": 480,
-   "y": 450,
+   "y": 580,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -325,7 +325,7 @@
    "type": "file",
    "file": "Exercise Science/Strength and performance/Fiber type shifts.md",
    "x": 480,
-   "y": 580,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -334,16 +334,6 @@
    "id": "Muscle swelling",
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Muscle swelling.md",
-   "x": 480,
-   "y": 710,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Isometric training and hypertrophy",
-   "type": "file",
-   "file": "Exercise Science/Hypertrophy/Isometric training and hypertrophy.md",
    "x": 480,
    "y": 840,
    "width": 300,
@@ -445,7 +435,7 @@
    "type": "file",
    "file": "Exercise Science/Supplements and drugs/Carbohydrate mouth rinsing.md",
    "x": 900,
-   "y": 775,
+   "y": 840,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -455,7 +445,7 @@
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Stimulating reps and failure.md",
    "x": 900,
-   "y": 905,
+   "y": 970,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -465,7 +455,7 @@
    "type": "file",
    "file": "Exercise Science/Injuries and tendons/Muscle strain injuries.md",
    "x": 900,
-   "y": 1035,
+   "y": 1100,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -475,7 +465,7 @@
    "type": "file",
    "file": "Exercise Science/Strength and performance/Increasing motor unit recruitment.md",
    "x": 900,
-   "y": 1165,
+   "y": 1230,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -485,7 +475,7 @@
    "type": "file",
    "file": "Concepts/Sarcomerogenesis.md",
    "x": 900,
-   "y": 1295,
+   "y": 1360,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -495,7 +485,7 @@
    "type": "file",
    "file": "Exercise Science/Strength and performance/Strength training for endurance athletes.md",
    "x": 900,
-   "y": 1425,
+   "y": 1490,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -571,11 +561,21 @@
    "color": "2"
   },
   {
+   "id": "Isometric training and hypertrophy",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Isometric training and hypertrophy.md",
+   "x": 1740,
+   "y": 1425,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
    "id": "Neuromechanical matching",
    "type": "file",
    "file": "Concepts/Neuromechanical matching.md",
    "x": 1740,
-   "y": 1425,
+   "y": 1555,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -585,7 +585,7 @@
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Detraining adaptations speed.md",
    "x": 1740,
-   "y": 1555,
+   "y": 1685,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -595,7 +595,7 @@
    "type": "file",
    "file": "Exercise Science/Programming/Warm-up sets.md",
    "x": 1740,
-   "y": 1685,
+   "y": 1815,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -651,9 +651,9 @@
    "color": "2"
   },
   {
-   "id": "Age and adaptations",
+   "id": "Flexing and co-contraction training",
    "type": "file",
-   "file": "Exercise Science/Hypertrophy/Age and adaptations.md",
+   "file": "Exercise Science/Hypertrophy/Flexing and co-contraction training.md",
    "x": 2160,
    "y": 710,
    "width": 300,
@@ -661,9 +661,9 @@
    "color": "2"
   },
   {
-   "id": "Stretch-mediated hypertrophy",
+   "id": "Age and adaptations",
    "type": "file",
-   "file": "Exercise Science/Hypertrophy/Stretch-mediated hypertrophy.md",
+   "file": "Exercise Science/Hypertrophy/Age and adaptations.md",
    "x": 2160,
    "y": 840,
    "width": 300,
@@ -681,11 +681,21 @@
    "color": "2"
   },
   {
+   "id": "Stretch-mediated hypertrophy",
+   "type": "file",
+   "file": "Exercise Science/Hypertrophy/Stretch-mediated hypertrophy.md",
+   "x": 2160,
+   "y": 1100,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
    "id": "Hardgainers",
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Hardgainers.md",
    "x": 2160,
-   "y": 1100,
+   "y": 1230,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -695,7 +705,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Latissimus dorsi training.md",
    "x": 2160,
-   "y": 1230,
+   "y": 1360,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -705,7 +715,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Pectoralis major training.md",
    "x": 2160,
-   "y": 1360,
+   "y": 1490,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -715,7 +725,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Deltoid training.md",
    "x": 2160,
-   "y": 1490,
+   "y": 1620,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -725,7 +735,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Triceps training.md",
    "x": 2160,
-   "y": 1620,
+   "y": 1750,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -735,7 +745,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Gluteus maximus training.md",
    "x": 2160,
-   "y": 1750,
+   "y": 1880,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -745,7 +755,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Hamstring training.md",
    "x": 2160,
-   "y": 1880,
+   "y": 2010,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -755,7 +765,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Quadriceps training.md",
    "x": 2160,
-   "y": 2010,
+   "y": 2140,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -765,7 +775,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Calves training.md",
    "x": 2160,
-   "y": 2140,
+   "y": 2270,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -775,7 +785,7 @@
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Impaired muscle regrowth.md",
    "x": 2580,
-   "y": 645,
+   "y": 710,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -785,7 +795,7 @@
    "type": "file",
    "file": "Exercise Science/Fatigue and recovery/Accumulating post-workout fatigue.md",
    "x": 2580,
-   "y": 775,
+   "y": 840,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -795,17 +805,7 @@
    "type": "file",
    "file": "Exercise Science/Programming/Junk volume.md",
    "x": 2580,
-   "y": 905,
-   "width": 300,
-   "height": 90,
-   "color": "2"
-  },
-  {
-   "id": "Beginners vs intermediates",
-   "type": "file",
-   "file": "Exercise Science/Programming/Beginners vs intermediates.md",
-   "x": 2580,
-   "y": 1035,
+   "y": 970,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -815,7 +815,17 @@
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Dieting and hypertrophy.md",
    "x": 2580,
-   "y": 1165,
+   "y": 1100,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "Beginners vs intermediates",
+   "type": "file",
+   "file": "Exercise Science/Programming/Beginners vs intermediates.md",
+   "x": 2580,
+   "y": 1230,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -825,7 +835,7 @@
    "type": "file",
    "file": "Exercise Science/Hypertrophy/Partial vs full range of motion.md",
    "x": 2580,
-   "y": 1295,
+   "y": 1360,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -835,7 +845,7 @@
    "type": "file",
    "file": "Exercise Science/Programming/Periodization.md",
    "x": 2580,
-   "y": 1425,
+   "y": 1490,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -845,7 +855,7 @@
    "type": "file",
    "file": "Exercise Science/Muscle training/Elbow flexor training.md",
    "x": 2580,
-   "y": 1555,
+   "y": 1620,
    "width": 300,
    "height": 90,
    "color": "2"
@@ -856,16 +866,16 @@
    "label": "Nutrition & Health",
    "color": "4",
    "x": 0,
-   "y": 2530,
+   "y": 2660,
    "width": 2100,
-   "height": 2590
+   "height": 2850
   },
   {
    "id": "Antagonistic pleiotropy",
    "type": "file",
    "file": "Concepts/Antagonistic pleiotropy.md",
    "x": 60,
-   "y": 2720,
+   "y": 2785,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -875,7 +885,7 @@
    "type": "file",
    "file": "Concepts/LDL and heart disease.md",
    "x": 60,
-   "y": 2850,
+   "y": 2915,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -885,7 +895,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Seed oils/Seed oils.md",
    "x": 60,
-   "y": 2980,
+   "y": 3045,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -895,7 +905,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Omega 6 3 ratio.md",
    "x": 60,
-   "y": 3110,
+   "y": 3175,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -905,7 +915,37 @@
    "type": "file",
    "file": "Nutrition & Health/Appetite and weight loss/GLP 1s.md",
    "x": 60,
-   "y": 3240,
+   "y": 3305,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "B12 in water and soil",
+   "type": "file",
+   "file": "Nutrition & Health/Vegan diets/B12 in water and soil.md",
+   "x": 60,
+   "y": 3435,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Raw food diets",
+   "type": "file",
+   "file": "Nutrition & Health/Diet and disease/Raw food diets.md",
+   "x": 60,
+   "y": 3565,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Cropland and food supply",
+   "type": "file",
+   "file": "Nutrition & Health/Animal farming/Cropland and food supply.md",
+   "x": 60,
+   "y": 3695,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -915,7 +955,7 @@
    "type": "file",
    "file": "Nutrition & Health/Animal farming/Organic/Organic is not vegan.md",
    "x": 60,
-   "y": 3370,
+   "y": 3825,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -925,7 +965,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and cancer.md",
    "x": 60,
-   "y": 3500,
+   "y": 3955,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -935,7 +975,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vegan diets/Soy.md",
    "x": 60,
-   "y": 3630,
+   "y": 4085,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -945,7 +985,7 @@
    "type": "file",
    "file": "Nutrition & Health/Diet and disease/Artificial sweeteners.md",
    "x": 60,
-   "y": 3760,
+   "y": 4215,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -955,7 +995,7 @@
    "type": "file",
    "file": "Nutrition & Health/Diet and disease/Dairy.md",
    "x": 60,
-   "y": 3890,
+   "y": 4345,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -965,7 +1005,7 @@
    "type": "file",
    "file": "Nutrition & Health/Medicine and vaccines/Vaccine safety.md",
    "x": 60,
-   "y": 4020,
+   "y": 4475,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -975,7 +1015,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and lipid peroxidation.md",
    "x": 60,
-   "y": 4150,
+   "y": 4605,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -985,7 +1025,7 @@
    "type": "file",
    "file": "Nutrition & Health/Medicine and vaccines/ADHD and mortality.md",
    "x": 60,
-   "y": 4280,
+   "y": 4735,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -995,7 +1035,7 @@
    "type": "file",
    "file": "Nutrition & Health/Animal farming/Organic/Glyphosate and cancer.md",
    "x": 60,
-   "y": 4410,
+   "y": 4865,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1005,7 +1045,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vegan diets/Beta-carotene conversion.md",
    "x": 60,
-   "y": 4540,
+   "y": 4995,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1015,7 +1055,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Lifestyle Heart Trial.md",
    "x": 60,
-   "y": 4670,
+   "y": 5125,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1025,7 +1065,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vegan diets/B12 to livestock.md",
    "x": 60,
-   "y": 4800,
+   "y": 5255,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1034,8 +1074,108 @@
    "id": "HDL",
    "type": "file",
    "file": "Nutrition & Health/Heart health/HDL.md",
+   "x": 900,
+   "y": 3435,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Evolution",
+   "type": "file",
+   "file": "Nutrition & Health/Diet and disease/Evolution.md",
+   "x": 900,
+   "y": 3565,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Chocolate",
+   "type": "file",
+   "file": "Nutrition & Health/Heart health/Chocolate.md",
+   "x": 900,
+   "y": 3695,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Cholesterol-lowering foods",
+   "type": "file",
+   "file": "Nutrition & Health/Heart health/Cholesterol-lowering foods.md",
+   "x": 900,
+   "y": 3825,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Satiation",
+   "type": "file",
+   "file": "Nutrition & Health/Appetite and weight loss/Satiation.md",
+   "x": 900,
+   "y": 3955,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Seed oils and LDL oxidation",
+   "type": "file",
+   "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and LDL oxidation.md",
+   "x": 900,
+   "y": 4085,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "TMAO",
+   "type": "file",
+   "file": "Nutrition & Health/Diet and disease/TMAO.md",
+   "x": 900,
+   "y": 4215,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Fish and health",
+   "type": "file",
+   "file": "Nutrition & Health/Vegan diets/Fish and health.md",
+   "x": 900,
+   "y": 4345,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Vegan diets and fractures",
+   "type": "file",
+   "file": "Nutrition & Health/Vegan diets/Vegan diets and fractures.md",
+   "x": 900,
+   "y": 4475,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Vaccine spike protein",
+   "type": "file",
+   "file": "Nutrition & Health/Medicine and vaccines/Vaccine spike protein.md",
+   "x": 900,
+   "y": 4605,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Mendelian randomization and atherosclerosis",
+   "type": "file",
+   "file": "Nutrition & Health/Heart health/Mendelian randomization and atherosclerosis.md",
    "x": 480,
-   "y": 2590,
+   "y": 2720,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1045,7 +1185,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Saturated fat.md",
    "x": 480,
-   "y": 2720,
+   "y": 2850,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1055,7 +1195,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Dietary cholesterol.md",
    "x": 480,
-   "y": 2850,
+   "y": 2980,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1065,7 +1205,7 @@
    "type": "file",
    "file": "Nutrition & Health/Appetite and weight loss/Low-carb diets.md",
    "x": 480,
-   "y": 2980,
+   "y": 3110,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1075,7 +1215,17 @@
    "type": "file",
    "file": "Nutrition & Health/Appetite and weight loss/Fiber.md",
    "x": 480,
-   "y": 3110,
+   "y": 3240,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Atherosclerosis in other animals",
+   "type": "file",
+   "file": "Nutrition & Health/Heart health/Atherosclerosis in other animals.md",
+   "x": 480,
+   "y": 3370,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1085,7 +1235,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vegan diets/Impossible Beef.md",
    "x": 480,
-   "y": 3240,
+   "y": 3500,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1095,7 +1245,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and inflammation.md",
    "x": 480,
-   "y": 3370,
+   "y": 3630,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1105,7 +1255,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Coronary plaque regression.md",
    "x": 480,
-   "y": 3500,
+   "y": 3760,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1115,7 +1265,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Omega-3 supplementation.md",
    "x": 480,
-   "y": 3630,
+   "y": 3890,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1125,7 +1275,7 @@
    "type": "file",
    "file": "Nutrition & Health/Appetite and weight loss/Injectable fat reduction.md",
    "x": 480,
-   "y": 3760,
+   "y": 4020,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1135,7 +1285,17 @@
    "type": "file",
    "file": "Nutrition & Health/Diet and disease/Ultra-processed food and additives.md",
    "x": 480,
-   "y": 3890,
+   "y": 4150,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "Grass fed beef",
+   "type": "file",
+   "file": "Nutrition & Health/Animal farming/Grass fed beef.md",
+   "x": 480,
+   "y": 4280,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1145,7 +1305,7 @@
    "type": "file",
    "file": "Nutrition & Health/Animal farming/Organic/Organic on the environment.md",
    "x": 480,
-   "y": 4020,
+   "y": 4410,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1155,7 +1315,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and lung cancer.md",
    "x": 480,
-   "y": 4150,
+   "y": 4540,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1165,7 +1325,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Seed oils/Acrylamide.md",
    "x": 480,
-   "y": 4280,
+   "y": 4670,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1174,36 +1334,6 @@
    "id": "Plant toxins and antinutrients",
    "type": "file",
    "file": "Nutrition & Health/Vegan diets/Plant toxins and antinutrients.md",
-   "x": 480,
-   "y": 4410,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "HPV vaccine",
-   "type": "file",
-   "file": "Nutrition & Health/Medicine and vaccines/HPV vaccine.md",
-   "x": 480,
-   "y": 4540,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "COVID-19 vaccine trials",
-   "type": "file",
-   "file": "Nutrition & Health/Medicine and vaccines/COVID-19 vaccine trials.md",
-   "x": 480,
-   "y": 4670,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Organic and Health",
-   "type": "file",
-   "file": "Nutrition & Health/Animal farming/Organic/Organic and Health.md",
    "x": 480,
    "y": 4800,
    "width": 300,
@@ -1221,71 +1351,31 @@
    "color": "4"
   },
   {
-   "id": "Evolution",
+   "id": "HPV vaccine",
    "type": "file",
-   "file": "Nutrition & Health/Diet and disease/Evolution.md",
-   "x": 900,
-   "y": 3370,
+   "file": "Nutrition & Health/Medicine and vaccines/HPV vaccine.md",
+   "x": 480,
+   "y": 5060,
    "width": 300,
    "height": 90,
    "color": "4"
   },
   {
-   "id": "Chocolate",
+   "id": "COVID-19 vaccine trials",
    "type": "file",
-   "file": "Nutrition & Health/Heart health/Chocolate.md",
-   "x": 900,
-   "y": 3500,
+   "file": "Nutrition & Health/Medicine and vaccines/COVID-19 vaccine trials.md",
+   "x": 480,
+   "y": 5190,
    "width": 300,
    "height": 90,
    "color": "4"
   },
   {
-   "id": "Cholesterol-lowering foods",
+   "id": "Organic and Health",
    "type": "file",
-   "file": "Nutrition & Health/Heart health/Cholesterol-lowering foods.md",
-   "x": 900,
-   "y": 3630,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Satiation",
-   "type": "file",
-   "file": "Nutrition & Health/Appetite and weight loss/Satiation.md",
-   "x": 900,
-   "y": 3760,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Seed oils and LDL oxidation",
-   "type": "file",
-   "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and LDL oxidation.md",
-   "x": 900,
-   "y": 3890,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Fish and health",
-   "type": "file",
-   "file": "Nutrition & Health/Vegan diets/Fish and health.md",
-   "x": 900,
-   "y": 4020,
-   "width": 300,
-   "height": 90,
-   "color": "4"
-  },
-  {
-   "id": "Vaccine spike protein",
-   "type": "file",
-   "file": "Nutrition & Health/Medicine and vaccines/Vaccine spike protein.md",
-   "x": 900,
-   "y": 4150,
+   "file": "Nutrition & Health/Animal farming/Organic/Organic and Health.md",
+   "x": 480,
+   "y": 5320,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1295,7 +1385,7 @@
    "type": "file",
    "file": "Nutrition & Health/Diet and disease/Hunter-gatherer diets.md",
    "x": 1320,
-   "y": 3695,
+   "y": 3955,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1305,7 +1395,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vegan diets/Vegetarian diets and mortality.md",
    "x": 1320,
-   "y": 3825,
+   "y": 4085,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1315,7 +1405,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Plant based diet CVD reversal.md",
    "x": 1740,
-   "y": 3760,
+   "y": 4020,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1326,7 +1416,7 @@
    "label": "Abortion & Reproduction",
    "color": "6",
    "x": 0,
-   "y": 5320,
+   "y": 5710,
    "width": 1260,
    "height": 510
   },
@@ -1335,7 +1425,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Menstrual cycle.md",
    "x": 60,
-   "y": 5380,
+   "y": 5770,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1345,7 +1435,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Sentience and the cortex.md",
    "x": 60,
-   "y": 5510,
+   "y": 5900,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1355,7 +1445,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion Ethics.md",
    "x": 60,
-   "y": 5640,
+   "y": 6030,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1365,7 +1455,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Emergency contraception.md",
    "x": 480,
-   "y": 5380,
+   "y": 5770,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1375,7 +1465,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Pro-Life.md",
    "x": 480,
-   "y": 5510,
+   "y": 5900,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1385,7 +1475,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Fetal sentience.md",
    "x": 480,
-   "y": 5640,
+   "y": 6030,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1395,7 +1485,7 @@
    "type": "file",
    "file": "Abortion & Reproduction/Abortion position.md",
    "x": 900,
-   "y": 5510,
+   "y": 5900,
    "width": 300,
    "height": 90,
    "color": "6"
@@ -1406,16 +1496,16 @@
    "label": "Animal Ethics",
    "color": "3",
    "x": 0,
-   "y": 6030,
+   "y": 6420,
    "width": 1260,
-   "height": 770
+   "height": 900
   },
   {
    "id": "Animal Rights",
    "type": "file",
    "file": "Animal Ethics/Animal Rights.md",
    "x": 60,
-   "y": 6285,
+   "y": 6740,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1425,7 +1515,7 @@
    "type": "file",
    "file": "Concepts/Wild animal suffering.md",
    "x": 60,
-   "y": 6415,
+   "y": 6870,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1435,7 +1525,7 @@
    "type": "file",
    "file": "Animal Ethics/Animal Procreation as Rape.md",
    "x": 480,
-   "y": 6090,
+   "y": 6480,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1445,7 +1535,17 @@
    "type": "file",
    "file": "Animal Ethics/Vegan Bivalves.md",
    "x": 480,
-   "y": 6220,
+   "y": 6610,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "Inefficacy objection to veganism",
+   "type": "file",
+   "file": "Animal Ethics/Inefficacy objection to veganism.md",
+   "x": 480,
+   "y": 6740,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1455,7 +1555,7 @@
    "type": "file",
    "file": "Animal Ethics/Culling Predators.md",
    "x": 480,
-   "y": 6350,
+   "y": 6870,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1465,7 +1565,7 @@
    "type": "file",
    "file": "Animal Ethics/Rewilding.md",
    "x": 480,
-   "y": 6480,
+   "y": 7000,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1475,7 +1575,7 @@
    "type": "file",
    "file": "Animal Ethics/Colonizing nature.md",
    "x": 480,
-   "y": 6610,
+   "y": 7130,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1485,7 +1585,7 @@
    "type": "file",
    "file": "Animal Ethics/Crop deaths.md",
    "x": 900,
-   "y": 6350,
+   "y": 6805,
    "width": 300,
    "height": 90,
    "color": "3"
@@ -1496,7 +1596,7 @@
    "label": "Ethics & Society",
    "color": "5",
    "x": 0,
-   "y": 7000,
+   "y": 7520,
    "width": 1260,
    "height": 1030
   },
@@ -1505,7 +1605,7 @@
    "type": "file",
    "file": "Ethics & Society/Positive and negative rights.md",
    "x": 60,
-   "y": 7060,
+   "y": 7580,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1515,7 +1615,7 @@
    "type": "file",
    "file": "Ethics & Society/Bigotry and evidence.md",
    "x": 60,
-   "y": 7190,
+   "y": 7710,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1525,7 +1625,7 @@
    "type": "file",
    "file": "Ethics & Society/Health policy/US life expectancy.md",
    "x": 60,
-   "y": 7320,
+   "y": 7840,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1535,7 +1635,7 @@
    "type": "file",
    "file": "Ethics & Society/Health policy/Artifactual chronic disease trends.md",
    "x": 60,
-   "y": 7450,
+   "y": 7970,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1545,7 +1645,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Gender dysphoria in the DSM-5.md",
    "x": 60,
-   "y": 7580,
+   "y": 8100,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1555,7 +1655,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Intersex prevalence.md",
    "x": 60,
-   "y": 7710,
+   "y": 8230,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1565,7 +1665,27 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Sex chromosome exceptions.md",
    "x": 60,
-   "y": 7840,
+   "y": 8360,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Deinstitutionalization",
+   "type": "file",
+   "file": "Ethics & Society/Health policy/Deinstitutionalization.md",
+   "x": 480,
+   "y": 7580,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "Reparations",
+   "type": "file",
+   "file": "Ethics & Society/Reparations.md",
+   "x": 480,
+   "y": 7710,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1575,7 +1695,7 @@
    "type": "file",
    "file": "Ethics & Society/Black White IQ gap.md",
    "x": 480,
-   "y": 7190,
+   "y": 7840,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1585,7 +1705,7 @@
    "type": "file",
    "file": "Ethics & Society/Health policy/US healthcare spending.md",
    "x": 480,
-   "y": 7320,
+   "y": 7970,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1595,7 +1715,7 @@
    "type": "file",
    "file": "Ethics & Society/Health policy/Childhood chronic disease.md",
    "x": 480,
-   "y": 7450,
+   "y": 8100,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1605,7 +1725,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Gender-affirming care outcomes.md",
    "x": 480,
-   "y": 7580,
+   "y": 8230,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1615,7 +1735,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Biological sex.md",
    "x": 480,
-   "y": 7710,
+   "y": 8360,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1625,7 +1745,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Medicare and gender reassignment surgery.md",
    "x": 900,
-   "y": 7385,
+   "y": 7905,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1635,7 +1755,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Trans Identity.md",
    "x": 900,
-   "y": 7515,
+   "y": 8035,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -3588,6 +3708,150 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "explaining a gap isn't the same as stating it"
+  },
+  {
+   "id": "e217",
+   "fromNode": "Positive and negative rights",
+   "fromSide": "right",
+   "toNode": "Deinstitutionalization",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "confinement sets rights against each other"
+  },
+  {
+   "id": "e218",
+   "fromNode": "Vegan diets",
+   "fromSide": "right",
+   "toNode": "Vegan diets and fractures",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "low calcium and fracture risk"
+  },
+  {
+   "id": "e219",
+   "fromNode": "B12 in water and soil",
+   "fromSide": "right",
+   "toNode": "Vegan diets",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "water doesn't replace B12 supplements"
+  },
+  {
+   "id": "e220",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Atherosclerosis in other animals",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "carnivores get atherosclerosis too"
+  },
+  {
+   "id": "e221",
+   "fromNode": "Raw food diets",
+   "fromSide": "right",
+   "toNode": "Vegan diets",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "strict plant diets taken too far"
+  },
+  {
+   "id": "e222",
+   "fromNode": "Positive and negative rights",
+   "fromSide": "right",
+   "toNode": "Reparations",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "rights violations and what's owed"
+  },
+  {
+   "id": "e223",
+   "fromNode": "Cropland and food supply",
+   "fromSide": "right",
+   "toNode": "Grass fed beef",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "cropland freed vs pasture needed"
+  },
+  {
+   "id": "e224",
+   "fromNode": "LDL and heart disease",
+   "fromSide": "right",
+   "toNode": "Mendelian randomization and atherosclerosis",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "ApoB holds up"
+  },
+  {
+   "id": "e225",
+   "fromNode": "Mendelian randomization and atherosclerosis",
+   "fromSide": "right",
+   "toNode": "HDL",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "genes rule out HDL"
+  },
+  {
+   "id": "e226",
+   "fromNode": "Mechanical tension",
+   "fromSide": "right",
+   "toNode": "Contraction types and muscle growth",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "tension by contraction"
+  },
+  {
+   "id": "e227",
+   "fromNode": "Sarcomerogenesis",
+   "fromSide": "right",
+   "toNode": "Contraction types and muscle growth",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "eccentrics add length"
+  },
+  {
+   "id": "e228",
+   "fromNode": "Contraction types and muscle growth",
+   "fromSide": "right",
+   "toNode": "Isometric training and hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "isometrics in context"
+  },
+  {
+   "id": "e229",
+   "fromNode": "Contraction types and muscle growth",
+   "fromSide": "right",
+   "toNode": "Stretch-mediated hypertrophy",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "passive tension"
+  },
+  {
+   "id": "e230",
+   "fromNode": "Animal Rights",
+   "fromSide": "right",
+   "toNode": "Inefficacy objection to veganism",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "does one purchase matter"
+  },
+  {
+   "id": "e231",
+   "fromNode": "Mendelian randomization and atherosclerosis",
+   "fromSide": "right",
+   "toNode": "TMAO",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "genes don't support TMAO"
+  },
+  {
+   "id": "e232",
+   "fromNode": "Vegan diets",
+   "fromSide": "right",
+   "toNode": "TMAO",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "choline form"
   }
  ]
 }

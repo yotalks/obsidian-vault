@@ -5,6 +5,9 @@ aliases:
   - Joel Salatin
 up: "[[Nutrition & Health MOC]]"
 ---
+> [!summary] Bottom line
+> Polyface is held up as natural farming, but its pigs eat bought-in corn and soy feed and spend much of their lives in small pens. Salatin himself says he uses a lot of grain.
+
 Joel Salatin's Polyface Farm is often held up as a model for raising livestock, with claims that the animals move around, live like they're in the wild, and eat only natural things.
 [Polyface video](https://youtu.be/sWYa53Z_NUY?t=305)
 

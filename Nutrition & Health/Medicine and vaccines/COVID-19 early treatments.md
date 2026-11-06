@@ -54,7 +54,7 @@ Proxalutamide is an androgen receptor blocker, tested because SARS-CoV-2 enters 
 **Outpatient men.** In a trial of 268 male outpatients in Brasília, proxalutamide reduced 30-day hospitalization (RR 0.09, 95% CI 0.03–0.27). The two deaths were both in the placebo group, so the death result rests on just 2 events. The trial was described as double-blind, but in the preprint group assignment was known to the study monitor, who works with the doctors managing patients. That matters most for outcomes doctors decide on, like hospitalization.
 ![[Proxalutamide trial blinding procedures.png]]
 [McCoy 2021](https://pubmed.ncbi.nlm.nih.gov/34350193/)
-[Research Square preprint](https://assets.researchsquare.com/files/rs-135303/v2/02909832-2647-47e7-9f5f-5c2b53c73410.pdf)
+[Research Square preprint](https://www.researchsquare.com/article/rs-135303/v2)
 
 **Outpatient men and women.** In a trial of 236 outpatients, the primary outcomes were viral clearance by PCR on day 7 (82% vs 31%) and time to clinical remission, not deaths. Allocation was unequal (171 on proxalutamide vs 65 on placebo).
 [Cadegiani 2021](https://pubmed.ncbi.nlm.nih.gov/33633920/)

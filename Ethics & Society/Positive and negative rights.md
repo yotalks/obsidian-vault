@@ -122,3 +122,5 @@ Valuing humans more at a base level isn't a way out, since that's the same logic
 
 **Feeds into**
 - [[Wild animal suffering]] — why an obligation to help humans raises the question of helping wild animals
+- [[Deinstitutionalization]] — why involuntary commitment is a conflict between rights
+- [[Reparations]] — what a past rights violation means for descendants

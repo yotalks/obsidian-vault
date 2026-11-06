@@ -17,6 +17,10 @@ PCSK9 is the classic example. Among 3,363 Black participants, 2.6% had PCSK9 non
 [Cohen 2006](https://pubmed.ncbi.nlm.nih.gov/16554528/)
 → [[LDL and heart disease]]
 
+## Ruling out causes
+
+The same design can show that something isn't a cause. HDL and CRP both predict heart disease in observational studies, but variants that shift them don't change risk, while LDL variants do. A null result only means something if the study has enough power to detect an effect. → [[Mendelian randomization and atherosclerosis]]
+
 ## Causation without a mechanism
 
 Mendelian randomization doesn't try to explain how something causes an outcome. It only addresses whether it does. Not knowing the mechanism doesn't undo that, for a few reasons:

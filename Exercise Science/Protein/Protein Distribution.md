@@ -7,7 +7,7 @@ aliases:
   - Protein frequency
 up: "[[Exercise Science MOC]]"
 ---
-> [!summary] Bottom line
+![[Pasted image 20261105001436.png]]![[Pasted image 20261105001505.png]]> [!summary] Bottom line
 > Spreading protein evenly across meals, around 20–30 g or 0.5 g/kg each, raises muscle protein synthesis more than skewing it toward one large meal, and may slightly improve hypertrophy. But distribution isn't limiting: hitting the daily protein target matters most. About 0.4 g/kg per meal across at least four meals reaches 1.6 g/kg a day.
 
 ## Muscle protein synthesis
@@ -25,7 +25,7 @@ These findings are also supported in other research looking at protein distribut
 ![[Pasted image 20261102004427.png]]
 [Mamerow 2014](https://pubmed.ncbi.nlm.nih.gov/24477298/)
 
-In 8 healthy adults eating the same total protein for a week, 24-hour muscle protein synthesis was 25% higher with even distribution, and the difference held after 7 days. Two authors had received speaking fees from the National Cattlemen's Beef Association.
+In 8 healthy adults eating the same total protein for a week, 24-hour muscle protein synthesis was 25% higher with even distribution, and the difference held after 7 days. 
 
 ## Muscle growth
 
@@ -37,7 +37,7 @@ In 26 young men training 3 times a week for 12 weeks on the same daily protein (
 
 ## How much per meal
 
-Muscle protein synthesis has been proposed to max out at about 20–25 g of a fast-digesting, high-quality protein, with anything more oxidized. But that comes from studies of protein alone. Slower proteins eaten with other foods are absorbed more slowly, and while bigger doses raise amino acid oxidation, some of the extra protein is still used to build tissue. A review concluded that to maximize anabolism, people should eat about 0.4 g/kg per meal across at least four meals, reaching at least 1.6 g/kg a day, and up to 0.55 g/kg per meal to reach 2.2 g/kg a day. Schoenfeld is on the scientific advisory board of Dymatize, a protein supplement company.
+Muscle protein synthesis has been proposed to max out at about 20–25 g of a fast-digesting, high-quality protein, with anything more oxidized. But that comes from studies of protein alone. Slower proteins eaten with other foods are absorbed more slowly, and while bigger doses raise amino acid oxidation, some of the extra protein is still used to build tissue. A review concluded that to maximize anabolism, people should eat about 0.4 g/kg per meal across at least four meals, reaching at least 1.6 g/kg a day, and up to 0.55 g/kg per meal to reach 2.2 g/kg a day.
 [Schoenfeld 2018](https://pubmed.ncbi.nlm.nih.gov/29497353/)
 
 The ISSN recommends about 0.25 g/kg of high-quality protein per serving, or 20–40 g, with 700–3,000 mg of leucine, spread every 3–4 hours.

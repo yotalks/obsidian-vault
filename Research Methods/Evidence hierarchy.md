@@ -33,7 +33,7 @@ If we could model every interaction of every relevant mechanism, that would be t
 Cases where the mechanism and the outcome diverged:
 
 - **Growth factors:** Cells exposed to platelet-derived growth factor grow and thrive, but that doesn't make it good for the person. In dermatofibrosarcoma protuberans, a gene rearrangement makes tumor cells overproduce PDGF, which keeps stimulating them.
-[Rutkowski 2017](https://lirias.kuleuven.be/bitstream/123456789/579410/1/Rutkowski%20EJSO%202017.pdf)
+[Rutkowski 2017](https://pubmed.ncbi.nlm.nih.gov/28365129/)
 - **Beta-carotene:** Its antioxidant role suggested it would prevent cancer, and trials found harm in smokers. → [[Beta-carotene conversion]]
 - **Raising HDL:** HDL shuttles cholesterol out of the bloodstream, and drugs that raised it still didn't help. → [[HDL]]
 

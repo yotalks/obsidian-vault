@@ -6,6 +6,10 @@ aliases:
   - Moral anti-realism
   - Error theory
   - Is-ought problem
+  - Moral naturalism
+  - Moral non-naturalism
+  - Natural law theory
+  - Stance independence
 up: "[[Philosophy & Science MOC]]"
 ---
 > [!summary] Bottom line
@@ -69,6 +73,25 @@ Theists often say atheists can only have subjective morality. But if the good is
 The theist's way out is the distinction above. If morality depends on God's mind but exists outside it, while the atheist's morality is inside human minds, then the theist's view could count as objective and the atheist's wouldn't. That only works if the theist actually holds that morality is external to God's mind, which a view where everything is within God's mind can't say. It also doesn't help against an atheist who doesn't think morality is mind-internal.
 
 Saying that God's word is complete, unchanging and clearly revealed doesn't remove the problem of fallibility either. Even if all of that is true, a person could still be wrong about what it says. Any claim that God guarantees you've read it correctly is itself a reading of the text, so the worry applies again. For that to be impossible, a human's interpretation would have to be an essential property of God, which isn't Christianity as usually understood. So there are hypotheticals where a theist's actual moral duty differs from what they believe it to be, just as there are for anyone else. The usual reply to the Euthyphro problem, that goodness comes from God's nature rather than arbitrary commands, doesn't touch this, because it's about how we know that nature and not what grounds it.
+
+### Naturalism and non-naturalism
+
+Moral realists disagree about what moral properties are. Naturalists say they're identical to, or reducible to, natural properties, like promoting happiness. Non-naturalists say they exist but can't be reduced to anything natural. Non-naturalism has to explain why moral facts track natural ones, how we could know about something outside science, and how such a property could motivate anyone, which is Mackie's "queerness" worry.
+[SEP: Moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/)
+
+Realism here means more than rules having correct answers. Once people agree on the rules of chess, there's a correct move whether or not anyone sees it, but the rules came from agreement. A realist has to say the equivalent of the rules themselves are stance-independent, true without any agreement or anyone's goals.
+
+Being a non-realist doesn't take a knockdown argument against realism. Someone can simply not believe it, because they can't make sense of what a stance-independent norm would be. That's a position about the realist's claim, and it doesn't commit them to error theory.
+
+### Natural law
+
+Natural law theory roots morality in objective facts about human nature. On this view, people have ends built into what they are, whether they recognize them or not, the way a tired child can insist they aren't sleepy.
+[SEP: The natural law tradition in ethics](https://plato.stanford.edu/entries/natural-law-ethics/)
+
+The problem is the step from those facts to a reason. Facts about human nature can be objective, like a statistical average or a brain state, without giving anyone a reason to care. If the answer is that you already care, because that's your disposition, then the goal is in you, and it's stance-dependent again. Asking why you should care about that goal leads back to the same answer in a loop.
+
+So a description of human nature can be a useful tool for finding out what you want, and it can be accurate. That doesn't make your values stance-independent. Calling someone defective for rejecting those ends doesn't help either. If they aren't making a logical error or believing something false, then they can shrug at the word. This is the is-ought problem again.
+[Moral realism debate](https://www.youtube.com/watch?v=KBVKLzGpooU)
 
 ## Theories of truth
 

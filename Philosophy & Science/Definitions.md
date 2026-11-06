@@ -5,6 +5,9 @@ aliases:
   - Definitions and propositions
 up: "[[Philosophy & Science MOC]]"
 ---
+> [!summary] Bottom line
+> A definition sets how a word is used, so it can be incoherent or unhelpful but not true or false. Propositions make claims, so they can be.
+
 Definitions aren't propositions, they don't have a truth value. A definition can be incoherent, but not true or false.
 
 Like to define pi as the ratio of the circumference to the diameter of a circle, doesn't entail a claim of any kind, it is simply a construct for it's usage. Individuals are simply agreeing to use this Greek letter to substitute the given notion.

@@ -19,10 +19,12 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Gender identity development]] — milestones and case evidence
 - [[Black White IQ gap]]
 - [[Slurs]] — meaning, context and harm
+- [[Reparations]] — inherited claims, the US vs Africa comparison and cut-offs
 
 ## Health policy
 - [[US life expectancy]] — international comparisons and causes
 - [[US healthcare spending]] — international spending comparisons
+- [[Deinstitutionalization]] — psychiatric hospitals, commitment and where patients went
 - [[Childhood chronic disease]] — prevalence and report claims
 - [[Artifactual chronic disease trends]] — diagnosis versus underlying prevalence
 - [[Childhood chronic disease drivers]] — proposed causes and medication claims

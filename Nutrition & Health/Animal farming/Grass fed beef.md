@@ -112,3 +112,7 @@ Grassland counted as unconvertible if its actual crop yield was below 25% of its
 [Mottet 2017](https://doi.org/10.1016/j.gfs.2017.01.001)
 
 That definition is a yield cutoff, and grazing systems have yield gaps too. Regenerative grazing at White Oak Pastures needed 2.5 times the land to produce the same carcass weight as conventional production, about 40% of the conventional yield per hectare (see White Oak Pastures above). To compare how much grassland could go to regenerative grazing versus regenerative crops, the same kind of yield standard would have to apply to both.
+
+## Connections
+**Builds on**
+- [[Cropland and food supply]] — how much food feed cropland could produce instead

@@ -3,6 +3,9 @@ tags:
   - abortion/ethics
 up: "[[Abortion & Reproduction MOC]]"
 ---
+> [!summary] Bottom line
+> Consent to the risk of pregnancy, followed by waiting until the fetus is sentient, rules out abortion unless the pregnancy threatens the mother's health. Rape is different, and incest often is too, because consent is missing or undermined. Most abortions happen well before this matters.
+
 ## Consensual sex
 
 I see consenting to becoming pregnant, or at least implicitly accepting the risks of pregnancy by engaging in reckless sex, then waiting till the fetus becomes sentient, should disqualify one from aborting that sentient fetus if the pregnancy doesn't pose a significant health risk to the mother.

@@ -26,7 +26,6 @@ The Mann-Whitney-Wilcoxon test was used to test for statistical significance whe
 [Vafeiadou 2015](https://pubmed.ncbi.nlm.nih.gov/26016869/)
 [Iggman 2014](https://pubmed.ncbi.nlm.nih.gov/25319187/)
 
-![[Pasted image 20261027190146.png]]
 We see CRP was reported as median and range, because the distributions of CRP were not normal. We see all 3 groups saw non significant decreases in median CRP from baseline, falling from 0.9 to 0.75. But the upper bounds for CRP during the starting week were unusually high in the OO group which means estimating the mean and standard deviation will skew the variance and the mean a lot higher than it should be. This makes it look like there is a drop in CRP in the OO group that was a lot larger than it actually was which increases the treatment effect seen when using estimated means and standard deviations. This also happened in the SU group. The range is a lot narrower at baseline than after the intervention, which skewed the variance and mean toward showing an increase in CRP that didn't actually happen, so both groups saw a non-significant decrease in CRP
 [Hozo 2005](https://pubmed.ncbi.nlm.nih.gov/15840177/)
 

@@ -46,6 +46,7 @@ The only real challenge with isometric training is that there's no easy way to t
 ## Connections
 **Builds on**
 - [[Mechanical tension]] — single fiber tension, which isometrics keep high because the fibers don't shorten
+- [[Contraction types and muscle growth]] — how isometrics compare with concentric and eccentric contractions
 
 **Feeds into**
 - [[Flexing and co-contraction training]] — flexing as one kind of isometric training, where only activation limits growth

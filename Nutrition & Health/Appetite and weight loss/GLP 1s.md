@@ -98,11 +98,11 @@ In individuals experiencing disease-related wasting and among those with metabol
 Fat infiltration fails with GLP-1RA induced weight loss, as it does with non-pharmacological weight loss. This finding holds both compared to a control drug and compared to the weight loss in the U.K. Biobank sample. Therefore, we should have it as our prior that this sort of weight loss is not unlikely to improve rather than degrade muscular function.
 
 There is no apparent excess reduction in metabolism after taking GLP-1RAs, indicating the weight loss is metabolically healthful.
-[Blundell 2017](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.12932)
+[Blundell 2017](https://doi.org/10.1111/dom.12932)
 
 Participants in trials report significantly fewer physical limitations in daily life and otherwise improved physical functioning and even quality of life.
 [Wilding 2021](https://www.nejm.org/doi/10.1056/NEJMoa2032183)
-[Rubino 2024](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15620)
+[Rubino 2024](https://doi.org/10.1111/dom.15620)
 
 ## Pancreatitis
 
@@ -142,15 +142,15 @@ Tirz delivers less nausea and less severe nausea.
 With GI outcomes, it's more ambiguous, but for the controllable ones that are usually the fault of the patient (N/V), the results definitely favor Tirz over Sema.
 They favor Tirz in counted terms, but not nearly as much in terms of prevalence of any side, in fact there might be a downside, too, although very minor.
 We do see reduced desensitization so the drug works for longer, both with benefits and sides. So while they tend to be more mild and maybe less common, they last longer.
-[Knop 2024](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15875)
+[Knop 2024](https://doi.org/10.1111/dom.15875)
 
 This study said "The most common adverse events in both treatment groups were gastrointestinal, and most were mild to moderate in severity and occurred primarily during dose escalation"
 [Aronne 2025](https://www.nejm.org/doi/full/10.1056/NEJMoa2416394)
 
 With trials and pre-clinical studies, gastroparesis tends to go fairly quickly. A study found there was no medically-significant difference in gastric emptying for people in the placebo or Sema groups. The minimal differences may even be attributable to bodyweight since the groups people were in were assigned randomly, and it makes sense to adjust this for bodyweight given its theoretical relevance.
 The same finding shows up in animals, in the first administration, rats not on GLP-1RAs, rather liraglutide, had far slower gastric emptying, but after 14 days of use, it becomes indistinguishable from placebo.
-[Friedrichsen 2021](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.14280)
-[Jelsing 2012](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/j.1463-1326.2012.01557.x)
+[Friedrichsen 2021](https://doi.org/10.1111/dom.14280)
+[Jelsing 2012](https://doi.org/10.1111/j.1463-1326.2012.01557.x)
 
 Here we see in this head to head trial comparing sema to tirz, sides fade out.
 [Aronne 2025](https://www.nejm.org/doi/full/10.1056/NEJMoa2416394)
@@ -179,7 +179,7 @@ You can prevent most side effects with slow titration
 [Eldor 2025](https://diabetesjournals.org/care/article-abstract/48/9/1607/162990/Gradual-Titration-of-Semaglutide-Results-in-Better)
 
 Here are similar results for Tirz
-[Frias 2020](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.13979)
+[Frias 2020](https://doi.org/10.1111/dom.13979)
 
 And replicated in other Tirz trials
 [Frías 2021](https://www.nejm.org/doi/full/10.1056/NEJMoa2107519)
@@ -204,7 +204,7 @@ You can also just stay on it long-term, which eventually leads to a consistent w
 [Bailony 2025](https://onlinelibrary.wiley.com/doi/10.1002/osp4.70069)
 
 You can also switch to dosing every 2 weeks although they found 75% of the level from weekly usage.
-[Cengiz 2025](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.16229)
+[Cengiz 2025](https://doi.org/10.1111/dom.16229)
 
 Thirty people given this dosing regiment saw maintenance after weight loss.
 [Medscape 2025: every-2-week dosing](https://web.archive.org/web/20251118074607/https://www.medscape.com/viewarticle/de-escalating-glp-1s-every-2-weeks-maintenance-option-2025a1000ug4)

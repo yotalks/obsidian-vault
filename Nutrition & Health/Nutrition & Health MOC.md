@@ -17,6 +17,8 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 ## Vegan diets
 - [[Vegan diets]] — nutrient adequacy
   - [[Vegan children]] — growth and nutrient status
+  - [[Vegan diets and fractures]] — EPIC-Oxford, calcium and BMI
+  - [[B12 in water and soil]] — lakes, seas, mud, soil and how much you would need
   - [[B12 to livestock]] — livestock feed is supplemented with B12 too
   - [[Beta-carotene conversion]] — conversion ratios, poor converters and supplement safety
 - [[Vegetarian diets and mortality]] — disease and mortality evidence
@@ -32,11 +34,14 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[TMAO]]
 - [[Lipogenic Fructose]] — fructose and liver fat
 - [[Antagonistic pleiotropy]] → [[Evolution]] — evolution and long-term health
-- [[Hunter-gatherer diets]] — Hadza dietary evidence
+- [[Hunter-gatherer diets]] — Hadza diets, survivorship bias, lifespan and evolved foods
+- [[Raw food diets]] — weight loss, underweight and amenorrhea
 
 ## Heart health
 - [[LDL and heart disease]] — foundation for heart-health notes
+- [[Atherosclerosis in other animals]] — carnivores get it too
 - [[HDL]] — associations and genetic evidence
+- [[Mendelian randomization and atherosclerosis]] — which suspected causes hold up in genetic tests
 - [[Saturated fat]] — replacement nutrients and cardiovascular outcomes
 - [[Chocolate]] — fat composition and LDL
 - [[Seed oils]] — overview and outcome index
@@ -71,6 +76,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Animal farming
 - [[Grass fed beef]] — nutrition, land use and emissions
+- [[Cropland and food supply]] — calories per hectare, feed and plant replacements
 - [[Polyface Farm]] — feed sourcing
 - [[Livestock and climate change]] — warming and dietary footprints
 - [[Lab-grown meat]] — production, impact and alternatives

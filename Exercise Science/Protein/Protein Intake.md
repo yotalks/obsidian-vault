@@ -34,7 +34,7 @@ These results are somewhat consistent with this regression analysis of a previou
 ![[Pasted image 20261102005206.png]]
 [Morton 2018](https://pubmed.ncbi.nlm.nih.gov/28698222/)
 
-Across 49 trials (1,863 people), protein supplementation added 0.30 kg of fat-free mass during resistance training, with no further gains above about 1.62 g/kg/day, and it helped resistance-trained people more than untrained people. The senior author has received grants and fees from the US National Dairy Council, which supported trials in the analysis.
+Across 49 trials (1,863 people), protein supplementation added 0.30 kg of fat-free mass during resistance training, with no further gains above about 1.62 g/kg/day, and it helped resistance-trained people more than untrained people. 
 
 In that regression the break point was 1.62 g/kg/day, with a 95% CI of 1.03 to 2.20, so some people may benefit from up to about 2.2 g/kg/day.
 

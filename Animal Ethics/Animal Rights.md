@@ -126,3 +126,4 @@ Fruit growers rent honey bee colonies from beekeepers to pollinate their crops, 
 - [[Rewilding]] — the trait-adjusted extension of human rights applied to being bred into the wild
 - [[Vegan Bivalves]] — the same extension, run in reverse: humans without brains lack rights, so brainless animals do too
 - [[Positive and negative rights]] — why veganism needs no position on positive rights
+- [[Inefficacy objection to veganism]] — why one consumer's purchases still affect how many animals are raised

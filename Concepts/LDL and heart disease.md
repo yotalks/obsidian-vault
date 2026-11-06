@@ -66,6 +66,10 @@ In 4,462 adults followed for 19 years, non-HDL cholesterol predicted cardiovascu
 In a meta-analysis of 12 studies (233,455 people), [[Glossary#ApoB|ApoB]] was the strongest marker of cardiovascular risk (risk ratio per standard deviation 1.43), non-HDL cholesterol was next (1.34) and LDL-C was weakest (1.25).
 [Sniderman 2011](https://pubmed.ncbi.nlm.nih.gov/21487090/)
 
+Comparing these directly with genetics, only ApoB kept a robust link with coronary heart disease once LDL-C and triglycerides were accounted for (OR 1.92, 95% CI 1.31–2.81). Because each atherogenic particle carries one ApoB, this points to particle number.
+[Richardson 2020](https://pubmed.ncbi.nlm.nih.gov/32203549/)
+→ [[Mendelian randomization and atherosclerosis]]
+
 Small, dense LDL particles are closely linked to coronary disease and are raised in type 2 diabetes and metabolic syndrome, even when LDL-C isn't high. Methods for measuring them haven't been standardized.
 [Hirayama 2012](https://pubmed.ncbi.nlm.nih.gov/22989852/)
 
@@ -81,6 +85,9 @@ A European consensus statement found that after normal meals, LDL-C changes by a
 [Nordestgaard 2016](https://pubmed.ncbi.nlm.nih.gov/27122601/)
 
 ## Modified and oxidized LDL
+
+ApoB-carrying particles up to about 70 nm across, including LDL, remnants and Lp(a), can cross the artery lining, and LDL is the main one delivering cholesterol there. They build up mostly because ApoB binds to proteoglycans in the artery wall, and changing that binding site greatly reduces atherosclerosis in genetic experiments. Trapped LDL then gets modified and taken up by macrophages. It's the total LDL burden on the artery over time that drives disease. Many of the panel's authors have ties to companies that make lipid-lowering drugs.
+[Borén 2020](https://pubmed.ncbi.nlm.nih.gov/32052833/)
 
 Atherosclerosis starts when LDL builds up in the artery wall and gets modified. Modified LDL activates the surrounding cells and triggers inflammation, which modifies more LDL and keeps the cycle going.
 [Pentikäinen 2000](https://pubmed.ncbi.nlm.nih.gov/10762453/)
@@ -110,6 +117,8 @@ Inflammation isn't a target for therapy, however, compared to LDL, because we ha
 [Katsiari 2019](https://www.wjgnet.com/2220-6132/full/v8/i1/1.htm)
 [Moore 2019](https://pubmed.ncbi.nlm.nih.gov/30560921/)
 
+Genetically raised CRP doesn't raise heart disease, so CRP itself is a marker. Some other inflammatory pathways do look causal, and canakinumab cut events without lowering lipids, though with more fatal infections. → [[Mendelian randomization and atherosclerosis]]
+
 ## Connections
 **Feeds into**
 - [[Dietary cholesterol]] — why a rise in LDL-C means a rise in heart disease risk
@@ -123,3 +132,5 @@ Inflammation isn't a target for therapy, however, compared to LDL, because we ha
 - [[Cholesterol-lowering foods]] — why foods that lower LDL lower heart disease risk
 - [[Seed oils and inflammation]] — trials testing whether linoleic acid raises CRP, the inflammation marker that adds heart risk on top of LDL
 - [[Coronary plaque regression]] — how far very low LDL can shrink coronary plaque on angiograms
+- [[Atherosclerosis in other animals]] — why being a carnivore doesn't protect an animal from atherosclerosis
+- [[Mendelian randomization and atherosclerosis]] — the causal lipid that other suspected causes get compared with

@@ -29,6 +29,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Fiber-specific muscle growth]] — why only stimulated fibers grow
 - [[Increasing motor unit recruitment]] — recruitment and exercise demands
 - [[Stimulating reps and failure]] — why some sets to failure stimulate less
+- [[Contraction types and muscle growth]] — how concentric, isometric and eccentric contractions differ
 - [[Isometric training and hypertrophy]] — why isometrics grow muscle like heavy reps
 - [[Lifting tempo]] — why slowing the concentric doesn't add growth
 - [[Flexing and co-contraction training]] — hypertrophy without external loads

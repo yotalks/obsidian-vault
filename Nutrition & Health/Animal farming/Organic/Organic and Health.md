@@ -43,7 +43,7 @@ A systematic review found no difference in E. coli contamination of produce betw
 [Yunta 2013](https://www.ncbi.nlm.nih.gov/pubmed/23565571)
 
 "Manures from conventional systems are allowed in organic production, including manure from livestock grown in con nement and from those that have been fed genetically engi- neered feeds. Manure sources containing excessive levels of pesticides, heavy metals, or other contaminants may be prohibited from use. Such contamination is likely present in manure obtained from industrial-scale feedlots and other con nement facilities. Certi ers may require testing for these contaminants if there is reason to suspect a problem."
-[Guide for Organic Crop Producers](https://www.organiccertifiers.com/wp-content/uploads/2013/09/Guide_Organic_Crop_Producers.pdf)
+[Guide for Organic Crop Producers](https://www.ams.usda.gov/sites/default/files/media/CropProducersGuide.pdf)
 
 ## Pesticides
 

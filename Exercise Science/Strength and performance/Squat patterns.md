@@ -3,7 +3,7 @@ tags:
   - exercise/performance
 up: "[[Exercise Science MOC]]"
 ---
-f> [!summary] Bottom line
+> [!summary] Bottom line
 > Squat setup shifts which muscles do the work: a low bar, knees behind the toes and a wider stance emphasize the hip extensors (including the glutes), while a high bar, knees over the toes and a narrower stance emphasize the quads. Being more stable lets you recruit more of the target muscle.
 
 ## Stability

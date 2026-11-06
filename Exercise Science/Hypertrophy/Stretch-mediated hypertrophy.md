@@ -68,6 +68,7 @@ For a muscle to get stretch-mediated hypertrophy, it needs good leverage in stre
 **Builds on**
 - [[Neuromechanical matching]] — the principle that decides which muscles are activated in stretched positions
 - [[Sarcomerogenesis]] — how training at long lengths adds sarcomeres in series
+- [[Contraction types and muscle growth]] — how passive tension differs between contraction types
 
 **Feeds into**
 - [[Partial vs full range of motion]] — when stretched-position partials or full range add growth through sarcomerogenesis

@@ -8,6 +8,8 @@ Study designs, biostatistics, and how to read research.
 ## Notes
 - [[Levels of measurement]] — scales and permitted analyses
 - [[Observational study designs]] — designs and risk measures
+- [[Adjusting for confounders]] — stratification, Mantel-Haenszel, regression and residual confounding
+- [[Ecological fallacy]] — why group trends don't always apply to individuals
 - [[Mendelian randomization]] — genetic natural experiments, causation without mechanisms and anecdotes
 - [[Nutritional epidemiology]] — how well cohort studies match RCTs
 - [[Evidence hierarchy]] — why outcomes beat mechanisms, and what "doesn't prove causation" really means
