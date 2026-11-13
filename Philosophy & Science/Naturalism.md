@@ -20,6 +20,8 @@ It's hard to define precisely. "The natural world" is circular if it just means 
 
 Moral naturalism is a separate claim about moral properties. → [[Metaethics]]
 
+For the argument that thinking can't be purely physical because physical facts can't fix which rule you're following → [[Rule following argument]]
+
 ## The evolutionary argument against naturalism
 
 Plantinga argues that if naturalism and evolution are both true, our cognitive faculties probably aren't reliable, because evolution selects for survival rather than true beliefs. So believing both would undercut itself.

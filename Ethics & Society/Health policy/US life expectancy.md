@@ -38,3 +38,4 @@ The US is falling further behind because death rates at prime adult ages are get
 ## Connections
 **Feeds into**
 - [[US healthcare spending]] — which causes of death make up the gap, showing why more spending hasn't closed it
+- [[Medicare for All]] — why coverage changes alone wouldn't close most of the gap

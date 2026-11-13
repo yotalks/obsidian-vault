@@ -18,3 +18,6 @@ Higher spending hasn't bought longer life. Most of the US life expectancy gap co
 ## Connections
 **Builds on**
 - [[US life expectancy]] — spending hasn't bought longer life because the gap comes mostly from injuries and circulatory disease, not treatable cancers
+
+**Feeds into**
+- [[Medicare for All]] — what CBO projects a single-payer system would do to total and federal health spending

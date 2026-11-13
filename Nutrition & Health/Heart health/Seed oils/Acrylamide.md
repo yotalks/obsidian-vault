@@ -54,10 +54,10 @@ This study also made multiple dose-response curves investigating the relationshi
 
 ## Heated oils and heart disease
 
-In this systematic review, the association between heated oils and a number of disease outcomes was thoroughly investigated. Their analysis found that even when highly unsaturated oils were used, there was a consistently lower risk of disease when using PUFA-rich cooking oils compared to SFA-rich oils.
+In this systematic review, the association between heated oils and a number of disease outcomes was thoroughly investigated. It concluded that the idea that frying foods is generally linked to a higher risk of CVD isn't supported by the evidence. Olive oil, mustard oil and non-hydrogenated vegetable oil were linked to lower CVD risk, and palm oil to higher risk, though the palm oil result was borderline as the review reported it (other oils vs palm oil OR 1.23, 95% CI 0.99–1.52). Most of the protective results were for olive oil, and the review doesn't report any comparison of heated PUFA-rich oils with saturated animal fats.
 [Sayon-Orea 2015](https://pubmed.ncbi.nlm.nih.gov/26148920/)
 
-We also see heated SU lowers risk of CVD despite being high in ACR.
+In a case-control study of 350 heart attack cases and 700 controls in India, people who cooked with mustard oil, which is rich in alpha-linolenic acid, had a lower risk than those who used sunflower oil (cooking RR 0.49, 95% CI 0.24–0.99; frying RR 0.29, 0.13–0.64). The review's forest plot labels this result as sunflower oil exposure, but sunflower oil was the comparison group.
 [Rastogi 2004](https://pubmed.ncbi.nlm.nih.gov/15051601/)
 
 We also see when heated palm oil is primarily replacing heated SO, there's a statistically significant increase in risk of CVD, despite heated SO having up to 70% more ACR compared to PO.

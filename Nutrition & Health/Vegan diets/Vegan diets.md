@@ -66,6 +66,7 @@ You can also supplement with synthetic beta carotene as is found in multivitamin
 [Haskell 2004](https://pubmed.ncbi.nlm.nih.gov/15321812/)
 
 The only cases of vitamin A toxicity in the literature involved the consumption of preformed retinol from liver, where even a child died from consuming chicken liver pate sandwiches.
+[Carpenter 1987](https://pubmed.ncbi.nlm.nih.gov/3655980/)
 [Homma 2015](https://pubmed.ncbi.nlm.nih.gov/25850632/)
 [Dewailly 2011](https://pubmed.ncbi.nlm.nih.gov/21902932/)
 [Nagai 1999](https://pubmed.ncbi.nlm.nih.gov/10424294/)

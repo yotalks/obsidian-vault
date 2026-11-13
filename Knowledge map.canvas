@@ -1071,11 +1071,21 @@
    "color": "4"
   },
   {
+   "id": "Height and lifespan",
+   "type": "file",
+   "file": "Nutrition & Health/Medicine and vaccines/Height and lifespan.md",
+   "x": 900,
+   "y": 3370,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
    "id": "HDL",
    "type": "file",
    "file": "Nutrition & Health/Heart health/HDL.md",
    "x": 900,
-   "y": 3435,
+   "y": 3500,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1085,7 +1095,7 @@
    "type": "file",
    "file": "Nutrition & Health/Diet and disease/Evolution.md",
    "x": 900,
-   "y": 3565,
+   "y": 3630,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1095,7 +1105,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Chocolate.md",
    "x": 900,
-   "y": 3695,
+   "y": 3760,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1105,7 +1115,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Cholesterol-lowering foods.md",
    "x": 900,
-   "y": 3825,
+   "y": 3890,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1115,7 +1125,7 @@
    "type": "file",
    "file": "Nutrition & Health/Appetite and weight loss/Satiation.md",
    "x": 900,
-   "y": 3955,
+   "y": 4020,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1125,7 +1135,7 @@
    "type": "file",
    "file": "Nutrition & Health/Heart health/Seed oils/Seed oils and LDL oxidation.md",
    "x": 900,
-   "y": 4085,
+   "y": 4150,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1135,7 +1145,7 @@
    "type": "file",
    "file": "Nutrition & Health/Diet and disease/TMAO.md",
    "x": 900,
-   "y": 4215,
+   "y": 4280,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1145,7 +1155,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vegan diets/Fish and health.md",
    "x": 900,
-   "y": 4345,
+   "y": 4410,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1155,7 +1165,7 @@
    "type": "file",
    "file": "Nutrition & Health/Vegan diets/Vegan diets and fractures.md",
    "x": 900,
-   "y": 4475,
+   "y": 4540,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1165,7 +1175,7 @@
    "type": "file",
    "file": "Nutrition & Health/Medicine and vaccines/Vaccine spike protein.md",
    "x": 900,
-   "y": 4605,
+   "y": 4670,
    "width": 300,
    "height": 90,
    "color": "4"
@@ -1741,11 +1751,21 @@
    "color": "5"
   },
   {
+   "id": "Police presence and crime",
+   "type": "file",
+   "file": "Ethics & Society/Police presence and crime.md",
+   "x": 900,
+   "y": 7840,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
    "id": "Medicare and gender reassignment surgery",
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Medicare and gender reassignment surgery.md",
    "x": 900,
-   "y": 7905,
+   "y": 7970,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -1755,7 +1775,7 @@
    "type": "file",
    "file": "Ethics & Society/Sex and gender/Trans Identity.md",
    "x": 900,
-   "y": 8035,
+   "y": 8100,
    "width": 300,
    "height": 90,
    "color": "5"
@@ -3852,6 +3872,33 @@
    "toSide": "left",
    "toEnd": "arrow",
    "label": "choline form"
+  },
+  {
+   "id": "e233",
+   "fromNode": "Mendelian randomization and atherosclerosis",
+   "fromSide": "right",
+   "toNode": "Height and lifespan",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "height and heart disease"
+  },
+  {
+   "id": "e234",
+   "fromNode": "Deinstitutionalization",
+   "fromSide": "right",
+   "toNode": "Police presence and crime",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "other levers on crime"
+  },
+  {
+   "id": "e235",
+   "fromNode": "Grass fed beef",
+   "fromSide": "right",
+   "toNode": "Crop deaths",
+   "toSide": "left",
+   "toEnd": "arrow",
+   "label": "land per calorie"
   }
  ]
 }

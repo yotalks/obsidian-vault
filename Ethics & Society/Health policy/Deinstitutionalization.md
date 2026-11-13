@@ -113,3 +113,6 @@ A single case doesn't settle this either. In August 2025, Iryna Zarutska, a Ukra
 ## Connections
 **Builds on**
 - [[Positive and negative rights]] — the rights framework behind involuntary commitment
+
+**Feeds into**
+- [[Police presence and crime]] — how where police are based changes violent crime

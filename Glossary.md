@@ -273,3 +273,15 @@ Abbreviations used across the vault, plus short definition notes for recurring i
 
 ### OTS
 **OTS** — Overtraining syndrome: prolonged training-related maladaptation diagnosed after excluding other causes of underperformance. See [[Overtraining and overreaching]].
+
+### SIR
+**SIR** — Standardized incidence ratio: cases observed in a group divided by the cases expected from general-population rates. See [[Height and lifespan]].
+
+### SMR
+**SMR** — Standardized mortality ratio: deaths observed in a group divided by the deaths expected from general-population rates. See [[Height and lifespan]].
+
+### Difference-in-differences
+**Difference-in-differences** — Comparing how an outcome changed over time in a group exposed to a change with how it changed in a group that wasn't, so that trends shared by both cancel out. See [[Police presence and crime]].
+
+### Clearance rate
+**Clearance rate** — The share of recorded crimes that police solve, usually by charging or otherwise identifying a suspect. See [[Police presence and crime]].

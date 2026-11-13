@@ -24,6 +24,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 ## Health policy
 - [[US life expectancy]] — international comparisons and causes
 - [[US healthcare spending]] — international spending comparisons
+- [[Medicare for All]] — CBO estimates, wait times, the Yale estimate and polling
 - [[Deinstitutionalization]] — psychiatric hospitals, commitment and where patients went
 - [[Childhood chronic disease]] — prevalence and report claims
 - [[Artifactual chronic disease trends]] — diagnosis versus underlying prevalence
@@ -39,5 +40,7 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Auschwitz gas chambers]] — historical and physical evidence
 
 ## Politics and law
+- [[ICE and immigration enforcement]] — abolish ICE, the Minneapolis shooting, asylum confidentiality and Medicaid
 - [[Luigi Mangione]] — classification under the FBI definition
 - [[Bigotry and evidence]] — definition vs evidence, best explanation, degrees, and bigotry vs legality
+- [[Police presence and crime]] — station closures, patrols, strikes and koban

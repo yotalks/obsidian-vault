@@ -87,6 +87,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Hair loss]] — finasteride, steroids and creatine
 - [[Sun exposure and sunscreen]] — skin cancer, aging, sunscreen choice and tanning
 - [[ADHD and mortality]] — mortality and medication associations
+- [[Height and lifespan]] — height, cancer and heart disease, and growth hormone in children
 
 ## Infectious disease
 - [[COVID-19 vaccine safety]] — excess deaths, VAERS, coding lags, myocarditis and fertility

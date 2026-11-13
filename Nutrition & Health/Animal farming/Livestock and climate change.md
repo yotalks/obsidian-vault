@@ -4,7 +4,7 @@ tags:
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> Livestock caused about a fifth of global warming up to 2010, and dominate agriculture's environmental impacts in Europe. Vegans' diets produce about 40% of the emissions of heavy meat eaters'. Grass-fed beef doesn't help: it has a larger carbon footprint than conventional beef. But following the US dietary guidelines would slightly raise emissions, because they recommend more of some resource-heavy foods.
+> Livestock caused about a fifth of global warming up to 2010, and dominate agriculture's environmental impacts in Europe. Vegans' diets produce about 40% of the emissions of heavy meat eaters', and across 63 studies, diets that cut more animal foods cut more emissions and land use. Grass-fed beef doesn't help: it has a larger carbon footprint than conventional beef. But following the US dietary guidelines would slightly raise emissions, because they recommend more of some resource-heavy foods.
 
 ## Why it matters
 
@@ -34,6 +34,9 @@ In the UK, the greenhouse gas emissions of a standard 2,000-calorie diet, in kg 
 
 So heavy meat eaters' diets produce about twice the emissions of vegans'.
 [Scarborough 2014](https://link.springer.com/article/10.1007/s10584-014-1169-1)
+
+A systematic review of 63 studies modeled 210 shifts from typical diets to more sustainable ones. 197 of them lowered environmental impact. The median shift cut greenhouse gas emissions by 22%, land use by 28% and water use by 18%, and the biggest cuts, up to 70–80% for emissions and land, came from diets that cut animal foods the most. Vegan diets had the largest median cuts, 51% for emissions and 45% for land use, though the one vegan scenario that measured water use found it rose 107%. Vegetarian diets cut water use the most, by 37%. In the 7 studies that also modeled health, every diet shift lowered estimated mortality, by under 1% for vegetarian diets up to 19% for vegan diets.
+[Aleksandrowicz 2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165797)
 
 Following the US dietary guidelines wouldn't necessarily lower emissions. Cutting calories to reach a normal weight, without changing the food mix, lowered energy use, blue water use and emissions by about 9%. But switching to the USDA's recommended food mix raised them: by 43%, 16% and 11% at current calorie intake, and by 38%, 10% and 6% with fewer calories. That's mainly because the guidelines recommend more fruits, vegetables, dairy and seafood, which use relatively more resources per calorie.
 [Tom 2015](https://link.springer.com/article/10.1007/s10669-015-9577-y)

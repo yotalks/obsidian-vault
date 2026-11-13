@@ -91,6 +91,10 @@ But it needed 2.5 times as much land: about 1,500 hectares for its cattle and ab
 Counted across the whole farm, it isn't a net carbon sink: net emissions were about 4 kg CO2e per kg of carcass weight. (If all the soil carbon were credited to the cattle alone, the beef would be a net sink of −4.4 kg.) That's still more than a Beyond Burger's 3.4 kg CO2e per kg of product, and the gap is bigger than it looks, since carcass weight includes bone and fat that aren't eaten.
 [Heller 2018](https://css.umich.edu/sites/default/files/publication/CSS18-10.pdf)
 
+Getting to that −4.4 means crediting nearly all of the farm's soil carbon to the cattle. Crediting 75% of it to them instead gives net emissions of about 5.1 kg CO2e per kg of carcass weight, which is 1.5 times the Beyond Burger's 3.4 kg.
+![[White Oak Pastures 75% sequestration vs Beyond Burger.png]]
+[Avi's White Oak Pastures thread](https://x.com/AviBittMD/status/1336498537060839426)
+
 ### Herd productivity
 
 White Oak Pastures' own life-cycle analysis compared its herd with the conventional system modeled by Rotz (2013), which uses rotational grazing for the cow-calf stage and a feedlot for finishing. White Oak's cattle were slaughtered at 24 months and 520 kg, versus 17 months and 580 kg. Its herd of 3,055 cattle produced 990 slaughtered head a year, about 0.32 per animal kept, versus 5,050 from a herd of 12,000 (about 0.42 per animal) in the conventional system.
@@ -116,3 +120,6 @@ That definition is a yield cutoff, and grazing systems have yield gaps too. Rege
 ## Connections
 **Builds on**
 - [[Cropland and food supply]] — how much food feed cropland could produce instead
+
+**Feeds into**
+- [[Crop deaths]] — how many wild animals die per calorie of beef versus plants

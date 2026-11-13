@@ -114,3 +114,4 @@ The clot result is clearer than the plaque result, which only just reached signi
 **Feeds into**
 - [[HDL]] — HDL as one of the suspected causes that genetic tests don't support
 - [[TMAO]] — TMAO as another suspected cause that genetic tests don't support
+- [[Height and lifespan]] — height as another exposure tested with genetic variants for heart disease
