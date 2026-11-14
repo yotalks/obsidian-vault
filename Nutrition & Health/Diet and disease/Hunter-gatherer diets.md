@@ -57,6 +57,17 @@ Sweden in 1751–59 also had a modal age of 72. On average, 57% of hunter-gather
 [Gurven 2007](https://gurven.anth.ucsb.edu/sites/secure.lsit.ucsb.edu.anth.d7_gurven/files/sitefiles/papers/GurvenKaplan2007pdr.pdf)
 [CDC 2025](https://cdc.gov/nchs/products/databriefs/db548.htm)
 
+## Looking healthy and being healthy
+
+Absence of diagnosed disease in a traditional population isn't absence of disease. The Masai are the clearest case: a 1962 survey of 400 men eating almost nothing but milk and meat found virtually no clinical or ECG sign of heart disease, and the finding has been cited ever since as evidence against the diet-heart hypothesis. Autopsies of 50 Masai eight years later found atheroma as widespread as in American men of the same age. Their coronary arteries had simply enlarged enough that the thickening didn't obstruct them.
+[Mann 1964](https://pubmed.ncbi.nlm.nih.gov/14193818/)
+[Mann 1972](https://pubmed.ncbi.nlm.nih.gov/5007361/)
+→ [[Saturated fat#The Masai|The Masai]]
+
+A clinical survey of living people in a population without medical imaging measures events, not disease. That's a weaker standard than it looks, and it compounds the selection problem above.
+
+The Maasai participants in these studies were pastoralists. The example illustrates a measurement issue that also matters when reading reports about hunter-gatherers. Clinical exams and ECGs can miss plaque, while a sample of autopsies cannot establish the rate of cardiovascular events in the population.
+
 ## Evolved foods
 
 Primal dieters also suggest since we evolved eating certain foods, it's absurd to believe any of those foods could pose a long-term health risk to the average person. This reasoning has been used to dismiss robust and well studies diet-disease relationships, such as saturated fat and CVD, red meat and cancer, or sodium and hypertension.
@@ -77,3 +88,6 @@ Like here we see black mice are less likely to get eaten by the bird than tan mi
 ## Connections
 **Builds on**
 - [[Evolution]] — evolution optimizes reproduction, not long-term health, so ancestral diets aren't automatically best
+
+**Feeds into**
+- [[Saturated fat]] — the Masai, the population most often cited as eating huge amounts of animal fat without heart disease

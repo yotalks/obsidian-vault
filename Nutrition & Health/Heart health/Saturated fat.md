@@ -247,6 +247,36 @@ We don't even need MR data here as we have RCTs which are stronger forms of evid
 Since AA conversion is tightly regulated, as well as dietary LA being almost unavoidable, it's unlikely that modulating dietary LA would be a reliable way to modulate the conversion of LA to AA. This supports increasing dietary LA for CVD prevention.
 [Park 2021](https://pubmed.ncbi.nlm.nih.gov/33924952/)
 
+## The Masai
+
+Masai warriors eat milk and meat and no plant food, so they get cited as a population taking in enormous amounts of animal fat without heart disease.
+
+In a four-week survey of 400 Masai men in Tanganyika in 1962, there was almost no clinical or ECG evidence of atherosclerotic heart disease. Going by Framingham rates, 4–5 cases would have been expected among the 233 men aged 30 and over. The authors concluded that the hypothesis linking saturated animal fat to high cholesterol and heart disease "remains dubious."
+[Mann 1964](https://doi.org/10.1016/S0368-1319(64)80041-7)
+
+Their cholesterol was very low, not high. Mean total cholesterol was 124.6 mg/dL across 363 men, and only 8 of 388 were above 200 mg/dL, against 179–244 mg/dL in American men of the same ages. Low LDL with little heart disease is what the lipid hypothesis predicts. What needs explaining is why their cholesterol stayed low on that diet, not why their hearts were healthy at that cholesterol.
+→ [[LDL and heart disease]]
+
+Mann named the gap himself: there was "no autopsy data to confirm their anatomical situation."
+
+The survey reported total cholesterol. That figure alone does not establish the participants’ LDL cholesterol. A cross-sectional exam and ECG can detect existing clinical signs, while estimating event rates requires follow-up over time.
+
+### The autopsy follow-up
+
+He collected it eight years later. In autopsies of 50 Masai, coronary intimal thickness in the older men exceeded that of American men aged 60–69, and atheroma was as widespread as in American men of the same age. What was missing was a narrowed lumen: the coronary arteries were markedly enlarged, so the thickening didn't obstruct them. The authors put this down to fitness.
+[Mann 1972](https://pubmed.ncbi.nlm.nih.gov/5007361/)
+[Thijssen 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2829129/)
+
+So the Masai did develop atherosclerosis on that diet. The disease was there; the events weren't, because the vessels had grown around it.
+
+The autopsies show that plaque and a relatively open artery can coexist. Fitness was a hypothesis for the larger vessels. The studies did not track whether enlargement explained the frequency of heart attacks in the population. → [[Hunter-gatherer diets#Looking healthy and being healthy|Clinical surveys and hidden disease]]
+
+### How well the diet was measured
+
+The 1964 survey barely measured intake. The authors call accurate measurement "extraordinarily difficult": no fixed meal patterns, no standard utensils, and behavior disrupted by being watched. The headline fat figure comes from 24-hour urine collections in 8 men, converting nitrogen excretion back into milk volume on the assumption of nitrogen balance and a day of nothing but milk. On that basis a man excreting 20 g of nitrogen was estimated to have drunk 3,125 mL of milk, supplying 187.5 g of dairy fat. Meat-day intakes weren't measured at all.
+
+There was no census, so ages were assigned by age class rather than recorded. Funding came partly from the National Live Stock and Meat Board.
+
 ## Verdict on heart disease
 
 Overall, the evidence overwhelmingly supports the inclusion of seed oils especially when replacing SFA for reducing CVD risk and the evidence to shift this would need to be massive.
