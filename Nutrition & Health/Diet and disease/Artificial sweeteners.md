@@ -5,10 +5,11 @@ aliases:
   - Non-nutritive sweeteners
   - Aspartame
   - Diet soda
+  - Erythritol
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> In large, long-running cohorts, artificially sweetened drinks aren't linked to diabetes or heart disease. In trials they don't change insulin sensitivity, glucose, insulin, cholesterol or body weight. Replacing sugary drinks with them leads to slightly lower weight, about as well as water does. A widely reported link to stroke and dementia came from a small cohort with many unadjusted analyses and likely reverse causation. Aspartame is well below safe intake limits at current consumption.
+> In large, long-running cohorts, artificially sweetened drinks aren't linked to diabetes or heart disease. In trials they don't change insulin sensitivity, glucose, insulin, cholesterol or body weight. Replacing sugary drinks with them leads to slightly lower weight, about as well as water does. A widely reported link to stroke and dementia came from a small cohort with many unadjusted analyses and likely reverse causation. Aspartame is well below safe intake limits at current consumption. A cancer link from the NutriNet-Santé cohort hasn't been replicated in other cohorts, and erythritol's link to heart attacks and strokes comes from high-risk patients and may reflect the body's own erythritol production.
 
 ## Cohort studies
 
@@ -49,7 +50,32 @@ Even high consumers of aspartame stay well below the acceptable daily intakes se
 The review was funded by Ajinomoto, a maker of aspartame. The authors say the panel didn't know who the sponsor was.
 [ScienceDaily 2007](https://www.sciencedaily.com/releases/2007/09/070914183700.htm)
 
+### Cancer
+
+In the NutriNet-Santé cohort (102,865 French adults), the highest aspartame consumers had slightly higher cancer risk overall (HR 1.15, 95% CI 1.03–1.28). The authors noted selection bias, residual confounding and reverse causation as possible limitations.
+[Debras 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8946744/)
+
+Other cohorts haven't found the link. In the NIH-AARP Diet and Health Study, higher intake of aspartame-sweetened drinks wasn't associated with lymphoma, leukemia or brain cancer over more than 5 years.
+[NCI: Artificial sweeteners and cancer](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/artificial-sweeteners-fact-sheet)
+
+NutriNet-Santé is an outlier among cohorts on this question, as it is on organic food.
+[Avi's thread on NutriNet-Santé and aspartame](https://x.com/AviBittMD/status/1858957917321654751)
+
+When IARC classified aspartame as "possibly carcinogenic" in 2023, the joint FAO/WHO expert committee (JECFA) reviewed the same evidence and kept its acceptable daily intake of 40 mg/kg a day.
+[WHO: IARC and JECFA aspartame evaluations](https://www.who.int/publications/m/item/summary-of-findings-of-the-evaluation-of-aspartame-at-the-international-agency-for-research-on-cancer-(iarc)-monographs-programme-s-134th-meeting--and-the-joint-fao-who-expert-committee-on-food-additives-(jecfa)-96th-meeting)
+
 For the gut microbiome and IARC cancer classification claims, see [[Ultra-processed food and additives#Artificial sweeteners and aspartame|Ultra-processed food and additives]].
+
+## Erythritol
+
+Across a discovery cohort and two validation cohorts (about 4,100 patients in total), higher fasting blood erythritol was linked to more heart attacks, strokes and deaths over 3 years. In the validation cohorts, the top quartile had 1.80 and 2.21 times the risk of the bottom quartile. In lab and animal studies, erythritol made platelets more reactive and clots form faster. In 8 healthy volunteers, a food product with 30 g of erythritol raised blood levels over 1,000-fold, and they stayed elevated for about 2 days.
+[Witkowski 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10334259/)
+
+The cohorts were patients referred for cardiac evaluation: about 70–75% had coronary artery disease and 22–28% had diabetes. Erythritol was measured only once.
+
+The body makes erythritol itself through the pentose phosphate pathway, and blood levels are higher with central adiposity, impaired glucose control and diabetes, all of which raise cardiovascular risk. The authors say levels in the US cohort, enrolled before erythritol was common in food, likely reflect the body's own production. So high erythritol may be a marker of metabolic dysfunction rather than a cause of heart disease, and no trials have tested long-term erythritol intake on cardiovascular outcomes.
+[Mazi 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10534702/)
+[Erythritol study discussion with Paul Barnett](https://www.youtube.com/watch?v=4_pVlx0SbLM)
 
 ## Connections
 **Feeds into**

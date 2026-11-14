@@ -74,6 +74,7 @@ In controlled human intervention studies, aspartame had little to no effect on b
 → [[Artificial sweeteners]]
 
 IARC's categories are broad. Group 2B ("possibly carcinogenic") also includes aloe vera extract and traditional pickled vegetables, and Group 2A ("probably carcinogenic") includes red meat, very hot drinks above 65 °C, and androgenic (anabolic) steroids.
+→ [[Artificial sweeteners#Cancer|Aspartame and cancer cohorts]]
 
 ## Infant formula
 

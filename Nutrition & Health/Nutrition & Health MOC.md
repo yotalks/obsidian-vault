@@ -71,7 +71,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 
 ## Ultra-processed food
 - [[Ultra-processed food and additives]] — MAHA report claims
-- [[Artificial sweeteners]] — metabolic and disease outcomes
+- [[Artificial sweeteners]] — metabolic and disease outcomes, aspartame and cancer, erythritol and heart disease
 - [[Dietary Guidelines for Americans]] — guidelines and food processing
 
 ## Animal farming
