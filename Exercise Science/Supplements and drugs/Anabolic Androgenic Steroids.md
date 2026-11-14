@@ -5,7 +5,7 @@ tags:
 up: "[[Exercise Science MOC]]"
 ---
 > [!summary] Bottom line
-> Testosterone increased muscle size in trials with and without resistance training. Tendon ruptures were more common among steroid users in a bodybuilder cohort, and the mechanism remains uncertain. During AAS use, a prospective study found increased heart mass and reduced pumping function. Clinical testosterone replacement uses measured hormone levels to assess exposure. In that same prospective cohort, hematocrit, blood pressure and blood lipids all moved unfavorably during a cycle and returned to baseline about three months after stopping.
+> Testosterone increased muscle size in trials with and without resistance training. Tendon ruptures were more common among steroid users in a bodybuilder cohort. During AAS use, a prospective study found increased heart mass and reduced pumping function. In that same prospective cohort, hematocrit, blood pressure and blood lipids all moved unfavorably during a cycle and returned to baseline about three months after stopping.
 
 ## Muscle
 
