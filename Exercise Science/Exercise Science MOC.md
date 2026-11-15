@@ -79,6 +79,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 
 ## 9. Skill, speed and leverage
 - [[Improvements in coordination traits]] → [[Techniques to improve coordination]]
+- [[Bilateral force deficit]] — force in one- vs two-limb efforts and what training studies found
 - [[Increasing speed]] — coordination, recruitment and contraction speed
 - [[Fiber type shifts]] — calcium and slower fiber types
 - [[Strength training for team sports]] — fatigue, needs analysis and injury trade-offs

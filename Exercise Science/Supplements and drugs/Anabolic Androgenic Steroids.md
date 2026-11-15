@@ -31,7 +31,9 @@ Animal limb-immobilization work is the cleanest separation of the two. AAS-treat
 
 ### Dose, binding and muscle growth
 
-Binding affinity describes how tightly a compound binds. Receptor occupancy is the fraction of receptors bound at a given time, which also depends on the free drug concentration in muscle. The testosterone dose-response trial above found greater gains in muscle size at higher doses. It measured muscle size and blood testosterone, so the fraction of muscle receptors occupied at each dose remains unknown.
+Muscle fibers will grow until they reach the size associated with that dose. We know this because those on TRT from early in life don't end up like Olympia level competitors decades down the line.
+
+Binding affinity describes how tightly a compound binds. Receptor occupancy is the fraction of receptors bound at a given time, which also depends on the free drug concentration in muscle. The testosterone dose-response trial above found greater gains in muscle size at higher doses.
 
 ### Energy intake and recovery
 
@@ -163,6 +165,14 @@ Self-reported alopecia in HAARLEM rose from 2% to 12% over a cycle, with no obje
 [Bond 2022](https://doi.org/10.3389/fendo.2022.1059473)
 → [[Hair loss]]
 
+### Brain structure and cognition
+
+AAS can damage brain neurons through oxidative stress. This is problematic because brain neurons are unable to replace themselves when damaged and other neurons will work harder to make up for the loss, so you generally won't notice the injury until years later and a large chunk of your brain is missing.
+
+An MRI study compared 82 current or former AAS users with 68 weightlifters who had never used AAS. Users had thinner cortex in several regions and smaller volumes in some structures. A second comparison of 84 users with 69 nonusers found lower performance in several cognitive domains. These observational studies measured anatomy and test performance.
+[Bjørnebekk 2017](https://pubmed.ncbi.nlm.nih.gov/27616036/)
+[Bjørnebekk 2019](https://pubmed.ncbi.nlm.nih.gov/31033318/)
+
 ### Women
 
 For blood pressure, hematocrit, lipids and cardiac structure, the effects seen in men are expected to carry over. What's specific to women is virilization: voice deepening, hirsutism and clitoromegaly.
@@ -179,6 +189,25 @@ Synthetic AAS are designed to preferentially target skeletal muscle to avoid sid
 Side effects aren't sex-specific, we just notice androgenic side effects in females more easily. The size of the androgenic side effect depends on the size of the dose and the affinity of AAS to the androgen receptors. Something like Anavar has low androgen receptor affinity so it tends to not cause the classic androgenic side effects like hair loss, acne, and hematocrit increases.
 
 The main reason different AAS produce different side effects are how androgenic they are, which is determined by whether they act like DHT or not at the androgen receptor (or can be converted into a DHT equivalent), how estrogenic they are which is determined by whether they aromatize and what type of estrogen they aromatize into, and whether they're progestogenic.
+
+### Body fat and aromatization
+
+How much a given dose aromatizes depends on the person, not only the compound. Aromatase sits in adipose tissue, and most circulating estradiol in men comes from peripheral aromatization of testosterone there.
+
+The clearest measurement uses injected testosterone. In young and older men given graded doses, whole-body aromatization was higher in the older group, with a maximal rate (Vmax) about 40% higher and a similar Km. The older men also carried more fat, and adjusting for percentage fat mass shrank the age difference in total estradiol. After adjusting for fat mass, testosterone and SHBG, the age difference in free estradiol was no longer significant.
+[Lakshman 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2913038/)
+
+Aromatase expression per unit of fat is also higher in men with obesity, correlating with adiposity, hyperglycemia and insulin resistance.
+[Ahmed 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12448628/)
+
+Within monozygotic twin pairs, the heavier co-twin had higher aromatase mRNA in fat and higher free estradiol, so the association isn't explained by genetics.
+[Kuula 2017](https://pubmed.ncbi.nlm.nih.gov/28619249/)
+
+In morbidly obese men, serum estrone and estradiol were about twice those of lean controls and testosterone was lower (348 vs 519 ng/dL), with peripheral conversion of androgens to estrogens increased in proportion to how far above ideal weight they were.
+[Schneider 1979](https://academic.oup.com/jcem/article-pdf/48/4/633/10513362/jcem0633.pdf)
+
+Blocking the enzyme moves both hormones the expected way: aromatase inhibitors in obese hypogonadal men lower estradiol and raise testosterone.
+[Colleluori 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7243137/)
 
 ### Androgen, estrogen and progesterone activity by compound
 
