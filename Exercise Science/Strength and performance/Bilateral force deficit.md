@@ -7,8 +7,7 @@ aliases:
 up: "[[Exercise Science MOC]]"
 ---
 > [!summary] Bottom line
-> The bilateral force deficit occurs when the force from both limbs together falls below the sum of their separate efforts. Its size depends on the task, and lower voluntary activation is one possible explanation. Direct training studies have found no clear difference in muscle growth between unilateral and bilateral exercises, while strength gains often favor the way the exercise was trained.
-
+> The bilateral force deficit occurs when the force from both limbs together falls below the sum of their separate efforts.
 ## What the deficit measures
 
 The bilateral force deficit is the observation that the sum of the maximum loads that can be lifted by each limb separately is greater than the maximum load that can be lifted by both limbs working at once.
