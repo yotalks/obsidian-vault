@@ -15,9 +15,6 @@ The bilateral force deficit is the observation that the sum of the maximum loads
 ## Neural drive and voluntary activation
 
 One of the main mechanisms behind this is the lower MUR (measured by VA levels) in bilateral exercises compared to unilateral.
-In maximal efforts, van Dieën and colleagues found a bilateral deficit of about 7% for knee extension and up to 20% for finger flexion. The EMG deficit did not consistently track the force deficit. Herbert and Gandevia found less than a 2% difference in thumb-adduction force across tasks despite a small drop in voluntary activation in one condition.
-[van Dieën 2003](https://pubmed.ncbi.nlm.nih.gov/12544644/)
-[Herbert 1996](https://pubmed.ncbi.nlm.nih.gov/8926266/)
 
 Voluntary activation (VA) estimates how fully a person activates a muscle during an effort. A lower value can reflect incomplete motor unit recruitment or lower firing rates. → [[Increasing motor unit recruitment]]
 [Voluntary activation methods study](https://pmc.ncbi.nlm.nih.gov/articles/PMC5644996/)
