@@ -38,21 +38,13 @@ Exercises performed to task failure have less peripheral fatigue when the total 
 [https://doi.org/10.1152/ajpregu.00043.2014](https://doi.org/10.1152/ajpregu.00043.2014)  
 [https://doi.org/10.1111/j.1748-1716.2012.02471.x](https://doi.org/10.1111/j.1748-1716.2012.02471.x)
 
-## What training studies found
-
 This is very important for hypertrophy because it means more motor units can be recruited when using unilateral exercises than bilateral. This can increase hypertrophy and the maximum muscle mass we're able to reach when we plateau.
-
-A meta-analysis of nine studies found no clear difference in muscle growth (effect size −0.21, 95% CI −3.56 to 3.13). Strength gains tended to favor the single-limb or two-limb format practiced. In a separate eight-week randomized biceps-curl trial of 54 young women, the between-group difference in the combined elbow-flexor thickness measure was 0.02 cm (95% CI −0.10 to 0.15). These studies measure changes during training. The long-term ceiling for muscle size remains an open question.
-[Kassiano 2025](https://doi.org/10.1007/s40279-024-02169-z)
-[Kassiano 2026](https://pubmed.ncbi.nlm.nih.gov/41359274/)
-
 ## Perceived effort and central motor command
 
 The amount of CMC that we can generate in the brain and send to the working muscles is limited by our maximum tolerable perception of effort. As we increase the amount of neural drive to the working muscles, we increase our levels of effort perception through the sensation of innervation. But when we reach our maximum tolerable perception of effort, we have to stop increasing effort and this makes us stop increasing MUR as well. 
 [de Morree 2012](https://pubmed.ncbi.nlm.nih.gov/22725828/)
 
 Since multiple muscles each require their own central motor command to be activated, we are going to be limited to lower levels of MUR to each individual muscle when multiple muscles are being used at once.
-
 ## Bilateral facilitation and stability
 
 Bilateral facilitation is the claim that bilateral exercise load or force is greater than the sum of two unilateral exercise loads or forces. This is based on studies that compare stable bilateral exercises with unstable unilateral exercises, however. The reason the forces are higher in the stable bilateral exercises than the unstable unilateral exercises added together is because instability reduces force production by increasing antagonist coactivation and synergist activation, and thus increases antagonist torque (which reduces net torque) and pulling activation away from the agonist muscles (which reduces agonist activation). This can be seen in studies that compared stable bilateral exercises, unstable bilateral exercises, and unstable unilateral exercises. 
