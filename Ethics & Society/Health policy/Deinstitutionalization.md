@@ -83,6 +83,29 @@ Commitment sets one person's right not to be confined against other people's rig
 
 Some people are too ill to be treated in a community center or as outpatients. If that's true, the main cost of having no beds is an opportunity cost: people cycling through jail who might have recovered enough to work. Long-stay care doesn't have to rule out other reforms, and the old hospitals don't have to be copied.
 
+### Long-stay care, crisis holds and criminal justice
+
+Restoring long-stay psychiatric care means providing sustained treatment and supervision when brief stabilization is insufficient. It is a different proposal from increasing the number of short emergency holds. Modern treatment and facilities can be used without reproducing the conditions of historical asylums.
+
+Two distinctions matter:
+
+| Dimension | Categories | Why it matters |
+| --- | --- | --- |
+| Duration | Acute care versus continuing inpatient care | A brief admission and a long stay are different interventions; evidence about one does not establish the effects of the other. |
+| Legal status | Voluntary, involuntary civil, or forensic | Civil commitment does not require a criminal conviction. Forensic care includes court-ordered assessment or treatment, including competency assessment and restoration. |
+
+State psychiatric hospitals still provide both acute and long-stay care, and some states require an initial admission to a local hospital before transfer for continuing treatment. Duration, legal status and hospital type should therefore be considered separately.
+[Lutterman et al. 2017, pp. 17–18, 51–52](https://nri-inc.org/media/1319/tac-paper-10-psychiatric-inpatient-capacity-final-09-05-2017.pdf)
+
+### Prevention before a serious offense
+
+The preventive case for commitment is that sustained psychiatric care could interrupt a pattern of severe illness and dangerous behavior before a serious offense occurs. A punishment imposed afterward cannot undo that offense. Whether the offender remains in custody afterward is therefore separate from whether earlier treatment could have prevented the harm.
+
+This is a conditional argument for prevention, not proof that a particular crime would have been prevented. The relevant comparison is sustained inpatient care versus the actual alternatives available to that person, including community treatment and repeated discharge or incarceration.
+
+Long-stay care also does not mean confinement must continue regardless of recovery. An initially lawful commitment cannot continue once its constitutional basis no longer exists; a diagnosis alone does not justify indefinite custodial confinement of someone who is nondangerous and can live safely in freedom.
+[O'Connor v. Donaldson, 1975](https://www.law.cornell.edu/supremecourt/text/422/563)
+
 ## Housing First
 
 Housing First gives people permanent housing without requiring sobriety. Across four randomized trials, all at high risk of bias, it increased days housed (SMD 1.24) and the chance of being housed at 18–24 months (RR 2.46). It also reduced emergency visits (IRR 0.63) and hospitalizations (IRR 0.76). Effects on most short-term health outcomes were imprecise, with no clear difference in substance use.

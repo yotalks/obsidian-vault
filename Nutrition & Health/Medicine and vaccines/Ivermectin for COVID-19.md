@@ -10,6 +10,16 @@ up: "[[Nutrition & Health MOC]]"
 > [!summary] Bottom line
 > Early meta-analyses suggested ivermectin cut COVID-19 deaths by more than half, but that result depended on one potentially fraudulent trial (Elgazzar) and on trials at high risk of bias. Removing them, and adding the larger trials that came later, shrinks the effect toward no benefit and makes it no longer statistically significant.
 
+## Where the idea came from
+
+The interest started with a cell culture study. A single dose of ivermectin added to infected monkey kidney cells (Vero-hSLAM) 2 hours after infection cut viral RNA about 5,000-fold by 48 hours, at a concentration of 5 µM.
+[Caly 2020](https://pubmed.ncbi.nlm.nih.gov/32251768/)
+
+That concentration is far above what people reach. The concentration giving 50% inhibition in that study (2 µM) was more than 35 times the peak plasma concentration after the approved oral dose. Pharmacokinetic modelling predicted that neither plasma nor lung concentrations would reach it, even at 10 times the approved dose (predicted lung peak 0.087 µM at the approved dose and 0.82 µM at 10 times).
+[Schmith 2020](https://pubmed.ncbi.nlm.nih.gov/32378737/)
+
+Compounds that kill a virus in a dish often do nothing when given to people who have it, which is why in vitro results alone don't establish a treatment.
+
 ## Mortality meta-analysis
 
 These forest plots pool deaths in randomized trials of ivermectin versus control (risk ratios, random effects), split into mild-to-moderate and severe COVID-19, and check how the result changes as questionable trials are removed. Trials shown with 0% weight are left out of that analysis.
@@ -58,3 +68,8 @@ In the final TOGETHER trial (1,358 high-risk outpatients in Brazil, double-blind
 [Reis 2022](https://pubmed.ncbi.nlm.nih.gov/35353979/)
 
 See [[Underpowered studies in meta-analysis]] for why excluding weak studies can give a better estimate, and [[Research methods resources]] for meta-analysis guides.
+
+## Connections
+**Builds on**
+- [[COVID-19 early treatments]] — the pooled analyses and other repurposed drugs
+- [[COVID-19 lockdowns]] — the early pandemic context ivermectin was proposed in

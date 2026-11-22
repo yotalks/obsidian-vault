@@ -50,6 +50,22 @@ The amount of dietary protein required to build muscle is small so I don't think
 Piovesan studied nandrolone after a freezing injury to rat muscle. The experiment measured markers of muscle repair after injury.
 [Piovesan 2013](https://pubmed.ncbi.nlm.nih.gov/22791621/)
 
+### Strength recovery versus damage repair
+
+In exercise science, recovery usually means getting back to pre-workout strength. On AAS, muscle is growing in the background during the days after a workout, so strength can come back sooner because of the added muscle, not because damage was repaired any faster. Faster strength recovery on AAS doesn't show that damage repair is faster.
+→ [[Recovery between workouts]]
+
+Rat injury studies found faster repair with nandrolone:
+- **Contusion.** After a drop-mass contusion, nandrolone decanoate at 20 mg/kg made no difference to force at day 7, but by day 14 the injured muscles were significantly stronger in twitch force than controls, with a similar trend for tetanic force. [Beiner 1999](https://pubmed.ncbi.nlm.nih.gov/9934411/)
+- **Cryoinjury.** With nandrolone decanoate at 5 mg/kg twice a week after a freezing injury, MyoD rose by day 7 and myogenin by day 21, and the injured muscle showed no edema or myonecrosis at day 7. [Piovesan 2013](https://pubmed.ncbi.nlm.nih.gov/22791621/)
+
+Converted to a human-equivalent dose by body surface area (rat dose × 6/37), those are about 3.2 mg/kg and about 0.8 mg/kg twice a week, or roughly 260 mg and 130 mg a week for an 80 kg man.
+[FDA 2005](https://www.fda.gov/media/72309/download)
+
+Muscle biopsies from long-term users look different from non-users:
+- **Regeneration markers.** Powerlifters on long-term AAS had larger fibers of every type, more myonuclei per fiber and a higher proportion of central nuclei in the vastus lateralis than drug-free powerlifters. In the trapezius, more of their fibers also expressed developmental myosin. Central nuclei and developmental myosin are markers of fibers that have been regenerating. [Eriksson 2005](https://pubmed.ncbi.nlm.nih.gov/16059740/)
+- **No difference in internal nuclei.** In 10 athletes who had used AAS for 5–15 years and 7 who never had, internal nuclei per fiber were the same (median 0.07 in both). Creatine kinase was above the clinical range in 4 of the users. [Yu 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4160183/)
+
 ## Tendons and ligaments
 
 Tendons and ligaments fail to adapt properly to the training stimulus under AAS, so collagen strength lags while muscle force output climbs. 
@@ -295,3 +311,6 @@ The best AAS risk/benefit analysis wise will depend on your risk profile and wha
 **Feeds into**
 - [[Creatine Supplementation]] — a true growth stimulus works without training; creatine doesn't, and both raise serum creatinine without a change in kidney function
 - [[Hair loss]] — why 5-alpha reductase inhibitors are a poor fit for hair loss on cycle
+- [[Testosterone and aggression]] — what the supraphysiological trials actually show about mood and "roid rage"
+- [[Recovery between workouts]] — strength can return sooner on AAS because muscle is growing, not because damage heals faster
+- [[Collagen supplements]] — oral collagen sped burn healing, where the demand for new collagen is highest

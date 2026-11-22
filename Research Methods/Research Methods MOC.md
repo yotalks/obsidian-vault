@@ -17,6 +17,7 @@ Study designs, biostatistics, and how to read research.
 - [[Change scores vs ANCOVA]] — analyzing trials with baseline and follow-up measurements
 - [[Multiple comparisons]] — family-wise error, false discovery rate and corrections
 - [[Diagnostic test accuracy]] — sensitivity, specificity, predictive values and ROC curves
+- [[AI text detection]] — Pangram, reported accuracy and interpreting AI-text flags
 - [[Odds ratios and risk ratios]] — risk measures and when odds ratios mislead
 - [[Probability distributions]] — binomial, Poisson, normal and z-scores
 - [[Research methods resources]] — courses, tools, readings, causal inference books and learning R

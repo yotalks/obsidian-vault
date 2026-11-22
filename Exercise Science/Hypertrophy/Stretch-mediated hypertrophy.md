@@ -66,6 +66,7 @@ For a muscle to get stretch-mediated hypertrophy, it needs good leverage in stre
 
 ## Connections
 **Builds on**
+- [[Passive tension during static stretching]] — why titin must be stretched far to make meaningful passive tension
 - [[Neuromechanical matching]] — the principle that decides which muscles are activated in stretched positions
 - [[Sarcomerogenesis]] — how training at long lengths adds sarcomeres in series
 - [[Contraction types and muscle growth]] — how passive tension differs between contraction types

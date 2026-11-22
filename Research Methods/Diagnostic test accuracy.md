@@ -56,3 +56,7 @@ Sensitivity and specificity trade off against each other. When a test has a scal
 
 A receiver operating characteristic (ROC) curve plots sensitivity against 1 − specificity for every cut-off. The point closest to the top-left corner has the best combination of the two. The diagonal line is a test no better than chance, which misclassifies diseased and healthy people equally often, and the area under the curve summarizes how well the test separates them across all cut-offs (0.5 is chance, 1 is perfect).
 [Altman 1994c](https://pubmed.ncbi.nlm.nih.gov/8044101/)
+
+## Connections
+
+- [[AI text detection]] — applying error rates and predictive values to Pangram and other AI-text detectors

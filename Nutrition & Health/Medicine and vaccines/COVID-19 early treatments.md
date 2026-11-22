@@ -4,12 +4,13 @@ tags:
 aliases:
   - Fluvoxamine
   - Proxalutamide
+  - Hydroxychloroquine
   - c19early
   - Early treatment for COVID-19
 up: "[[Nutrition & Health MOC]]"
 ---
 > [!summary] Bottom line
-> Pooled "early treatment" analyses from sites like c19early.com combine trials with observational studies and different outcomes, so their large effects can't be taken at face value. Fluvoxamine had the most promising evidence: a small trial was positive, the large TOGETHER trial found fewer emergency visits and hospitalizations, but the COVID-OUT trial found no benefit. The proxalutamide trials had serious problems with blinding, outcomes and unpublished data.
+> Pooled "early treatment" analyses from sites like c19early.com combine trials with observational studies and different outcomes, so their large effects can't be taken at face value. Fluvoxamine had the most promising evidence: a small trial was positive, the large TOGETHER trial found fewer emergency visits and hospitalizations, but the COVID-OUT trial found no benefit. The proxalutamide trials had serious problems with blinding, outcomes and unpublished data. Hydroxychloroquine didn't lower deaths in hospitalized patients in the large RECOVERY trial.
 
 ## Pooled early treatment analyses
 
@@ -61,3 +62,21 @@ Proxalutamide is an androgen receptor blocker, tested because SARS-CoV-2 enters 
 
 **Hospitalized patients.** The trial behind the large death reduction (12 vs 141 deaths) was only a preprint at the time.
 [Cadegiani 2021 preprint](https://www.medrxiv.org/content/10.1101/2021.06.22.21259318)
+
+## Hydroxychloroquine
+
+Early enthusiasm came from in vitro activity and small studies. In a single-arm French study, 20 treated patients cleared virus from nasopharyngeal swabs by day 6 more often than untreated controls from another centre and patients who refused the protocol. It measured viral load, not clinical outcomes. The paper was retracted in December 2024.
+[Gautret 2020](https://pubmed.ncbi.nlm.nih.gov/32205204/) · [Retraction notice](https://pubmed.ncbi.nlm.nih.gov/39730229/)
+
+In the RECOVERY trial, 1,561 hospitalized patients randomized to hydroxychloroquine and 3,155 to usual care:
+- **Deaths.** 28-day mortality was 27.0% versus 25.0% (rate ratio 1.09, 95% CI 0.97–1.23), with consistent results in every prespecified subgroup.
+- **Discharge.** Fewer patients on hydroxychloroquine were discharged alive within 28 days (59.6% vs 62.9%; rate ratio 0.90, 0.83–0.98).
+- **Ventilation.** Among patients not ventilated at the start, more on hydroxychloroquine went on to mechanical ventilation or died (30.7% vs 26.9%; risk ratio 1.14, 1.03–1.27).
+
+Enrollment in the hydroxychloroquine arm was stopped early for lack of efficacy.
+[RECOVERY 2020](https://pubmed.ncbi.nlm.nih.gov/33031652/)
+
+## Connections
+**Builds on**
+- [[Ivermectin for COVID-19]] — another repurposed drug that looked promising before the large trials
+- [[COVID-19 lockdowns]] — the time lockdowns were buying while treatments were tested

@@ -26,6 +26,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 
 ## 3. What makes muscle grow
 - [[Mechanical tension]] — active and passive tension
+- [[Passive tension during static stretching]] — why passive torque rises non-linearly, and titin's role
 - [[Fiber-specific muscle growth]] — why only stimulated fibers grow
 - [[Increasing motor unit recruitment]] — recruitment and exercise demands
 - [[Stimulating reps and failure]] — why some sets to failure stimulate less
@@ -76,6 +77,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Creatine Supplementation]] — fatigue, swelling and growth
 - [[Carbohydrate mouth rinsing]] — performance and central fatigue
 - [[Anabolic Androgenic Steroids]] — growth signals and tendon effects
+- [[Testosterone and aggression]] — correlations, the supraphysiological trial and genetic evidence
 
 ## 9. Skill, speed and leverage
 - [[Improvements in coordination traits]] → [[Techniques to improve coordination]]

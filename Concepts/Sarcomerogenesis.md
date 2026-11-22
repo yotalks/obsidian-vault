@@ -54,6 +54,7 @@ Sarcomerogenesis appears to be more dependent upon the presence of satellite cel
 ## Connections
 **Builds on**
 - [[Mechanical tension]] — passive tension is the stimulus for adding sarcomeres
+- [[Passive tension during static stretching]] — how sarcomere length produces passive tension through titin
 - [[Fiber-specific muscle growth]] — why fibers whose sarcomeres are stretched furthest are the ones that add sarcomeres
 
 **Feeds into**

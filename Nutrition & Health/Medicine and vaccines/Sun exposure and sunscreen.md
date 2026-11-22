@@ -145,3 +145,7 @@ Melanocortin drugs darken skin without UV. Melanotan II isn't an approved drug, 
 
 Bremelanotide (Vyleesi) is approved for low sexual desire in premenopausal women, not tanning. Focal hyperpigmentation affected 1% of patients at up to 8 doses a month and 38% after 8 daily doses, more often in dark skin, and it didn't always resolve. It also raises blood pressure temporarily.
 [FDA label: Vyleesi](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf)
+
+## Connections
+**Feeds into**
+- [[Collagen supplements]] — why collagen supplements are a poor bet for preventing skin aging

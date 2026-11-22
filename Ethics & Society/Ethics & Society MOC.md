@@ -44,3 +44,5 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Luigi Mangione]] — classification under the FBI definition
 - [[Bigotry and evidence]] — definition vs evidence, best explanation, degrees, and bigotry vs legality
 - [[Police presence and crime]] — station closures, patrols, strikes and koban
+- [[Rikers Island closure]] — the 2032 plan, capacity, pretrial releases and re-arrest
+- [[Rent control]] — what the empirical literature finds on rents, quality, mobility and construction

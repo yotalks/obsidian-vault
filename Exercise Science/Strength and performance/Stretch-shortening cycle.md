@@ -55,6 +55,7 @@ In 21 men, 12 weeks of ankle-only depth jumps stiffened the Achilles tendon and 
 ## Connections
 **Builds on**
 - [[Tendon adaptation]] — how tendons stretch and stiffen
+- [[Passive tension during static stretching]] — titin's compliant and stiff segments and how they load
 
 **Feeds into**
 - [[Strength training for endurance athletes]] — why stiffer tendons may reduce the stretch-shortening cycle's energy savings

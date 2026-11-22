@@ -20,7 +20,46 @@ The elbow flexors are four muscles: the long and short heads of the biceps, the 
 
 The biceps (both heads) and brachialis have better leverage than the brachioradialis for elbow flexion when the elbow is extended.
 
+### Task-specific motor units
+
+It has been known for some time that certain motor units within the biceps brachii seem to be recruited in order to carry out certain functions, such as elbow flexion, while other motor units are recruited to perform other functions, such as forearm supination.
+[ter Haar Romeny 1982](https://pubmed.ncbi.nlm.nih.gov/7140904/) · [van Zuylen 1988](https://pubmed.ncbi.nlm.nih.gov/3199172/)
+
+The 1982 study used fine-wire electrodes to record 17 motor units in the long head of the biceps in 3 people, while they held isometric elbow flexion, forearm supination or outward rotation of the upper arm, and then slowly added force in a second direction.
+- **Single-task units.** Some units could only be recruited by flexion, and adding supination or rotation didn't change when they switched on. Others fired only during supination or outward rotation.
+- **Mixed units.** Most units switched on once a weighted combination of the forces passed a threshold, and the weighting differed from unit to unit. One unit switched on at 1.83 Nm of flexion alone, 2.15 Nm when the person was also supinating, and 0.76 Nm when they were also pronating.
+- **Reordering.** Units with a high threshold for flexion tended to switch on sooner when force was added in another direction, while units with a low threshold for flexion became harder to recruit. So the recruitment order within the biceps isn't fixed; it changes with the direction of force.
+[ter Haar Romeny 1982](https://pubmed.ncbi.nlm.nih.gov/7140904/)
+
+#### Where the units sit
+
+The same group then mapped where each type of unit sits in the long head of the biceps:
+- **Flexion-only units** were located mostly on the lateral side.
+- **Supination-only units** were all located on the medial side.
+- **Mixed units**, switched on by a combination of flexion and supination, were also all medial. Some of them couldn't be recruited during pronation.
+- **Units with a nonlinear pattern** were located centrally.
+
+Supinating and rotating the upper arm outward changed the recruitment thresholds for flexion in the same way. Small areas on the lateral and medial sides didn't clearly differ in how much force their twitches produced in the flexion versus supination direction, so the split shows up in how the units are recruited, not in what they pull on.
+[ter Haar Romeny 1984](https://pubmed.ncbi.nlm.nih.gov/6468581/)
+
+The 1988 study found the same thing for flexion-only units, which were consistently in the lateral part of the long head. In two experiments on the short head, only mixed units turned up. Each recording site usually picked up units from a single subpopulation, which suggests each type occupies its own region of the muscle.
+[van Zuylen 1988](https://pubmed.ncbi.nlm.nih.gov/3199172/)
+
+The 1988 study extended this to the other elbow muscles, across about 40 experiments in 8 people with the elbow at angles from 40° to 180°. Most muscles were activated unevenly, with their motor units split into subpopulations, so this isn't limited to multifunctional muscles like the biceps.
+- **Flexion-only units.** Some biceps units were recruited during flexion but not supination, even though the biceps contributes to both, and supination or pronation didn't change their flexion threshold. The brachialis and brachioradialis had a subpopulation that behaved the same way.
+- **Stable groups.** When the same unit was recorded at different elbow angles, it never switched subpopulation, and the pattern didn't differ between people.
+- **Compensation.** The triceps was activated during supination, offsetting the flexion the biceps produces when it supinates.
+- **Leverage.** Which muscle got the most drive shifted with elbow angle, favoring whichever had the better mechanical advantage at that angle.
+- **Elbow angle and supination.** For biceps units that both tasks could recruit, the supination threshold relative to the flexion threshold rose as the elbow straightened: 0.18 at 100°, 0.28 at 130° and 0.51 at 160° (180° is a straight arm). This fits the biceps' supination moment arm shrinking as the elbow straightens.
+[van Zuylen 1988](https://pubmed.ncbi.nlm.nih.gov/3199172/)
+→ [[Neuromechanical matching]]
+
+### Combining flexion and supination
+
 The biceps is also a forearm supinator, with some motor units dedicated to that job. Both heads were activated most when flexing and supinating at the same time, more than either task alone.
+[Pérot 1996](https://pubmed.ncbi.nlm.nih.gov/20719658/)
+
+The study recorded surface EMG from both heads in 10 people doing slowly rising isometric contractions. In five of them, both heads were notably more active during supination than during flexion, and peak activity in flexion could be less than half of peak activity in supination. When flexing or supinating alone, the balance between the long and short heads varied from person to person. When doing both at once, the two heads were activated about equally in everyone. For most people, the maximal flexion and supination torques in the combined task matched those in the single tasks. The authors concluded that combined tasks spread motor unit recruitment more widely and are the way to fully activate a muscle with two functions.
 [Pérot 1996](https://pubmed.ncbi.nlm.nih.gov/20719658/)
 
 So starting each curl with the palm facing in (neutral) and turning it up (supinating) as you lift may involve the biceps more. A separate forearm supination exercise would work better, however.

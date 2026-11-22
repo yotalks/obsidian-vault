@@ -157,6 +157,7 @@ Across Mayo sites in several states, people fully vaccinated with Moderna had ab
 ## Connections
 **Builds on**
 - [[Vaccine safety]] — the wider evidence on vaccine safety concerns
+- [[COVID-19 lockdowns]] — vaccines were the endpoint lockdowns were buying time for
 
 **Feeds into**
 - [[Vaccine spike protein]] — trial outcomes that would capture any harm from vaccine spike protein

@@ -81,17 +81,22 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Livestock and climate change]] — warming and dietary footprints
 - [[Lab-grown meat]] — production, impact and alternatives
 
+## Dental
+- [[Dental caries]] — mechanism, fluoride and flossing evidence, and bacterial replacement therapy
+
 ## Other health
 - [[Saunas]] — fertility outcomes
 - [[Minoxidil]] — mechanism of action and safety
 - [[Hair loss]] — finasteride, steroids and creatine
 - [[Sun exposure and sunscreen]] — skin cancer, aging, sunscreen choice and tanning
+- [[Collagen supplements]] — skin aging trials without protein-matched controls, and burns
 - [[ADHD and mortality]] — mortality and medication associations
 - [[Height and lifespan]] — height, cancer and heart disease, and growth hormone in children
 
 ## Infectious disease
 - [[COVID-19 vaccine safety]] — excess deaths, VAERS, coding lags, myocarditis and fertility
-- [[COVID-19 early treatments]] — fluvoxamine, proxalutamide and pooled analyses
+- [[COVID-19 lockdowns]] — the hammer and dance, recessions and mortality, and undercounted deaths
+- [[COVID-19 early treatments]] — fluvoxamine, proxalutamide, hydroxychloroquine and pooled analyses
 - [[Ivermectin for COVID-19]] — mortality meta-analyses with and without questionable trials
 - [[COVID and erectile dysfunction]] — causal evidence and limitations
 - [[Vaccine safety]] — common concerns and observed risks
