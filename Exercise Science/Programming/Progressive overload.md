@@ -21,7 +21,7 @@ In 26 men training leg extensions to failure for 6 weeks, 80% and 30% of 1RM gre
 
 ## Six adaptations behind maximum strength
 
-1. **Coordination:** the joints producing the movement work together more efficiently → [[Improvements in coordination traits]].
+1. **Coordination:** the joints producing the movement work together more efficiently → [[Coordination adaptations and training#Adaptation traits|Improvements in coordination traits]].
 2. **Less antagonist coactivation:** the opposing muscle at each joint brakes less.
 3. **Recruiting high-threshold motor units:** more agonist fibers activated in maximal efforts → [[Increasing motor unit recruitment]].
 4. **Thicker and longer fibers:** more actin-myosin cross bridges per fiber → [[Sarcomerogenesis]].
@@ -32,7 +32,7 @@ In 26 men training leg extensions to failure for 6 weeks, 80% and 30% of 1RM gre
 
 Coordination improves first, in the first days and weeks. In 15 men doing maximal isometric dorsiflexions, force and muscle activity stabilized within the first 10 attempts, and force was 11% higher 3 days later.
 [Green 2014](https://pubmed.ncbi.nlm.nih.gov/24552367/)
-→ [[Improvements in coordination traits]]
+→ [[Coordination adaptations and training#Adaptation traits|Improvements in coordination traits]]
 
 The ability to recruit high-threshold motor units also improves quickly, but only once coordination is good enough. After 4 weeks of isometric knee extension training, maximal force rose 20% in the trained leg and 8% in the untrained leg. Agonist muscle activity rose 26% in the trained leg, while antagonist coactivation fell in both legs.
 [Tillin 2011](https://pubmed.ncbi.nlm.nih.gov/21319165/)
@@ -84,5 +84,5 @@ Four weeks of intense knee extensor training raised the capillary-to-fiber ratio
 
 ## Connections
 **Builds on**
-- [[Improvements in coordination traits]] — coordination, the adaptation that improves first
+- [[Coordination adaptations and training#Adaptation traits|Improvements in coordination traits]] — coordination, the adaptation that improves first
 - [[Tendon adaptation]] — tendon stiffening, one of the adaptations that plateaus within a couple of months

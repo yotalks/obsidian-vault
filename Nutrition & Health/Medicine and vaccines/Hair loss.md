@@ -39,7 +39,7 @@ Starting prevention before a cycle works better than trying to regrow hair after
 5-alpha reductase inhibitors like finasteride and dutasteride only help against steroids that 5-alpha reductase converts into a stronger androgen, the way it turns testosterone into DHT. Nandrolone works the other way: in androgenic tissue it's converted into 5α-dihydro-19-nortestosterone, which binds the androgen receptor more weakly than nandrolone itself. Blocking that conversion would leave more of the stronger parent steroid in the scalp, so a 5-alpha reductase inhibitor could in principle speed up hair loss on nandrolone.
 [Kicman 2008](https://pubmed.ncbi.nlm.nih.gov/18500378/)
 
-→ [[Anabolic Androgenic Steroids]]
+→ [[AAS chemistry|Anabolic Androgenic Steroids]]
 
 ## Creatine
 

@@ -22,7 +22,7 @@ Changes in the relative IMALs of all the muscles at a joint are the last reason 
 ## Training methods to fix sticking points
 
 Improvements in technique to reduce EMAL in sticking region can be done by doing deliberate practice with feedback with the absence of fatigue and using an external focus of attention.
-→ [[Techniques to improve coordination]]
+→ [[Coordination adaptations and training#Training techniques|Techniques to improve coordination]]
 
 Increasing joint angle-specific [[Glossary#MUR|MUR]] can also help and can be achieved with maximum effort isometrics at the start of the sticking region
 [Garbisu-Hualde 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10203844/)
@@ -176,7 +176,7 @@ A systematic review found the anterior and middle deltoid had the largest elevat
 
 ## Connections
 **Builds on**
-- [[Techniques to improve coordination]] — fixing the bar path uses deliberate practice without fatigue and an external focus
+- [[Coordination adaptations and training#Training techniques|Techniques to improve coordination]] — fixing the bar path uses deliberate practice without fatigue and an external focus
 - [[Increasing motor unit recruitment]] — max-effort isometrics in the sticking region raise recruitment there
 - [[Internal moment arm]] — long external and shrinking internal moment arms create sticking regions
 

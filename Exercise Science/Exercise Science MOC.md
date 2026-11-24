@@ -77,10 +77,13 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Creatine Supplementation]] — fatigue, swelling and growth
 - [[Carbohydrate mouth rinsing]] — performance and central fatigue
 - [[Anabolic Androgenic Steroids]] — growth signals and tendon effects
+  - [[AAS chemistry]] — steroid structures and metabolism
+  - [[AAS mechanisms and blood testing]] — mechanisms and monitoring
+  - [[AAS organ and tissue effects]] — tendons, heart and kidneys
 - [[Testosterone and aggression]] — correlations, the supraphysiological trial and genetic evidence
 
 ## 9. Skill, speed and leverage
-- [[Improvements in coordination traits]] → [[Techniques to improve coordination]]
+- [[Coordination adaptations and training]] — specificity, practice, attentional focus and autonomy
 - [[Bilateral force deficit]] — force in one- vs two-limb efforts and what training studies found
 - [[Increasing speed]] — coordination, recruitment and contraction speed
 - [[Fiber type shifts]] — calcium and slower fiber types

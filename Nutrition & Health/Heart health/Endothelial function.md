@@ -59,7 +59,7 @@ In 10 healthy people given 900-calorie meals with 50 g of fat, olive oil cut FMD
 [Vogel 2000](https://pubmed.ncbi.nlm.nih.gov/11079642/)
 
 This is one small study, and a drop in FMD doesn't tell us about long-term outcomes. Mediterranean diets rich in olive oil do improve FMD over the long term.
-→ [[Lifestyle Heart Trial]]
+→ [[Plant based diet CVD reversal#Lifestyle Heart Trial outcomes|Lifestyle Heart Trial]]
 
 ### Triglycerides
 

@@ -9,6 +9,7 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Satiation]]
 - [[Fiber]]
 - [[GLP 1s]]
+  - [[GLP-1 drugs in children]] — childhood weight loss, growth and height
 - [[Bariatric surgery]] — long-term weight loss, outcomes and how it compares with dieting
 - [[Injectable fat reduction]] — CBL-514 and Kybella for spot fat removal
 - [[Low-carb diets]] — diet comparisons
@@ -61,7 +62,6 @@ Diet, appetite, weight-loss drugs, veganism, and organic food. See the [[Knowled
 - [[Omega-3 supplementation]] — cardiovascular and pregnancy outcomes
 - [[Coronary plaque regression]] — how much statins shrink plaque on angiograms, and why angiograms understate it
 - [[Plant based diet CVD reversal]] — progression, events and reversal claims
-  - [[Lifestyle Heart Trial]] — ejection fraction, perfusion, flow reserve and endothelial function in Ornish's trials
 - [[Stents and revascularization]] — stable disease, stent-era trials and acute coronary syndromes
 - [[Endothelial function]] — flow-mediated dilation, high-fat meals and whether it predicts heart disease
 - [[Statin survival gains]] — what postponement of death does and doesn't show

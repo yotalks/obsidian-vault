@@ -263,12 +263,13 @@
   {
    "id": "Improvements in coordination traits",
    "type": "file",
-   "file": "Exercise Science/Strength and performance/Improvements in coordination traits.md",
+   "file": "Exercise Science/Strength and performance/Coordination adaptations and training.md",
    "x": 60,
    "y": 1490,
    "width": 300,
    "height": 90,
-   "color": "2"
+   "color": "2",
+   "subpath": "#Adaptation traits"
   },
   {
    "id": "Proximal-to-distal sequence",
@@ -373,12 +374,13 @@
   {
    "id": "Techniques to improve coordination",
    "type": "file",
-   "file": "Exercise Science/Strength and performance/Techniques to improve coordination.md",
+   "file": "Exercise Science/Strength and performance/Coordination adaptations and training.md",
    "x": 480,
    "y": 1360,
    "width": 300,
    "height": 90,
-   "color": "2"
+   "color": "2",
+   "subpath": "#Training techniques"
   },
   {
    "id": "Vertical jump height",
@@ -1053,12 +1055,13 @@
   {
    "id": "Lifestyle Heart Trial",
    "type": "file",
-   "file": "Nutrition & Health/Heart health/Lifestyle Heart Trial.md",
+   "file": "Nutrition & Health/Heart health/Plant based diet CVD reversal.md",
    "x": 60,
    "y": 5125,
    "width": 300,
    "height": 90,
-   "color": "4"
+   "color": "4",
+   "subpath": "#Lifestyle Heart Trial outcomes"
   },
   {
    "id": "B12 to livestock",

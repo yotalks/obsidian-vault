@@ -29,13 +29,13 @@ The nervous system also controls strength and speed differently. Force is graded
 There are 5 adaptations for speed that can be affected by training: 1. improvements in coordination, 2. increases in motor firing rate, 3. increases in motor unit recruitment, 4. reductions in antagonist coactivation, and 5. increases in muscle fiber maximum shortening speed. These determinants are mostly very different to the adaptations of maximum strength.
 
 Improvements in coordination contribute to increases in speed because it increases the efficiency of the movement happening. We improve coordination by performing a specific movement in a more well-coordinated way than the motor program that the brain already has. The brain notices that the movement was more efficient and updates the pattern for future use. Improvements in coordination are very specific to the task being practiced. This specificity 8includes the velocity of the movement. So, if we want to increase speed by increasing coordination, we have to practice the exercise as fast as we can.
-[[Improvements in coordination traits]]
+[[Coordination adaptations and training#Adaptation traits|Improvements in coordination traits]]
 
 Data on coordination improvements by testing the effects of familiarization sessions has found it is incredibly velocity specific.
 [[Coburn 2006]]
 
 We can in practice maximize the improvements that we get in a practice session by maximizing the efficiency of the exercise we are doing. This gives the brain the best possible motor program to copy. Various techniques are available to help us maximize coordination in training.
-[[Techniques to improve coordination]]
+[[Coordination adaptations and training#Training techniques|Techniques to improve coordination]]
 
 Improvements in the ability to recruit high-threshold motor units of a muscle contributes to increases in speed, because the newly-recruited high-threshold motor units will have to mainly control muscle fibers of the fastest fiber type (type IIX). Thus, increasing the ability to access high-threshold motor units increases the average muscle fiber shortening speed of the muscle fibers in a muscle.
 [Enoka 2001](https://pubmed.ncbi.nlm.nih.gov/11150961/)
@@ -80,7 +80,7 @@ All in all, speed can increase through multiple adaptations. All of these adapta
 ## Connections
 **Builds on**
 - [[Calcium ion-related fatigue]] — avoiding calcium build-up protects fast fiber types
-- [[Improvements in coordination traits]] — speed gains from coordination require fast practice
-- [[Techniques to improve coordination]] — how to get the coordination part of speed
+- [[Coordination adaptations and training#Adaptation traits|Improvements in coordination traits]] — speed gains from coordination require fast practice
+- [[Coordination adaptations and training#Training techniques|Techniques to improve coordination]] — how to get the coordination part of speed
 - [[Increasing motor unit recruitment]] — recruiting high-threshold units raises average fiber speed
 - [[Fiber type shifts]] — why sets near failure shift fibers toward slower types

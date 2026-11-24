@@ -56,7 +56,7 @@ Few long-term studies have tracked these alongside stiffness. In older adults, h
 
 ## Connections
 **Feeds into**
-- [[Anabolic Androgenic Steroids]] — why steroids, by suppressing collagen breakdown, block tendon stiffening
+- [[AAS organ and tissue effects|Anabolic Androgenic Steroids]] — why steroids, by suppressing collagen breakdown, block tendon stiffening
 - [[Age and adaptations]] — older adults need the same heavy loads to stiffen tendons
 - [[Progressive overload]] — how tendon stiffness contributes to maximum strength
 - [[Strength training for team sports]] — the trade-off between tendon injury protection and stretch-shortening function

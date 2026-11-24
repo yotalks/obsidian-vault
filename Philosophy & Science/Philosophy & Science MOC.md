@@ -10,7 +10,8 @@ Arguments about religion and science.
 - [[Flat Earth]] — star-rotation evidence
 - [[Young Earth]] — starlight and age
 - [[Definitions]] — coherence and truth claims
-- [[Metaethics]] — moral realism, natural law, axioms and the is-ought problem
+- [[Metaethics]] — moral realism, natural law and the is-ought problem
+- [[Axioms and justification]] — truth, starting assumptions and bootstrapping
 - [[Naturalism]] — what it claims, the evolutionary argument and miracle claims
 - [[Rule following argument]] — quaddition and whether brain states fix which rule you follow
 - [[Agnosticism and deism]] — belief, certainty and suffering

@@ -45,7 +45,7 @@ In 31 men aged 18–60 with burns over 20–30% of their body surface, a hydroly
 [Bagheri Miyab 2020](https://pubmed.ncbi.nlm.nih.gov/31859087/)
 
 A large burn plausibly creates an enormous demand for new collagen during the proliferative phase of healing, which may be why collagen helps here but not for everyday skin.
-→ [[Anabolic Androgenic Steroids]]
+→ [[AAS organ and tissue effects|Anabolic Androgenic Steroids]]
 
 ## Connections
 **Builds on**
@@ -54,4 +54,4 @@ A large burn plausibly creates an enormous demand for new collagen during the pr
 
 **Feeds into**
 - [[Sun exposure and sunscreen]] — what actually prevents skin aging
-- [[Anabolic Androgenic Steroids]] — collagen deposition in burn healing, where the demand for new collagen is high
+- [[AAS organ and tissue effects|Anabolic Androgenic Steroids]] — collagen deposition in burn healing, where the demand for new collagen is high

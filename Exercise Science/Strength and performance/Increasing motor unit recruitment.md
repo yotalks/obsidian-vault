@@ -36,7 +36,7 @@ Strength training programs can increase our ability to recruit motor units by in
 
 After starting a strength training program, we don't immediately increase our ability to recruit motor units. Strength training programs that only last 4 weeks don't lead to any transferable strength gains from the squat to the leg extension, which tells us that there were no increases in motor unit recruitment. Rather, the neural adaptations must have been increases in coordination. It seems likely that we need to get coordination increases before we can increase motor unit recruitment.
 [[Ansdell 2020]]
-→ [[Improvements in coordination traits]]
+→ [[Coordination adaptations and training#Adaptation traits|Improvements in coordination traits]]
 
 When exercises are perceived to be more complex, they involve a higher level of perceived effort than when they are less complex, even when motor unit recruitment is similar. This means we cannot hit our current maximal levels of motor unit recruitment until we have achieved a relatively high degree of coordination in the exercise we are doing. This tells us that the stimulus for increasing motor unit recruitment is getting a very high level of motor unit recruitment. This obviously means we can't get it till we have obtained a sufficiently high degree of coordination on the movement.
 [[Kan 2019]]
@@ -70,7 +70,7 @@ We can likely increase our ability to recruit motor units by maximizing the leve
 **Builds on**
 - [[Supraspinal CNS fatigue]] — fatigue from light-load sets stops recruitment reaching its maximum
 - [[Mechanical tension]] — high recruitment is needed so fibers experience tension
-- [[Improvements in coordination traits]] — early strength gains are coordination; recruitment only improves once the movement is well coordinated
+- [[Coordination adaptations and training#Adaptation traits|Improvements in coordination traits]] — early strength gains are coordination; recruitment only improves once the movement is well coordinated
 
 **Feeds into**
 - [[Insufficient Sleep]] — lower recruitment means high-threshold fibers go untrained
