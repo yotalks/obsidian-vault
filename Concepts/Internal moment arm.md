@@ -10,7 +10,7 @@ The perpendicular distance from a muscle's line of pull to the joint's center of
 **Feeds into**
 - [[Sticking points in powerlifting]] — long external and shrinking internal moment arms create sticking regions
 - [[Creatine Supplementation]] — a swollen muscle bulges further from the bone, lengthening its moment arm
-- [[Running Economy]] — hypertrophy lengthens moment arms, so running needs less activation
+- [[Strength training for endurance athletes#Running economy|Running Economy]] — hypertrophy lengthens moment arms, so running needs less activation
 - [[Squat patterns]] — explains why bar position and knee travel change which muscles do the work
 - [[Neuromechanical matching]] — mechanical advantage is the internal moment arm, which decides which motor units get neural drive
 - [[Muscle size and leverage]] — anything that widens a muscle pushes it from the bone and lengthens its moment arm

@@ -93,7 +93,8 @@ Counted across the whole farm, it isn't a net carbon sink: net emissions were ab
 
 Getting to that −4.4 means crediting nearly all of the farm's soil carbon to the cattle. Crediting 75% of it to them instead gives net emissions of about 5.1 kg CO2e per kg of carcass weight, which is 1.5 times the Beyond Burger's 3.4 kg.
 ![[White Oak Pastures 75% sequestration vs Beyond Burger.png]]
-[Avi's White Oak Pastures thread](https://x.com/AviBittMD/status/1336498537060839426)
+Worked from the farm's emissions and sequestration figures and the Beyond Burger footprint.
+[Rowntree 2020](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2020.544984/full#F2) · [Heller 2018](https://css.umich.edu/sites/default/files/publication/CSS18-10.pdf)
 
 ### Herd productivity
 

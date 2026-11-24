@@ -18,6 +18,23 @@ A 2019 city law requires the end of incarceration on Rikers Island by August 31,
 On November 20, 2026, Mamdani released a plan moving the deadline to December 31, 2032, which needs City Council approval.
 [AP 2026](https://www.pbs.org/newshour/nation/mamdani-sets-plan-to-close-nycs-notorious-rikers-island-jail-by-2032)
 
+## How the 2027 deadline became unworkable
+
+The borough jails fell years behind schedule, mostly because construction stopped during the pandemic and never resumed at pace under Mayor Adams. The projected cost roughly doubled, from about $8 billion to about $16 billion. By late 2025 Rikers held about 7,100 detainees, against the 4,160 the four borough jails will hold. More than 100 people have died in city jails over the past decade, and in 2025 a federal judge moved toward handing elements of control over the jails to a third-party receiver.
+
+Closing Rikers is the legal default. The 2019 law sets the deadline, so it binds unless the City Council amends it, whether or not replacement capacity exists. That inverts the usual shape of a contested closure: here it takes action to keep the jail open, not to shut it.
+
+At the final mayoral debate on October 22, 2025, the candidates split three ways:
+
+| Candidate | Position on the 2027 deadline |
+| --------- | ----------------------------- |
+| **Mamdani** | Keep it. He would "do everything in my power to try and meet that deadline," because Rikers "is a stain on the history of this city" |
+| **Cuomo** | Unmeetable. Scrap the borough jails and rebuild on the island: "you can't, unless you intend to release all the people on Rikers Island" |
+| **Sliwa** | Keep Rikers open, fight the closure law in court, and convert the borough jails into affordable housing |
+
+The Independent Rikers Commission, which wrote the closure plan, held that the deadline is out of reach but that the city shouldn't change the law until the mayor and City Council produce a detailed plan to shutter the jails. Its chair, former Chief Judge Jonathan Lippman, said "Rikers must close. No delays. No detours."
+[Queens Daily Eagle 2025](https://queenseagle.com/all/2025/10/24/mayoral-candidates-spar-over-future-of-rikers-island)
+
 ## Capacity
 
 | Facility                             | Beds  | Opens |

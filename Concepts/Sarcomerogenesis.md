@@ -24,7 +24,10 @@ The static stretching literature shows that sarcomere addition only continues to
 → [[Mechanical tension]]
 
 Surgical limb lengthening (distraction) has been studied extensively in animal models and has been shown to produce the addition of sarcomeres. Importantly, this literature again shows that the addition of sarcomeres is dependent upon sarcomere length and not upon muscle length.
-[Zöllner 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3462200/)
+[Zöllner 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3462200/) · [Caiozzo 2002](https://pubmed.ncbi.nlm.nih.gov/12394462/)
+
+Lengthening the muscle is therefore not sufficient on its own. The addition works as a negative feedback loop: stretch raises sarcomere length, sarcomeres are added, and each one added brings resting sarcomere length back down, which removes the stimulus until the muscle is stretched further.
+[Caiozzo 2002](https://pubmed.ncbi.nlm.nih.gov/12394462/)
 
 ## Eccentric training
 
@@ -50,6 +53,9 @@ Given the robust increase in MPS rates, it's not surprising that sarcomere addit
 
 Sarcomerogenesis appears to be more dependent upon the presence of satellite cells compared to muscle fiber hypertrophy. Depleting satellite cells greatly reduces the number of sarcomeres that can be added after detraining but doesn't similarly affect the number of myofibrils that can be added. The nature of the new sarcomeres as new structures may require more building blocks from the satellite cells than simply adding more myofibrils inside existing structures.
 [Emara 2020 (commentary)](https://pubmed.ncbi.nlm.nih.gov/32118609/)
+
+Titin is the detector of the stimulus as well as its source. Its stiffness is tuned by chaperone binding, oxidation, phosphorylation and calcium binding, and changes in titin-based force can alter signalling inside the cell, so both the production and the sensing of the stimulus happen within the single fiber → [[Fiber-specific muscle growth]].
+[Freundt 2019](https://pubmed.ncbi.nlm.nih.gov/30521425/)
 
 ## Connections
 **Builds on**

@@ -46,6 +46,19 @@ A computer model of muscle growth driven by passive stretch predicted that after
 Sarcomerogenesis happens preferentially where fibers lengthen the most during eccentric contractions. In rabbits given 6 weeks of eccentric exercise with identical whole-muscle stretch, sarcomere addition differed between protocols and wasn't uniform across the muscle. It was best predicted by peak torque and fiber strain, not by how much the whole muscle-tendon unit stretched.
 [Butterfield 2006](https://pubmed.ncbi.nlm.nih.gov/16133258/)
 
+Both the producer and the detector of that passive tension sit inside the fiber. Passive tension in whole muscle matches the passive tension of single fibers stripped of their surrounding collagen, so it comes from the myofibrils rather than the extracellular matrix → [[Passive tension during static stretching]].
+[Magid 1985](https://pubmed.ncbi.nlm.nih.gov/4071053/)
+
+Titin is the sensor as well as the spring. Its stiffness is tuned by chaperone binding, oxidation, phosphorylation and calcium binding, and altering titin-based force can change signalling inside the cell, which makes it a mechanosensor rather than just a passive elastic element.
+[Freundt 2019](https://pubmed.ncbi.nlm.nih.gov/30521425/)
+
+Lengthening a muscle isn't enough by itself. In limb lengthening by distraction, sarcomeres are added in a negative feedback loop responding to stretch, so each sarcomere added shortens resting sarcomere length and reduces the stimulus → [[Beginners vs intermediates]].
+[Caiozzo 2002](https://pubmed.ncbi.nlm.nih.gov/12394462/)
+
+## Why whole muscle length doesn't predict either adaptation
+
+Because both stimuli are detected fiber by fiber, how far the whole muscle lengthens or shortens doesn't settle whether a given fiber adapts. If a muscle's fiber architecture means some fibers lengthen little while the muscle as a whole is stretched in a particular direction, those fibers add no sarcomeres. The same holds for thickening: a fiber that isn't recruited gets no active tension however hard the muscle around it works. This is why regional differences appear within a single muscle after a program that loads and stretches all of it the same amount → [[Partial vs full range of motion]].
+
 ## Connections
 **Builds on**
 - [[Mechanical tension]] — the active and passive tension each fiber senses for itself

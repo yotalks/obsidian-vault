@@ -15,10 +15,9 @@ up: "[[Nutrition & Health MOC]]"
 ### No protein-matched controls
 
 In the randomized trials of collagen for skin, the placebos are non-protein substances like maltodextrin, lactose or water with preservatives and flavorings. Collagen supplements add protein, typically 2.5–10 g a dose in skin studies, and no trial reports equating total protein intake between groups. So these trials can't show that collagen does anything an extra serving of any other protein wouldn't. Most proteins contain meaningful amounts of the same amino acids collagen does.
-[Bitterman 2025](https://x.com/AviBittMD/status/1952532151309648128)
 
-Protein-matched designs aren't impossible. Trials of collagen for muscle protein synthesis and joint health have used isonitrogenous controls such as whey, but none exist for skin outcomes.
-[Bitterman 2025](https://x.com/AviBittMD/status/1952533487006695885)
+Protein-matched designs aren't impossible. Trials of collagen for muscle protein synthesis and joint health have used isonitrogenous controls such as whey, but none exist for skin outcomes. In a crossover trial in endurance-trained adults, α-lactalbumin was compared against an isonitrogenous quantity of collagen peptides, 20 g after exercise and 40 g before sleep, on a controlled 1.0 g/kg/day protein intake.
+[Oikawa 2020](https://pubmed.ncbi.nlm.nih.gov/31895298/)
 
 ### The meta-analyses
 
@@ -34,7 +33,6 @@ The errors included:
 - Inconsistent effect sizes and incorrect numbers of subjects
 
 The underlying trials were mostly small and short, typically 8–12 weeks. Many didn't track other skincare, procedures or usual protein intake, some gave little detail about the placebo, and few defined how large a change would matter to patients. Elasticity and hydration readings are short-term proxies, so a change in them doesn't establish a visible or lasting effect on skin aging.
-[Bitterman 2026](https://x.com/AviBittMD/status/2106272650377023587)
 
 ## Burns
 
@@ -47,7 +45,6 @@ In 31 men aged 18–60 with burns over 20–30% of their body surface, a hydroly
 [Bagheri Miyab 2020](https://pubmed.ncbi.nlm.nih.gov/31859087/)
 
 A large burn plausibly creates an enormous demand for new collagen during the proliferative phase of healing, which may be why collagen helps here but not for everyday skin.
-[Bitterman 2026](https://x.com/AviBittMD/status/2110572557866864649)
 → [[Anabolic Androgenic Steroids]]
 
 ## Connections

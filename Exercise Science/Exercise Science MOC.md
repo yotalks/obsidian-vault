@@ -88,7 +88,7 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Strength training for endurance athletes]] — fatigue, tendon stiffness and sport needs
 - [[Stretch-shortening cycle]] — why a countermovement boosts concentric output
 - [[Proximal-to-distal sequence]] → [[Vertical jump height]], [[Sprint speed]], [[Throwing speed]] — joint roles and training demands
-- [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Running Economy]], [[Squat patterns]]
+- [[Internal moment arm]] → [[Sticking points in powerlifting]], [[Strength training for endurance athletes#Running economy|Running Economy]], [[Squat patterns]]
 - [[Muscle size and leverage]] — size and moment arms
 - [[Sarcomerogenesis increases strength]] — how sarcomeres in series could add force
 

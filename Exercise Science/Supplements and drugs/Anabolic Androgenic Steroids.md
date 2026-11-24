@@ -5,7 +5,7 @@ tags:
 up: "[[Exercise Science MOC]]"
 ---
 > [!summary] Bottom line
-> Testosterone increased muscle size in trials with and without resistance training. Tendon ruptures were more common among steroid users in a bodybuilder cohort. During AAS use, a prospective study found increased heart mass and reduced pumping function. In that same prospective cohort, hematocrit, blood pressure and blood lipids all moved unfavorably during a cycle and returned to baseline about three months after stopping.
+> Testosterone increased muscle size in trials with and without resistance training. Across 25 to 600 mg a week, fat-free mass rose with dose and was still rising at the highest dose ever tested, so where the curve tops out is unknown and any figure for the dose giving half the maximum is an assumption rather than a measurement. Tendon ruptures were more common among steroid users in a bodybuilder cohort. During AAS use, a prospective study found increased heart mass and reduced pumping function. In that same prospective cohort, hematocrit, blood pressure and blood lipids all moved unfavorably during a cycle and returned to baseline about three months after stopping.
 
 ## Muscle
 
@@ -33,9 +33,448 @@ Animal limb-immobilization work is the cleanest separation of the two. AAS-treat
 
 Muscle fibers will grow until they reach the size associated with that dose. We know this because those on TRT from early in life don't end up like Olympia level competitors decades down the line.
 
-Binding affinity describes how tightly a compound binds. Receptor occupancy is the fraction of receptors bound at a given time, which also depends on the free drug concentration in muscle. The testosterone dose-response trial above found greater gains in muscle size at higher doses.
+Binding affinity describes how tightly a compound binds. Receptor occupancy is the fraction of receptors bound at a given time, which also depends on the free drug concentration in muscle.
+[Barley 1975 - rat brain and pituitary receptor binding](https://pubmed.ncbi.nlm.nih.gov/172193/)
+[Roselli 1998 - rat brain receptor binding and aromatase activity](https://www.sciencedirect.com/science/article/abs/pii/S0006899398001486)
 
-### Energy intake and recovery
+The testosterone dose-response trial above found greater gains in muscle size at higher doses.
+
+### Testosterone dose-response
+
+Two trials ran the same design: 20 weeks of weekly testosterone enanthate at 25, 50, 125, 300 or 600 mg, endogenous production suppressed with a GnRH agonist, and no resistance training. One used 61 men aged 18–35, the other 60 men aged 60–75. Nadir total testosterone in the young men was 253, 306, 542, 1,345 and 2,370 ng/dL across the five doses. Change in fat-free mass, in kg:
+
+| Weekly dose | Young, underwater | Young, DEXA | Older, DEXA | Older, underwater |
+| ----------- | ----------------- | ----------- | ----------- | ----------------- |
+| **25 mg**   | −1.0              | −0.4        | −0.3        | −0.8              |
+| **50 mg**   | −0.6              | +1.1        | +1.7        | +1.4              |
+| **125 mg**  | +3.4              | +2.9        | +4.2        | +4.5              |
+| **300 mg**  | +5.2              | +5.5        | +5.6        | +4.8              |
+| **600 mg**  | +7.9              | +8.9        | +7.3        | +6.7              |
+
+[Bhasin 2001](https://pubmed.ncbi.nlm.nih.gov/11701431/) · [Bhasin 2005](https://pubmed.ncbi.nlm.nih.gov/15562020/)
+
+The low arms were below replacement. The GnRH agonist shut down endogenous production, so at 25 and 50 mg the men sat at or under their own baseline and fat-free mass fell or barely moved. The bottom of this curve is a suppressed state rather than an untreated one, which is why a percentage of maximum has no natural zero to count from.
+
+Older men responded as much as young men. After adjusting for testosterone levels there was no age effect on the change in fat-free mass, by DEXA or by underwater weighing. In those older men, 125 mg a week gave 4.2 kg of fat-free mass and 28 kg of leg press strength at high-normal testosterone levels with few adverse events, which the authors called the best trade-off between anabolic effects and adverse events. Three older men on 300 mg were discontinued: one for hematocrit above 54%, one for hematocrit above 54% with leg edema, and one for hematocrit above 54% with PSA above 4 ng/ml.
+[Bhasin 2005](https://pubmed.ncbi.nlm.nih.gov/15562020/)
+
+#### Half of maximum
+
+A common claim is that around 250 mg a week delivers about half the muscle available from any dose. A halfway point needs a ceiling, and no trial has gone above 600 mg. At 600 the curve is still climbing, with 300 to 600 adding another 2.5 kg in young men.
+
+Fitting a saturating curve to all 20 published points leaves the ceiling nearly free, because curves with different ceilings only separate past 600 mg, where there is nothing to fit them against:
+
+| Assumed ceiling | Half-maximal dose | Residual sum of squares |
+| --------------- | ----------------- | ----------------------- |
+| **10 kg**       | ~260 mg           | 22.3                    |
+| **14 kg**       | ~480 mg           | 18.8                    |
+| **20 kg**       | ~870 mg           | 21.0                    |
+
+Fitting each of the four published series on its own gives half-maximal doses from about 50 to about 480 mg, and the two that disagree most are underwater weighing and DEXA applied to the same 61 men.
+
+The trial authors tested a saturating model directly. They compared a linear model, a logarithmic model and a growth model, and reported that the logarithmic model fit the data best. A logarithmic curve has no ceiling, so on the authors' own preferred fit there is no maximum to take half of.
+[Bhasin 2001](https://pubmed.ncbi.nlm.nih.gov/11701431/)
+
+So 250 mg follows from assuming a low ceiling rather than from a measurement. → [[Evidence hierarchy]]
+
+### Steroid chemistry
+
+AAS are all organic compounds made from multiple carbon, oxygen, and hydrogen atoms. Organic compounds often structure themselves in complex arrangements. One common feature is the formation of carbon rings. These rings are described by the number of carbon atoms that they are formed from. For example, a cyclohexane ring is comprised of 6 carbons and a cyclopentane ring is comprised of 5 carbons. Adjacent rings can fuse together easily by sharing 2 carbon atoms and the bond between them.
+
+### Testosterone
+
+Testosterone is made up of 3 cyclohexane rings and 1 cyclopentane ring connected in a string, with a cyclopentane ring on one end. The string is termed a sterane skeleton.
+[Ruzicka and Wettstein 1935](https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.193501801176)
+![[Pasted image 20261123115216.png]]
+
+Each of the rings is lettered A-D and each carbon atom in the sterane skeleton is numbered, starting from the first cyclohexane on the left-hand side (C1, C2, C3, C4, C5, and C10), followed by the second cyclohexane (C5-C10), the third cyclohexane (C8, C9, C11-14), and the cyclopentane (C13-17). 
+
+On top of this basic skeleton, there are 4 other key features.
+
+Methyl groups: There are 2 further carbons connected to the sterane nucleus at C10 and C13 within methyl groups (CH3). This means testosterone comprises of 19 carbon atoms. Some testosterone-based steroids only have one methyl group deleted. They are referred to as 19-nor compounds because they were originally C19 steroids but without the C19 carbon due to modification.
+
+Hydroxyl group: Testosterone has a hydroxyl group at C17. Since it points upwards towards you, it's often written C17β (C17α would mean that it pointed away from you). This hydroxyl group enables oxidation to happen more easily in the liver. It also allows a starting point for esterification modifications that chemists like to make to extend the half lives of synthetic AAS.
+
+Ketone: Testosterone has a double bonded oxygen atom with C3 (called a ketone).
+
+Unsaturated A-ring: There is a double bond between the C4 and C5 atoms, which means the A-ring is unsaturated. Along with the ketone, this facilitates the aromatization and 5a-reduction processes that testosterone and many AAS go through.
+
+### Esterification
+
+One of the main problems of testosterone itself is that it leaves the injection site fast and then goes into the bloodstream which means frequent injections would be needed to keep a stable hormonal state over time. This is why organic chemists frequently attach a carboxylic acid and tail to the steroid to the C17β-OH through a process called esterification. The process increases the affiliation of the steroid for lipids, allowing the steroid to stay at the injection site longer. As the steroid leaves the injection site slowly over time, its carboxylic acid tail is stripped off by esterases in the bloodstream that bring back the C17β-OH.
+
+The most common esters are propionate (3 carbons), enanthate or heptanoate (7 carbons), cypionate (8 carbons), decanoate (10 carbons), and undecanoate (11 carbons). Esters influence how long the AAS will remain in the system after injection, the longer the carboxylic acid tail, the slower it releases.
+
+The length of the carboxylic acid tail has practical implications for drug testing (because longer esters are detected more easily). You would want to use extremely short esters with frequent injections. Stopping AAS use doesn't mean it has left the system yet as it usually takes around 5-6 half lives before it clears. In the case of longer esters, it can take almost 6 months.
+
+The ester also adds mass to the compound without any potency, so 400mg per week of testosterone undecanoate (11 carbons) is a completely different steroid dose to 300mg per week of testosterone propionate (3 carbons). In round numbers, 400 mgs of testosterone propionate gives 332mg testosterone while 400mg of undecanoate gives 248mg. The lighter the ester, the stronger the dose for the same quantity.
+
+Esterification is very simple though and doesn't impact the other modifications like whether it aromatizes, experiences 5a-reduction, or is a 19-nor. All it does is extend how long the AAS stays in the body.
+### 17a-alkylation
+
+AAS are generally not consumable orally. As soon as they're consumed, they go into the portal vein and the liver oxidizes them before they can have any meaningful effects. The oxidation process targets the same location as esterification with 17β-hydroxysteroid dehydrogenase (HSD) enzymes.
+
+But if chemists add a methyl group at C17a (pointing the opposite direction of the hydroxyl group), that blocks the normal enzymatic oxidation process, allowing the compound to produce anabolic and androgenic effects before being oxidized eventually by other oxidative processes and multiple passes through the liver. The benefit is that the AAS can be used orally while the negative is that it becomes a lot more toxic to the liver because it passes through it multiple times before it's eliminated. For example, the simplest 17a-alkylated AAS is methyltestosterone which is just testosterone with an extra methyl group at C17.
+[Ruzicka 1935](https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.193501801203)
+![[Pasted image 20261123121723.png]]
+
+17a-alkylation is another simple process that doesn't impact other modifications. It just makes an AAS orally bioavailable.
+
+### 5a-reduction
+
+Aromatization is the process where aromatase converts testosterone into estradiol. This process happens naturally in the body all the time, but obviously with supraphysiological levels of AAS, then this can lead to supraphysiological levels of estradiol, which can have negative side effects. But this only happens when the underlying AAS can be aromatized. Aromatase converts testosterone into estradiol by collapsing an unsaturated A-ring into an aromatic phenol. Aromatization needs 2 characteristics, double bonded carbons on the A-ring at C4-5 adjacent to the double bonded carbon ketone at C3 forming an enone, and a methyl group at C19.
+
+Generally, the easiest way to avoid aromatization is to go through 5a-reduction beforehand. 5a-reduced compounds have fully saturated A-rings so they can't be aromatized into estradiol. Even then, 5a-reduced compounds function like DHT in the body, meaning they have very androgenic effects on the skin, hair, and prostate. DHT is a great example of what happens after 5a-reduction because it's the 5a-reduced version of testosterone itself. It's chemically identical to testosterone but with a double bonded carbon atoms in the A ring removed.
+
+![[Pasted image 20261123122338.png]]
+
+The structural features that allow 5a-reduction are similar to those needed for aromatiztion. Like aromatization, 5a-reduction needs double bonded carbons on the A-ring at the C4-5 adjacent to the double bonded carbon at C3. And while 5a-reduction doesn't need the methyl group at C19, it's very picky about other features of the steroid like it requires a relatively clear A-ring, especially at C1a and C2a. The presence of any methyl groups sticking off the A-ring in those spots can block 5a-reduction even when they don't block aromatization. Similarly, 5a-reduction also responds pretty poor to the multiple double bonds that trenbolone has across its A-ring, B-ring, and C-ring. The wide extent of that electron delocalization makes the compound far too stable to experience 5a-reduction.
+[Schänzer 1996 - steroid metabolic pathways](https://pubmed.ncbi.nlm.nih.gov/8674183/)
+[Fragkaki 2009 - structural classes and metabolic pathways](https://pubmed.ncbi.nlm.nih.gov/19429460/)
+
+### 19-nors
+
+The least common modification of testosterone is the removal of the C19 atom. The most famous examples of this are nandrolone (Deca) and trenbolone. Nandrolone is just testosterone with the C19 carbon taken off and no other adjustments. While the downstream consequences are pretty unpredictable and very weird in places, there are 3 main upstream effects of removing C19.
+
+Androgen receptor geometry changes: C19 normally sits between the rest of the steroid and the androgen receptor. When it is removed, the steroid gets closer to the androgen receptor, which increases its affinity. We might expect that to produce more androgenic effects in certain tissues, but it doesn't. Generally androgenic effects in tissues are mediated through the intracrine conversion of androgens by 5a-reduction into DHT. But nandrolone is 5a-reduced to DHN, which is weaker than nandrolone itself. So despite having greater androgen receptor affinity, nandrolone actually displays weaker androgenic properties. This means that while nandrolone does get 5a-reduced, it doesn't really display many signs of it in terms of downstream side effects. Knowing this allows us to understand why 5areductase blockers like finasteride are a poor option for nandrolone. They stop nandrolone from converting into DHN and this makes hair side effects worse.
+
+Aromatase becomes weird: Aromatization involves the removal of the C19 methyl group. Since 19-nor compounds don't have C19, they can't be aromatized conventionally. In practice, nandrolone can be aromatized (though slowly), while trenbolone can't at all.
+
+Progesterone receptor affinity appears: By removing the C19 carbon, the B-ring and C-ring surfaces that nandrolone and trenbolone present are similar enough to progesterone for these AAS to bind with progesterone receptors. Nandrolone has weaker affinity for progesterone receptors than progesterone itself. The affinity of trenbolone for progesterone receptors is probably similar to that of progesterone itself. Important thing to note is that in post-menopausal women with declining estrogen, progesterone provokes a lot of oxidative stress. Since the average male AAS user has low estrogen (at least compared to the average female), we might expect progesterone to have a similar effect. Rodent studies testing the side effects of nandrolone very often find oxidative stress killing neurons in the brain a ton, especially in those related to handling dopamine. Since dopamine is involved in managing libido, "Deca dick" might be caused by progesterone.
+
+In practice, you can see that the most popular 19-nor compounds (nandrolone and trenbolone) are very different despite having a lot in common. Nandrolone displays very light aromatization, giving low estradiol output. It also mildly converts into DHN, which softens its androgenic effects. While trenbolone doesn't aromatize at all and produces no estradiol and acts a lot like DHT in local tissues despite not being converted into anything else. This means nandrolone is very anabolic for the estrogenic and androgenic side effects it produces while trenbolone produces the extreme end of androgenic side effects with no estrogenic side effects at all. They both, however, bring progestogenic activity which other AAS tend not to do.
+
+### Categories of AAS
+
+AAS can be categorized into 6 groups by making 2 classifications. We can divide the AAS into 2 groups, according to whether they're alkylated at the C17. This is similar to whether the AAS is oral or not, but some AAS have been made orally bioavailable without this so it doesn't translate perfectly. We can then divide each of these 2 groups into 3 subgroups according to the steroid skeleton that they're based on (testosterone, DHT, or estrane). From there, we can look at their capacity for aromatization and for 5a-reduction because those aer the main things that determine the side effects that will happen.
+
+The estrogenic side effects of AAS can be predicted by the base skeleton (testosterone based AAS usually aromatize, DHT-based don't, and estrane-based are somewhere in the middle). But, the androgenic side effects are not. What determines the magnitude of androgenic side effects are the extra modifications that steroid chemists (predominately, but not exclusively to the A-ring) that change the capacity of the AAS for binding with the androgen receptor.
+
+If we want the best AAS then we want one with minimal estrogenic side effects and minimal androgenic side effects, so it neither aromatizes nor displays a high affinity to androgen receptors. Testosterone-based AAS are off the list because they almost always aromatize, while estrane-based AAS do have some aromatizing capacity, they're generally also pretty weak WRT androgenic sides so they'll be on the list. Which DHT-based AAS will meet the required standard then depends on which modifications they have, like Oxandrolone (Anavar) displays weak androgenic activity, while Oxymetholone (Anadrol) is the opposite.
+
+### 17a-alkylated or not
+
+The first thing to look at when categorizing AAS is to look at whether it's been alkylated at C17. Those AAS with a methyl group at C17 are stopped from being oxidized by 17β-HSD enzymes. Most therefore can't be consumed orally and must be injected. But methenolone acetate (Primobolan) and mesterolone (Proviron) both have a methyl group at C1 instead of C17 (1o-methyl) and this allows them to resist the other major liver oxidation route, which is enacted by the 3a-HSD enzyme family. So whether or not a compound is 17a-alylated doesn't tell us perfectly whether it's orally bioavailable.
+![[Pasted image 20261123132443.png]]
+
+### Skeleton
+
+The second thing to look at when categorizing is whether an AAS was made from testosterone, DHT, or estrane (19-nor compounds). We can do this analysis within the alkylated and non-alkylated groups. This leaves us with these 6 categories.
+![[Pasted image 20261123132725.png]]
+[Leogrande 2021 - steroid structure identification](https://pubmed.ncbi.nlm.nih.gov/33714468/)
+
+Alkylated:
+![Comparison table](https://assets.skool.com/f/a2f540039b044baa91444aba03538cbb/19aa034394b24446a1e13b451cd9b0e2aeac6b4e9b6c41b8ab28eb21e1bde843 "null")
+
+Now we need to answer the questions of which AAS aromatize, whether they're 5a-reduced or do so in the body, and what potency that 5a-reduced metabolite has. Only testosterone itself 5a-reduces into DHT, all other AAS are either already 5a-reduced into a different metabolite or are 5a-reduced in the body into a different metabolite or they're blocked from 5a-reduction in some way. No matter what, something androgenic will interact with the androgen receptor. That could have similar effects to DHT, stronger effects to DHT (like Trenbolone and Trestolone and possibly Halotestin), or weaker effects than DHT (like Deca, Nilevar, Anavar, and Winstrol).
+
+![[Pasted image 20261123133750.png]]
+[Vischer 1955 - 1-dehydro steroid synthesis](https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.19550380623)
+[Camerino 1956 - 4-substituted testosterone structures](https://pubs.acs.org/doi/full/10.1021/ja01595a076)
+[Stárka 1969 - clostebol metabolism in human liver](https://pubmed.ncbi.nlm.nih.gov/5395898/)
+[Galletti and Gardi 1971 - boldenone and quinbolone metabolism](https://pubmed.ncbi.nlm.nih.gov/5098537/)
+![[Pasted image 20261123133812.png]]
+[Ringold 1959 - 2-methyl and 2-hydroxymethylene structures](https://pubs.acs.org/doi/full/10.1021/ja01511a040)
+[Goudreault and Massé 1991 - stenbolone metabolites](https://pubmed.ncbi.nlm.nih.gov/2039756/)
+[de Boer 1992](https://pubmed.ncbi.nlm.nih.gov/1606052/)
+[Polet 2017 - mesterolone and oxymesterone metabolites](https://pubmed.ncbi.nlm.nih.gov/28296258/)
+![[Pasted image 20261123133824.png]]
+[Engel 1958 - nandrolone urinary metabolites](https://pubmed.ncbi.nlm.nih.gov/13538956/)
+[Campbell and Babcock 1959 - 7-methyl steroid synthesis](https://doi.org/10.1021/ja01524a063)
+[Barbarulo 1995 - oxabolone metabolites](https://onlinelibrary.wiley.com/doi/abs/10.1002/jhrc.1240181106)
+[Piper 2026 - human trestolone metabolites](https://pubmed.ncbi.nlm.nih.gov/41407450/)
+![[Pasted image 20261123133836.png]]
+[Herr 1956 - oral steroid synthesis](https://doi.org/10.1021/ja01583a072)
+[Schubert 1970 - microbial Turinabol metabolism](https://www.sciencedirect.com/science/article/pii/002247317090018X)
+[Parr 2010 - 17-methyl steroid urinary metabolites](https://www.dshs-koeln.de/web/biochemie/pdf/long-term_metabolites_parr_2010.pdf)
+[Loke 2021 - A-ring reduced metabolites](https://pubmed.ncbi.nlm.nih.gov/33802606/)
+![[Pasted image 20261123133853.png]]
+[Clinton 1961 - steroidal pyrazole structures](https://pubs.acs.org/doi/full/10.1021/ja01467a047)
+[Pappo and Jung 1962 - 2-oxasteroid structures](https://www.sciencedirect.com/science/article/pii/S0040403900708835)
+[Ohta 1965 - steroidal furazan structures](https://doi.org/10.1248/cpb.13.1445)
+[Massé 1989 - oxandrolone urinary metabolites](https://pubmed.ncbi.nlm.nih.gov/2765703/)
+![[Pasted image 20261123133902.png]]
+[Brooks 1971 - Nilevar metabolites](https://doi.org/10.1093/chromsci/9.1.35)
+[Ward 1977 - Nilevar and Orabolin metabolism](https://pubmed.ncbi.nlm.nih.gov/410996/)
+
+🟢 Green — Weaker androgenic effect
+🟠 Orange — Comparable androgenic effect
+🔴 Red — Stronger androgenic effect
+⚪ White — Insufficient data to classify
+
+Ideally the best AAS has minimal estrogenic side effects and minimal androgenic side effects so we'd want an AAS that doesn't aromatize or display high affinity to the androgen receptors. This means either an estrane-based AAS (like Deca-Durabolin and Nilevar) and those DHT-based AAS that have weak affinity to the androgen receptors (Anavar and Winstrol).
+
+### AAS side effects
+
+People usually focus on the presence of clearly detectable side effects (like acne, bad sleep, irritable mood, sexual dysfunction, infertility, testicular atrophy, and gynecomastia), and indications provided by blood markers. These are very useful sources of information, but looking at the physiology of AAS side effects, we can add a lot more information. We can find the drivers of all of these problems and arrive at a series of mechanisms responsible for each group of side effects. We can then target any given problem driver with the appropriate supplementation. 
+
+Also neither side effects nor bloodwork capture everything so just utilizing those would miss things that could be going on.
+
+We can think of it as a 3-part sequence of mechanism to structural effect to functional outcome. If we catch a problem at its functional or even structural stage, that isn't great. We want to prevent or at least monitor the mechanisms upstream of those stages.
+
+First the AAS arrives.
+
+It then stimulates side effect mechanisms: There are 8 different molecular/cellular processes (oxidative stress, inflammation, androgen receptor overactivation, endocrine disruption, aromatization, hepatoxicity, and impaired collagen remodeling). These aren't completely distinct from one another and they do overlap and connect. Each one of these pathways can generate a subsequent structural alteration.
+
+The side effect mechanisms then create structural alterations in 3 categories.
+
+Damage (including fibrosis): The oxidative stress, inflammation, and apoptosis (and necrosis) pathway typically lead to permanent, structural damage in many tissues when it's incorrectly repaired, especially when the damage is combined with a poor collagen remodeling response. This includes the brain, heart, kidney, and liver. Cholestatic injury has this same potential for lasting damage in the liver.
+
+Atrophy and loss: Hormonal suppression causes testicular shrinkage; hair loss occurs, apoptosis can lead to atrophy when it doesn't lead to permanent damage. 
+
+Hypertrophy: Androgen receptor driven growth in the heart, kidneys, prostate, and bone.
+
+Structural alterations create functional problems: The structural alterations lead to functional problems that are observable like altered left ventricular ejection fraction and global longitudinal strain (GLS), blood pressure, estimated glomerular filtration rate (eGFR), spermatogenesis, mood, erectile function, and libido.
+
+#### 8 mechanisms AAS cause sides
+
+Oxidative stress (damages stuff): AAS increase levels of reactive oxygen species (ROS) by disturbing mitochondrial respiratory chain function and by upregulating both NADPH oxidase and cytochrome P450 monooxygenase. Physiological androgens normally participate in these pathways, so supraphysiological levels disrupt the normal processes. Excessive ROS impact negatively on pretty much all organs in the body.
+
+Inflammation (clears away damaged stuff): AAS promote the release of pro-inflammatory cytokines. Like oxidative stress, excessive levels of pro-inflammatory cytokines impact negatively on most organs in the body.
+
+Apoptosis (makes things die): AAS increase the tendency for damaged cells to choose apoptosis rather than repair. Testosterone naturally shifts cells in this direction, so supraphysiological levels of the same hormone would increase this tendency. While many organs can be affected, the most problematic in this regard are the heart, brain, and kidney. You don't want these cells to be lost as they can't be replaced later.
+
+Androgen receptor over-activation (changes things): AAS drives growth by their actions on androgen receptors in skeletal muscle, the heart, and the kidney. They also compel an increase in the production of red blood cells in the bone marrow by their actions on the androgen receptors in the liver and kidney. Even so, the actions on androgen receptors aren't limited to just growth, this is also the category of mechanisms that are responsible for negative skin reactions, hair loss, and fat loss. 
+
+Endocrine disruption (causes hormonal feedback): AAS exert a strong negative feedback on the hypothalamic-pituitary-gonadal (HPG) axis. When exogenous AAS are present, this removes the natural signals to the testes, causing testicular atrophy and suppressing natural testosterone production. When this happens, the testes shrink and sperm count drops.
+
+Aromatization (changes things differently): Aromatizable AAS can be converted in various tissues to estradiol. This estradiol can lead to gyno, water retention, and other things.
+
+Hepatotoxicity (direct poisoning of the liver): Oral AAS can't be easily oxidized by the liver, so they sit there, causing toxic effects that can  include cholestasis (altered bile acid synthesis and transport). The liver actually has a really good regenerative capacity and other organs are far more worth worrying about (that don't get monitored as much).
+
+Impaired collagen remodeling (stops tendons adapting): AAS weaken collagen based tissues like tendons and ligaments by preventing their repair after training. This increases risk of ruptures while strength training. Bodybuilders assume this is because their muscles are growing too fast for the tendons to keep up, but this isn't what's happening, the tendons are just not remodeling when AAS are present.
+
+### What standard testing measures
+
+#### Oxidative stress
+
+- Nothing is directly measured.
+- Indirectly measured through GGT, bilirubin, albumin, uric acid, ferritin.
+- Fibrosis is a structural/functional change currently tracked through liver elastography.
+
+**GGT (y-glutamyl transferase)**: GGT is a membrane-bound enzyme that catalyzes the first step of glutathione degradation, which is a necessary step for glutathione resynthesis. While it's usually used in a liver panel to detect cholestasis or biliary obstruction, it'll also indicate severe oxidative stress since intracellular glutathione is one of the body's principal antioxidants. Elevated GGT indicates that the cells are making more glutathione in order to deal with oxidative stress. 
+
+For this reason, it correlates reasonably well with lipid peroxidation markers and has been proposed as a proxy marker.
+[Lee 2004](https://pubmed.ncbi.nlm.nih.gov/15346644/)
+[Lim 2004](https://pubmed.ncbi.nlm.nih.gov/15336318/)
+
+Yet, GGT can also be upregulated due to cholestasis by 17a-alkylated oral AAS. Therefore, it's more likely to be a marker of liver toxicity.
+
+**Bilirubin**: This is a natural antioxidant. Depending on the context, very low levels imply a reduced level of protection against oxidative stress, while very high levels can mean that the antioxidant system is working hard to deal with oxidative stress or cholestasis by 17a-alkylated compounds. Therefore, it's more likely to be a marker of liver toxicity.
+
+**Albumin**: Falling albumin signals reduced antioxidant capacity, systemic inflammation, and liver function. So, it's a very indirect marker and usually taken to indicate liver health rather than the presence of oxidative stress.
+
+**Uric acid**: While a product of purine metabolism, uric acid is created by xanthine oxidase, which produces superoxide as a byproduct. Therefore, higher levels of uric acid implicitly indicate increased oxidative stress (although uric acid itself behaves differently within tissues and within the bloodstream). Even then, it can also be elevated by strength training, high protein diets, and kidney issues, which makes it an unreliable marker for oxidative stress in bodybuilders.
+
+**Ferritin (and related measures)**: Ferritin is the intracellular iron-storage protein and free iron catalyzes the conversion of hydrogen peroxide into hydroxyl radicals. Therefore, it's suggestive of oxidative stress, yet, it also increases with inflammation so it can be unreliable.
+
+**Liver elastography**: Liver stiffness testing by elastography can be used to estimate fibrosis. Fibrosis is a common downstream effect of oxidative stress and inflammation (as well as liver toxicity due to 17a-alkylated oral AAS use). But common liver stiffness elastography measures can be confounded by heart pathologies, which can lead to incorrect diagnoses.
+
+#### Inflammation
+
+- Nothing directly measures this.
+- It's indirectly measured through hs-CRP, ESR, full blood count with neutrophil to lymphocyte and platelet to lymphocyte ratios, ferritin.
+- Fibrosis is a structural/functional change currently tracked through liver elastography.
+
+**hs-CRP**: This is made by liver cells as part of an inflammatory response, so it's often used as the standard inflammation marker (though everyone has their unique hs-CRP level, so it's best to measure your personal baseline). It can also be affected by AAS themselves as well as by exercise, illness, and inflammatory responses to injections. That makes it a lot more unreliable than people think.
+
+**Erythrocyte sedimentation rate (ESR)**: This is the ratet erythrocytes fall through plasma, thereby measuring fibrinogen and immunoglobulin. Though, it is suppressed by an increase in RBC counrt, which is a very common side effect of AAS use. Normal ESR can be recorded in the presence of high hematocrit while there is still a high level of inflammation. This makes the marker unreliable.
+
+**Neutrophil to lymphocyte and platelet to lymphocyte ratios**: These measures are taken from full blood count tests and calculate the difference between innate (neutrophil) or platelet and adaptive (lymphocyte) immune activation. An elevated ratio indicates either increased neutrophils/platelets and/or decreased lymphocytes. This implies elevated inflammation, infection, or trauma. Though, lymphocyte counts fall with elevated cortisol as a result of stress, which can be a confounder.
+
+**Ferritin (and related measures)**: Ferritin is the intracellular iron-storage protein and its levels rise and fall naturally in tandem with inflammatory responses. So, it can be taken as an inflammation marker, but, it can also indicate oxidative stress, which confounds precise interpretation.
+
+**Liver elastography**: Liver stiffness testing by elastography can be used to estimate fibrosis. Fibrosis is a common downstream effect of oxidative stress and inflammation (as well as liver toxicity due to 17a-alkylated oral AAS use). Yet, common liver stiffness elastography measures can be confounded by heart pathologies, which can lead to incorrect diagnoses.
+
+#### Apoptosis
+
+- Nothing directly measures this.
+- It's indirectly measured by ALT/AST, GGT, CK, hs-troponin.
+- Structural/functional changes currently tracked are testicular volume, reduced sperm count, urinary ACR, estimated glomerular filtration rate (eGFR), eGFRcr-cys (eGFR using creatinine and cystatin C)
+
+**ALT (alanine aminotransferase)**: This is a liver enzyme linked with membrane permeability or rupture. Though, it can easily be elevated by exercise.
+[Pettersson 2008](https://pubmed.ncbi.nlm.nih.gov/17764474/)
+
+It can only really be interpreted either after a break from strength training or in combination with the more muscle specific creatine kinase (CK) marker.
+[Gibbons 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10962511/)
+
+It can also be elevated by 17a-alkylated oral AAS in which case it's more likely a marker of liver toxicity.
+
+**AST (aspartate aminotransferase)**: This is another liver enzyme linked with membrane permeability or rupture that's easily affected by exercise, cardiac damage, 17a-alkylated oral AAS, and alcohol consumption.
+[Pettersson 2008 (exercise effects)](https://pubmed.ncbi.nlm.nih.gov/17764474/)
+
+**GGT (y-glutamyl transferase)**: GGT is a marker of oxidative stress that leads to downstream apoptosis. It also upregulates due to cholestasis of 17a-alkylated oral AAS, so it's more frequently a marker of liver toxicity.
+
+**CK**: This is a blood marker used to track the presence of skeletal muscle damage post-exercise (or rhabdomyolysis, in severe cases). If CK is normal but ALT/AST is high, then that is usually a sign of hepatic damage (which would likely lead to apoptosis).
+
+**hstroponin (high sensitivity cardiac troponin)**: These are cardiac specific isoforms that track ongoing leakage from myocytes and therefore cellular injury (which would likely lead to apoptosis). Like ALT/AST, they can be elevated by intense exercise.
+
+**Urine albumin to creatinine ratio (uACR)**: This detects the presence of albumin in urine as the primary method for detecting kidney damage.
+
+#### Androgen receptor over-activation
+
+- This isn't directly measured by anything.
+- It's indirectly measured by hematocrit and hemoglobin, DHT, PSA panel, and echocardiogram.
+- Structural/functional changes are currently tracked through hematocrit and hemoglobin, blood pressure, left ventricular hypertrophy by echocardiogram, urinary ACR, eGFR, eGFRcr-cys, lipid panel, prostate enlargement, acne, hair loss, and mood changes
+
+**Hematocrit and hemoglobin**: Hematocrit is the percentage of total blood volume comprised of red blood cells (relative to plasma, white blood cells, and platelets) while hemoglobin measures the oxygen-carrying capacity of the blood. Since AAS act on the androgen receptors to stimulate the creation of RBCs (erythropoiesis), elevated levels are very good indicators of localized androgen receptor activity in the vasculature. But, the measure itself can be elevated by diuretics, and reduced by both water retention (common side effect of some AAS) and blood donation (common treatment by AAS users). After taking these factors into account, it's a valuable androgen receptor-specific marker.
+
+**Lipid panel components**: Provide a functional metabolic output of androgen exposure.
+
+**Blood pressure**: An important reading, blood pressure is frequently elevated by sodium and water retention caused by aromatized estradiol. Though, it can also be increased by enhanced RBC production caused by androgen receptor activity and pathological renal hypertrophy by androgen receptors. So, it's elevated by at least 2 mechanistic causes.
+
+**DHT (dihydrotestosterone)**: This is a metabolite of testosterone, produced by 5a-reductase activity. The blood panel measure attempts to establish whole-body DHT exposure but most of the DHT that actually acts on the androgen receptor targets in the prostate, brain, skin, hair follicles through the intracrine mechanisms (i.e. the circulating AAS are converted into DHT inside the tissues and not beforehand). Also, any DHT-derived AAS will not be detected as DHT though it'll act similarly in those tissues. That makes the blood panel marker very different than the tissue-specific effects and not as informative.
+
+**PSA (prostate specific antigen) panel**: PSA expression is regulated by its androgen receptors and this metric captures the intracrine effects through which the prostate makes DHT locally out of circulating androgens. This makes it many times more informative than blood panel DHT levels. So it's a very valuable androgen receptor-specific marker.
+
+**Left ventricular hypertrophy by echocardiogram**: This is one of the most important tests.
+
+**Urine albumin to creatinine ratio (uACR)**: uACR detects the presence of albumin in the urine as the primary method for identifying kidney damage.
+
+#### Endocrine dysfunction
+
+- This is directly measured by total testosterone, SHBG, LH, FSH, prolactin, inhibin b, AMH, semen analysis, TSH/free T4/free T3, IGF-1, AM cortisol, fasting insulin.
+- It's indirectly measured through HbA1c (GH/glucose axis), HOMA-IR, continuous glucose monitoring, ApoB, Lp(a), uric acid.
+- Structural/functional changes are tracked by lipids, urea and electrolytes, testicular atrophy, sperm count, libido, erectile dysfunction, fatigue, hot flashes, night sweats, mood changes, water retention, and sleep quality.
+
+**Testosterone, luteinizing hormone (LH), and follicle-stimulating hormone (FSH)**: While testosterone is typically supraphysiologically elevated while on cycle and LH/FSH are droppsed, the opposite is the case when off-cycle. Only when AAS levels drop back to below the previous endogenous baseline will the brain be stimulated to produce LH/FSH to increase testicular function. Even TRT doses of AAS will push LH and FSH down to minimal levels which is why doctors don't even check it. They're only relevant when coming off cycle to see when the anterior pituitary gland has started produing LH again.
+
+**Anterior pituitary lactotroph hormone (prolactin)**: This is a peptide hormone primarily secreted by the anterior pituitary gland that stimulates breast tissue development and can have effects on mood, libido, and ED. It has a very wide range of inputs, which means it can be affected by many things, which makes it difficult to interpret.
+
+#### Aromatization
+
+- This is directly measured by nothing.
+- It's indirectly measured by estradiol, estradiol by mass-spectrometry, estrone, estrone sulphate, T:E2 ratio.
+- Structural/functional changes currently tracked are gyno and nipple sensitivity, water retention, blood pressure, mood changes, reduced libido, ED, and increased fat mass.
+
+**Estradiol (E2 or 17β-estradiol)**: Estradiol is the strongest estrogen and in men it's normally converted from testosterone (and can also be converted from AAS). But, most of the estradiol that actually acts on the androgen receptor targets in breast tissue produced through the intracrine mechanisms. This is why aromatase inhibitor dosages can often underestimate or overshoot what is required at the tissue level when they're based off blood panels. Going for mass-spectrometry over immunoassay makes sense in males due to the very low levels of this hormone.
+
+**Estrone (E1) and estrone sulphate**: Estrone is the weaker estrogen. Breast tissue uses steroid sulfatase to convert estrone sulphate back into active estrone and estradiol. So, high levels of these estrogens are additional strong risk factors for gyno when AAS and/or testosterone levels are low (which is often the case post-cycle).
+
+T:E2 (total testosterone to estradiol ratio): This is often taken as the principal measurement when assessing the risk for gyno. Though, the external estrogen input into breast tissue comprises of both E1 and E2, which means the test is underestimating the estrogenic input. Also, breast tissue converts tons of AAS into E2 locally through intracrine methods, which don't get detected anywhere in bloodwork. So this metric is wrong for these reasons and shouldn't be used.
+
+**Blood pressure**: An important reading as blood pressure is frequently elevated by increased sodium and water retention caused by aromatized estradiol. It can also be increased by enhanced RBC production generated by the androgen receptor activity and patholotical renal hypertrophy through androgen receptors. So, it's elevated through at least 2 separate mechanistic causes.
+
+#### Hepatotoxicity
+
+- This is directly measured through ALT, AST, bilirubin, ALP, albumin, GGT, AFP.
+- It's not indirectly measured by anything.
+- Structural/functional changes are tracked by fibrosis (by liver elastography), steatosis (by liver ultrasound), jaundice, dark urine, pale stools, nausea, and fatigue.
+
+**ALT**: This is a liver enzyme linked with membrane permeability or rupture and is most commonly attributed to actions of 17a-alkylated oral AAS. It can also be easily elevated by exercise as well.
+[Pettersson 2008](https://pubmed.ncbi.nlm.nih.gov/17764474/)
+
+It can only really be interpreted as unique to AAS effects either after a break from strength training or in combination with the more muscle-specific CK marker. Even if it can be directly attributed to AAS, it's not clear which mechanism is responsible (liver toxicity or cellular apoptosis).
+
+**AST**: This is another liver enzyme linked with enzyme permeability or rupture that is mostly attributed by 17a-alkylated oral AAS. Yet, it can easily be elevated by exercise in addition to alcohol. It's impossible to identify which mechanism is responsible (liver toxicity or cellular apoptosis).
+[Pettersson 2008 (exercise effects)](https://pubmed.ncbi.nlm.nih.gov/17764474/)
+
+**Bilirubin**: This is often elevated to deal with oxidative stress or cholestasis by 17a-alkylated compounds. So, it can be a marker of liver toxicity or oxidative stress.
+
+**ALP (alkaline phosphatase)**: This can indicate liver cell membrane damage but also bone osteoblast activity (which is typically elevated by AAS through androgen receptor activity). So, it can be a marker of liver toxicity or androgen receptor activity in bone.
+
+**Albumin**: Falling albumin signals reduced antioxidant capacity, systemic inflammation, and liver function. So, it's an indirect marker and usually taken to indicate liver health. This could be generated by oxidative stress, inflammation, or liver toxicity, though.
+
+**GGT**: GGT is a marker of oxidative stress that leads to downstream apoptosis. It's also upregulated due to cholestasis by 17a-alkylated oral AAS and is more frequently used a marker of liver toxicity. Though, it doesn't discriminate between oxidative stress, inflammation, or liver toxicity.
+
+**AFP (alpha-fetoprotein)**: This is typically used for early detection of hepatic adenomas, which is a liver specific problem that doesn't reflect other sources of liver damage.
+
+**Liver elastography and liver ultrasound**: Liver stiffness can be recorded by elastography for estimating fibrosis and liver ultrasound can be used to detect steatosis (lipid accumulation). These outcomes are both downstream effects of liver toxicity but fibrosis is a common output of inflammation and oxidative stress. Common elastography measures can be confounded by heart pathologies which can lead to wrong diagnoses, though.
+
+#### Impaired collagen remodeling
+
+- This is directly measured by nothing.
+- It's indirectly measured through tendon ruptures and tendinopathy.
+
+### What standard testing doesn't measure
+
+#### Oxidative stress, inflammation, apoptosis
+
+These related mechanisms are completely ignored by most. They're also more difficult to monitor. 
+Oxidative stress is the worst as there's nothing outside of research grade labs that will get you anywhere close to seeing this happening on a mechanistic level. 
+Apoptosis is similarly difficult to identify until it reaches the secondary necrosis phase and cells start leaking enzymes.
+inflammation has more capacity for detection and there may be novel tests from related medical areas that could be applied to AAS users.
+
+#### Structural and functional measures
+
+Though oxidative stress, inflammation, and apoptosis is pretty much undetectable at the top level, there are various downstream structural measurements for the heart (like left ventricular hypertrophy by echocardiogram and cardiac MRI) as well as functional derivatives (like left ventricular ejection fraction and others) from those scanning methods. There are also downstream functional measures for the kidney like urinary ACR, eGFR, and eGFRcr-cys and liver (elastography and ultrasound). While those are in the territory of advanced user at the moment, not all are financially unobtainable and should definitely be considered for long term AAS users. There's still nothing structural or functional for the brain, though, which is just as badly affected, as indicated by changes in mood and behavior often observed in AAS users.
+
+#### Impaired connective tissue remodeling
+
+This typically gets blamed on muscles growing too quickly for tendons to keep up (which is untrue because tendon stiffness increases more quickly than muscle strength in naturals) but ignores the fact that connective tissue isn't remodeling at all when AAS is present. There are also no current tests as the mechanistic, structural, or functional level that are being used to track this problem.
+
+#### Tissue specific androgen receptor activity
+
+Everyone likes to focus on the endocrine function rather than androgen receptor activity which is more important. They're also way more obvious from hematocrit and PSA than from sex hormones in the bloodstream. Hematocrit can get affected by blood volume changes (diuretics, water retention, and blood donation) but it's still a really good proxy for what androgen receptor activity is actually happening. If anything, PSA is even better due to the lack of confounding factors.
+
+#### Tissue specific estrogen receptor activity
+
+People obsess over blood levels of estradiol but they're not even remotely related to tissue-specific levels because of the intracrine conversion effect from testosterone inside the breast tissue.
+
+Exogenous AAS produce side effects through a range of separate mechanisms, some of which are very hard to detect. Entry-level medical monitoring misses a vast proportion of them. Top level effects of oxidative stress, inflammation, and apoptosis are very poorly covered by common testing practices. This means early warning of severe damage isn't possible and the first time the AAS user realizes that there's a problem will be either when they get a structural imaging scan or a functional test or if they have negative symptoms, that causes them to visit a doctor. AAS testing practices also don't detect anything WRT connective tissues. The problems are basically only detected at the point of injury. Common beliefs about androgen and estrogen receptor effects being driven by endocrine function aren't true. They're driven by intracrine function, which means they make the relevant hormone inside the tissue that's affected. An example is that blood hormone levels of testosterone and estradiol won't tell you anything about the meaningful levels of estradiol in breast tissue. Estradiol is constructed inside of that tissue from whatever androgens arrive from the bloodstream
+
+### Oxidative stress
+
+AAS produce excessive amounts of oxidative stress that is very damaging to all cells. This often leads to inflammatory responses, secondary damage, and apoptosis (or necrosis). In many organs, it'll manifest in the loss of healthy tissue that's then often replaced by collagen (fibrosis).
+
+Studies routinely show that AAS elevate the production of ROS or produce lipid peroxidation in a variety of different animal species. This appears to happen through three mechanisms, though mitochondrial dysfunction appears to be the most important which has important practical implications for management of this category of side effects with supplementation.
+
+#### Mitochondrial dysfunction
+
+Mitochondria make ATP using the electron transport chain which comprises a series of protein complexes. Unsurprisingly, the electron transport chain (ETC) transports electrons towards oxygen. If electrons escape this process, they can react with any available oxygen to form superoxide, which then reacts with other molecules in the muscle cell to create other ROS. Anything that allows or damages the ETC increases the ability of electrons to escape the process and therefore increases the production of ROS. AAS decrease the activity of ETC protein complexes and damage the mitochondria (Saborido et al. 1993, Molano et al. 1999) leading to excess ROS production (Pey et al. 2003, Domelles et al. 2017, Carten et al. 2021). When ROS are produced in the vicinity of mitochondria, they attack the PUFA in the mitochondrial membranes, which further impairs the ETC, creating a positive feedback loop (Pey et al. 2003, Carten et al. 2021). 
+
+#### NADPH oxidase upregulation
+
+Unlike mitochondria, which create superoxides unintentionally when the ETC stops working perfectly, NADPH oxidases are enzymes that create superoxides deliberately. They transfer electrons from NADPH acrosss a membrane to oxygen. AAS has been found to increase NADPH-dependent hydrogen peroxide production in the liver and heart (Frankenfeld et al. 204, Moraes et al. 2026) as well as in deep fat tissue, which as a high density of androgen receptors (Magalhaes et al. 2020). Indeed, NADPH oxidase activity could be upregulated by AAS actions on androgen receptors in the various tissues, but this hasn't been demonstrated definitively. Even so, it's clear that the activity of this normal cellular function is increased when AAS are present, leading to greater ROS production.
+
+#### Cytochrome P450-mediated metabolism
+
+Cytochrome P450 monoxygenasses are enzymes that carry out oxidative metabolism of anything bad that gets in our body. By inserting oxygen into the offending substanes, they make it water-soluble and make it easier to excrete. Its electron transport process is inherently leaky even when working properly, so it tends to cause a lot of ROS whenever it's used. 17a-alkylated oral AAS (like stanozlol, methyltestosterone, oxymetholone) are modified versions of testosterone with an extra carbon group that helps them resist degradation and allows oral bioavailability. This same extra carbon grups means they pass through cytochrome P450-mediated metabolism multiple times until they're excreted, which causes a lot of oxidative stress. (Bondy & Naderi 1994, Pet et al. 2003).
+
+### Antioxidant defenses
+
+The literature also shows that AAS negatively affect antioxidant defenses in a variety of animal species and in several different organs. This appears to happen though 3 different mechanisms
+
+#### Inadequate upregulation
+
+When faced with the oxidative stress caused by AAS, the antioxidant system either tries to respond but can't (Camiletti-Moiron et al. 2015), attempts a response that is too weak to do anything meaningful (Frankenfeld et al. 2014, Abed et al. 2020), or attempts a response that is capable to begin but can't handle the sheer volume of oxidative stress from the AAS (Patil & Inamdar 2017, Joksimovic et al. 2017, Moraes et al. 2026). These findings imply that oxidative stress induced damage will build over time, both within cycles and over years of AAS use.
+
+#### Suppression
+
+AAS can also actively suppress the antioxidant system to levels below seen in tissues not treated with AAS (Pey et al. 2003, Riezzo et al. 2014, Dornelles et al. 2016, De Lima et al. 2020, Mehrabi et al. 2020). Paradoxically, mitochondrial damage or suppression may partially underpin the problem, since antioxidant defenses usually rely on the mitochondrial functions (Pey et al. 2003, Agriesti et al. 2020). This category of mechanisms probably underpins the prior reversibility of antioxidant defenses under certain circumstances (Kahal & Allem 2018)
+
+#### Non-enzymatic depletion
+
+Small molecule antioxidants like glutathione (GSH) are depleted faster than they can be resynthesized in tissues exposed to AAS (Riezzo et al 2014, Patil & Inamdar 2017, Bueno et al. 2017; Abed et al. 2020; De Lima et al. 2020; Magalhães et al. 2020; Hassan et al. 2023; Memudu et al. 2023). This category of mechanisms is relatively reversible after short AAS blocks (Memudu et al. 2023) and will likely respond well to supplementation with exogenous N-acetyl cysteine (NAC), which can directly replenish the pool of GSH (Kerksick et al. 2005).
+
+### Where the damage occurs
+
+Across the data, the largest number of studies have tracked thhrough the chain of oxidative stres induced damage leading to structural pathology in the heart, brain, kidney, and liver. The heart and brain are most vulnerable to oxidative stresss because they have limited regeneration cppacity. The kidney has some ability to regenerate in certain parts and the liver has a very high regeneration capacity.
+
+### Heart
+
+Pretty much every study has recorded markers of oxidative stress in the heart after AS ussage has been declared at least one positive result (Frankenfeld et al. 2014, Carteri et al. 2021; Hassan et al. 2023; Hussain et al. 2024; Moraes et al. 2026). Such sings are frequently accompanied by signs of damage, inflammation, and necrosis (Hassan et al. 2023; Hussain et al 2024) and fibrosis in ventricular tissue (Ghowsi et al. 2023), which can likely explain the reductions in heart function (Moraes et al. 2026).
+
+#### Brain
+
+After AAS usage, ROS and lipid peroxidation have been reported in the whole brain as well as in the cortex and hippocampus (Joksimović et al. 2017; Bueno et al. 2017; Patil et al. 2017; Abed et al 2020). Also key antioxidants have been shown as exhausted in the cortex and hippocampus of the brain during AAS use (Joksimović et al. 2017; Bueno et al. 2017; Patil et al. 2017). The brain is vulnerable to oxidative stresss given its high proportion of lipid membranes that are easily attacked by ROS. Both short duration, high dosage cycles and high duration low dosage cycles produce ROS in the brain while moderate duration moderate dosage cycles don't, which has practical implications for how cycles should be formed (Bueno et al. 2017). Like the heart, there is evidence of downstream inflammation (Camiletti-Moirón et al. 2015; Abed et al. 2020) and damage (Magalhaes et al. 2022) that may be associated with depressive behaviors (Joksimovvic et al. 2017) as well as worse memory and anxiety related behaviors (Bueno et al. 2017; Magalhães et al. 2022).
+
+#### Kidneys
+
+After AAS use, researchers have reported lipid peroxidation (Frankenfeld et al. 2014; Riezzo et al. 2014; Dornelles et al. 2016; De Lima et al. 2020; Memudu 2023) as well as protein oxidation (Frankenfeld et al. 2014; Riezzo et al. 2014; De Lima et al. 2020). They have also shown that all 3 antioxidant defense impairments exist in the organ (Frankenfeld et al. 2014; Riezzo et al. 2014; Dornelles 2016; De Lima et al. 2020; Heidari et al. 2020; Mehrabi et al. 2020; Memudu 2023). This oxidative damage and dysfunction is followed by fibrosis (De Lima et al. 2020) glomerulosclerosis (Riezzo et al. 2014) and necrosis (Kahai & Allem, 2018) as well as functional decline (De Lima et al. 2020; Memudu 2023). These structural and functional issues are reversible when AAS use is very short but not when they're longer.
+
+#### Liver
+
+Lipid peroxidation is commonly reported in studies that have looked at the effects of AAS on the liver (Pey et al. 2003, Frankenfeld et al. 2014; Basile et al. 2013, Dornelles et al. 2016). In contrast, liver cell necrosis is usually found unchanged (Pey et al. 2003, Frankenfeld et al. 2014; Carteri et al. 2021). This suggests that the extremely high regenerative capacity of the liver allows it to deal with all the oxidative stress and other challenges that AAS provides. This is why standard liver function tests (ALT, AST, ALP, GGT) that appear in most bodybuilder blood panels typically don't indicate a problem unless they're using orals very hard, even then it'll usually go back to normal during off-cycle periods again due to high regeneration capacity of the liver.
+
+#### Testes
+
+Animal models have found lipid peroxidation in the testes after AAS use (Mohamed & Mohamed, 2015; Bueno et al. 2016; Behairy et al. 2020; Sretenovic et al. 2021; Saddick, 2021; Sharoot et al. 2025; Hassan et al. 2026) and human autopsy studies have found downstream fibrosis (Di Fazio et al. 2025).
+
+### Antioxidant supplements
+
+AAS cause tons of oxidative stress at the mitochondria which means there are two aspects to the problem, the quantity of oxidative stress is large and it's surgically directed to a specific part of the body. These make conventional scavenger type antioxidants mostly useless.
+### Energy intake and recovery 
 
 Higher muscle protein synthesis rates mean damage is repaired faster, which implies AAS users can tolerate higher workout volumes.
 [Zhao 2008](https://pubmed.ncbi.nlm.nih.gov/18436443/)
@@ -108,14 +547,14 @@ Kanayama gives two possible explanations for the rupture association: muscle for
 
 ### Rupture risk studies
 
-| Study | Design | Injury | Result |
-|---|---|---|---|
-| [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/) | Cross-sectional cohort, 142 bodybuilders | Any tendon rupture | Steroid users 9.0 times as likely (HR, 95% CI 2.5–32.3) |
-| [Albright 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10638827/) | Retrospective matched cohort, TRT | Achilles tendon injury | Adjusted OR 1.24 (1.15–1.33); surgery 9.0% vs 6.4% |
-| [Rebello 2023](https://pubmed.ncbi.nlm.nih.gov/36918119/) | Retrospective matched cohort, prescription testosterone | Distal biceps tendon injury | OR 4.10 within 1 year |
-| [Meghani 2023](https://pubmed.ncbi.nlm.nih.gov/?term=Testosterone+Therapy+Is+Associated+With+Increased+Odds+of+Quadriceps+Tendon+Injury) | Retrospective matched cohort, prescription testosterone | Quadriceps tendon injury | OR 5.4 (3.4–9.2) within 1 year; 5.8 in men |
-| [Quinn 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11565631/) | Retrospective matched cohort, TRT | ACL rupture | OR 2.46 (2.11–2.86) at 1 year; adjusted 1.94 (1.62–2.33) |
-| [Brinkman 2024](https://www.healio.com/news/orthopedics/20241108/patients-on-testosterone-replacement-therapy-may-have-increased-risk-for-acl-injury) | Retrospective matched cohort, TRT | ACL injury | OR 2.77 within 2 years; 3.13 in men, 1.94 in women |
+| Study                                                                                                                                                 | Design                                                  | Injury                      | Result                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------- | -------------------------------------------------------- |
+| [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)                                                                                    | Cross-sectional cohort, 142 bodybuilders                | Any tendon rupture          | Steroid users 9.0 times as likely (HR, 95% CI 2.5–32.3)  |
+| [Albright 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10638827/)                                                                                   | Retrospective matched cohort, TRT                       | Achilles tendon injury      | Adjusted OR 1.24 (1.15–1.33); surgery 9.0% vs 6.4%       |
+| [Rebello 2023](https://pubmed.ncbi.nlm.nih.gov/36918119/)                                                                                             | Retrospective matched cohort, prescription testosterone | Distal biceps tendon injury | OR 4.10 within 1 year                                    |
+| [Meghani 2023](https://pubmed.ncbi.nlm.nih.gov/?term=Testosterone+Therapy+Is+Associated+With+Increased+Odds+of+Quadriceps+Tendon+Injury)              | Retrospective matched cohort, prescription testosterone | Quadriceps tendon injury    | OR 5.4 (3.4–9.2) within 1 year; 5.8 in men               |
+| [Quinn 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11565631/)                                                                                      | Retrospective matched cohort, TRT                       | ACL rupture                 | OR 2.46 (2.11–2.86) at 1 year; adjusted 1.94 (1.62–2.33) |
+| [Brinkman 2024](https://www.healio.com/news/orthopedics/20241108/patients-on-testosterone-replacement-therapy-may-have-increased-risk-for-acl-injury) | Retrospective matched cohort, TRT                       | ACL injury                  | OR 2.77 within 2 years; 3.13 in men, 1.94 in women       |
 
 In Kanayama's bodybuilders, the excess was driven by upper-body tendons: 15 of 88 steroid users (17%) had an upper-body rupture versus none of 54 non-users, while lower-body ruptures didn't differ significantly (HR 3.1, 0.7–13.8). Only 6 of 31 ruptures happened while weightlifting.
 
@@ -129,83 +568,6 @@ If you make a skeletal muscle fiber grow, you're going to make a cardiac myocyte
 
 In the HAARLEM study, 31 men had echocardiograms before and after starting an AAS cycle. Over a median of 16 weeks, left ventricular mass rose by 28.3 g (95% CI 14.2 to 42.4) and ejection fraction fell by 4.9 percentage points (95% CI 2.5 to 7.2 lower). Measurements returned to baseline in the 25 men assessed after a median of eight months off AAS. The study measured ventricular mass by imaging.
 [Smit 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9580689/)
-
-## Side effects measured during a cycle
-
-Most of what's known about side effects at the doses people actually use comes from HAARLEM, a prospective cohort of 100 men measured before, during and after self-administered cycles (mean 898 mg a week, median 13 weeks). All 100 reported at least one side effect.
-[Smit 2021](https://doi.org/10.1111/sms.13843)
-[Bond 2022](https://doi.org/10.3389/fendo.2022.1059473)
-
-The blood pressure, lipid, and hematocrit results below come from the main HAARLEM cohort. The heart imaging results above come from a subgroup with a different follow-up schedule.
-
-### Hematocrit
-
-Raised hematocrit is the most frequent adverse event even at replacement doses. Testosterone seems to reset the erythropoietin/hemoglobin set point and suppress hepcidin, which otherwise limits gut iron absorption.
-
-In HAARLEM, hematocrit rose about 3 percentage points. At baseline 5% of the men were above the reference range (>50%); at the end of the cycle 33% were. Levels returned to baseline 3 months after. The rise wasn't associated with longer use or higher dose, which suggests a ceiling.
-[Smit 2022](https://doi.org/10.1111/and.14372)
-
-Why this matters: hematocrit is a major determinant of blood viscosity, and viscosity relates to thrombosis. In men on TRT, those who went on to develop hematocrit at or above 52% had more major adverse cardiovascular events and venous thromboembolism than those who didn't (OR 1.35, 1.13–1.61). At a 50% threshold there was no significant difference.
-### Blood pressure
-
-In HAARLEM, systolic pressure rose 7 mmHg and diastolic 3 mmHg during use, returning to baseline 3 months after. 41% of the men met the criteria for hypertension (>140/90) while on cycle. Many were using other drugs at the same time, so the increase can't be pinned on AAS alone. The paper reported 95% CIs of 4.34–9.40 mmHg for systolic and 1.29–5.04 mmHg for diastolic pressure.
-[Smit 2022](https://doi.org/10.1111/and.14372)
-
-Cuff size is a real measurement problem in this population. Among competitive bodybuilders with an upper-arm circumference over 33 cm, a medium cuff read 8.2 mmHg higher than a large one, which would have classified 33% as hypertensive instead of 12%.
-[Bond 2022](https://doi.org/10.3389/fendo.2022.1059473)
-
-### Blood lipids
-
-In HAARLEM, HDL-C fell by 0.4 mmol/L and LDL-C rose by 0.45 mmol/L, with two thirds of the men using oral AAS and oral use associated with the worse profile.
-[Smit 2022](https://doi.org/10.1111/and.14372)
-
-The pattern splits by route. Injectable AAS generally leave LDL-C alone; oral 17-alpha-alkylated AAS consistently raise it and lower HDL-C even at low doses, probably because the liver sees far more of them. Lipoprotein(a) goes the other way, falling by almost half in HAARLEM, but that shouldn't be read as offsetting the rest.
-[Bond 2022](https://doi.org/10.3389/fendo.2022.1059473)
-→ [[LDL and heart disease]]
-
-HDL's causal role is doubtful, so a drop in HDL-C is harder to interpret than the rise in LDL-C. Raising HDL-C with CETP inhibitors failed to lower cardiovascular events.
-→ [[HDL]]
-
-### Liver
-
-Liver effects are mainly a 17-alpha-alkylated problem, and mostly biochemical: small rises in AST, ALT, LDH and GGT. Clinical liver damage is rare in controlled trials, and HAARLEM found no acute clinical signs despite 67% using oral AAS. Peliosis hepatis and liver tumors appear in case reports, with no established causal link and probably very low incidence.
-
-The usual liver markers are confounded here. AST, ALT and LDH are expressed in skeletal muscle and stay raised for at least a week after heavy lifting, so they can't be read as liver damage in someone training 3–6 times a week. GGT and bilirubin don't rise with exercise, which makes them more informative.
-[Bond 2022](https://doi.org/10.3389/fendo.2022.1059473)
-
-### Hair loss
-
-Self-reported alopecia in HAARLEM rose from 2% to 12% over a cycle, with no objective measure and other drugs in use.
-
-5-alpha reductase inhibitors are also a poor fit for the problem on cycle. Many AAS are already 5-alpha reduced (stanozolol, oxandrolone, methenolone, drostanolone, oxymetholone) or don't undergo meaningful 5-alpha reduction (boldenone, trenbolone, methandienone, turinabol), so there's nothing for the inhibitor to block, and any DHT reduction can be swamped by the androgenic action of high circulating testosterone.
-[Bond 2022](https://doi.org/10.3389/fendo.2022.1059473)
-→ [[Hair loss]]
-
-### Brain structure and cognition
-
-AAS can damage brain neurons through oxidative stress. This is problematic because brain neurons are unable to replace themselves when damaged and other neurons will work harder to make up for the loss, so you generally won't notice the injury until years later and a large chunk of your brain is missing.
-
-An MRI study compared 82 current or former AAS users with 68 weightlifters who had never used AAS. Users had thinner cortex in several regions and smaller volumes in some structures. A second comparison of 84 users with 69 nonusers found lower performance in several cognitive domains. These observational studies measured anatomy and test performance.
-[Bjørnebekk 2017](https://pubmed.ncbi.nlm.nih.gov/27616036/)
-[Bjørnebekk 2019](https://pubmed.ncbi.nlm.nih.gov/31033318/)
-
-### Women
-
-For blood pressure, hematocrit, lipids and cardiac structure, the effects seen in men are expected to carry over. What's specific to women is virilization: voice deepening, hirsutism and clitoromegaly.
-
-These have different thresholds. Voice change happens at low exposures and is thought to be irreversible, and in trials women often didn't notice it themselves while measured pitch fell. Hirsutism takes about 4–6 months to appear and reverses after stopping. Clitoromegaly needs higher androgen exposure than either.
-[Bond 2022](https://doi.org/10.3389/fendo.2022.1059473)
-
-## Aromatization and androgenic effects
-
-People aromatize AAS differently because all receptors work like locks and the hormones are keys. Some people have perfectly shaped locks for the hormone keys while others do not. Also the measurement in the blood as endocrine E2 is leftovers that the tissues are not using. What gets used is AAS aromatized inside the tissue which isn't recorded in the blood.
-
-Synthetic AAS are designed to preferentially target skeletal muscle to avoid side effects. The problem is that there's only one androgen receptor and there aren't different kinds of androgen receptors in different tissues. So anything that grows muscle will grow cardiac myocyte. What you can do is change the anabolic and androgenic effects by stopping the AAS from converting into a DHT equivalent or acting like a DHT equivalent which will reduce side effects most sensitive to DHT like hair loss and acne. 
-
-Side effects aren't sex-specific, we just notice androgenic side effects in females more easily. The size of the androgenic side effect depends on the size of the dose and the affinity of AAS to the androgen receptors. Something like Anavar has low androgen receptor affinity so it tends to not cause the classic androgenic side effects like hair loss, acne, and hematocrit increases.
-
-The main reason different AAS produce different side effects are how androgenic they are, which is determined by whether they act like DHT or not at the androgen receptor (or can be converted into a DHT equivalent), how estrogenic they are which is determined by whether they aromatize and what type of estrogen they aromatize into, and whether they're progestogenic.
-
 ### Body fat and aromatization
 
 How much a given dose aromatizes depends on the person, not only the compound. Aromatase sits in adipose tissue, and most circulating estradiol in men comes from peripheral aromatization of testosterone there.
@@ -225,59 +587,7 @@ In morbidly obese men, serum estrone and estradiol were about twice those of lea
 Blocking the enzyme moves both hormones the expected way: aromatase inhibitors in obese hypogonadal men lower estradiol and raise testosterone.
 [Colleluori 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7243137/)
 
-### Androgen, estrogen and progesterone activity by compound
 
-Androgenic effects depend on how much of the parent drug and its active metabolites reaches a tissue and how strongly they activate its androgen receptor. The enzyme 5α-reductase converts testosterone to a more tightly binding androgen, dihydrotestosterone (DHT). The same enzyme converts nandrolone to a less tightly binding androgen, dihydronandrolone. Aromatase can produce estrogenic metabolites, and some AAS also act at the progesterone receptor.
-[Bergink 1985](https://pubmed.ncbi.nlm.nih.gov/4021486/)
-[Attardi 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2575079/)
-
-| AAS                         | DHT-like conversion or direct action<br>**Related effects:** scalp hair loss                                                                                    | Aromatization and estrogen formed<br>**Related effects:** breast tenderness, gynecomastia  | Progesterone receptor activity<br>**Potential effects:** lower LH and FSH, reduced sperm production                                                                                                                                                           |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Testosterone**            | **Converts to DHT.** 5α-reductase makes DHT, which binds more tightly than testosterone. Testosterone also acts directly.                                       | **Yes → estradiol (E2).**                                                                  | Very weak binding in the bovine receptor assay. [Bergink 1985](https://pubmed.ncbi.nlm.nih.gov/4021486/) · [Attardi 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2575079/)                                                                                  |
-| **Nandrolone (Deca)**       | **Converts to DHN.** DHN binds less tightly than nandrolone in lab assays, so this conversion differs from testosterone → DHT.                                  | **Slow in vitro → small amounts of estradiol.** Conversion in people is poorly quantified. | Activated the progesterone receptor in a human cell assay.  [Bergink 1985](https://pubmed.ncbi.nlm.nih.gov/4021486/) · [Attardi 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2575079/) · [Human cell assay, 1997](https://pubmed.ncbi.nlm.nih.gov/9228646/) |
-| **Trenbolone**              | **Acts directly.** No established 5α-reduction to a stronger metabolite. The parent compound bound the human receptor about as tightly as DHT in Bauer’s assay. | **No established aromatization.**                                                          | Strong binding to the bovine receptor. [Bauer 2000](https://pubmed.ncbi.nlm.nih.gov/11252818/) · [Yarrow 2011](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00440.2010)                                                                            |
-| **Oxandrolone (Anavar)**    | **Acts directly.** Already 5α-reduced and derived from DHT. It activates the receptor, with lower affinity in lab work.                                         | **No.**                                                                                    | Human progestogenic side effects are poorly characterized. [Kemppainen 1999](https://pubmed.ncbi.nlm.nih.gov/10077001/) · [Zeger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC7903863/)                                                                     |
-| **Stanozolol (Winstrol)**   | **Acts directly.** Already 5α-reduced and derived from DHT.                                                                                                     | **No.**                                                                                    | A human fibroblast study suggested receptor binding. Human progestogenic side effects remain unclear. [Holterhus 2002](https://pubmed.ncbi.nlm.nih.gov/12589933/) · [Ellis 1994](https://pubmed.ncbi.nlm.nih.gov/8079819/)                                    |
-| **Methyltestosterone**      | **Acts directly and forms 5α-reduced metabolites.** A cell study tentatively identified 17α-methyl-DHT. Its contribution to effects in humans is unclear.       | **Yes → 17α-methylestradiol.**                                                             | Weak binding in the bovine receptor assay. Human progestogenic side effects are poorly characterized. [Cell metabolism study](https://doi.org/10.1002/dta.3009) · [Attardi 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2575079/)                           |
-| **Boldenone (Equipoise)**   | **Binds directly.** Clinically important conversion to a stronger DHT-like metabolite is unclear.                                                               | **Unclear in humans.** The cited placental study started with a related precursor.         | Very weak binding in the bovine receptor assay. Human progestogenic side effects are poorly characterized. [Bauer 2000](https://pubmed.ncbi.nlm.nih.gov/11252818/) · [Milewich 1981](https://pubmed.ncbi.nlm.nih.gov/7311525/)                                |
-| **Drostanolone (Masteron)** | **Acts directly.** Already 5α-reduced. It is 2α-methyl-DHT and competes for androgen binding sites.                                                             | **No.**                                                                                    | Human progestogenic side effects are poorly characterized. [de Boer 1992](https://pubmed.ncbi.nlm.nih.gov/1606052/) · [Tissue binding study, 1977](https://doi.org/10.1016/0014-2964(77)90193-1)                                                              |
-
-In a six-month randomized trial of 36 men, adding the progestin levonorgestrel to testosterone suppressed sperm production faster and more strongly than testosterone alone. Progestins can increase suppression of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which help drive testicular testosterone and sperm production. The trial used levonorgestrel. 
-[Bebb 1996](https://pubmed.ncbi.nlm.nih.gov/8636300/)
-
-Bauer's androgen receptor values come from one recombinant human receptor assay with DHT set to 100. Relative binding affinities in that assay were 109 for trenbolone, 75 for nandrolone, 49 for boldenone, 36 for methyltestosterone, and 31 for testosterone. The progesterone receptor comparison in that study used a bovine receptor.
-[Bauer 2000, Table 1](https://mediatum.ub.tum.de/doc/603262/603262.pdf)
-
-### How the estrogens differ
-
-Attardi compared estrogen receptor binding and activation of an estrogen-responsive reporter in human cells. The binding columns use estradiol as 100 for each receptor. A lower EC₅₀ means less estrogen was needed to reach half of its maximum response in that cell assay.
-
-| Estrogen | How it forms | ERα binding | ERβ binding | Cell reporter EC₅₀ |
-|---|---|---:|---:|---:|
-| **Estradiol (E2)** | Testosterone aromatizes to E2. Nandrolone formed small amounts of the same E2 with recombinant human aromatase. | 100 | 100 | 17.6 pM |
-| **17α-Methylestradiol** | Methyltestosterone aromatizes to this modified estradiol. | 70 | 44 | 12.9 pM |
-| **Estrone (E1)** | Androstenedione aromatizes to estrone. | 8 | 5 | 40.5 pM |
-
-17α-Methylestradiol bound less tightly than estradiol but activated the reporter in a similar concentration range. Estrone bound more weakly and had a higher EC₅₀ in this assay. Breast tenderness and gynecomastia depend on how much of each estrogen forms, how long it stays active, and how much reaches breast tissue. The lab values cannot rank those effects in people.
-[Attardi 2008, Tables 2–3](https://pmc.ncbi.nlm.nih.gov/articles/PMC2575079/)
-
-### Androgen receptor binding affinity
-
-| Compound | Relative affinity (DHT = 100) | What was measured |
-|---|---:|---|
-| **Trenbolone (17β)** | **109** | Bound about as tightly as DHT in this assay. |
-| **DHT (reference)** | **100** | Reference compound for the numeric values. |
-| **Nandrolone (Deca)** | **75** | Parent compound. Its metabolite dihydronandrolone (DHN) binds less tightly in separate experiments. [Bergink 1985](https://pubmed.ncbi.nlm.nih.gov/4021486/) |
-| **Boldenone (Equipoise)** | **49** | Bound more tightly than testosterone in this assay. |
-| **Methyltestosterone** | **36** | Bound slightly more tightly than testosterone in this assay. |
-| **Testosterone** | **31** | Parent compound before conversion to DHT. |
-| **Oxandrolone (Anavar)** | — | Characterized as a lower affinity agonist in a separate lab study. [Kemppainen 1999](https://pubmed.ncbi.nlm.nih.gov/10077001/) |
-| **Stanozolol (Winstrol)** | — | Showed weak binding in a separate rat and rabbit tissue assay. [Saartok 1984](https://pubmed.ncbi.nlm.nih.gov/6539197/) |
-| **Drostanolone (Masteron)** | — | Competed for androgen binding sites in a separate tissue study. [Tissue binding study, 1977](https://doi.org/10.1016/0014-2964(77)90193-1) |
-
-The dashes mark compounds without a value from Bauer's assay. In scalp follicles, the response also depends on local drug exposure, which metabolites form, and follicle sensitivity.
-
-For preventing hair loss on steroids → [[Hair loss]]
 ## Testosterone replacement
 
 TRT is a marketing term. There is only exogenous AAS and doses of that. Human male endogenous testosterone production is around 50mg per week. The average clinic will prescribe testosterone enanthate which is an ester so it needs a higher dose to give the same effect as pure testosterone, around 70mg. So when clinics have people going off 100mg per week and up, this is supraphysiological, even assuming an ester with a very long tail (and thus molecular weight)
@@ -287,14 +597,6 @@ Side effects aren't thought thoroughly WRT AAS. Blood work says nothing about wh
 
 In a case series of 10 bodybuilders with long-term AAS use and kidney abnormalities, mean serum creatinine was 3.0 mg/dL and mean urinary protein was 10.1 g/day. Blood and urine tests captured different features of kidney injury in those cases. The series cannot isolate the effects of AAS from other bodybuilding exposures or estimate how common the condition is. Nine of the ten had focal segmental glomerulosclerosis on biopsy, mean BMI was 34.7, and of the eight with follow-up, seven stabilized or improved after stopping while one who resumed developed progressive kidney failure.
 [Herlitz 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2799287/)
-
-### Why creatinine misleads here
-
-Estimated GFR from serum creatinine understates kidney function in muscular people. Creatinine comes almost entirely from the spontaneous breakdown of creatine and phosphocreatine, nearly all of which sits in skeletal muscle, turning over at a near-constant ~1.7% a day. More muscle means more creatinine produced daily and a higher serum level at the same true GFR. Creatine supplementation adds to this, and 17-alpha-methyltestosterone appears to raise endogenous creatine production as well.
-
-Cystatin C is produced by all nucleated cells and is much less affected by muscle mass, age and sex, which makes it the better estimate in this population. One cross-sectional comparison of 57 current users, 28 past users and 52 non-using weightlifters found both creatinine and cystatin C higher in current users, though its design can't establish cause or separate a true GFR drop from some other effect on cystatin C.
-[Bond 2022](https://doi.org/10.3389/fendo.2022.1059473)
-→ [[Creatine Supplementation]]
 ## Risk and benefit
 
 The best AAS risk/benefit analysis wise will depend on your risk profile and what dose you plan on using.

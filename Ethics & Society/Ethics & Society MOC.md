@@ -46,3 +46,4 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 - [[Police presence and crime]] — station closures, patrols, strikes and koban
 - [[Rikers Island closure]] — the 2032 plan, capacity, pretrial releases and re-arrest
 - [[Rent control]] — what the empirical literature finds on rents, quality, mobility and construction
+- [[Billionaires and economic growth]] — wealth inequality, political connections and growth

@@ -58,8 +58,7 @@ In the NutriNet-Santé cohort (102,865 French adults), the highest aspartame con
 Other cohorts haven't found the link. In the NIH-AARP Diet and Health Study, higher intake of aspartame-sweetened drinks wasn't associated with lymphoma, leukemia or brain cancer over more than 5 years.
 [NCI: Artificial sweeteners and cancer](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/artificial-sweeteners-fact-sheet)
 
-NutriNet-Santé is an outlier among cohorts on this question, as it is on organic food.
-[Avi's thread on NutriNet-Santé and aspartame](https://x.com/AviBittMD/status/1858957917321654751)
+NutriNet-Santé is an outlier among cohorts on this question, as it is on organic food. → [[Organic and Health#Cancer|Organic and Health]]
 
 When IARC classified aspartame as "possibly carcinogenic" in 2023, the joint FAO/WHO expert committee (JECFA) reviewed the same evidence and kept its acceptable daily intake of 40 mg/kg a day.
 [WHO: IARC and JECFA aspartame evaluations](https://www.who.int/publications/m/item/summary-of-findings-of-the-evaluation-of-aspartame-at-the-international-agency-for-research-on-cancer-(iarc)-monographs-programme-s-134th-meeting--and-the-joint-fao-who-expert-committee-on-food-additives-(jecfa)-96th-meeting)
