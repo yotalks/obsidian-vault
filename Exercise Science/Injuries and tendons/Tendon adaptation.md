@@ -35,6 +35,8 @@ Once training stops, stiffness gains are lost in about 2 months (see [[Detrainin
 ## Load, not contraction type
 
 Contrary to popular belief, tendon stiffening isn't specific to eccentric or concentric training, but it is specific to load. In the meta-analysis, stiffness gains depended on loading intensity but not on contraction type.
+[Quinlan 2021 - moderate-load human muscle and tendon adaptation](https://pubmed.ncbi.nlm.nih.gov/34196903/)
+
 [Bohm 2015](https://pubmed.ncbi.nlm.nih.gov/27747846/)
 Tendons don't get stiffer with loads lighter than about 12–15RM; it takes heavy (1–5RM) or moderately heavy (6–10RM) loads.
 [Malliaras 2013](https://pubmed.ncbi.nlm.nih.gov/23773532/)

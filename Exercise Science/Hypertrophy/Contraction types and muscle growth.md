@@ -45,6 +45,7 @@ Neither stretches sarcomeres, so there's only active tension. In a maximal effor
 ## Slow eccentrics and isometrics at long lengths
 
 Both have active tension like the contractions above, and both also stretch activated sarcomeres, which adds passive tension and a stimulus for sarcomerogenesis. They aren't equal though. Eccentrics stretch titin further, so they create more passive tension and more total fiber tension. So they should give similar fiber hypertrophy but more sarcomerogenesis, and therefore more total growth.
+[Geremia 2019 - human calf muscle fascicle length and thickness](https://pubmed.ncbi.nlm.nih.gov/31849706/)
 
 In rats given electrical stimulation at 100 Hz for 3 weeks, gastrocnemius mass rose 17% with eccentric contractions versus 7% with isometric contractions. Peak torque and total torque over time were higher with eccentrics and tracked the gains, so the authors put the difference down to the loading rather than the contraction type itself.
 [Ashida 2018](https://pubmed.ncbi.nlm.nih.gov/29074713/)

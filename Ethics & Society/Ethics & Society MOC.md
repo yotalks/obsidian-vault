@@ -41,6 +41,11 @@ Other ethics, social and political topics. Animal ethics has its own hub: [[Anim
 
 ## Politics and law
 - [[ICE and immigration enforcement]] — abolish ICE, the Minneapolis shooting, asylum confidentiality and Medicaid
+- [[Israel and Palestine]] — regional topic index
+  - [[Israel and apartheid]] — legal definitions and competing arguments
+  - [[Proportionality in war]] — assessing individual attacks
+  - [[Israeli-Palestinian borders]] — borders and conflict
+  - [[Israeli Pagers]] — international humanitarian law
 - [[Luigi Mangione]] — classification under the FBI definition
 - [[Bigotry and evidence]] — definition vs evidence, best explanation, degrees, and bigotry vs legality
 - [[Police presence and crime]] — station closures, patrols, strikes and koban

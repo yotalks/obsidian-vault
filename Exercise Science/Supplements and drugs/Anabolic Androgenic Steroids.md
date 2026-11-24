@@ -20,6 +20,7 @@ up: "[[Exercise Science MOC]]"
 [Bhasin 2001](https://pubmed.ncbi.nlm.nih.gov/11701431/)
 
 AAS do this by binding to the androgen receptors and starting the hypertrophy process which happens to skeletal muscle, but also cardiac myocytes, kidney podocytes, and prostate cells which is why it has potentially dangerous side effects.
+[Griggs 1989 - testosterone and muscle protein synthesis in men](https://pubmed.ncbi.nlm.nih.gov/2917954/)
 
 AAS increase muscle size dose-dependently, and the increase is fiber hypertrophy starting as low as 50 mg per week.
 
@@ -104,7 +105,8 @@ In exercise science, recovery usually means getting back to pre-workout strength
 → [[Recovery between workouts]]
 
 Rat injury studies found faster repair with nandrolone:
-- **Contusion.** After a drop-mass contusion, nandrolone decanoate at 20 mg/kg made no difference to force at day 7, but by day 14 the injured muscles were significantly stronger in twitch force than controls, with a similar trend for tetanic force. [Beiner 1999](https://pubmed.ncbi.nlm.nih.gov/9934411/)
+- **Contusion.** After a drop-mass contusion, nandrolone decanoate at 20 mg/kg made no difference to force at day 7, but by day 14 the injured muscles were significantly stronger in twitch force than controls, with a similar trend for tetanic force.
+  [Beiner 1999](https://pubmed.ncbi.nlm.nih.gov/9934411/)
 - **Cryoinjury.** With nandrolone decanoate at 5 mg/kg twice a week after a freezing injury, MyoD rose by day 7 and myogenin by day 21, and the injured muscle showed no edema or myonecrosis at day 7. [Piovesan 2013](https://pubmed.ncbi.nlm.nih.gov/22791621/)
 
 Converted to a human-equivalent dose by body surface area (rat dose × 6/37), those are about 3.2 mg/kg and about 0.8 mg/kg twice a week, or roughly 260 mg and 130 mg a week for an 80 kg man.

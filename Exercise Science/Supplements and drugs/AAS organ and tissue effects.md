@@ -17,6 +17,9 @@ Tendons and ligaments fail to adapt properly to the training stimulus under AAS,
 Steroids grow muscle even without training, and the effect adds to training. But by suppressing collagen breakdown they block tendon adaptation, so muscle force outpaces tendon strength and rupture risk rises, including on TRT.
 
 Muscle and connective tissue get stronger by different mechanisms. Muscle adds myofibrillar protein. Tendon and ligament stiffen by reorganizing architecture and shifting collagen types, which requires breakdown as well as synthesis.
+[Karpakka 1992 - rat muscle and tendon collagen biosynthesis](https://pubmed.ncbi.nlm.nih.gov/1636855/)
+[Marqueti 2008b - rat skeletal-muscle MMP-2](https://pubmed.ncbi.nlm.nih.gov/18050056/)
+
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
 
 AAS act the same direction in both tissues. AAS raise synthesis and suppress breakdown in muscle (↑[[Glossary#MPS|MPS]], ↓[[Glossary#MPB|MPB]]) and in connective tissue (↑collagen synthesis, ↓collagen breakdown). Since muscle adaptation is construction-limited, suppressed breakdown helps. Since tendon adaptation is breakdown-dependent, suppressed breakdown blocks it. 
@@ -42,6 +45,7 @@ AAS-user tendons under the microscope show disorganization, fibril misalignment,
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
 
 Rupture risk elevation applies to prescription [[Glossary#TRT|TRT]] as well as recreational bodybuilding doses. 
+
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
 
 Kanayama gives two possible explanations for the rupture association: muscle force could rise faster than tendon capacity, or AAS could directly change tendon structure. Their human cohort measured rupture histories. It did not establish the collagen mechanism or compare strategies for lowering rupture risk.
@@ -53,9 +57,9 @@ Kanayama gives two possible explanations for the rupture association: muscle for
 | [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)                                                                                    | Cross-sectional cohort, 142 bodybuilders                | Any tendon rupture          | Steroid users 9.0 times as likely (HR, 95% CI 2.5–32.3)  |
 | [Albright 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10638827/)                                                                                   | Retrospective matched cohort, TRT                       | Achilles tendon injury      | Adjusted OR 1.24 (1.15–1.33); surgery 9.0% vs 6.4%       |
 | [Rebello 2023](https://pubmed.ncbi.nlm.nih.gov/36918119/)                                                                                             | Retrospective matched cohort, prescription testosterone | Distal biceps tendon injury | OR 4.10 within 1 year                                    |
-| [Meghani 2023](https://pubmed.ncbi.nlm.nih.gov/?term=Testosterone+Therapy+Is+Associated+With+Increased+Odds+of+Quadriceps+Tendon+Injury)              | Retrospective matched cohort, prescription testosterone | Quadriceps tendon injury    | OR 5.4 (3.4–9.2) within 1 year; 5.8 in men               |
+| [Meghani 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10723858/)              | Retrospective matched cohort, prescription testosterone | Quadriceps tendon injury    | OR 5.4 (3.4–9.2) within 1 year; 5.8 in men               |
 | [Quinn 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11565631/)                                                                                      | Retrospective matched cohort, TRT                       | ACL rupture                 | OR 2.46 (2.11–2.86) at 1 year; adjusted 1.94 (1.62–2.33) |
-| [Brinkman 2024](https://www.healio.com/news/orthopedics/20241108/patients-on-testosterone-replacement-therapy-may-have-increased-risk-for-acl-injury) | Retrospective matched cohort, TRT                       | ACL injury                  | OR 2.77 within 2 years; 3.13 in men, 1.94 in women       |
+| [Brinkman 2024](https://pubmed.ncbi.nlm.nih.gov/39510204/) | Retrospective matched cohort, TRT                       | ACL injury                  | OR 2.77 within 2 years; 3.13 in men, 1.94 in women       |
 
 In Kanayama's bodybuilders, the excess was driven by upper-body tendons: 15 of 88 steroid users (17%) had an upper-body rupture versus none of 54 non-users, while lower-body ruptures didn't differ significantly (HR 3.1, 0.7–13.8). Only 6 of 31 ruptures happened while weightlifting.
 

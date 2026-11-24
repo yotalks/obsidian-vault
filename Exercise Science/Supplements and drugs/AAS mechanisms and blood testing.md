@@ -455,9 +455,9 @@ This is a central element of the oxidative stress problem produced by AAS becaus
 #### Calcium ion influx
 
 AAS has been shown to directly influence the influx of calcium ions into various cells, which then triggers damage in various structures and organelles, including the mitochondria.
-[Vicencio 2011 - intracellular calcium signaling review](https://pubmed.ncbi.nlm.nih.gov/21443511/)
+[Vicencio 2011 - intracellular calcium signaling review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4416211/)
 
- This may be what suppresses activity in the mitochondrial ETC and causes the mitochondria to leak electrons, which produces oxidative stress.
+This may be what suppresses activity in the mitochondrial ETC and causes the mitochondria to leak electrons, which produces oxidative stress.
 [Agriesti 2020 - HepG2 mitochondrial respiration](https://pubmed.ncbi.nlm.nih.gov/32041983/)
 
 #### Oxidative stress
@@ -696,6 +696,257 @@ Medications — optional / check contraindications
 
 - Spironolactone (MRA)
 
+### Impaired collagen remodeling
+
+AAS (even TRT dosages) tend to experience tendon and ligament ruptures way more often than naturals. This has been attributed to faster growth of muscle relative to tendon, on the assumption that AAS make muscles grow but not the tendons, but this understates what's happening. AAS block tendon adaptations completely. It's not possible to take it slow and allow your tendons to catch up with your muscles when using AAS. You need to go off-cycle for some time to build up your tendons and then go back on cycle.
+
+#### Tendon and ligament rupture risk
+
+One of the most robust findings in sports medicine is that AAS use increases the risk of tendon and ligament ruptures even at low doses.
+[Horn 2009 - NFL survey: joint/ligament association; no muscle/tendon association](https://pubmed.ncbi.nlm.nih.gov/19847128/)
+
+The number of studies looking at this is huge.
+[Kanayama 2015 - bodybuilder tendon rupture cohort](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
+[Albright 2023 - prescription TRT and Achilles injury](https://pubmed.ncbi.nlm.nih.gov/37950322/)
+[Testa 2023 - prescription testosterone and rotator cuff injury](https://pubmed.ncbi.nlm.nih.gov/36745691/)
+[Meghani 2023 - prescription testosterone and quadriceps injury](https://pmc.ncbi.nlm.nih.gov/articles/PMC10723858/)
+[Quinn 2024 - prescription testosterone and ACL rupture](https://pmc.ncbi.nlm.nih.gov/articles/PMC11565631/)
+[Hou 2025 - surgically treated tendon ruptures; conference abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC12120298/)
+[Waters 2025 - testosterone initiation and tendon tears](https://journals.sagepub.com/doi/abs/10.1177/19417381251334083)
+[Brinkman 2025 - prescription testosterone and ACL injury](https://pubmed.ncbi.nlm.nih.gov/39510204/)
+[Dajani 2026 - prescription TRT and tendon rupture](https://pmc.ncbi.nlm.nih.gov/articles/PMC13110288/)
+
+There are several trends we can pick up.
+
+Dose response: There is an obvious dose-response of AAS use on tendon ruptures. Supraphysiological AAS use produces the largest effect, while TRT produces much smaller effects.
+[Kanayama 2015 - bodybuilder tendon rupture cohort](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
+
+Timing: AAS users are much more likely to experience a tendon rupture in their first year.
+[Meghani 2023 - prescription testosterone and quadriceps injury](https://pmc.ncbi.nlm.nih.gov/articles/PMC10723858/)
+[Waters 2025 - testosterone initiation and tendon tears](https://journals.sagepub.com/doi/abs/10.1177/19417381251334083)
+[Rebello 2026 - sex hormone therapy and military tendon injuries](https://pubmed.ncbi.nlm.nih.gov/42560236/)
+
+This suggests that tendons are most vulnerable in the early cycles of AAS use whne the changes caused by AAS are most prominent.
+
+Location: The rotator cuff tendons appear to be the most strongly affected by AAS use, followed by the patellar tendon, the biceps distal tendon, the hamstrings, and the ACL.
+[Testa 2023 - prescription testosterone and rotator cuff injury](https://pubmed.ncbi.nlm.nih.gov/36745691/)
+[Waters 2025 - testosterone initiation and tendon tears](https://journals.sagepub.com/doi/abs/10.1177/19417381251334083)
+[Dajani 2026 - prescription TRT and tendon rupture](https://pmc.ncbi.nlm.nih.gov/articles/PMC13110288/)
+[Rebello 2026 - sex hormone therapy and military tendon injuries](https://pubmed.ncbi.nlm.nih.gov/42560236/)
+[Meghani 2023 - prescription testosterone and quadriceps injury](https://pmc.ncbi.nlm.nih.gov/articles/PMC10723858/)
+[Quinn 2024 - prescription testosterone and ACL rupture](https://pmc.ncbi.nlm.nih.gov/articles/PMC11565631/)
+[Brinkman 2025 - prescription testosterone and ACL injury](https://pubmed.ncbi.nlm.nih.gov/39510204/)
+
+In contrast, the existing evidence suggest that the Achilles tendon isn't that affected.
+[Kanayama 2015 - bodybuilder tendon rupture cohort](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
+[Albright 2023 - prescription TRT and Achilles injury](https://pubmed.ncbi.nlm.nih.gov/37950322/)
+[Waters 2025 - testosterone initiation and tendon tears](https://journals.sagepub.com/doi/abs/10.1177/19417381251334083)
+[Dajani 2026 - prescription TRT and tendon rupture](https://pmc.ncbi.nlm.nih.gov/articles/PMC13110288/)
+
+While the rotator cuff tendon is likely an impingement problem, otherwise, it looks like tendons that experience high forces in stretched positions in common strength training exercises (e.g. patellar tendon in squats and leg presses, biceps distal tendon in preacher curls) are most at risk. The calves are rarely trained in exercises with peak forces in stretched positions, especially given that their moment arms cause the exercise to be hardest in the contracted position. Contraindicating stretched position exercises in AAS users is probably too far. If the AAS user is taking risks in other areas (like raising dosages too fast), then it may be a good idea to lay off those exercises.
+
+#### Muscle strength and tendon stiffness
+
+The classic explanation for why AAS users experience a greater risk of tendon ruptures is that increases in muscle force normally outpace increases in tendon stiffness during strength training and that AAS magnifies this problem. This was based on very limited data looking at the time-course of muscle and tendon adaptations to isometric strength training in the absence of AAS use.
+[Kubo 2010 - human muscle and tendon time course](https://pubmed.ncbi.nlm.nih.gov/19996769/)
+[Kubo 2012 - human Achilles training and detraining](https://pubmed.ncbi.nlm.nih.gov/22105708/)
+
+These studies say nothing about the relative rffects of AAS on muscle and tendon which is a weakness in the hypothesis. The studies also used moderately-light loads (70-80% of maximum strength) during training, which makes it not surprising that muscular adaptions outpcaed tendon adaptation.
+[Kubo 2010 - human muscle and tendon time course](https://pubmed.ncbi.nlm.nih.gov/19996769/)
+[Kubo 2012 - human Achilles training and detraining](https://pubmed.ncbi.nlm.nih.gov/22105708/)
+
+Tendons generally need a heavy or at least moderately-heavy laod to adapt meaningfully.
+[Bohm 2015 - human tendon-loading meta-analysis](https://doi.org/10.1186/s40798-015-0009-9)
+
+Moreover, all of the later research using heavier load strength training in the absence of AAS use found tendon stiffness increased at a faster rate than maximum strength and muscle size.
+[Geremia 2018 - human Achilles adaptation](https://pubmed.ncbi.nlm.nih.gov/29858689/)
+[Tsai 2024 - human Achilles loading protocols](https://pmc.ncbi.nlm.nih.gov/articles/PMC10960029/)
+
+Cross sectional analyses have reported that large differences in muscle and tendon adaptations can exist in cohorts of strength-trained individuals without any apparent problems.
+[Massey 2018 - short- and long-term resistance training](https://pubmed.ncbi.nlm.nih.gov/29253326/)
+
+So we need an alternative explanation for why AAS increase risk of tendon ruptures.
+
+#### AAS disrupt tendon remodeling
+
+Recently, researchers have shown that AAS impede the remodeling of the extracellular matrix but the don't damage it directly. This reeans the muscle adapts but the tendon doesn't. The fact that AAS impede tendon remodeling rather than causing direct damage is important and can be drawn from multiple perspectives.
+
+Molecular: Normally, mechanical loading from exercise causes tendons to degrade the inadequate extracellular matrix before replacing this with collagen with stronger material or architectural properties. AAS stop this from happening. They reduce collagen degradation by decreasing the activity of Matrix Metalloproteinases (MMPs) and also by increasing the activity of inhibitors Tissue Inhibitors of Metalloproteinases (TIMPs).
+[Marqueti 2006 - rat Achilles remodeling and MMP activity](https://pubmed.ncbi.nlm.nih.gov/16636352/)
+[Marqueti 2008a - rat tendon MMP-2](https://pubmed.ncbi.nlm.nih.gov/18810485/)
+[Marqueti 2012 - rat tendon remodeling gene expression](https://pubmed.ncbi.nlm.nih.gov/21842416/)
+
+AAS also impair collagen synthesis rates at lower doses, but tend to increase rates at higher doses.
+[Marqueti 2012 - rat tendon remodeling gene expression](https://pubmed.ncbi.nlm.nih.gov/21842416/)
+[Marqueti 2014 - rat tendon structural adaptation](https://pubmed.ncbi.nlm.nih.gov/24224869/)
+[Pärssinen 2000 - human collagen metabolism markers](https://pubmed.ncbi.nlm.nih.gov/10961515/)
+
+Given that the remodeling is driven mainly by the removal of the inadequate extracellular matrix, this doesn't lead to a qualitative difference in the effects between dosages.
+
+Biomechanical: Normally, mechanical loading from exercise causes tendons to change their biomechanical properties (increased stiffness and size). AAS use concomitantly with exercise tends to suppress some of these changes.
+[Miles 1992 - rat tendon mechanics](https://pubmed.ncbi.nlm.nih.gov/1548269/)
+[Inhofe 1995 - rat tendon mechanics and withdrawal](https://pubmed.ncbi.nlm.nih.gov/7778710/)
+[Marqueti 2011 - rat tendon biomechanics](https://pubmed.ncbi.nlm.nih.gov/20673248/)
+[Seynnes 2013 - human patellar tendon properties](https://pubmed.ncbi.nlm.nih.gov/23620489/)
+[Tsitsilonis 2014 - rat Achilles biomechanics](https://pubmed.ncbi.nlm.nih.gov/24796826/)
+
+The changes that do occur are indicative of impaired remodeling but not damage. Most importantly, we don't see changes in ultimate failure load but we do see reduced tendon elongation and energy absorbed until failure.
+[Miles 1992 - rat tendon mechanics](https://pubmed.ncbi.nlm.nih.gov/1548269/)
+[Inhofe 1995 - rat tendon mechanics and withdrawal](https://pubmed.ncbi.nlm.nih.gov/7778710/)
+
+Damage would cause a reduction in ultimate failure load, while impaired remodeling simply reduces the capacity of the tendon to deform.
+
+Structural: Normally mechanical loading from exercise causes tendons to change their architecture towards a more organized and better format for force transmission. Yet AAS use combined with exercise stops this from happening.
+[Michna 1986 - collagen ultrastructure in mice](https://pubmed.ncbi.nlm.nih.gov/2881396/)
+[Michna 1987 - collagen dysplasia in exercised mice](https://pubmed.ncbi.nlm.nih.gov/3610410/)
+[Wood 1988 - rat tendon crimp morphology](https://pubmed.ncbi.nlm.nih.gov/3377099/)
+
+However, there are no overt signs of tendon damage at the ultrastructural level which confirms the interpretation that AAS are impairing the remodeling rather than actively damaging collagen.
+[Inhofe 1995 - rat tendon mechanics and withdrawal](https://pubmed.ncbi.nlm.nih.gov/7778710/)
+[Evans 1998 - human ruptured-tendon ultrastructure](https://pubmed.ncbi.nlm.nih.gov/10341901/)
+[Wieser 2015 - chronically retracted sheep rotator cuff](https://pubmed.ncbi.nlm.nih.gov/24792077/)
+[Damgaard 2025 - current and former AAS users; human patellar tendon](https://pubmed.ncbi.nlm.nih.gov/40407232/)
+
+This supports the idea that AAS use prevents remodeling of tendons but doesn't cause any of the damage to the collagen.
+
+Reversibility: If AAS use actively damaged tendons, then we would expect a slow reversal of the problem over several months, but we see if AAS use simply prevented remodeling, then we would expect much more rapid reversal. Existing literature points to a rapid reversal being more likely which supports the idea that AAS prevents remodeling rather than damaging the tendon.
+[Inhofe 1995 - rat tendon mechanics and withdrawal](https://pubmed.ncbi.nlm.nih.gov/7778710/)
+
+### Collagen markers and practical implications
+
+#### Collagen markers are absent in bloodwork
+
+Medical testing practices don't include collagen markers.
+[Gibbons 2024 - recommended AAS blood tests](https://pmc.ncbi.nlm.nih.gov/articles/PMC10962511/)
+
+Despite a ruptured tendon being one of the most problematic side effects caused directly by AAS, it's the one with no monitoring.
+
+#### Practical implications
+
+The following training and AAS-related strategies may be useful
+
+Use off-cycles as preparation: Perhaps the most important strategy for avoiding tendon ruptures as an AAS user is to use off-cycles so the tendon can adapt. On-cycle, the muscle is growing fast and gaining strength, while the tendon isn't adapting at all because of the impaired remodeling effect. This is the source of the imbalance problem commonly identified. Off-cycle, the muscle stops growing because of the removed anabolic stimulus and the tendon has the ability to catch up. This is the perfect time to give tendon adaptations with heavy (1-5RM load) or at least a moderately heavy (6-10RM) load, which is the most effective method when strength training.
+[Bohm 2015 - human tendon-loading meta-analysis](https://doi.org/10.1186/s40798-015-0009-9)
+
+Limit load increases and control lowering tempos when on-cycle: While natural lifters focus on PO, the AAS user should probably avoid adding weight on the bar (and reducing tendon strain) while on-cycle, while the tendon is decreasing its capacity to elongate. This suggests that a reverse load periodization model where you add reps as the cycle progresses would make sense from a tendon protection POV. Also, the average AAS user might benefit from using slow lowering tempos to avoid rapid tendon lengthening that might cause a rupture.
+
+#### Careful with stretched position exercises
+
+Aside from rotator cuff tears that are likely impingement related, tendon ruptures occur in muscles that are commonly loaded in stretched positions. This suggests that AAS users may want to be careful when training with stretched position exercises.
+
+#### Avoid glucocorticoids with AAS
+
+Glucocorticoids suppress collagen synthesis, which is a bad idea with suppressed collagen degradation by AAS.
+[Puzzitiello 2020 - corticosteroid tendon studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190543/)
+[Chae 2021 - cortisol and collagen in human skin cells](https://pmc.ncbi.nlm.nih.gov/articles/PMC8125628/)
+
+For the sake of connective tissue health, it makes sense to avoid being on-cycle while stressed, routinely sleep deprived, or rehabbing a tendon with glucocorticoid injections.
+
+#### Supplements
+
+Some recent studies found hydrolyzed collagen with Vitamin C supplementation enhances collagen synthesis and leads to better adaptations in tendon size after strength training.
+[Lee 2024 - acute whole-body collagen synthesis markers](https://pmc.ncbi.nlm.nih.gov/articles/PMC11282471/)
+[Nulty 2025 - collagen and patellar tendon adaptation in middle-aged men](https://pmc.ncbi.nlm.nih.gov/articles/PMC11917387/)
+
+This doesn't help the key problem by AAS (which is drop of collagen degradation and remodeling), it's a cheap strategy that may help.
+
+AAS users tend to experience tendon and ligament ruptures much more frequently than non-users. This has been attributed to faster muscle growth than tendon, but it's more accurate to say that AAS block tendon adaptations by actively preventing extracellular matrix remodeling. This leads to several mitigation strategies. Firstly, emphasizing off--cycles where heavy load strength training can be done to produce the remodeling that didn't happen in the previous cycle. Secondly, lifting should avoid excessive tendon strains by minimizing weight increases over the course of the cycle and increase reps instead, and using slow, controlled lowering phases. Thirdly, it suggests that AAS users will need to avoid stress and sleep good, since glucocorticoids suppress collagen synthesis which would act synergistically with AAS to lead to worse tendon problems. Finally, you can take a hydrolyzed collagen supplement in combination with vitamin C as it has been shown to increase tendon adaptations to strength training.
+[Lee 2023 - patellar tendon stiffness in female soccer players](https://pmc.ncbi.nlm.nih.gov/articles/PMC9910607/)
+[Lee 2025 - patellar tendon stiffness in female soccer athletes](https://pmc.ncbi.nlm.nih.gov/articles/PMC12576002/)
+
+While it doesn't help with main problem, it's likely not gonna hurt and could help, especially off-cycle with heavier loads.
+
+### AAS and muscle damage repair
+
+Experts used to claim AAS don't directly cause hypertrophy but just let you train harder and longer because they improve recovery capacity by repairing muscle damage faster. This is ridiculous, but it's effects on repair depends on dosages. Low doses do accelerate muscle damage repair, while high are likely going to lead to more damage.
+[Tamaki 2009 - reduced muscle damage after surgical overload in rats](https://pubmed.ncbi.nlm.nih.gov/19319558/)
+
+From the available research, we see that there are multiple mechanisms that low doses of AAS (12-40 mg per week in humans) accelerate muscle damage repair.
+
+Reduced calcium ion-related fatigue: Though, muscle damage after strength training exercise is often assumed to be mechanical, it is mostly biochemical. Calcium ions enter the cytoplasm from either the sarcoplasmic reticulum or the extracellular space (through stretch activated ion channels) stimulate the production of calpains (proteases) that damage the myofibrils and related structures. Low dose AAS decreases the calcium influx into damaged muscle fibers because they have an antagonistic effect on the activity of the voltage-gated calcium ion channels in the sarcoplasmic reticulum. This reduces calpain-mediated muscle damage and leads to necrosis. You could argue this as decreasing the amount of muscle damage that happens post workout rather than increasing muscle damage repair, but the end result is the same.
+
+Reduced early-phase inflammatory damage: After the calpains have finished damaging the muscle fiber, the pro-inflammatory macrophages continue the work, clearing away the damage produced by the calpains. Low dose AAS decreases the pro-inflammatory muscle damage phase, which leads to reduced inflammation-induced swelling and reduced necrosis. The reduced inflammation is likely mostly the downstream implication of reduced calpain damage, though.
+[Piovesan 2013 - rat muscle repair after cryoinjury](https://pubmed.ncbi.nlm.nih.gov/22791621/)
+
+Increased MPS: Low dose AAS actively increases MPS rates and anabolic signaling and MPS is involved in rebuilding damaged parts of muscle tissue
+[Sheffield-Moore 1999 - oxandrolone and muscle protein synthesis in men](https://pubmed.ncbi.nlm.nih.gov/10443664/)
+[Kamanga-Sollo 2011 - protein synthesis and breakdown in bovine cell culture](https://pubmed.ncbi.nlm.nih.gov/20961723/)
+[Zeng 2017 - mTOR signaling in rats](https://pmc.ncbi.nlm.nih.gov/articles/PMC5819476/)
+
+Reduced MPB: Low dose AAS actively suppresses MPB and accompanying proteolysis, which is useful in contexts where trauma produced a large increase in stress-related glucocorticoids, such as burn injury.
+[Kamanga-Sollo 2011 - protein synthesis and breakdown in bovine cell culture](https://pubmed.ncbi.nlm.nih.gov/20961723/)
+[Demling & Orgill 2000 - nitrogen balance after severe burns](https://pubmed.ncbi.nlm.nih.gov/10757193/)
+
+Enhanced regeneration processes: Low dose AAS upregulates the satellite cell and the muscle regeneration program, activating MyoD earlier and prolonging myogenin expression, expanding the satellite cell pool and producing a lot of regenerating muscle fibers.
+[Piovesan 2013 - rat muscle repair after cryoinjury](https://pubmed.ncbi.nlm.nih.gov/22791621/)
+[White 2009 - recovery after bupivacaine injury in castrated mice](https://pmc.ncbi.nlm.nih.gov/articles/PMC2777803/)
+[Ferry 1999 - rat muscle regeneration after venom injury](https://pubmed.ncbi.nlm.nih.gov/10383489/)
+[Al-Abdullah & Al-Mashhadane 2023 - growth factors in rat masseter wounds](https://iasj.rdd.edu.iq/journals/uploads/2024/12/19/0f890b807b0f49930453b0d03a7af79e.pdf)
+[McClung 2005 - attenuated early myogenin response in overloaded rat soleus](https://pubmed.ncbi.nlm.nih.gov/15886356/)
+
+Increased collagen synthesis: Low dose AAS slightly increases the deposition of collagen by increasing collagen synthesis rates which is helpful in skin wounds. It's less obviously helpful in skeletal muscle, but as long as it provides what the internal muscle structure needs and isn't excessive, it doesn't create much of a problem and may help a little.
+
+Overall, low dose AAS are protecting muscle fibers from calcium ion influx and subsequent calcium ion-mediated (and pro inflammation) damage processes, and provoking growth-related effects by increasing MPS, increasing collagen synthesis rates, and stimulating the satellite cell and regeneration processes, while suppressing degradation effects by suppressing MPB.
+
+#### High dose AAS and damage
+
+Research hasn't often looked at high dose AAS in the context of muscle damage repair, we can look at data on high-dose exogenous AAS having actively-damaging effects on skeletal muscle. We also have clear mechanistic underpinnings for why this non-linear dose-response effect happens, such that low AAS doses are protective while high are damaging.
+[Eriksson 2006 - muscle fiber fissures in powerlifter biopsies](https://pubmed.ncbi.nlm.nih.gov/16625366/)
+[Tibúrcio 2023 - rat muscle and neuromuscular junction morphology](https://pmc.ncbi.nlm.nih.gov/articles/PMC10673219/)
+
+Increased calcium ion related damage mechanisms. Low AAS doses are suppressive of calcium ion influx but higher doses are permissive. This means that not only do higher AAS doses lose the protective effects, but they create a damaging effect. Both effects are mediated through cell membrane associated androgen receptors, but they're not totally opposite.
+
+Increased oxidative stress: Supraphysiological doses of AAS actively provoke ROS production by affecting the mitochondrial ETC as well as other minor mechanisms, including NADPH oxidases and cytochrome P450 monooxygenasese. Oxidative stress is very damaging to skeletal muscle as well as other organs.
+
+Increased inflammatory damage: Similarly, supraphysiological doses of AAS actively provokes pro-inflammatory reasonses not just because of oxidative stress (which naturally stimulates inflammation) but also stimulates the production of inflammation directly.
+[Sellau 2020 - androgen and monocyte signaling in an infection model](https://pubmed.ncbi.nlm.nih.gov/32651360/)
+
+Increased apoptosis: Like inflammation, apoptosis (and other cell death mechanisms like necrosis) is downstream of oxidative stresss. So, more oxidative stress naturally leads to more apoptosis. But, her ways where apoptosis is simulated directly by AAS. This causes muscle fibers to be destroyed which then must be repaired and/or regenerated, thereby enhancing the muscle repair burden. There is some evidence of this happening with increased regeneration markers after high dose AAS use.
+[Tibúrcio 2023 - rat muscle and neuromuscular junction morphology](https://pmc.ncbi.nlm.nih.gov/articles/PMC10673219/)
+
+Satellite cell function impairment: Satellite cells live between the sarcolemma and the basement membrane of the muscle fiber. When a fiber segment is damaged, satellite cells activate and proliferate, and then go through the basal lamma to the damaged area sot hey can fuse with it. But, the basement membrane is made of extracellular matrix and isn't permeable unless locally degraded. MMPs typically produce this degradation but they're suppressed by AAS  Being unable to provide satellite cells to the correct place at the right time would lead to split muscle fibers in AAS because of partial regeneration which has been seen in the literature.
+[Marqueti 2008b - muscle-specific MMP-2 changes in rats](https://pubmed.ncbi.nlm.nih.gov/18050056/)
+[Eriksson 2006 - muscle fiber fissures in powerlifter biopsies](https://pubmed.ncbi.nlm.nih.gov/16625366/)
+
+Autophagy/mitophagy insufficiency: AASS turn off pro-survival ERK signaling probably through an androgen receptor. That directly promotes apoptosis (and other cell death mechanisms). One very clear example of this happening in the muscle damage data is the report of sarcomere disorganization without necrosis. Damaging inducing factors (like calcium ion influx, oxidative stress, inflammation, or apoptosis promoters) would lead to cell death. While the suppression of autophagy leave the cell intact but with bits of damage scattered everywhere, why is not clear. It may be due to a competition for energy within the cell because AAS tend to push everything toward growth signaling pathways.
+
+Enhanced collagen deposition: AAS increase collagen synthesis. This is helpful in small amounts but can easily lead to fibrosis when it goes past requirements.
+[Falanga 1998 - collagen synthesis in human dermal fibroblasts](https://www.sciencedirect.com/science/article/pii/S0022202X15403409)
+[Demling 2000 - rat skin wound healing](https://pubmed.ncbi.nlm.nih.gov/10810035/)
+[Asgharnejad 2025 - topical stanozolol in rat burns](https://onlinelibrary.wiley.com/doi/10.1155/adpp/6682255)
+[Ghowsi 2023 - collagen deposition in rat hearts](https://pubmed.ncbi.nlm.nih.gov/37953582/)
+
+Overall, high dose AAS actively damage muscle fibers with calcium ion influx and then calcium ion-mediated damage (calpains), oxidative stress, inflammation, and direct entry into the apoptosis and related cell death processes. They also excessively upregulate collagen growth processes (causing fibrosis) and suppress collagen degradation (inhibiting satellite cell functions). So there are 2 different problems, they actively damage muscle fibers and they mess with processes for repairing damage.
+
+### Muscle damage markers
+
+AAS causing muscle damage can have people misinterpret their blood panels, especially their AST/ALT/GGT/bilirubin liver results.
+
+ALT/AST ratio: Some experts use this metric as a measure of liver toxicity on the assumption the ratio normalizes for exercise induced muscle damage, but the ratio is also normalizing for AAS-induced muscle damage, which means signs of toxicity will be missed.
+
+Prioritizing GGT: Similarly, online experts also suggest prioritizing GGT over the other measures because it's less commonly elevated.
+[Dickerman 1999 - AST, ALT, CK and GGT in bodybuilders](https://pubmed.ncbi.nlm.nih.gov/10336050/)
+[Pertusi 2001 - bodybuilder case and clinician survey](https://pubmed.ncbi.nlm.nih.gov/11476029/)
+
+But that research came from the assumption that the only source of muscle damage in AAS users was from exercise. A better interpretation is that GGT is just insensitive to the presence of damage.
+
+### Recovery and muscle damage
+
+AAS users might recover faster but still have more damage
+
+In exercise science, recovery is just when exercise performance goes back to baseline, regardless of what's happening at the muscular level WRT damage.
+
+This means that adaptations aren't considered. Using strength as the only metric assumes the only thing contributing to strength changes from one workout to the next is fatigue. In trained, natural lifters, this is reasonable, but when you're on AAS and can get hypertrophy very fast, it's not. We would expect faster strength recovery with AAS users but this doesn't mean they recover from muscle damage faster.
+
+#### Practical considerations
+
+Portect your mitochondria: One of the major causes of muscle damage from high doses of AAS is the oxidative stress from mitochondria dysfunction (and subsequent inflammation processes and apoptosis). This means cardio and good sleep is important as they're methods to improve mitochondrial size and strength. We might also expect certain supplements to help too.
+
+Blood panels don't tell you everything: A blood panel interpretation that assumes no direct damage from AAS is happening may be harmful and is unhelpful. Elevations in muscle damage markers can happen from exercise and it is helpful to rest 72 hours before a blood draw to minimize the impact of exercise-induced muscle damage on results. But normalizing or interpreting one blood panel damage marker using another marker the you are assuming is reflecting pure exercise induced muscle damage is not taking the damaging effects of AAS into account. There is no measurement that separates the exercise and AAS damage.
+
+AAS recovery isn't better than naturals: Strength recovery is faster because of faster adaptations, not repair and regeneration occurring faster.
+
+Experts (including exercise science researchers) used to claim that AAS let you train harder and longer because of faster repair. This is not true, low dose AAS does help with damage repair, but high doses add more damage. They do this through multiple pathways, provoking more calcium ion influx, causing oxidative stress, stimulating pro-inflammatory responses, causing apoptosis, and other cell death pathways, impairing satellite cell contributions to the regeneration process, impeding autophagy (which leaves debris inside of muscle fibers, and enchancing collagen deposition (which causes fibrosis). AAS users mihgt recover strength faster than naturalsbecause of faster hypertrophy, but muscle damage repair may be slower. It also has practical implications for blood work (we can't assume muscle damage markers are just from exercise). It also emphasizes the importance of promoting mitochondrial health by cardio, sleep, and supplements, since oxidative stress is the main cause of many processes that AAS cause muscle damage.
 ## Connections
 
 - [[Anabolic Androgenic Steroids]]
