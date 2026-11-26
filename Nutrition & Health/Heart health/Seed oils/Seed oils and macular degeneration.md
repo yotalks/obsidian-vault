@@ -43,4 +43,4 @@ There is also [[Glossary#MR|MR]] data that  looked at the relationship between e
 
 ## Overall
 
-Overall, prospective cohort studies looking at the relationship between LA and AMD show a null association. More robust MR research, however, shows higher plasma LA may protect against AMD. So the evidence points towards increasing seed oil intake maybe having benefits.
+Overall, prospective cohort studies looking at the relationship between LA and AMD show a null association. More robust MR research, however, shows higher plasma LA may protect against AMD. So the evidence points toward increasing seed oil intake maybe having benefits.

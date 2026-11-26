@@ -8,7 +8,9 @@ up: "[[Anabolic Androgenic Steroids]]"
 
 ## Tendons and ligaments
 
-Tendons and ligaments fail to adapt properly to the training stimulus under AAS, so collagen strength lags while muscle force output climbs. 
+→ [[AAS and tendon remodeling]]
+
+Tendons and ligaments fail to adapt properly to the training stimulus under AAS, so collagen strength lags while muscle force output climbs.
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
 → [[Tendon adaptation]]
 
@@ -22,7 +24,7 @@ Muscle and connective tissue get stronger by different mechanisms. Muscle adds m
 
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
 
-AAS act the same direction in both tissues. AAS raise synthesis and suppress breakdown in muscle (↑[[Glossary#MPS|MPS]], ↓[[Glossary#MPB|MPB]]) and in connective tissue (↑collagen synthesis, ↓collagen breakdown). Since muscle adaptation is construction-limited, suppressed breakdown helps. Since tendon adaptation is breakdown-dependent, suppressed breakdown blocks it. 
+AAS act the same direction in both tissues. AAS raise synthesis and suppress breakdown in muscle (↑[[Glossary#MPS|MPS]], ↓[[Glossary#MPB|MPB]]) and in connective tissue (↑collagen synthesis, ↓collagen breakdown). Since muscle adaptation is construction-limited, suppressed breakdown helps. Since tendon adaptation is breakdown-dependent, suppressed breakdown blocks it.
 [Pärssinen 2000](https://pubmed.ncbi.nlm.nih.gov/10961515/)
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
 
@@ -36,7 +38,7 @@ The collagen-synthesis half of that mechanism shows up clearly in wound healing,
 - **Androgen receptor.** Flutamide blocks androgen receptors. Adding it to stanozolol pushed closure out to about 24 days, no different from the ointment base, so the effect is androgen-receptor-mediated rather than some property of the ointment.
 - No differences between male and female rats.
 
-The higher hydroxyproline finding applies to both sexes, with different significance levels across comparisons. The paper reports p < 0.001 across comparisons in males and reports p < 0.01 for several comparisons in females. 
+The higher hydroxyproline finding applies to both sexes, with different significance levels across comparisons. The paper reports p < 0.001 across comparisons in males and reports p < 0.01 for several comparisons in females.
 [Asgharnejad 2025](https://onlinelibrary.wiley.com/doi/10.1155/adpp/6682255)
 
 So more collagen laid down faster is exactly what closes a burn. Tendon stiffening is the opposite case: it needs remodeling, not just deposition, which is why the same androgen signal speeds wound healing and holds tendon adaptation back.
@@ -44,7 +46,7 @@ So more collagen laid down faster is exactly what closes a burn. Tendon stiffeni
 AAS-user tendons under the microscope show disorganization, fibril misalignment, damage, and fibrosis
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
 
-Rupture risk elevation applies to prescription [[Glossary#TRT|TRT]] as well as recreational bodybuilding doses. 
+Rupture risk elevation applies to prescription [[Glossary#TRT|TRT]] as well as recreational bodybuilding doses.
 
 [Kanayama 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5206906/)
 

@@ -11,7 +11,7 @@ up: "[[Animal Ethics MOC]]"
 
 ## What propofol is
 
-Propofol is a commonly used anesthetic agent used for induction and maintenance of general anesthesia as well as sedation, often preferred due its rapid onset and offset. Propofol is slightly soluble in water and thus is forumated in a white, oil-in-water emulsion. In additino to the active component, proposfol, the formulation also contains egg lecithin among other ingredients.
+Propofol is a commonly used anesthetic agent used for induction and maintenance of general anesthesia as well as sedation, often preferred due its rapid onset and offset. Propofol is slightly soluble in water and thus is forumated in a white, oil-in-water emulsion. In addition to the active component, proposfol, the formulation also contains egg lecithin among other ingredients.
 
 Given it contains egg, vegans may want to avoid receiving it during a procedure. While other agents are available for induction, maintenance and sedation, they may not be optimal or even contraindicated depending on the procedure and particulars of the patient.
 

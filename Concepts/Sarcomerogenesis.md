@@ -54,7 +54,7 @@ Given the robust increase in MPS rates, it's not surprising that sarcomere addit
 Sarcomerogenesis appears to be more dependent upon the presence of satellite cells compared to muscle fiber hypertrophy. Depleting satellite cells greatly reduces the number of sarcomeres that can be added after detraining but doesn't similarly affect the number of myofibrils that can be added. The nature of the new sarcomeres as new structures may require more building blocks from the satellite cells than simply adding more myofibrils inside existing structures.
 [Emara 2020 (commentary)](https://pubmed.ncbi.nlm.nih.gov/32118609/)
 
-Titin is the detector of the stimulus as well as its source. Its stiffness is tuned by chaperone binding, oxidation, phosphorylation and calcium binding, and changes in titin-based force can alter signalling inside the cell, so both the production and the sensing of the stimulus happen within the single fiber → [[Fiber-specific muscle growth]].
+Titin is the detector of the stimulus as well as its source. Its stiffness is tuned by chaperone binding, oxidation, phosphorylation and calcium binding, and changes in titin-based force can alter signaling inside the cell, so both the production and the sensing of the stimulus happen within the single fiber → [[Fiber-specific muscle growth]].
 [Freundt 2019](https://pubmed.ncbi.nlm.nih.gov/30521425/)
 
 ## Connections

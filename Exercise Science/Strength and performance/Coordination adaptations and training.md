@@ -48,7 +48,7 @@ Data shows that eccentric contractions create higher level of effort for same am
 
 ## Training techniques
 
-Increasing coordination is needed for improving in all sprots. These improvements can be enhanced with different techniques 
+Increasing coordination is needed for improving in all sports. These improvements can be enhanced with different techniques 
 
 Rapid improvements in strength (which are almost certainly from increases in coordination) are load specific. Increases in coordination that enhance high-velocity strength (as expressed during throwing, jumping, and sprinting) are greater after training with light loads (and max efforts). Improvements in coordination that increase low-velocity strength (as is expressed during powerlifting) are greater after training with heavy loads. So when we want to improve coordination, you should use loads similar to those needed during the task itself.
 [[Coburn 2006]]

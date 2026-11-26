@@ -545,7 +545,7 @@
   {
    "id": "Anabolic Androgenic Steroids",
    "type": "file",
-   "file": "Exercise Science/Supplements and drugs/Anabolic Androgenic Steroids.md",
+   "file": "Exercise Science/Supplements and drugs/Anabolic steroids/Anabolic Androgenic Steroids.md",
    "x": 1740,
    "y": 1165,
    "width": 300,
@@ -915,7 +915,7 @@
   {
    "id": "GLP 1s",
    "type": "file",
-   "file": "Nutrition & Health/Appetite and weight loss/GLP 1s.md",
+   "file": "Nutrition & Health/Appetite and weight loss/GLP-1 drugs/GLP 1s.md",
    "x": 60,
    "y": 3305,
    "width": 300,

@@ -49,7 +49,7 @@ Sarcomerogenesis happens preferentially where fibers lengthen the most during ec
 Both the producer and the detector of that passive tension sit inside the fiber. Passive tension in whole muscle matches the passive tension of single fibers stripped of their surrounding collagen, so it comes from the myofibrils rather than the extracellular matrix → [[Passive tension during static stretching]].
 [Magid 1985](https://pubmed.ncbi.nlm.nih.gov/4071053/)
 
-Titin is the sensor as well as the spring. Its stiffness is tuned by chaperone binding, oxidation, phosphorylation and calcium binding, and altering titin-based force can change signalling inside the cell, which makes it a mechanosensor rather than just a passive elastic element.
+Titin is the sensor as well as the spring. Its stiffness is tuned by chaperone binding, oxidation, phosphorylation and calcium binding, and altering titin-based force can change signaling inside the cell, which makes it a mechanosensor rather than just a passive elastic element.
 [Freundt 2019](https://pubmed.ncbi.nlm.nih.gov/30521425/)
 
 Lengthening a muscle isn't enough by itself. In limb lengthening by distraction, sarcomeres are added in a negative feedback loop responding to stretch, so each sarcomere added shortens resting sarcomere length and reduces the stimulus → [[Beginners vs intermediates]].

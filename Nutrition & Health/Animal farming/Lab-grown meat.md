@@ -14,7 +14,7 @@ up: "[[Nutrition & Health MOC]]"
 
 Lab-grown (cultured or cultivated) meat is meat tissue grown from animal cells in a bioreactor, so it's actual meat rather than a plant-based imitation.
 
-Early methods grew the cells in fetal bovine serum, which is taken from calf fetuses at slaughter. Serum-free media now exist. Researchers at the cultured meat company Mosa Meat developed a chemically defined medium that let cow muscle stem cells mature into muscle fibres without serum. It was as effective as the standard serum-based method and worked for building 3D muscle tissue.
+Early methods grew the cells in fetal bovine serum, which is taken from calf fetuses at slaughter. Serum-free media now exist. Researchers at the cultured meat company Mosa Meat developed a chemically defined medium that let cow muscle stem cells mature into muscle fibers without serum. It was as effective as the standard serum-based method and worked for building 3D muscle tissue.
 [Messmer 2022](https://pubmed.ncbi.nlm.nih.gov/37118488/)
 
 ## Why it matters for animals

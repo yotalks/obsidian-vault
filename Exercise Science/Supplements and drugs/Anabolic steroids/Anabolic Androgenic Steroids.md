@@ -10,7 +10,10 @@ up: "[[Exercise Science MOC]]"
 ## Related notes
 
 - [[AAS chemistry]] — structures, steroid classes and aromatization
-- [[AAS mechanisms and blood testing]] — side-effect mechanisms, biomarkers and oxidative stress
+- [[AAS mechanisms and blood testing]]
+- [[AAS and oxidative stress]]
+- [[AAS and tendon remodeling]]
+- [[AAS and muscle repair]]
 - [[AAS organ and tissue effects]] — tendons, heart and kidneys
 
 ## Muscle
@@ -84,7 +87,7 @@ The trial authors tested a saturating model directly. They compared a linear mod
 
 So 250 mg follows from assuming a low ceiling rather than from a measurement. → [[Evidence hierarchy]]
 
-### Energy intake and recovery 
+### Energy intake and recovery
 
 Higher muscle protein synthesis rates mean damage is repaired faster, which implies AAS users can tolerate higher workout volumes.
 [Zhao 2008](https://pubmed.ncbi.nlm.nih.gov/18436443/)

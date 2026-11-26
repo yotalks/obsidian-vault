@@ -4,7 +4,7 @@ tags:
 up: "[[Anabolic Androgenic Steroids]]"
 ---
 > [!summary] Bottom line
-> AAS differ by steroid skeleton, C17 modifications, aromatization and 5α-reduction.
+> AAS sort into six groups by C17 alkylation and base skeleton. Estrogenic side effects follow from the skeleton, since testosterone-based compounds almost always aromatize, DHT-based ones don't, and estrane-based ones sit in between. Androgenic side effects don't follow from the skeleton at all, but from the modifications that change androgen receptor affinity, which is why Oxandrolone and Oxymetholone behave so differently despite sharing one. How much a given dose aromatizes also depends on the person's fat mass, not just the compound.
 
 AAS are all organic compounds made from multiple carbon, oxygen, and hydrogen atoms. Organic compounds often structure themselves in complex arrangements. One common feature is the formation of carbon rings. These rings are described by the number of carbon atoms that they are formed from. For example, a cyclohexane ring is comprised of 6 carbons and a cyclopentane ring is comprised of 5 carbons. Adjacent rings can fuse together easily by sharing 2 carbon atoms and the bond between them.
 
@@ -14,13 +14,13 @@ Testosterone is made up of 3 cyclohexane rings and 1 cyclopentane ring connected
 [Ruzicka and Wettstein 1935](https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.193501801176)
 ![[Pasted image 20261123115216.png]]
 
-Each of the rings is lettered A-D and each carbon atom in the sterane skeleton is numbered, starting from the first cyclohexane on the left-hand side (C1, C2, C3, C4, C5, and C10), followed by the second cyclohexane (C5-C10), the third cyclohexane (C8, C9, C11-14), and the cyclopentane (C13-17). 
+Each of the rings is lettered A-D and each carbon atom in the sterane skeleton is numbered, starting from the first cyclohexane on the left-hand side (C1, C2, C3, C4, C5, and C10), followed by the second cyclohexane (C5-C10), the third cyclohexane (C8, C9, C11-14), and the cyclopentane (C13-17).
 
 On top of this basic skeleton, there are 4 other key features.
 
 Methyl groups: There are 2 further carbons connected to the sterane nucleus at C10 and C13 within methyl groups (CH3). This means testosterone comprises of 19 carbon atoms. Some testosterone-based steroids only have one methyl group deleted. They are referred to as 19-nor compounds because they were originally C19 steroids but without the C19 carbon due to modification.
 
-Hydroxyl group: Testosterone has a hydroxyl group at C17. Since it points upwards towards you, it's often written C17β (C17α would mean that it pointed away from you). This hydroxyl group enables oxidation to happen more easily in the liver. It also allows a starting point for esterification modifications that chemists like to make to extend the half lives of synthetic AAS.
+Hydroxyl group: Testosterone has a hydroxyl group at C17. Since it points upwards toward you, it's often written C17β (C17α would mean that it pointed away from you). This hydroxyl group enables oxidation to happen more easily in the liver. It also allows a starting point for esterification modifications that chemists like to make to extend the half lives of synthetic AAS.
 
 Ketone: Testosterone has a double bonded oxygen atom with C3 (called a ketone).
 
@@ -47,7 +47,7 @@ But if chemists add a methyl group at C17a (pointing the opposite direction of t
 
 17a-alkylation is another simple process that doesn't impact other modifications. It just makes an AAS orally bioavailable.
 
-But methenolone acetate (Primobolan) and mesterolone (Proviron) both have a methyl group at C1 instead of C17 (1o-methyl) and this allows them to resist the other major liver oxidation route, which is enacted by the 3a-HSD enzyme family. So whether or not a compound is 17a-alylated doesn't tell us perfectly whether it's orally bioavailable.
+But methenolone acetate (Primobolan) and mesterolone (Proviron) both have a methyl group at C1 instead of C17 (1o-methyl) and this allows them to resist the other major liver oxidation route, which is enacted by the 3a-HSD enzyme family. So whether or not a compound is 17a-alkylated doesn't tell us perfectly whether it's orally bioavailable.
 ![[Pasted image 20261123132443.png]]
 
 ## 5a-reduction
@@ -58,7 +58,7 @@ Generally, the easiest way to avoid aromatization is to go through 5a-reduction 
 
 ![[Pasted image 20261123122338.png]]
 
-The structural features that allow 5a-reduction are similar to those needed for aromatiztion. Like aromatization, 5a-reduction needs double bonded carbons on the A-ring at the C4-5 adjacent to the double bonded carbon at C3. And while 5a-reduction doesn't need the methyl group at C19, it's very picky about other features of the steroid like it requires a relatively clear A-ring, especially at C1a and C2a. The presence of any methyl groups sticking off the A-ring in those spots can block 5a-reduction even when they don't block aromatization. Similarly, 5a-reduction also responds pretty poor to the multiple double bonds that trenbolone has across its A-ring, B-ring, and C-ring. The wide extent of that electron delocalization makes the compound far too stable to experience 5a-reduction.
+The structural features that allow 5a-reduction are similar to those needed for aromatization. Like aromatization, 5a-reduction needs double bonded carbons on the A-ring at the C4-5 adjacent to the double bonded carbon at C3. And while 5a-reduction doesn't need the methyl group at C19, it's very picky about other features of the steroid like it requires a relatively clear A-ring, especially at C1a and C2a. The presence of any methyl groups sticking off the A-ring in those spots can block 5a-reduction even when they don't block aromatization. Similarly, 5a-reduction also responds pretty poor to the multiple double bonds that trenbolone has across its A-ring, B-ring, and C-ring. The wide extent of that electron delocalization makes the compound far too stable to experience 5a-reduction.
 [Schänzer 1996 - steroid metabolic pathways](https://pubmed.ncbi.nlm.nih.gov/8674183/)
 [Fragkaki 2009 - structural classes and metabolic pathways](https://pubmed.ncbi.nlm.nih.gov/19429460/)
 
@@ -127,8 +127,8 @@ Now we need to answer the questions of which AAS aromatize, whether they're 5a-r
 🔴 Red — Stronger androgenic effect
 ⚪ White — Insufficient data to classify
 
+Ideally the best AAS has minimal estrogenic side effects and minimal androgenic side effects so we'd want an AAS that doesn't aromatize or display high affinity to the androgen receptors.
 This means either an estrane-based AAS (like Deca-Durabolin and Nilevar) and those DHT-based AAS that have weak affinity to the androgen receptors (Anavar and Winstrol).
-
 ## Body fat and aromatization
 
 How much a given dose aromatizes depends on the person, not only the compound. Aromatase sits in adipose tissue, and most circulating estradiol in men comes from peripheral aromatization of testosterone there.

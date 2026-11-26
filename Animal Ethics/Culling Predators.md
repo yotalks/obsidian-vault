@@ -26,7 +26,7 @@ The magnitude of population control that predators have on prey populations is c
 
 The argument does not seem to empirically be substantiated for ecological destruction.
 
-Even if it were, it's not clear why the same case can't be made towards humans.
+Even if it were, it's not clear why the same case can't be made toward humans.
 
 To extend to ecological concerns, say shooting the xenomorph would lead to humans overpopulating and there's ecological harm because of that, I mean humans are the species that cause the most environmental harm, maybe it'll lead to less resources and humans will suffer more, do we let the xenomorph eat the human alive or do we shoot it?
 

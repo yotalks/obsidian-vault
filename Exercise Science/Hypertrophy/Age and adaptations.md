@@ -28,7 +28,7 @@ Some researchers argue that older people's muscle fibers are less sensitive to t
 
 ## Sarcomerogenesis
 
-In human studies, we see increases in fascicle length during eccentric-only training is slower in old people than young. Which means the rate of [[Sarcomerogenesis|sarcomerogenesis]] is slower. But over 8 weeks of training, the relative increases in fascicle length are not too different between the two, due to the earlier plateau of the younger lifters. This means the capacity of sacromerogenesis is slower, but not removed in older people.
+In human studies, we see increases in fascicle length during eccentric-only training is slower in old people than young. Which means the rate of [[Sarcomerogenesis|sarcomerogenesis]] is slower. But over 8 weeks of training, the relative increases in fascicle length are not too different between the two, due to the earlier plateau of the younger lifters. This means the capacity of sarcomerogenesis is slower, but not removed in older people.
 [Quinlan 2021](https://pubmed.ncbi.nlm.nih.gov/34196903/)
 
 Rodent models though find that the capacity of sarcomerogenesis with eccentric-only training might be entirely lost or at least greatly reduced in old animals compared to young. If sarcomerogenesis is similarly negatively affected by a reduced recovery capacity as hypertrophy, then it's likely that the use of electrically-stimulated eccentric contractions in the animals, which are known to cause a lot more muscle damage than voluntary conditions.
