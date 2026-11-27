@@ -12,8 +12,12 @@ up: "[[Exercise Science MOC]]"
 - [[AAS chemistry]] — structures, steroid classes and aromatization
 - [[AAS mechanisms and blood testing]]
 - [[AAS and oxidative stress]]
+- [[AAS and inflammation]]
+- [[AAS and apoptosis]]
 - [[AAS and tendon remodeling]]
 - [[AAS and muscle repair]]
+- [[Androgen Receptor Over-activation]] — heart, kidney and red blood cells
+- [[Skin, Hair, Fat Androgen Receptors]] — acne, sebum and 5-alpha reductase
 - [[AAS organ and tissue effects]] — tendons, heart and kidneys
 
 ## Muscle
