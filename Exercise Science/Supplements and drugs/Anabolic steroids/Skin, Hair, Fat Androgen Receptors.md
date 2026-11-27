@@ -88,9 +88,7 @@ AAS are stopping the formation of new adipocytes and preventing the storage of l
 
 ### Androgen receptor markers
 
-Androgen receptor markers are in bloodwork if you know where to look
-
-Medical testing practices don't include androgen receptor markers deliberately ([Gibbons et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10962511/)). The focus tends to be on the endocrine system, rather than the more important intracrine system. But everyone does measure hematocrit at least, and this is a good marker for androgen receptor activity. especially after taking blood volume changes into account. And an advanced AAS user can take a PSA panel which is another solid indicator.
+→ [[Androgen Receptor Over-activation#Androgen receptor markers]] — why standard panels don't test for androgen receptor activity, and why hematocrit and PSA are the closest proxies.
 
 ### Practical implications
 

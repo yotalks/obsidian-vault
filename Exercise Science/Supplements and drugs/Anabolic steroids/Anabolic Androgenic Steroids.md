@@ -18,6 +18,7 @@ up: "[[Exercise Science MOC]]"
 - [[AAS and muscle repair]]
 - [[Androgen Receptor Over-activation]] — heart, kidney and red blood cells
 - [[Skin, Hair, Fat Androgen Receptors]] — acne, sebum and 5-alpha reductase
+- [[Endocrine dysfunction]] — HPG axis suppression, testicular volume and sperm count
 - [[AAS organ and tissue effects]] — tendons, heart and kidneys
 
 ## Muscle
