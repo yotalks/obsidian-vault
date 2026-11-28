@@ -97,5 +97,5 @@ Exogenous AAS cause apoptosis (and other cell death mechanisms) through multiple
 - [[AAS and inflammation]] — the TNF-a route from inflammation to apoptosis
 
 **Feeds into**
-- [[AAS organ and tissue effects]] — the organ-level consequences of losing cells that can't be replaced
+- [[Androgen Receptor Over-activation]] — the organ-level consequences of losing cells that can't be replaced
 - [[AAS mechanisms and blood testing]] — why apoptosis has no useful marker on a panel

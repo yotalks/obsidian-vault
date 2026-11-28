@@ -79,7 +79,11 @@ Strength training physiology, laid out in the order the ideas build on each othe
 - [[Anabolic Androgenic Steroids]] — growth signals and tendon effects
   - [[AAS chemistry]] — steroid structures and metabolism
   - [[AAS mechanisms and blood testing]] — mechanisms and monitoring
-  - [[AAS organ and tissue effects]] — tendons, heart and kidneys
+  - [[Androgen Receptor Over-activation]] — heart, kidney and red blood cells
+  - [[Endocrine dysfunction]] — HPG axis, testicular volume and sperm count
+  - [[Aromatization]] — estradiol, gynecomastia and water retention
+  - [[Skin, Hair, Fat Androgen Receptors]] — acne, hair loss and fat loss
+  - [[AAS and tendon remodeling]] — collagen remodeling and rupture risk
 - [[Testosterone and aggression]] — correlations, the supraphysiological trial and genetic evidence
 
 ## 9. Skill, speed and leverage

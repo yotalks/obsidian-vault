@@ -152,4 +152,4 @@ Blocking the enzyme moves both hormones the expected way: aromatase inhibitors i
 
 - [[Anabolic Androgenic Steroids]]
 - [[AAS mechanisms and blood testing]]
-- [[AAS organ and tissue effects]]
+- [[Androgen Receptor Over-activation]]

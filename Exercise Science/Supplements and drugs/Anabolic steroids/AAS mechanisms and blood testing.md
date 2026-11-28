@@ -44,7 +44,7 @@ Aromatization (changes things differently): Aromatizable AAS can be converted in
 
 Hepatotoxicity (direct poisoning of the liver): Oral AAS can't be easily oxidized by the liver, so they sit there, causing toxic effects that can include cholestasis (altered bile acid synthesis and transport). The liver actually has a really good regenerative capacity and other organs are far more worth worrying about (that don't get monitored as much).
 
-Impaired collagen remodeling (stops tendons adapting): → [[AAS organ and tissue effects#Proposed mechanisms|Tendon adaptation mechanism]]
+Impaired collagen remodeling (stops tendons adapting): → [[AAS and tendon remodeling#AAS disrupt tendon remodeling|Tendon adaptation mechanism]]
 
 ## What standard testing measures
 
@@ -242,7 +242,7 @@ Though oxidative stress, inflammation, and apoptosis is pretty much undetectable
 ### Impaired connective tissue remodeling
 
 There are also no current tests as the mechanistic, structural, or functional level that are being used to track this problem.
-→ [[AAS organ and tissue effects#Proposed mechanisms|Tendon adaptation mechanism]]
+→ [[AAS and tendon remodeling#AAS disrupt tendon remodeling|Tendon adaptation mechanism]]
 
 ### Tissue specific androgen receptor activity
 
@@ -265,4 +265,4 @@ Exogenous AAS produce side effects through a range of separate mechanisms, some 
 
 - [[Anabolic Androgenic Steroids]]
 - [[AAS chemistry]]
-- [[AAS organ and tissue effects]]
+- [[Androgen Receptor Over-activation]]
